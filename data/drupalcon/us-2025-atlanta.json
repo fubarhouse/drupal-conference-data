@@ -1,0 +1,2385 @@
+{
+  "event": {
+    "Location": "Atlanta",
+    "Year": "2025",
+    "URL": "https://events.drupal.org/atlanta2025/schedule",
+    "Region": "America",
+    "EndDate": "2025-03-27T00:00:00Z",
+    "StartDate": "2025-03-24T00:00:00Z",
+    "Website": "https://events.drupal.org/atlanta2025",
+    "Venue": "Hyatt Regency Atlanta",
+    "Timezone": ""
+  },
+  "items": [
+    {
+      "startTime": "2025-03-24T07:00:00Z",
+      "endTime": "2025-03-24T19:00:00Z",
+      "duration": "PT12H",
+      "summary": "REGISTRATION",
+      "location": "Location Terrace Foyer (LL1)",
+      "description": "",
+      "link": "https://events.drupal.org//atlanta2025/session/registration",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-24T08:00:00Z",
+      "endTime": "2025-03-24T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "Birds of a Feather - Edgewood Room (Monday)",
+      "location": "Location Edgewood (LL3)",
+      "description": "View the BoF schedule or submit your own: https://events.drupal.org/atlanta2025/bofs/all",
+      "link": "https://events.drupal.org//atlanta2025/session/birds-feather-edgewood-room-monday",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-24T08:00:00Z",
+      "endTime": "2025-03-24T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "Birds of a Feather - Harris Room (Monday)",
+      "location": "Location Harris (LL3)",
+      "description": "View the BoF schedule or submit your own: https://events.drupal.org/atlanta2025/bofs/all",
+      "link": "https://events.drupal.org//atlanta2025/session/birds-feather-harris-room-monday",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-24T08:00:00Z",
+      "endTime": "2025-03-24T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "Birds of a Feather - Lenox Room (Monday)",
+      "location": "Location Lenox (LL3)",
+      "description": "View the BoF schedule or submit your own: https://events.drupal.org/atlanta2025/bofs/all",
+      "link": "https://events.drupal.org//atlanta2025/session/birds-feather-lenox-room-monday",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-24T08:00:00Z",
+      "endTime": "2025-03-24T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "Birds of a Feather - Marietta Room (Monday)",
+      "location": "Location Marietta (LL3)",
+      "description": "View the BoF schedule or submit your own: https://events.drupal.org/atlanta2025/bofs/all",
+      "link": "https://events.drupal.org//atlanta2025/session/birds-feather-marietta-room-monday",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-24T08:00:00Z",
+      "endTime": "2025-03-24T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "General Contribution",
+      "location": "Location Centennial Ballroom I (LL1)",
+      "description": "Generously Sponsored by ThirdAndGrove",
+      "link": "https://events.drupal.org//atlanta2025/session/general-contribution",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-24T08:00:00Z",
+      "endTime": "2025-03-24T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "New Member + Local Drupal Community Meeting Space",
+      "location": "Location Regency VII (LL1)",
+      "description": "Meeting space for organized local camps, associations, or communities with designated ambassadors. Creating a welcoming and functional space for fostering a sense of community and collaboration.",
+      "link": "https://events.drupal.org//atlanta2025/session/new-member-local-drupal-community-meeting-space",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-24T08:00:00Z",
+      "endTime": "2025-03-24T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "Quiet Room",
+      "location": "Location Executive Conference Room 219 - Hotel 2nd Floor",
+      "description": "This room is available for mediation and reflection. It is in Executive Conference Room 219, located on the 2nd Floor of the Hyatt Hotel.",
+      "link": "https://events.drupal.org//atlanta2025/session/quiet-room",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-24T08:30:00Z",
+      "endTime": "2025-03-24T16:00:00Z",
+      "duration": "PT7H30M",
+      "summary": "Community Summit",
+      "location": "Location Regency VI (LL1)",
+      "description": "9am - 9:30am - Welcome John Picozzi, AmyJune Hineline Welcome to the Community Summit we will kick off with an overview of our schedule, important information for the day, and a fun ice breaker to get everyone energized.",
+      "link": "https://events.drupal.org//atlanta2025/session/community-summit",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-24T08:30:00Z",
+      "endTime": "2025-03-24T16:00:00Z",
+      "duration": "PT7H30M",
+      "summary": "Government Summit",
+      "location": "Location Hanover FG (LL2)",
+      "description": "Thank you for joining us for the Government Summit at DrupalCon Atlanta 2025! Here you will find the detailed schedule for the day. Please note schedule details are subject to change, and additional content will be added as it becomes available.",
+      "link": "https://events.drupal.org//atlanta2025/session/government-summit",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-24T08:30:00Z",
+      "endTime": "2025-03-24T16:00:00Z",
+      "duration": "PT7H30M",
+      "summary": "Healthcare Summit",
+      "location": "Location Hanover C (LL2)",
+      "description": "The Healthcare Summit",
+      "link": "https://events.drupal.org//atlanta2025/session/healthcare-summit",
+      "track": "",
+      "speakers": [
+        "michaelemeyers",
+        "thefancywizard",
+        "andywaldrop",
+        "jsegalini@phase2technology.com",
+        "gauravmishra7",
+        "HankVanZile"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-24T08:30:00Z",
+      "endTime": "2025-03-24T16:00:00Z",
+      "duration": "PT7H30M",
+      "summary": "Higher Education Summit",
+      "location": "Location Regency V (LL1)",
+      "description": "9:00 - 9:05 Opening Remarks 9:05 - 9:25 Lightning Talk #1: From Buzzword to Impact: Harnessing AI for Inclusive Innovation by Tina Miller 9:25 - 9:45 Table Breakout #1 : AI",
+      "link": "https://events.drupal.org//atlanta2025/session/higher-education-summit",
+      "track": "",
+      "speakers": [
+        "Tina Miller",
+        "mtullo",
+        "nplowman",
+        "joegraduate",
+        "saburkett",
+        "chazchumley",
+        "drewhodgson",
+        "thiagogomesverissimo",
+        "elaman"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-24T08:30:00Z",
+      "endTime": "2025-03-24T16:00:00Z",
+      "duration": "PT7H30M",
+      "summary": "Non-Profit Summit",
+      "location": "Location Hanover DE (LL2)",
+      "description": "9:00am-9:15am: Welcome Stephen: Welcome and overview 9:30am-11:30am: Fireside Chats - 9:30am: Cristina and Pamela: The Future of DrupalCMS - 10:15am: Emma: User Experience in DrupalCMS - 11:15: Tim Lehnen: Drupal for Nonprofits: nuances to bring back to your org",
+      "link": "https://events.drupal.org//atlanta2025/session/non-profit-summit",
+      "track": "",
+      "speakers": [
+        "jesss",
+        "emasters",
+        "dipakmdhrm",
+        "peaton",
+        "gpbcarl",
+        "AndrewHD",
+        "jhenderson",
+        "joshmiller",
+        "jdleonard",
+        "emma horrell"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-24T09:00:00Z",
+      "endTime": "2025-03-24T16:00:00Z",
+      "duration": "PT7H",
+      "summary": "Drupal Theming with SDC and TailwindCSS with Evolving Web",
+      "location": "Location Dunwoody (LL3)",
+      "description": "Attendance requires a training session ticket purchase ($500).",
+      "link": "https://events.drupal.org//atlanta2025/session/drupal-theming-sdc-and-tailwindcss-evolving-web",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-24T09:00:00Z",
+      "endTime": "2025-03-24T16:00:00Z",
+      "duration": "PT7H",
+      "summary": "DrupalCMS Preview with DrupalEasy",
+      "location": "Location Baker (LL3)",
+      "description": "Attendance requires a training session ticket purchase ($500).",
+      "link": "https://events.drupal.org//atlanta2025/session/drupalcms-preview-drupaleasy",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-24T09:00:00Z",
+      "endTime": "2025-03-24T16:00:00Z",
+      "duration": "PT7H",
+      "summary": "Unlock new possibilities with Advanced Drupal 11+ Module Development \u0026 OOP with Debug Academy",
+      "location": "Location Hanover AB (LL2)",
+      "description": "Attendance requires a training session ticket purchase ($500).",
+      "link": "https://events.drupal.org//atlanta2025/session/unlock-new-possibilities-advanced-drupal-11-module-development-oop-debug",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-24T12:00:00Z",
+      "endTime": "2025-03-24T13:00:00Z",
+      "duration": "PT1H",
+      "summary": "Lunch (for those participating in Summits and Trainings)",
+      "location": "Location Hanover Foyer (LL2)",
+      "description": "",
+      "link": "https://events.drupal.org//atlanta2025/session/lunch-those-participating-summits-and-trainings",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-24T14:00:00Z",
+      "endTime": "2025-03-24T15:00:00Z",
+      "duration": "PT1H",
+      "summary": "Mentor Orientation",
+      "location": "Location Piedmont (LL3)",
+      "description": "There's only one better Drupal-feeling than seeing things you have worked on being committed into Drupal; helping and assisting someone else to do the same! Thursday is mentored contribution day and you can be a key part of it!",
+      "link": "https://events.drupal.org//atlanta2025/session/mentor-orientation",
+      "track": "",
+      "speakers": [
+        "Chris Darke"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-24T16:00:00Z",
+      "endTime": "2025-03-24T19:00:00Z",
+      "duration": "PT3H",
+      "summary": "EXPO HALL OPEN",
+      "location": "Location Grand Hall (LL2)",
+      "description": "",
+      "link": "https://events.drupal.org//atlanta2025/session/expo-hall-open",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-24T16:45:00Z",
+      "endTime": "2025-03-24T17:05:00Z",
+      "duration": "PT20M",
+      "summary": "New Member + Local Drupal Community Meet Up prior to Welcome Reception",
+      "location": "Location Regency VII (LL1)",
+      "description": "Let's get together to break the ice and meet new people before the Welcome Reception.",
+      "link": "https://events.drupal.org//atlanta2025/session/new-member-local-drupal-community-meet-prior-welcome-reception",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-24T17:00:00Z",
+      "endTime": "2025-03-24T19:00:00Z",
+      "duration": "PT2H",
+      "summary": "Welcome Reception",
+      "location": "Location Grand Hall (LL2)",
+      "description": "",
+      "link": "https://events.drupal.org//atlanta2025/session/welcome-reception",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T08:00:00Z",
+      "endTime": "2025-03-25T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "Birds of a Feather - Edgewood Room (Tuesday)",
+      "location": "Location Edgewood (LL3)",
+      "description": "View the BoF schedule or submit your own: https://events.drupal.org/atlanta2025/bofs/all",
+      "link": "https://events.drupal.org//atlanta2025/session/birds-feather-edgewood-room-tuesday",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T08:00:00Z",
+      "endTime": "2025-03-25T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "Birds of a Feather - Harris Room (Tuesday)",
+      "location": "Location Harris (LL3)",
+      "description": "View the BoF schedule or submit your own: https://events.drupal.org/atlanta2025/bofs/all",
+      "link": "https://events.drupal.org//atlanta2025/session/birds-feather-harris-room-tuesday",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T08:00:00Z",
+      "endTime": "2025-03-25T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "Birds of a Feather - Lenox Room (Tuesday)",
+      "location": "Location Lenox (LL3)",
+      "description": "View the BoF schedule or submit your own: https://events.drupal.org/atlanta2025/bofs/all",
+      "link": "https://events.drupal.org//atlanta2025/session/birds-feather-lenox-room-tuesday",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T08:00:00Z",
+      "endTime": "2025-03-25T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "Birds of a Feather - Marietta Room (Tuesday)",
+      "location": "Location Marietta (LL3)",
+      "description": "View the BoF schedule or submit your own: https://events.drupal.org/atlanta2025/bofs/all",
+      "link": "https://events.drupal.org//atlanta2025/session/birds-feather-marietta-room-tuesday",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T08:00:00Z",
+      "endTime": "2025-03-25T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "General Contribution",
+      "location": "Location Centennial Ballroom I (LL1)",
+      "description": "Generously Sponsored by ThirdAndGrove",
+      "link": "https://events.drupal.org//atlanta2025/session/general-contribution-0",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T08:00:00Z",
+      "endTime": "2025-03-25T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "New Member + Local Drupal Community Meeting Space",
+      "location": "Location Regency VII (LL1)",
+      "description": "Meeting space for organized local camps, associations, or communities with designated ambassadors. Creating a welcoming and functional space for fostering a sense of community and collaboration.",
+      "link": "https://events.drupal.org//atlanta2025/session/new-member-local-drupal-community-meeting-space-0",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T08:00:00Z",
+      "endTime": "2025-03-25T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "Quiet Room",
+      "location": "Location Executive Conference Room 219 - Hotel 2nd Floor",
+      "description": "This room is available for mediation and reflection. It is in Executive Conference Room 219, located on the 2nd Floor of the Hyatt Hotel.",
+      "link": "https://events.drupal.org//atlanta2025/session/quiet-room-0",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T08:00:00Z",
+      "endTime": "2025-03-25T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "REGISTRATION",
+      "location": "Location Terrace Foyer (LL1)",
+      "description": "",
+      "link": "https://events.drupal.org//atlanta2025/session/registration-0",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T08:00:00Z",
+      "endTime": "2025-03-25T08:50:00Z",
+      "duration": "PT50M",
+      "summary": "Scholarship Breakfast (invite only)",
+      "location": "Location Greenbriar (LL3)",
+      "description": "",
+      "link": "https://events.drupal.org//atlanta2025/session/scholarship-breakfast-invite-only",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T08:30:00Z",
+      "endTime": "2025-03-25T09:00:00Z",
+      "duration": "PT30M",
+      "summary": "Coffee Break in Expo Hall",
+      "location": "Location Grand Hall (LL2)",
+      "description": "",
+      "link": "https://events.drupal.org//atlanta2025/session/coffee-break-expo-hall",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T09:00:00Z",
+      "endTime": "2025-03-25T09:50:00Z",
+      "duration": "PT50M",
+      "summary": "4 Big Ideas in UX and Content Strategy",
+      "location": "Location Hanover DE (LL2)",
+      "description": "What drives investment in your website? For some organizations, a small group of stakeholders sets the priorities. Others conduct user research, or a new marketing director may shake things up with fresh ideas.",
+      "link": "https://events.drupal.org//atlanta2025/session/4-big-ideas-ux-and-content-strategy",
+      "track": "content \u0026 marketing",
+      "speakers": [
+        "pixelite"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T09:00:00Z",
+      "endTime": "2025-03-25T09:50:00Z",
+      "duration": "PT50M",
+      "summary": "Documentation Initiatives for Starshot and Drupal.org",
+      "location": "Location Hanover AB (LL2)",
+      "description": "High-quality documentation is crucial for Drupal CMS's wider adoption, community growth, and overall success. As part of the Drupal Starshot initiative, we're focusing on improving our documentation and creating a highly curated, best-in class Drupal CMS User Guide among other things.",
+      "link": "https://events.drupal.org//atlanta2025/session/documentation-initiatives-starshot-and-drupalorg",
+      "track": "drupal cms (starshot)",
+      "speakers": [
+        "eojthebrave"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T09:00:00Z",
+      "endTime": "2025-03-25T09:50:00Z",
+      "duration": "PT50M",
+      "summary": "Don't put it all on the homepage!",
+      "location": "Location Dunwoody (LL3)",
+      "description": "So many websites suffer from content bloat, especially the all-important homepage, as they try to meet the needs of a wide-ranging audience (especially internal staff and leadership).",
+      "link": "https://events.drupal.org//atlanta2025/session/dont-put-it-all-homepage",
+      "track": "user experience, accessibility \u0026 design",
+      "speakers": [
+        "minneapolisdan"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T09:00:00Z",
+      "endTime": "2025-03-25T09:50:00Z",
+      "duration": "PT50M",
+      "summary": "First-Time Contributor Workshop",
+      "location": "Location Hanover C (LL2)",
+      "description": "Do you want to contribute but are not sure how? Check out the First Time Contributor Pathway for a list of recommended sessions at DrupalCon Atlanta to help you figure out how to use your particular skills to contribute to the Drupal project!",
+      "link": "https://events.drupal.org//atlanta2025/session/first-time-contributor-workshop-0",
+      "track": "",
+      "speakers": [
+        "mradcliffe"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T09:00:00Z",
+      "endTime": "2025-03-25T09:50:00Z",
+      "duration": "PT50M",
+      "summary": "IXP-Fellowship: Using Contribution Credits to encourage organizations to hire new Drupal talent",
+      "location": "Location Piedmont (LL3)",
+      "description": "The IXP-Fellowship, a Drupal community initiative for onboarding inexperienced developers has its initial goal of using Drupal's contribution credit system as an incentive for Drupal organizations to hire new and inexperienced Drupal developers.",
+      "link": "https://events.drupal.org//atlanta2025/session/ixp-fellowship-using-contribution-credits-encourage-organizations-hire-new",
+      "track": "community health",
+      "speakers": [
+        "ultimike",
+        "Camoa"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T09:00:00Z",
+      "endTime": "2025-03-25T09:50:00Z",
+      "duration": "PT50M",
+      "summary": "Mapping Success: Building Effective Product Roadmaps for Drupal Projects",
+      "location": "Location Courtland (LL3)",
+      "description": "In today’s fast-paced digital landscape, effective product roadmaps are essential for aligning stakeholders, setting priorities, and guiding the successful execution of Drupal projects.",
+      "link": "https://events.drupal.org//atlanta2025/session/mapping-success-building-effective-product-roadmaps-drupal-projects",
+      "track": "leadership, management \u0026 business",
+      "speakers": [
+        "kgreer"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T09:00:00Z",
+      "endTime": "2025-03-25T09:50:00Z",
+      "duration": "PT50M",
+      "summary": "Meet the AI Automators that power everything in Drupal CMS - CKEditor, AI Agents, no code required!",
+      "location": "Location The Learning Center (LL1)",
+      "description": "Meet the AI Automators that power all the AI features you’ve seen in Drupal CMS. They support the content editor experience through CKEditor and other Content widgets, underpin the alt text generation and even help you create your own Agents with no code.",
+      "link": "https://events.drupal.org//atlanta2025/session/meet-ai-automators-power-everything-drupal-cms-ckeditor-ai-agents-no-code",
+      "track": "site building",
+      "speakers": [
+        "marcus_johansson"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T09:00:00Z",
+      "endTime": "2025-03-25T09:50:00Z",
+      "duration": "PT50M",
+      "summary": "Recipes: It's About Time!",
+      "location": "Location Regency V (LL1)",
+      "description": "One of the key elements of the Starshot Initiative is the rapidly evolving system for Recipes.",
+      "link": "https://events.drupal.org//atlanta2025/session/recipes-its-about-time",
+      "track": "drupal cms (starshot)",
+      "speakers": [
+        "mandclu"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T09:00:00Z",
+      "endTime": "2025-03-25T09:50:00Z",
+      "duration": "PT50M",
+      "summary": "Tag! You're it. Digital \"freeze\" tag with GTM.",
+      "location": "Location Baker (LL3)",
+      "description": "In today’s digital landscape, effective tag management is essential for improving website performance and maintaining privacy compliance.",
+      "link": "https://events.drupal.org//atlanta2025/session/tag-youre-it-digital-freeze-tag-gtm",
+      "track": "content \u0026 marketing",
+      "speakers": [
+        "bdanin"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T09:00:00Z",
+      "endTime": "2025-03-25T09:50:00Z",
+      "duration": "PT50M",
+      "summary": "The Future of Drupal Theming: AI, Experience Builder, and Beyond",
+      "location": "Location Hanover FG (LL2)",
+      "description": "Drupal’s theming layer has grown by leaps and bounds over the past several years. We’ve seen new Twig filters, theme generation tools, and the introduction of Single Directory Components.",
+      "link": "https://events.drupal.org//atlanta2025/session/future-drupal-theming-ai-experience-builder-and-beyond",
+      "track": "development \u0026 coding",
+      "speakers": [
+        "mherchel"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T09:30:00Z",
+      "endTime": "2025-03-25T10:20:00Z",
+      "duration": "PT50M",
+      "summary": "Leveraging gitlab CI for contributions",
+      "location": "Location Dunwoody (LL3)",
+      "description": "In the fast-paced world of Drupal development, efficient and reliable workflows are crucial for successful contributions and project management.",
+      "link": "https://events.drupal.org//atlanta2025/session/leveraging-gitlab-ci-contributions",
+      "track": "core contributions",
+      "speakers": [
+        "deepakkm",
+        "ankitv18"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T09:50:00Z",
+      "endTime": "2025-03-25T10:30:00Z",
+      "duration": "PT40M",
+      "summary": "Coffee Break in Expo Hall",
+      "location": "Location Grand Hall (LL2)",
+      "description": "",
+      "link": "https://events.drupal.org//atlanta2025/session/coffee-break-expo-hall-0",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T10:00:00Z",
+      "endTime": "2025-03-25T10:10:00Z",
+      "duration": "PT10M",
+      "summary": "Strategies for Inter-company Developer Communication",
+      "location": "Location Grand Hall (LL2)",
+      "description": "Differing priorities, methodologies, and backgrounds of developers from different companies can occasionally cause friction in communication and collaboration. But with an understanding of common pitfalls and strategies for avoiding them we can work toward better results.",
+      "link": "https://events.drupal.org//atlanta2025/session/strategies-inter-company-developer-communication",
+      "track": "devops",
+      "speakers": [
+        "Dorian Damon"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T10:15:00Z",
+      "endTime": "2025-03-25T10:30:00Z",
+      "duration": "PT15M",
+      "summary": "New Member + Local Drupal Community Meet Up prior to the Keynote",
+      "location": "Location Regency VII (LL1)",
+      "description": "Let's get together to break the ice and meet new people before the Keynote.",
+      "link": "https://events.drupal.org//atlanta2025/session/new-member-local-drupal-community-meet-prior-keynote",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T10:15:00Z",
+      "endTime": "2025-03-25T10:25:00Z",
+      "duration": "PT10M",
+      "summary": "Quick-Start CI/CD Pipelines for Drupal on Acquia, Pantheon, Platform.sh, or Any Other Hosting",
+      "location": "Location Grand Hall (LL2)",
+      "description": "Are you looking for a fast and reliable way to automate Drupal deployments across various hosting platforms?",
+      "link": "https://events.drupal.org//atlanta2025/session/quick-start-cicd-pipelines-drupal-acquia-pantheon-platformsh-or-any-other",
+      "track": "devops",
+      "speakers": [
+        "chandans1316"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T10:30:00Z",
+      "endTime": "2025-03-25T10:45:00Z",
+      "duration": "PT15M",
+      "summary": "KEYNOTE: Welcome \u0026 Aaron Winborn Award",
+      "location": "Location Centennial Ballroom II-IV (LL1)",
+      "description": "",
+      "link": "https://events.drupal.org//atlanta2025/session/keynote-welcome-aaron-winborn-award",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T10:45:00Z",
+      "endTime": "2025-03-25T12:00:00Z",
+      "duration": "PT1H15M",
+      "summary": "KEYNOTE: Driesnote",
+      "location": "Location Centennial Ballroom II-IV (LL1)",
+      "description": "",
+      "link": "https://events.drupal.org//atlanta2025/session/keynote-driesnote",
+      "track": "",
+      "speakers": [
+        "Dries"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T11:00:00Z",
+      "endTime": "2025-03-25T11:50:00Z",
+      "duration": "PT50M",
+      "summary": "Black in Drupal: Finding Community within Community",
+      "location": "Location Piedmont (LL3)",
+      "description": "The panel titled \"Black in Drupal: Finding Community within Community\" aims to shed light on the unique experiences and challenges faced by individuals from underrepresented backgrounds within the Drupal community.",
+      "link": "https://events.drupal.org//atlanta2025/session/black-drupal-finding-community-within-community",
+      "track": "community health",
+      "speakers": [
+        "ptkoroma"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T12:00:00Z",
+      "endTime": "2025-03-25T12:15:00Z",
+      "duration": "PT15M",
+      "summary": "DrupalCon Group Photo",
+      "location": "Location Centennial Ballroom I (LL1)",
+      "description": "",
+      "link": "https://events.drupal.org//atlanta2025/session/drupalcon-group-photo",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T12:15:00Z",
+      "endTime": "2025-03-25T13:15:00Z",
+      "duration": "PT1H",
+      "summary": "Black in Drupal Lunch (guests must pre-register)",
+      "location": "Location Hanover DE (LL2)",
+      "description": "The Black in Drupal Roundtable at DrupalCon will serve as a forum to exchange ideas and information relevant to the experiences of being black in Drupal.",
+      "link": "https://events.drupal.org//atlanta2025/session/black-drupal-lunch-guests-must-pre-register",
+      "track": "",
+      "speakers": [
+        "joigarrett",
+        "jasmyneepps"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T12:15:00Z",
+      "endTime": "2025-03-25T13:30:00Z",
+      "duration": "PT1H15M",
+      "summary": "Lunch \u0026 Expo Hall",
+      "location": "Location Grand Hall (LL2)",
+      "description": "",
+      "link": "https://events.drupal.org//atlanta2025/session/lunch-expo-hall",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T12:30:00Z",
+      "endTime": "2025-03-25T12:40:00Z",
+      "duration": "PT10M",
+      "summary": "The Marketeers Survival Guide to Drupal CMS, AI, and the End of Days",
+      "location": "Location Grand Hall (LL2)",
+      "description": "How will the new Drupal CMS increase opportunities to strengthen messaging across your organization and its audiences and what pitfalls will you have to avoid to realize their potential?",
+      "link": "https://events.drupal.org//atlanta2025/session/marketeers-survival-guide-drupal-cms-ai-and-end-days",
+      "track": "leadership, management \u0026 business",
+      "speakers": [
+        "rgs"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T12:45:00Z",
+      "endTime": "2025-03-25T12:55:00Z",
+      "duration": "PT10M",
+      "summary": "Express Checkout in Drupal Commerce",
+      "location": "Location Grand Hall (LL2)",
+      "description": "Drupal Commerce features a multi-step checkout flow out of the box that stores can configure as needed. However, reducing it to a single page experience is difficult due to the data requirements of certain checkout panes.",
+      "link": "https://events.drupal.org//atlanta2025/session/express-checkout-drupal-commerce",
+      "track": "site building",
+      "speakers": [
+        "rszrama"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T13:00:00Z",
+      "endTime": "2025-03-25T13:10:00Z",
+      "duration": "PT10M",
+      "summary": "CKEditor 5 in Drupal 10: Unlocking Content Editor Productivity with the CKEditor 5 Plugin Pack",
+      "location": "Location Grand Hall (LL2)",
+      "description": "Discover how the CKEditor 5 Plugin Pack enhances the content editing experience in Drupal 10, streamlining workflows, improving formatting, and ensuring accessibility—all while providing premium features for free.",
+      "link": "https://events.drupal.org//atlanta2025/session/ckeditor-5-drupal-10-unlocking-content-editor-productivity-ckeditor-5-plugin",
+      "track": "content \u0026 marketing",
+      "speakers": [
+        "charles-gantt"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T13:15:00Z",
+      "endTime": "2025-03-25T13:25:00Z",
+      "duration": "PT10M",
+      "summary": "Sovereign AI in production : Ensuring Privacy, Control, and Innovation (real world case)",
+      "location": "Location Grand Hall (LL2)",
+      "description": "In this lightning talk, we'll explore how the Dropsolid empowers organisations to adopt a Sovereign AI approach, ensuring data privacy and control while enabling innovation.",
+      "link": "https://events.drupal.org//atlanta2025/session/sovereign-ai-production-ensuring-privacy-control-and-innovation-real-world-case",
+      "track": "success stories",
+      "speakers": [
+        "wouters_f"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T13:30:00Z",
+      "endTime": "2025-03-25T14:20:00Z",
+      "duration": "PT50M",
+      "summary": "AI is the new UI - how we are building AI into Drupal CMS",
+      "location": "Location Regency VI (LL1)",
+      "description": "AI Agents have come to Drupal CMS!",
+      "link": "https://events.drupal.org//atlanta2025/session/ai-new-ui-how-we-are-building-ai-drupal-cms",
+      "track": "drupal cms (starshot)",
+      "speakers": [
+        "Yautja_cetanu"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T13:30:00Z",
+      "endTime": "2025-03-25T14:20:00Z",
+      "duration": "PT50M",
+      "summary": "Community Working Group Roundtable",
+      "location": "Location Hanover FG (LL2)",
+      "description": "The Drupal Community Working Group are volunteers whose goal is to foster a friendly and welcoming environment for all who participate in the Drupal Project.",
+      "link": "https://events.drupal.org//atlanta2025/session/community-working-group-roundtable",
+      "track": "community health",
+      "speakers": [
+        "markie",
+        "volkswagenchick",
+        "weekbeforenext",
+        "newtoid"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T13:30:00Z",
+      "endTime": "2025-03-25T14:20:00Z",
+      "duration": "PT50M",
+      "summary": "Creating Composer aware modules with Drupal core's new Package Manager module",
+      "location": "Location The Learning Center (LL1)",
+      "description": "Package Manager, a new experimental module in Drupal Core, provides an API for interacting with Composer, which has been powering the Automatic Updates and Project Browser contrib modules for years.",
+      "link": "https://events.drupal.org//atlanta2025/session/creating-composer-aware-modules-drupal-cores-new-package-manager-module",
+      "track": "development \u0026 coding",
+      "speakers": [
+        "tedbow"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T13:30:00Z",
+      "endTime": "2025-03-25T14:20:00Z",
+      "duration": "PT50M",
+      "summary": "Design systems, the Drupal way",
+      "location": "Location Courtland (LL3)",
+      "description": "Design systems are a great way to streamline the web development process and ensure consistency across different applications by documenting shareable UI artefacts. However, implementing a design system in a Drupal theme is challenging.",
+      "link": "https://events.drupal.org//atlanta2025/session/design-systems-drupal-way",
+      "track": "site building",
+      "speakers": [
+        "pdureau"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T13:30:00Z",
+      "endTime": "2025-03-25T14:20:00Z",
+      "duration": "PT50M",
+      "summary": "From Data to Insight: Crafting Custom GA4 Reports in Looker Studio for Website Success",
+      "location": "Location Baker (LL3)",
+      "description": "In this hands-on workshop, you will be introduced to Looker Studio (formerly Google Data Studio), a powerful data visualization tool for building customizable, dynamic reports from Google Analytics 4 (GA4) and a wide range of other data sources.",
+      "link": "https://events.drupal.org//atlanta2025/session/data-insight-crafting-custom-ga4-reports-looker-studio-website-success",
+      "track": "content \u0026 marketing",
+      "speakers": [
+        "cpanice",
+        "nmeshes"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T13:30:00Z",
+      "endTime": "2025-03-25T14:20:00Z",
+      "duration": "PT50M",
+      "summary": "Mentor Orientation",
+      "location": "Location Piedmont (LL3)",
+      "description": "There's only one better Drupal-feeling than seeing things you have worked on being committed into Drupal; helping and assisting someone else to do the same! Thursday is mentored contribution day and you can be a key part of it!",
+      "link": "https://events.drupal.org//atlanta2025/session/mentor-orientation-0",
+      "track": "",
+      "speakers": [
+        "Chris Darke"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T13:30:00Z",
+      "endTime": "2025-03-25T14:20:00Z",
+      "duration": "PT50M",
+      "summary": "No need to over-React! Navigating Experience Builder as a developer",
+      "location": "Location Regency V (LL1)",
+      "description": "Experience Builder (XB) will not only enable site builders to theme and build their entire website in the browser, it will also unlock content creation with unprecedented UX in Drupal.",
+      "link": "https://events.drupal.org//atlanta2025/session/no-need-over-react-navigating-experience-builder-developer",
+      "track": "drupal cms (starshot)",
+      "speakers": [
+        "balintbrews"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T13:30:00Z",
+      "endTime": "2025-03-25T14:20:00Z",
+      "duration": "PT50M",
+      "summary": "Security Team Panel",
+      "location": "Location Hanover DE (LL2)",
+      "description": "The security team will present topics from their work promoting a more secure Drupal project. The team will also talk about how they recruit new members, refinements to their procedures, and what you can do to support Drupal security.",
+      "link": "https://events.drupal.org//atlanta2025/session/security-team-panel",
+      "track": "",
+      "speakers": [
+        "mlhess",
+        "greggles"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T13:30:00Z",
+      "endTime": "2025-03-25T14:20:00Z",
+      "duration": "PT50M",
+      "summary": "The Unspoken Algorithm: Neurodivergence, Identity, and Turning Exclusion into Inclusion",
+      "location": "Location Hanover AB (LL2)",
+      "description": "In the fast-paced world of tech entrepreneurship, we often celebrate the visible markers of success while overlooking the complex algorithms that drive innovation: our diverse minds and experiences.",
+      "link": "https://events.drupal.org//atlanta2025/session/unspoken-algorithm-neurodivergence-identity-and-turning-exclusion-inclusion",
+      "track": "leadership, management \u0026 business",
+      "speakers": [
+        "Veronica Shelton"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T13:30:00Z",
+      "endTime": "2025-03-25T14:20:00Z",
+      "duration": "PT50M",
+      "summary": "Unlocking Enterprise Agility: A Deep Dive into Governance and Multi-Experience Operations",
+      "location": "Location Hanover C (LL2)",
+      "description": "Discover how Multi-Experience Operations (MEO) is set to revolutionize the way enterprises govern and scale digital experiences.",
+      "link": "https://events.drupal.org//atlanta2025/session/unlocking-enterprise-agility-deep-dive-governance-and-multi-experience",
+      "track": "devops",
+      "speakers": [
+        "Phil Bretherton"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T14:20:00Z",
+      "endTime": "2025-03-25T15:00:00Z",
+      "duration": "PT40M",
+      "summary": "Coffee Break in Expo Hall",
+      "location": "Location Grand Hall (LL2)",
+      "description": "",
+      "link": "https://events.drupal.org//atlanta2025/session/coffee-break-expo-hall-1",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T15:00:00Z",
+      "endTime": "2025-03-25T15:50:00Z",
+      "duration": "PT50M",
+      "summary": "\"Survey Says!\" — User Experience Research for Digital Platforms",
+      "location": "Location Dunwoody (LL3)",
+      "description": "During this session we'll dive into common UX Research activities and best practices when it comes to developing and executing research plans including Identifying \u0026 Recruiting Participants, 1:1 Interviews, A/B Testing, Behavioral Analytics, Card Sorting, Competitive Analysis, Heuristic Analy",
+      "link": "https://events.drupal.org//atlanta2025/session/survey-says-user-experience-research-digital-platforms",
+      "track": "user experience, accessibility \u0026 design",
+      "speakers": [
+        "matthewdichter"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T15:00:00Z",
+      "endTime": "2025-03-25T15:50:00Z",
+      "duration": "PT50M",
+      "summary": "AI with Drupal - Using LLM technology is easy, but how do you actually build useful applications?",
+      "location": "Location Hanover C (LL2)",
+      "description": "Using AI tools like ChatGPT from OpenAI is easy, and many already have experience with it. Common uses like creating or re-writing text are well integrated with Drupal.",
+      "link": "https://events.drupal.org//atlanta2025/session/ai-drupal-using-llm-technology-easy-how-do-you-actually-build-useful",
+      "track": "leadership, management \u0026 business",
+      "speakers": [
+        "breidert"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T15:00:00Z",
+      "endTime": "2025-03-25T15:50:00Z",
+      "duration": "PT50M",
+      "summary": "Digital Debris: Strategies for the Life and Death of PDFs",
+      "location": "Location Hanover AB (LL2)",
+      "description": "Our websites are full of PDFs meant to engage with audiences and customers, or to help provide services for government and public agencies, yet most organizations do not have a formal strategy for how their PDFs are created or distributed, or know what happens after they are published.",
+      "link": "https://events.drupal.org//atlanta2025/session/digital-debris-strategies-life-and-death-pdfs",
+      "track": "content \u0026 marketing",
+      "speakers": [
+        "davecameron"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T15:00:00Z",
+      "endTime": "2025-03-25T15:50:00Z",
+      "duration": "PT50M",
+      "summary": "Drupal Association Public Board Meeting",
+      "location": "Location Centennial Ballroom II-IV (LL1)",
+      "description": "Join us for a public board meeting of the Drupal Association. Board members will talk about future programs, conduct regular business to support the Drupal Association's non-profit operations, and and answer community questions.",
+      "link": "https://events.drupal.org//atlanta2025/session/drupal-association-public-board-meeting",
+      "track": "community health",
+      "speakers": [
+        "Tim D",
+        "Dries"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T15:00:00Z",
+      "endTime": "2025-03-25T15:50:00Z",
+      "duration": "PT50M",
+      "summary": "Drupal Next-Gen Navigation: Enhanced Admin UI and better UX",
+      "location": "Location The Learning Center (LL1)",
+      "description": "Drupal’s administration UI is undergoing a significant transformation with the new Navigation and Top Bar. This change is set to deliver a more intuitive experience, offering enhanced usability that goes beyond simple navigation. Reshaping the entire layout of the admin interface.",
+      "link": "https://events.drupal.org//atlanta2025/session/drupal-next-gen-navigation-enhanced-admin-ui-and-better-ux",
+      "track": "drupal cms (starshot)",
+      "speakers": [
+        "ckrina",
+        "plopesc"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T15:00:00Z",
+      "endTime": "2025-03-25T15:50:00Z",
+      "duration": "PT50M",
+      "summary": "Drupal Recipes Initiative Update",
+      "location": "Location Courtland (LL3)",
+      "description": "The Recipes APIs were added to Drupal core in version 10.3 as experimental and laid the foundation for the Drupal CMS project. Since then, we have been adding and improving the code base, and learning new things along the way.",
+      "link": "https://events.drupal.org//atlanta2025/session/drupal-recipes-initiative-update",
+      "track": "core contributions",
+      "speakers": [
+        "thejimbirch"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T15:00:00Z",
+      "endTime": "2025-03-25T15:50:00Z",
+      "duration": "PT50M",
+      "summary": "Drupal Workspaces: Revolutionizing Content Staging and Workflows",
+      "location": "Location Regency VI (LL1)",
+      "description": "Discover how the Drupal Workspace module can transform the way you manage content staging and workflows.",
+      "link": "https://events.drupal.org//atlanta2025/session/drupal-workspaces-revolutionizing-content-staging-and-workflows",
+      "track": "content \u0026 marketing",
+      "speakers": [
+        "MattDanger"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T15:00:00Z",
+      "endTime": "2025-03-25T15:50:00Z",
+      "duration": "PT50M",
+      "summary": "Experience Builder is coming. Are you ready?",
+      "location": "Location Regency V (LL1)",
+      "description": "Join us to hear the latest news on the Experience Builder initiative from the initiative leaders.",
+      "link": "https://events.drupal.org//atlanta2025/session/experience-builder-coming-are-you-ready",
+      "track": "drupal cms (starshot)",
+      "speakers": [
+        "lauriii"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T15:00:00Z",
+      "endTime": "2025-03-25T15:50:00Z",
+      "duration": "PT50M",
+      "summary": "Mentoring Triage Issues",
+      "location": "Location Fairlie (LL3)",
+      "description": "Thursday is mentored contribution day and you can be a key part of it! The mentored contribution days are one of the most amazing parts of big Drupal events - so many people working together to make Drupal even more wonderful.",
+      "link": "https://events.drupal.org//atlanta2025/session/mentoring-triage-issues",
+      "track": "",
+      "speakers": [
+        "Matthew Radcliffe"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T15:00:00Z",
+      "endTime": "2025-03-25T15:50:00Z",
+      "duration": "PT50M",
+      "summary": "Mixing the Schema.org Blueprints module into a Drupal Recipe to bake a sweet content model",
+      "location": "Location Hanover DE (LL2)",
+      "description": "The Schema.org Blueprints module provides a new way to build a standardized and structured content architecture in Drupal. A Drupal Recipe is a new way to predefine and package configurations that add features to a new or existing Drupal implementation.",
+      "link": "https://events.drupal.org//atlanta2025/session/mixing-schemaorg-blueprints-module-drupal-recipe-bake-sweet-content-model",
+      "track": "site building",
+      "speakers": [
+        "jrockowitz"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T15:00:00Z",
+      "endTime": "2025-03-25T15:50:00Z",
+      "duration": "PT50M",
+      "summary": "Using Your Superpowers to Lead in a Male-Dominated Industry",
+      "location": "Location Hanover FG (LL2)",
+      "description": "Join us for an engaging discussion that delves into the challenges and opportunities of stepping into leadership roles within a male-dominated industry. We will focus on gender expectations and how we have navigated our own various paths to leadership.",
+      "link": "https://events.drupal.org//atlanta2025/session/using-your-superpowers-lead-male-dominated-industry",
+      "track": "leadership, management \u0026 business",
+      "speakers": [
+        "shaortiz728",
+        "tgjacobs",
+        "elia.milan",
+        "nJim"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T15:00:00Z",
+      "endTime": "2025-03-25T15:50:00Z",
+      "duration": "PT50M",
+      "summary": "Working with the AI Agents in Drupal CMS - Create your own agents and AI powered migration",
+      "location": "Location Baker (LL3)",
+      "description": "You’ve seen what AI Agents can do in Drupal CMS. You kept imagining all the other things agents could do. What if you could create your own Agents? What if this were so easy every module across the Drupal ecosystem could have their own agents and they all worked together in harmony?",
+      "link": "https://events.drupal.org//atlanta2025/session/working-ai-agents-drupal-cms-create-your-own-agents-and-ai-powered-migration",
+      "track": "development \u0026 coding",
+      "speakers": [
+        "https://www.drupal.org/u/vincenzo-gambino"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T15:50:00Z",
+      "endTime": "2025-03-25T16:10:00Z",
+      "duration": "PT20M",
+      "summary": "EXPO HALL NETWORKING",
+      "location": "Location Grand Hall (LL2)",
+      "description": "",
+      "link": "https://events.drupal.org//atlanta2025/session/expo-hall-networking",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T16:10:00Z",
+      "endTime": "2025-03-25T17:00:00Z",
+      "duration": "PT50M",
+      "summary": "Accessible Slideshows - Button, button, who's got the button?",
+      "location": "Location Hanover AB (LL2)",
+      "description": "Arguably, the first rule of slideshows is not to have slideshows, but what do you do when the primary product owner insists?",
+      "link": "https://events.drupal.org//atlanta2025/session/accessible-slideshows-button-button-whos-got-button",
+      "track": "user experience, accessibility \u0026 design",
+      "speakers": [
+        "volkswagenchick"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T16:10:00Z",
+      "endTime": "2025-03-25T17:00:00Z",
+      "duration": "PT50M",
+      "summary": "AI Won’t Steal Your Job—But It Will Make You (and Your Clients) Unstoppable",
+      "location": "Location Hanover DE (LL2)",
+      "description": "AI isn’t here to replace developers—it’s here to eliminate bottlenecks, crush inefficiencies, and make your agency more valuable than ever.",
+      "link": "https://events.drupal.org//atlanta2025/session/ai-wont-steal-your-job-it-will-make-you-and-your-clients-unstoppable",
+      "track": "success stories",
+      "speakers": [
+        "Fabianx"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T16:10:00Z",
+      "endTime": "2025-03-25T17:00:00Z",
+      "duration": "PT50M",
+      "summary": "Behind the Build: How We're Creating Drupal’s New Default Design System",
+      "location": "Location Regency VI (LL1)",
+      "description": "Get a behind-the-scenes look into the creation of the new default design system for DrupalCMS.",
+      "link": "https://events.drupal.org//atlanta2025/session/behind-build-how-were-creating-drupals-new-default-design-system",
+      "track": "drupal cms (starshot)",
+      "speakers": [
+        "elliottmower",
+        "galactus86"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T16:10:00Z",
+      "endTime": "2025-03-25T17:00:00Z",
+      "duration": "PT50M",
+      "summary": "Building A Better Authoring Experience",
+      "location": "Location Regency V (LL1)",
+      "description": "The authors who enter content into our websites are a crucial part of our ecosystem who have often taken a back seat to other needs like splashy designs or improvements for developers.",
+      "link": "https://events.drupal.org//atlanta2025/session/building-better-authoring-experience",
+      "track": "site building",
+      "speakers": [
+        "gdd"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T16:10:00Z",
+      "endTime": "2025-03-25T17:00:00Z",
+      "duration": "PT50M",
+      "summary": "Building High-Performance Search Experiences with Solr and Drupal",
+      "location": "Location The Learning Center (LL1)",
+      "description": "Are you tired of slow and clunky search experiences on your Drupal site? Join this hands-on workshop to learn how to supercharge your search capabilities with Solr.",
+      "link": "https://events.drupal.org//atlanta2025/session/building-high-performance-search-experiences-solr-and-drupal",
+      "track": "development \u0026 coding",
+      "speakers": [
+        "enaznin"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T16:10:00Z",
+      "endTime": "2025-03-25T17:00:00Z",
+      "duration": "PT50M",
+      "summary": "Container-less Dev environments for Drupal development with Nix",
+      "location": "Location Courtland (LL3)",
+      "description": "DDev, Lando, and DrupalPod are all great ways to get a local development instance up and running, but they carry some overhead: they are all built on containers.",
+      "link": "https://events.drupal.org//atlanta2025/session/container-less-dev-environments-drupal-development-nix",
+      "track": "devops",
+      "speakers": [
+        "freelock"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T16:10:00Z",
+      "endTime": "2025-03-25T17:00:00Z",
+      "duration": "PT50M",
+      "summary": "Drupal CMS: The Exciting Parts",
+      "location": "Location Centennial Ballroom II-IV (LL1)",
+      "description": "Part panel discussion, part game show, this session will feature Drupal experts debating which parts of Drupal CMS' are the one to be most excited about.",
+      "link": "https://events.drupal.org//atlanta2025/session/drupal-cms-exciting-parts",
+      "track": "drupal cms (starshot)",
+      "speakers": [
+        "stevector"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T16:10:00Z",
+      "endTime": "2025-03-25T17:00:00Z",
+      "duration": "PT50M",
+      "summary": "If you Give a Member Platform a Cookie: Lessons Learned Creating a Drupal Product for Member Orgs",
+      "location": "Location Hanover C (LL2)",
+      "description": "Membership organizations include clubs (running, French, or photography), professional associations (accounting or medical), civic groups (neighborhood, homeowners, or parent teacher associations), service clubs (Lions or Rotary), and many other nonprofits.",
+      "link": "https://events.drupal.org//atlanta2025/session/if-you-give-member-platform-cookie-lessons-learned-creating-drupal-product",
+      "track": "success stories",
+      "speakers": [
+        "jdleonard"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T16:10:00Z",
+      "endTime": "2025-03-25T17:00:00Z",
+      "duration": "PT50M",
+      "summary": "Navigating Migration Challenges and Streamlining Content for Site Consolidation Projects",
+      "location": "Location Dunwoody (LL3)",
+      "description": "As organizations increasingly adopt site consolidation strategies to unify their brands and enhance their digital presence, content migration becomes a pivotal challenge.",
+      "link": "https://events.drupal.org//atlanta2025/session/navigating-migration-challenges-and-streamlining-content-site-consolidation",
+      "track": "content \u0026 marketing",
+      "speakers": [
+        "mandee_englert",
+        "dbarthelemy"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T16:10:00Z",
+      "endTime": "2025-03-25T17:00:00Z",
+      "duration": "PT50M",
+      "summary": "Ripple Makers Roundtable",
+      "location": "Location Piedmont (LL3)",
+      "description": "Ripple Makers (Drupal Association Members) are invited to join us for a round table to chat with their fellow members and DA staff about the future of the program, the mission of the Drupal Association, and how they would like to see the Drupal Association evolve.",
+      "link": "https://events.drupal.org//atlanta2025/session/ripple-makers-roundtable",
+      "track": "",
+      "speakers": [
+        "Tim D"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T16:10:00Z",
+      "endTime": "2025-03-25T17:00:00Z",
+      "duration": "PT50M",
+      "summary": "Shaping the Future of Drupal: How Design Thinking + Collaboration is driving Experience Builder",
+      "location": "Location Hanover FG (LL2)",
+      "description": "The new Drupal Experience Builder is being shaped by a design thinking approach that emphasizes collaboration, iteration, and user-centered solutions.",
+      "link": "https://events.drupal.org//atlanta2025/session/shaping-future-drupal-how-design-thinking-collaboration-driving-experience",
+      "track": "drupal cms (starshot)",
+      "speakers": [
+        "bostonjillian",
+        "reneelund"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-25T16:10:00Z",
+      "endTime": "2025-03-25T17:00:00Z",
+      "duration": "PT50M",
+      "summary": "Working with Layout Paragraphs: an Easy-to-Use, Drag-and-Drop Content Editing module for Drupal",
+      "location": "Location Baker (LL3)",
+      "description": "Layout Paragraphs is a widely used, contributed Drupal module that combines drag-and-drop editing, Drupal core's layout API, and the Paragraphs module to provide an accessible, easy-to-use authoring experience for building pages in Drupal.",
+      "link": "https://events.drupal.org//atlanta2025/session/working-layout-paragraphs-easy-use-drag-and-drop-content-editing-module-drupal",
+      "track": "content \u0026 marketing",
+      "speakers": [
+        "justin2pin"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T05:00:00Z",
+      "endTime": "2025-03-26T05:50:00Z",
+      "duration": "PT50M",
+      "summary": "Mind Over Metrics: Behavioral Economics for Smarter Content Strategy 🧠",
+      "location": "Location Baker (LL3)",
+      "description": "Are you tired of content strategies that feel more like guessing games than science? Behavioral economics may hold the key to why some messages inspire action, while others fade away.",
+      "link": "https://events.drupal.org//atlanta2025/session/mind-over-metrics-behavioral-economics-smarter-content-strategy",
+      "track": "content \u0026 marketing",
+      "speakers": [
+        "amyshropshire"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T08:00:00Z",
+      "endTime": "2025-03-26T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "Birds of a Feather - Edgewood Room (Wednesday)",
+      "location": "Location Edgewood (LL3)",
+      "description": "View the BoF schedule or submit your own: https://events.drupal.org/atlanta2025/bofs/all",
+      "link": "https://events.drupal.org//atlanta2025/session/birds-feather-edgewood-room-wednesday",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T08:00:00Z",
+      "endTime": "2025-03-26T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "Birds of a Feather - Harris Room (Wednesday)",
+      "location": "Location Harris (LL3)",
+      "description": "View the BoF schedule or submit your own: https://events.drupal.org/atlanta2025/bofs/all",
+      "link": "https://events.drupal.org//atlanta2025/session/birds-feather-harris-room-wednesday",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T08:00:00Z",
+      "endTime": "2025-03-26T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "Birds of a Feather - Lenox Room (Wednesday)",
+      "location": "Location Lenox (LL3)",
+      "description": "View the BoF schedule or submit your own: https://events.drupal.org/atlanta2025/bofs/all",
+      "link": "https://events.drupal.org//atlanta2025/session/birds-feather-lenox-room-wednesday",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T08:00:00Z",
+      "endTime": "2025-03-26T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "Birds of a Feather - Marietta Room (Wednesday)",
+      "location": "Location Marietta (LL3)",
+      "description": "View the BoF schedule or submit your own: https://events.drupal.org/atlanta2025/bofs/all",
+      "link": "https://events.drupal.org//atlanta2025/session/birds-feather-marietta-room-wednesday",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T08:00:00Z",
+      "endTime": "2025-03-26T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "General Contribution",
+      "location": "Location Centennial Ballroom I (LL1)",
+      "description": "Generously Sponsored by ThirdAndGrove",
+      "link": "https://events.drupal.org//atlanta2025/session/general-contribution-1",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T08:00:00Z",
+      "endTime": "2025-03-26T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "New Member + Local Drupal Community Meeting Space",
+      "location": "Location Regency VII (LL1)",
+      "description": "Meeting space for organized local camps, associations, or communities with designated ambassadors. Creating a welcoming and functional space for fostering a sense of community and collaboration.",
+      "link": "https://events.drupal.org//atlanta2025/session/new-member-local-drupal-community-meeting-space-1",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T08:00:00Z",
+      "endTime": "2025-03-26T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "Quiet Room",
+      "location": "Location Executive Conference Room 219 - Hotel 2nd Floor",
+      "description": "This room is available for mediation and reflection. It is in Executive Conference Room 219, located on the 2nd Floor of the Hyatt Hotel.",
+      "link": "https://events.drupal.org//atlanta2025/session/quiet-room-1",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T08:00:00Z",
+      "endTime": "2025-03-26T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "REGISTRATION",
+      "location": "Location Terrace Foyer (LL1)",
+      "description": "",
+      "link": "https://events.drupal.org//atlanta2025/session/registration-1",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T08:00:00Z",
+      "endTime": "2025-03-26T08:50:00Z",
+      "duration": "PT50M",
+      "summary": "Ripple Makers Breakfast (members only) (guest must pre-register)",
+      "location": "Location Regency VI (LL1)",
+      "description": "A breakfast event for Ripple Makers (formerly known as Drupal Association members). We want to welcome and thank you for your support of the Drupal Association, and also hear what is important to you.",
+      "link": "https://events.drupal.org//atlanta2025/session/ripple-makers-breakfast-members-only-guest-must-pre-register",
+      "track": "",
+      "speakers": [
+        "Tim D",
+        "joigarrett"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T08:30:00Z",
+      "endTime": "2025-03-26T09:00:00Z",
+      "duration": "PT30M",
+      "summary": "Coffee Break in Expo Hall",
+      "location": "Location Grand Hall (LL2)",
+      "description": "",
+      "link": "https://events.drupal.org//atlanta2025/session/coffee-break-expo-hall-2",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T09:00:00Z",
+      "endTime": "2025-03-26T09:50:00Z",
+      "duration": "PT50M",
+      "summary": "Building web confidence through accessible, non-expert user-trainings",
+      "location": "Location Hanover C (LL2)",
+      "description": "Poorly trained users often grow frustrated with their tools. This can ultimately lead to a breakdown of trust in web systems and the teams that maintain them.",
+      "link": "https://events.drupal.org//atlanta2025/session/building-web-confidence-through-accessible-non-expert-user-trainings",
+      "track": "user experience, accessibility \u0026 design",
+      "speakers": [
+        "n-lamkin"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T09:00:00Z",
+      "endTime": "2025-03-26T09:50:00Z",
+      "duration": "PT50M",
+      "summary": "Drupal CMS now and beyond",
+      "location": "Location Courtland (LL3)",
+      "description": "With Drupal CMS 1.0 released in January, we're now well into development of the next version. So it's a great opportunity to discuss what we have planned next on the roadmap, provide updates on how we are tracking and briefly look back at the process so far.",
+      "link": "https://events.drupal.org//atlanta2025/session/drupal-cms-now-and-beyond",
+      "track": "drupal cms (starshot)",
+      "speakers": [
+        "pameeela",
+        "ckrina"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T09:00:00Z",
+      "endTime": "2025-03-26T09:50:00Z",
+      "duration": "PT50M",
+      "summary": "Drupal CMS: Golden standard for privacy and data protection",
+      "location": "Location Hanover AB (LL2)",
+      "description": "As the Drupal CMS strategy v1.0 describes, supporting the Open Web is our responsibility. Drupal's Open Web Manifesto clarifies, that the Open Web is strengthened by every individual’s right to choice, privacy, and security.",
+      "link": "https://events.drupal.org//atlanta2025/session/drupal-cms-golden-standard-privacy-and-data-protection",
+      "track": "drupal cms (starshot)",
+      "speakers": [
+        "jurgenhaas"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T09:00:00Z",
+      "endTime": "2025-03-26T09:50:00Z",
+      "duration": "PT50M",
+      "summary": "From Figma to Function: Bridging Design and Development with Storybook \u0026 Drupal",
+      "location": "Location The Learning Center (LL1)",
+      "description": "This practical, hands-on workshop takes participants on a “storied” journey from UI design to development, starting from zero. You’ll hear perspectives from both a UI designer and a front-end developer and how to effectively collaborate across both disciplines.",
+      "link": "https://events.drupal.org//atlanta2025/session/figma-function-bridging-design-and-development-storybook-drupal",
+      "track": "development \u0026 coding",
+      "speakers": [
+        "haaski",
+        "j.hunter"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T09:00:00Z",
+      "endTime": "2025-03-26T09:50:00Z",
+      "duration": "PT50M",
+      "summary": "Leveraging Drupal SaaS to Power 400 Websites as Unique as Independent Bookstores",
+      "location": "Location Dunwoody (LL3)",
+      "description": "The American Booksellers Association (ABA), a national not-for-profit trade organization, works to ensure and protect the diversity, success, and profitability of independently owned book retailers.",
+      "link": "https://events.drupal.org//atlanta2025/session/leveraging-drupal-saas-power-400-websites-unique-independent-bookstores",
+      "track": "success stories",
+      "speakers": [
+        "msupko",
+        "plopesc"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T09:00:00Z",
+      "endTime": "2025-03-26T09:50:00Z",
+      "duration": "PT50M",
+      "summary": "Overcoming the Cassandra Complex: How to Use a Redesign as a Trojan Horse for Organizational Change",
+      "location": "Location Baker (LL3)",
+      "description": "My old boss used to say, “In higher ed, when 20 people want to do something, and one wants to do the opposite, that’s considered a tie.” This is a challenge many of us face: we see the benefits to changing our organization’s behaviors, but it may feel like the organization is unable or unwilling",
+      "link": "https://events.drupal.org//atlanta2025/session/overcoming-cassandra-complex-how-use-redesign-trojan-horse-organizational",
+      "track": "content \u0026 marketing",
+      "speakers": [
+        "Bjorn Thomson"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T09:00:00Z",
+      "endTime": "2025-03-26T09:50:00Z",
+      "duration": "PT50M",
+      "summary": "Paragraphs and Single Directory Components: A dynamic duo",
+      "location": "Location Hanover FG (LL2)",
+      "description": "There are so many factors at play when implementing Drupal, so many possible combinations of strategies, user preferences, and technical decisions that simply making a choice and sticking to it is a big win. We think we've found one such approach and want to share it with you!",
+      "link": "https://events.drupal.org//atlanta2025/session/paragraphs-and-single-directory-components-dynamic-duo",
+      "track": "site building",
+      "speakers": [
+        "mmatsoo",
+        "michele_grace"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T09:00:00Z",
+      "endTime": "2025-03-26T09:50:00Z",
+      "duration": "PT50M",
+      "summary": "The future of Drupal core in the age of Drupal CMS",
+      "location": "Location Regency V (LL1)",
+      "description": "The introduction of Drupal CMS has created a buzz in the Drupal community, redefining how we think about building with Drupal. Its flexible, modern approach to development has opened up new possibilities for innovation.",
+      "link": "https://events.drupal.org//atlanta2025/session/future-drupal-core-age-drupal-cms",
+      "track": "core contributions",
+      "speakers": [
+        "gábor hojtsy"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T09:00:00Z",
+      "endTime": "2025-03-26T09:50:00Z",
+      "duration": "PT50M",
+      "summary": "The Neurodivergency SuperPower - How Diverse Teams Function Better",
+      "location": "Location Piedmont (LL3)",
+      "description": "In today's rapidly evolving work environment, successful teams embrace diversity in all its forms, especially neurodiversity.",
+      "link": "https://events.drupal.org//atlanta2025/session/neurodivergency-superpower-how-diverse-teams-function-better",
+      "track": "community health",
+      "speakers": [
+        "MatthewS"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T09:50:00Z",
+      "endTime": "2025-03-26T10:30:00Z",
+      "duration": "PT40M",
+      "summary": "Coffee Break in Expo Hall",
+      "location": "Location Grand Hall (LL2)",
+      "description": "",
+      "link": "https://events.drupal.org//atlanta2025/session/coffee-break-expo-hall-3",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T10:00:00Z",
+      "endTime": "2025-03-26T10:10:00Z",
+      "duration": "PT10M",
+      "summary": "Beyond DrupalCMS - Revitalizing the Drupal Site Builder opportunities in the Post-Drupal 7 Era",
+      "location": "Location Grand Hall (LL2)",
+      "description": "The era of Drupal 7 is ending, leaving thousands of small-site owners searching for an affordable and easy way to continue their work without diving into complex development or costs they can't afford.",
+      "link": "https://events.drupal.org//atlanta2025/session/beyond-drupalcms-revitalizing-drupal-site-builder-opportunities-post-drupal-7",
+      "track": "drupal cms (starshot)",
+      "speakers": [
+        "ashrafabed"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T10:15:00Z",
+      "endTime": "2025-03-26T10:35:00Z",
+      "duration": "PT20M",
+      "summary": "New Member + Local Drupal Community Meet Up prior to the Keynote",
+      "location": "Location Regency VII (LL1)",
+      "description": "Let's get together to break the ice and meet new people before the Keynote.",
+      "link": "https://events.drupal.org//atlanta2025/session/new-member-local-drupal-community-meet-prior-keynote-0",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T10:45:00Z",
+      "endTime": "2025-03-26T11:45:00Z",
+      "duration": "PT1H",
+      "summary": "KEYNOTE: Yamilee Toussaint",
+      "location": "Location Centennial Ballroom II-IV (LL1)",
+      "description": "The Choreography of Innovation: Lessons from the Stage for Bold Thinking",
+      "link": "https://events.drupal.org//atlanta2025/session/keynote-yamilee-toussaint",
+      "track": "",
+      "speakers": [
+        "Yamilee Toussaint"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T12:00:00Z",
+      "endTime": "2025-03-26T13:15:00Z",
+      "duration": "PT1H15M",
+      "summary": "Lunch \u0026 Expo Hall",
+      "location": "Location Grand Hall (LL2)",
+      "description": "",
+      "link": "https://events.drupal.org//atlanta2025/session/lunch-expo-hall-0",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T12:00:00Z",
+      "endTime": "2025-03-26T13:00:00Z",
+      "duration": "PT1H",
+      "summary": "Women in Drupal Luncheon (guests must pre-register)",
+      "location": "Location Regency VI (LL1)",
+      "description": "Lullabot celebrates, honors, and supports women who are working in Drupal and throughout the tech industry. Since Lullabot’s inception in 2006, we have fostered our company culture around the open-source value that everyone can make meaningful contributions and collaborate openly.",
+      "link": "https://events.drupal.org//atlanta2025/session/women-drupal-luncheon-guests-must-pre-register",
+      "track": "",
+      "speakers": [
+        "monicadear"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T12:15:00Z",
+      "endTime": "2025-03-26T12:25:00Z",
+      "duration": "PT10M",
+      "summary": "From Manual to Magical: Our Pipeline Revamp",
+      "location": "Location Grand Hall (LL2)",
+      "description": "Pipeline automation using Platform.sh and its advantages for business acceleration. Speakers: Sam Rollin - CEO, Managing Director of Rollin agency Haylee Millar - Product Engineer, Platform.sh",
+      "link": "https://events.drupal.org//atlanta2025/session/manual-magical-our-pipeline-revamp",
+      "track": "devops",
+      "speakers": [
+        "hayleemillar",
+        "rollinstudios"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T12:30:00Z",
+      "endTime": "2025-03-26T12:40:00Z",
+      "duration": "PT10M",
+      "summary": "Building a Website in 5 Minutes with Drupal AI",
+      "location": "Location Grand Hall (LL2)",
+      "description": "Imagine creating a fully functional, AI-powered website in just five minutes—no coding required. With the Drupal AI module, this is now a reality.",
+      "link": "https://events.drupal.org//atlanta2025/session/building-website-5-minutes-drupal-ai",
+      "track": "site building",
+      "speakers": [
+        "Schnitzel"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T12:45:00Z",
+      "endTime": "2025-03-26T12:55:00Z",
+      "duration": "PT10M",
+      "summary": "Generosity with Intelligence: AI for good",
+      "location": "Location Grand Hall (LL2)",
+      "description": "Learn how AI is used for good to matches you with volunteering or donation opportunities. A collaboration of Share Good and Four Kitchens.",
+      "link": "https://events.drupal.org//atlanta2025/session/generosity-intelligence-ai-good",
+      "track": "success stories",
+      "speakers": [
+        "betovarg",
+        "https://www.drupal.org/u/mirzu"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T13:00:00Z",
+      "endTime": "2025-03-26T13:10:00Z",
+      "duration": "PT10M",
+      "summary": "How Modern AI is Already Impacting the Future of Search",
+      "location": "Location Grand Hall (LL2)",
+      "description": "Discover how TraceLink, a leader in supply chain solutions, ambitiously transformed its website with an AI chatbot that integrates with Drupal's content ecosystem.",
+      "link": "https://events.drupal.org//atlanta2025/session/how-modern-ai-already-impacting-future-search",
+      "track": "content \u0026 marketing",
+      "speakers": [
+        "Ritesh Gurung",
+        "Adam Picker"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T13:15:00Z",
+      "endTime": "2025-03-26T13:25:00Z",
+      "duration": "PT10M",
+      "summary": "Who Wants to Be a Drupal Millionaire?",
+      "location": "Location Grand Hall (LL2)",
+      "description": "Who Wants to Be a Drupal Millionaire? Format: A live game show with Drupal-related questions. Ask progressively harder Drupal trivia questions. Use polls, hand raises, or a Kahoot-style quiz for audience participation.",
+      "link": "https://events.drupal.org//atlanta2025/session/who-wants-be-drupal-millionaire",
+      "track": "drupal cms (starshot)",
+      "speakers": [
+        "johnlutz",
+        "ashburns"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T13:30:00Z",
+      "endTime": "2025-03-26T14:20:00Z",
+      "duration": "PT50M",
+      "summary": "Automate, Integrate, Innovate: AI-powered GitLab CI for Drupal module development",
+      "location": "Location Courtland (LL3)",
+      "description": "In this session, we will embark on a journey into the future of code review, where the integration of ChatGPT and GitLab CI revolutionizes the Drupal module development process.",
+      "link": "https://events.drupal.org//atlanta2025/session/automate-integrate-innovate-ai-powered-gitlab-ci-drupal-module-development",
+      "track": "devops",
+      "speakers": [
+        "yas"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T13:30:00Z",
+      "endTime": "2025-03-26T14:20:00Z",
+      "duration": "PT50M",
+      "summary": "Developing the Product Management Practice in Government",
+      "location": "Location Hanover AB (LL2)",
+      "description": "This session will explore the development of the \"product mindset\" and product management practice within government digital services teams, specifically focusing on utilizing Drupal as a vehicle to drive innovation and continuously offer value to constituents.",
+      "link": "https://events.drupal.org//atlanta2025/session/developing-product-management-practice-government",
+      "track": "leadership, management \u0026 business",
+      "speakers": [
+        "jasmyneepps"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T13:30:00Z",
+      "endTime": "2025-03-26T14:20:00Z",
+      "duration": "PT50M",
+      "summary": "Discuss Site Templates and Marketplace (Driesnote Followup BoF)",
+      "location": "Location Centennial Ballroom II-IV (LL1)",
+      "description": "In the Driesnote, project lead Dries Buytaert announced site templates for Drupal CMS to be built this year and marketplace of site templates to be discussed. Let's get together to discuss these ideas and possibilities and how you will be involved!",
+      "link": "https://events.drupal.org//atlanta2025/session/discuss-site-templates-and-marketplace-driesnote-followup-bof",
+      "track": "drupal cms (starshot)",
+      "speakers": [
+        "gábor hojtsy",
+        "tim.plunkett",
+        "ckrina",
+        "pameeela",
+        "emma horrell",
+        "farriss",
+        "Dries"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T13:30:00Z",
+      "endTime": "2025-03-26T14:20:00Z",
+      "duration": "PT50M",
+      "summary": "Drupal for Real-Time Management of Android \u0026 iOS Apps",
+      "location": "Location The Learning Center (LL1)",
+      "description": "This session will showcase how Drupal can be integrated with Google Firebase to provide real-time management of content and configurations for iOS and Android applications in production environments.",
+      "link": "https://events.drupal.org//atlanta2025/session/drupal-real-time-management-android-ios-apps",
+      "track": "development \u0026 coding",
+      "speakers": [
+        "https://www.drupal.org/u/daynis-olman"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T13:30:00Z",
+      "endTime": "2025-03-26T14:20:00Z",
+      "duration": "PT50M",
+      "summary": "DrupalCon as a Game",
+      "location": "Location Hanover DE (LL2)",
+      "description": "Follow creation of a Drupal-focused Alternate Reality Game in the style of Pokemon Go you can play during DrupalCon. Game design, web APIs, and native mobile apps have been used to create a game for you to play and beta test during the conference.",
+      "link": "https://events.drupal.org//atlanta2025/session/drupalcon-game",
+      "track": "user experience, accessibility \u0026 design",
+      "speakers": [
+        "liberatr",
+        "shya_ink"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T13:30:00Z",
+      "endTime": "2025-03-26T14:20:00Z",
+      "duration": "PT50M",
+      "summary": "Finding Your Path to Drupal: How Three Unique Journeys Led to Meaningful Careers in Web Development",
+      "location": "Location Piedmont (LL3)",
+      "description": "Drupal developers come from all walks of life, each bringing unique experiences and perspectives to their careers.",
+      "link": "https://events.drupal.org//atlanta2025/session/finding-your-path-drupal-how-three-unique-journeys-led-meaningful-careers-web",
+      "track": "community health",
+      "speakers": [
+        "nagatahmed",
+        "lyndasantiago",
+        "Amani.Mansour92"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T13:30:00Z",
+      "endTime": "2025-03-26T14:20:00Z",
+      "duration": "PT50M",
+      "summary": "First-Time Contribution Workshop",
+      "location": "Location Hanover C (LL2)",
+      "description": "Do you want to contribute but are not sure how? Check out the First Time Contributor Pathway for a list of recommended sessions at DrupalCon Atlanta to help you figure out how to use your particular skills to contribute to the Drupal project!",
+      "link": "https://events.drupal.org//atlanta2025/session/first-time-contribution-workshop",
+      "track": "",
+      "speakers": [
+        "Chris Darke"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T13:30:00Z",
+      "endTime": "2025-03-26T14:20:00Z",
+      "duration": "PT50M",
+      "summary": "Leveling Up Content: Integrating Drupal with Godot for Game Development",
+      "location": "Location Regency VI (LL1)",
+      "description": "What happens when the flexibility of Drupal meets the interactivity of Godot? In this session, we’ll dive into how you can harness the power of these two platforms to create dynamic, content-driven games.",
+      "link": "https://events.drupal.org//atlanta2025/session/leveling-content-integrating-drupal-godot-game-development",
+      "track": "development \u0026 coding",
+      "speakers": [
+        "dorficus"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T13:30:00Z",
+      "endTime": "2025-03-26T14:20:00Z",
+      "duration": "PT50M",
+      "summary": "Site Building with Translations, Regionalization, and Layout Builder",
+      "location": "Location Dunwoody (LL3)",
+      "description": "This presentation aims to provide strategies for configuring and managing regionalization and translation in Drupal, with a focus on using tools like Platform.SH and Fastly CDN for geoIP detection.",
+      "link": "https://events.drupal.org//atlanta2025/session/site-building-translations-regionalization-and-layout-builder",
+      "track": "site building",
+      "speakers": [
+        "danarbello",
+        "mattdaniel"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T13:30:00Z",
+      "endTime": "2025-03-26T14:20:00Z",
+      "duration": "PT50M",
+      "summary": "Supply Chain Security in Drupal and Composer",
+      "location": "Location Regency V (LL1)",
+      "description": "Everyone has heard of supply chains at this point, but what exactly does that mean for a PHP project, let alone a Drupal project? This talk will provide concrete advice, as well as a deep dive into how Drupal AutoUpdates are being built with security first in mind.",
+      "link": "https://events.drupal.org//atlanta2025/session/supply-chain-security-drupal-and-composer",
+      "track": "drupal cms (starshot)",
+      "speakers": [
+        "ergonlogic",
+        "hestenet",
+        "drumm"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T13:30:00Z",
+      "endTime": "2025-03-26T14:20:00Z",
+      "duration": "PT50M",
+      "summary": "The Future of SEO: Embracing Change and Innovation",
+      "location": "Location Baker (LL3)",
+      "description": "In an era where digital landscapes are ever-changing, SEO has transformed from a mere keyword-centric practice into a sophisticated, holistic strategy. This talk will explore how the digital marketing realm demands adaptable and forward-thinking approaches to remain relevant and effective.",
+      "link": "https://events.drupal.org//atlanta2025/session/future-seo-embracing-change-and-innovation",
+      "track": "content \u0026 marketing",
+      "speakers": [
+        "gauravmishra7"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T13:30:00Z",
+      "endTime": "2025-03-26T14:20:00Z",
+      "duration": "PT50M",
+      "summary": "What Do Marketers Really Want? Unpacking the User Research for Drupal CMS",
+      "location": "Location Hanover FG (LL2)",
+      "description": "Drupal CMS aims to simplify website creation for marketers and content teams. But what exactly do these users want, and how can Drupal stand out when many other CMSs promise ease of use?",
+      "link": "https://events.drupal.org//atlanta2025/session/what-do-marketers-really-want-unpacking-user-research-drupal-cms",
+      "track": "drupal cms (starshot)",
+      "speakers": [
+        "bruna.sd",
+        "pixelite"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T14:20:00Z",
+      "endTime": "2025-03-26T15:00:00Z",
+      "duration": "PT40M",
+      "summary": "Coffee Break in Expo Hall",
+      "location": "Location Grand Hall (LL2)",
+      "description": "",
+      "link": "https://events.drupal.org//atlanta2025/session/coffee-break-expo-hall-4",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T15:00:00Z",
+      "endTime": "2025-03-26T15:50:00Z",
+      "duration": "PT50M",
+      "summary": "Creating Opportunities: From Internships to Drupal Careers",
+      "location": "Location Piedmont (LL3)",
+      "description": "The Drupal community has long championed the values of diversity, inclusion, and equal opportunity, but how can we ensure those values are reflected in the way we build and grow our teams?",
+      "link": "https://events.drupal.org//atlanta2025/session/creating-opportunities-internships-drupal-careers",
+      "track": "community health",
+      "speakers": [
+        "ju.vanderw",
+        "tporchia"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T15:00:00Z",
+      "endTime": "2025-03-26T15:50:00Z",
+      "duration": "PT50M",
+      "summary": "Drupal Certified Partners Round Table",
+      "location": "Location Hanover C (LL2)",
+      "description": "Engage with the Drupal Association's Development and Fundraising team.",
+      "link": "https://events.drupal.org//atlanta2025/session/drupal-certified-partners-round-table",
+      "track": "leadership, management \u0026 business",
+      "speakers": [
+        "kelly_delaney",
+        "Tim D"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T15:00:00Z",
+      "endTime": "2025-03-26T15:50:00Z",
+      "duration": "PT50M",
+      "summary": "Drupal Commerce's Starshot Roadmap",
+      "location": "Location Regency VI (LL1)",
+      "description": "The vision for Drupal CMS (née Starshot) is bold and inspiring, inviting everyone in the Drupal community to consider how they might help end users accomplish even more with Drupal.",
+      "link": "https://events.drupal.org//atlanta2025/session/drupal-commerces-starshot-roadmap",
+      "track": "site building",
+      "speakers": [
+        "rszrama",
+        "zaporylie",
+        "jsacksick"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T15:00:00Z",
+      "endTime": "2025-03-26T15:50:00Z",
+      "duration": "PT50M",
+      "summary": "End-to-end collaboration in Drupal with EditTogether",
+      "location": "Location Hanover FG (LL2)",
+      "description": "Using open-source tools, the EditTogether module provides secure, real-time collaboration inside the Drupal editorial interface. Editors may update content simultaneously and leave threaded comments requesting clarifications or changes. And it all works with content moderation workflows!",
+      "link": "https://events.drupal.org//atlanta2025/session/end-end-collaboration-drupal-edittogether",
+      "track": "drupal cms (starshot)",
+      "speakers": [
+        "agentrickard",
+        "iajon"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T15:00:00Z",
+      "endTime": "2025-03-26T15:50:00Z",
+      "duration": "PT50M",
+      "summary": "Following Drupal core development: Is it possible to understand every added change?",
+      "location": "Location Courtland (LL3)",
+      "description": "Drupal moves faster than perceived. Keeping up to date is important and it may be challenging if you are not doing drupal core development full time. Let us explore Drupal core pace of changes, resources to follow it, and some experiences trying to do that.",
+      "link": "https://events.drupal.org//atlanta2025/session/following-drupal-core-development-it-possible-understand-every-added-change",
+      "track": "core contributions",
+      "speakers": [
+        "marvil07"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T15:00:00Z",
+      "endTime": "2025-03-26T15:50:00Z",
+      "duration": "PT50M",
+      "summary": "From Community Initiative to a Drupal CMS Track: the Dashboard Module",
+      "location": "Location Hanover AB (LL2)",
+      "description": "A couple of years ago we started defining a community initiative for getting a Dashboard system in core. We aimed to transform the user experience by providing a centralized interface for quick access to essential tools and key information.",
+      "link": "https://events.drupal.org//atlanta2025/session/community-initiative-drupal-cms-track-dashboard-module",
+      "track": "drupal cms (starshot)",
+      "speakers": [
+        "mtift",
+        "penyaskito"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T15:00:00Z",
+      "endTime": "2025-03-26T15:50:00Z",
+      "duration": "PT50M",
+      "summary": "From Idea to Publish: Building a Custom GPT to Power Your Content Pipeline",
+      "location": "Location Hanover DE (LL2)",
+      "description": "ChatGPT is no longer just a buzzword—it’s now a powerful, practical tool that can dramatically enhance content creation when optimized effectively. In this session, we’ll break down how to build a custom GPT to meet your organization’s unique content needs.",
+      "link": "https://events.drupal.org//atlanta2025/session/idea-publish-building-custom-gpt-power-your-content-pipeline",
+      "track": "content \u0026 marketing",
+      "speakers": [
+        "mrinasugosh"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T15:00:00Z",
+      "endTime": "2025-03-26T16:00:00Z",
+      "duration": "PT1H",
+      "summary": "KEYNOTE: Drupal CMS Spotlights",
+      "location": "Location Centennial Ballroom II-IV (LL1)",
+      "description": "Meet key Drupal CMS leaders to get insights on how the platform is being built and learn about future plans. Topics include Experience Builder, AI, user experience, documentation and more.",
+      "link": "https://events.drupal.org//atlanta2025/session/keynote-drupal-cms-spotlights",
+      "track": "drupal cms (starshot)",
+      "speakers": [
+        "gábor hojtsy",
+        "elliottmower",
+        "marcus_johansson",
+        "balintbrews",
+        "eojthebrave",
+        "reneelund",
+        "emma horrell",
+        "pameeela"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T15:00:00Z",
+      "endTime": "2025-03-26T15:50:00Z",
+      "duration": "PT50M",
+      "summary": "Maximum efficiency by embracing WebOps Mindset",
+      "location": "Location The Learning Center (LL1)",
+      "description": "In today's fast-paced digital world, efficient website management is crucial for success. WebOps plays a vital role in streamlining processes to drive maximum efficiency.",
+      "link": "https://events.drupal.org//atlanta2025/session/maximum-efficiency-embracing-webops-mindset",
+      "track": "devops",
+      "speakers": [
+        "gaurav.goyal",
+        "_doyle_"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T15:00:00Z",
+      "endTime": "2025-03-26T15:50:00Z",
+      "duration": "PT50M",
+      "summary": "Planning a Takeover: A Success Story in Implementing Storybook, Drupal 10, and Layout Builder",
+      "location": "Location Dunwoody (LL3)",
+      "description": "Join in learning how the MIT Sloan Web Development team planned and executed a \"Homepage Takeover\"—a new content type, collection of components and editorial workflow, for our Drupal 10 website—in just 12 weeks.",
+      "link": "https://events.drupal.org//atlanta2025/session/planning-takeover-success-story-implementing-storybook-drupal-10-and-layout",
+      "track": "success stories",
+      "speakers": [
+        "mikemiles86"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T15:00:00Z",
+      "endTime": "2025-03-26T15:50:00Z",
+      "duration": "PT50M",
+      "summary": "WordPress to Drupal:A Migration Survival Guide",
+      "location": "Location Regency V (LL1)",
+      "description": "Migrating from WordPress to Drupal CMS can feel like a big leap—especially if you’re used to WordPress’s page builders and want to maintain editorial flexibility.",
+      "link": "https://events.drupal.org//atlanta2025/session/wordpress-drupala-migration-survival-guide",
+      "track": "success stories",
+      "speakers": [
+        "garphy"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T15:50:00Z",
+      "endTime": "2025-03-26T16:10:00Z",
+      "duration": "PT20M",
+      "summary": "EXPO HALL NETWORKING",
+      "location": "Location Grand Hall (LL2)",
+      "description": "",
+      "link": "https://events.drupal.org//atlanta2025/session/expo-hall-networking-0",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T16:10:00Z",
+      "endTime": "2025-03-26T17:00:00Z",
+      "duration": "PT50M",
+      "summary": "Beat the Gatekeepers: Build Direct Audience Relationships Through Content, Analytics, and AI",
+      "location": "Location Regency V (LL1)",
+      "description": "Discover how leading media brands use content analytics data to increase direct traffic, improve engagement, and boost content recirculation. Learn how to combine performance data with AI to turn passive readers into active participants.",
+      "link": "https://events.drupal.org//atlanta2025/session/beat-gatekeepers-build-direct-audience-relationships-through-content-analytics",
+      "track": "content \u0026 marketing",
+      "speakers": [
+        "brianalvey"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T16:10:00Z",
+      "endTime": "2025-03-26T17:00:00Z",
+      "duration": "PT50M",
+      "summary": "Distributions are dead, long live distributions: a Drupal CMS story",
+      "location": "Location Hanover AB (LL2)",
+      "description": "Drupal CMS is one of the most ambitious projects ever undertaken by the Drupal community. It tries to solve some of the same problems long faced by distributions…but it’s not a distribution. It’s built entirely on Drupal’s game-changing new recipe system.",
+      "link": "https://events.drupal.org//atlanta2025/session/distributions-are-dead-long-live-distributions-drupal-cms-story",
+      "track": "drupal cms (starshot)",
+      "speakers": [
+        "phenaproxima",
+        "tim.plunkett"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T16:10:00Z",
+      "endTime": "2025-03-26T17:00:00Z",
+      "duration": "PT50M",
+      "summary": "Driving today’s CMS with tomorrow’s artificial intelligence",
+      "location": "Location Hanover DE (LL2)",
+      "description": "It’s interesting to see the existence of an unrealistic realm in a realistic digital sphere with Artificial Intelligence and how probable it can be in Drupal’s world ?",
+      "link": "https://events.drupal.org//atlanta2025/session/driving-todays-cms-tomorrows-artificial-intelligence",
+      "track": "content \u0026 marketing",
+      "speakers": [
+        "jyoti.singh"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T16:10:00Z",
+      "endTime": "2025-03-26T17:00:00Z",
+      "duration": "PT50M",
+      "summary": "Drupal.org Engineering Panel",
+      "location": "Location Piedmont (LL3)",
+      "description": "Join the Drupal.org engineering team for updates on our work to support the community.",
+      "link": "https://events.drupal.org//atlanta2025/session/drupalorg-engineering-panel",
+      "track": "community health",
+      "speakers": [
+        "hestenet",
+        "Lenny Moskalyk",
+        "drumm"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T16:10:00Z",
+      "endTime": "2025-03-26T17:00:00Z",
+      "duration": "PT50M",
+      "summary": "Honey, I Shrunk The Marketing Budget: How To Keep Improving Your Website In a Challenging Economy",
+      "location": "Location Baker (LL3)",
+      "description": "Budgets for many marketing and web teams have been shrinking over the past few years. At the same time, the need to show results continues to grow.",
+      "link": "https://events.drupal.org//atlanta2025/session/honey-i-shrunk-marketing-budget-how-keep-improving-your-website-challenging",
+      "track": "content \u0026 marketing",
+      "speakers": [
+        "bthomson"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T16:10:00Z",
+      "endTime": "2025-03-26T17:00:00Z",
+      "duration": "PT50M",
+      "summary": "Jumpstart Your Drupal Projects with Recipes: Simplifying Configurations and Speeding Up Go-to-Market",
+      "location": "Location The Learning Center (LL1)",
+      "description": "Forum One initially created a set of modules and an install profile that we could use internally to get things like an accordion Paragraph and a simple WYSIWYG paragraph, reasonable security defaults, and more to have the go-to-market time for sensible default in Drupal be mostly completed.",
+      "link": "https://events.drupal.org//atlanta2025/session/jumpstart-your-drupal-projects-recipes-simplifying-configurations-and-speeding",
+      "track": "development \u0026 coding",
+      "speakers": [
+        "traverus",
+        "gbeezus"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T16:10:00Z",
+      "endTime": "2025-03-26T17:00:00Z",
+      "duration": "PT50M",
+      "summary": "Launch your design system into hyperdrive with Starshot’s Experience Builder",
+      "location": "Location Courtland (LL3)",
+      "description": "Slides: https://bit.ly/kp-xb-ds-atlanta2025",
+      "link": "https://events.drupal.org//atlanta2025/session/launch-your-design-system-hyperdrive-starshots-experience-builder",
+      "track": "drupal cms (starshot)",
+      "speakers": [
+        "Kristen Pol"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T16:10:00Z",
+      "endTime": "2025-03-26T17:00:00Z",
+      "duration": "PT50M",
+      "summary": "Mastering Drupal’s Core Site Building Features: The Keys to Flexible Content Management",
+      "location": "Location Dunwoody (LL3)",
+      "description": "Drupal offers a comprehensive suite of site-building tools that enable you to create dynamic, content-rich websites with little to no custom coding.",
+      "link": "https://events.drupal.org//atlanta2025/session/mastering-drupals-core-site-building-features-keys-flexible-content-management",
+      "track": "site building",
+      "speakers": [
+        "Amani.Mansour92"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T16:10:00Z",
+      "endTime": "2025-03-26T17:00:00Z",
+      "duration": "PT50M",
+      "summary": "Scaling quality mental health support in low income settings with two UN agencies",
+      "location": "Location Hanover C (LL2)",
+      "description": "EQUIP (Ensuring Quality in Psychological Support) is a World Health Organization \u0026 UNICEF project using Drupal to deliver mental health support training and assessments in low and middle-income settings with low connectivity.",
+      "link": "https://events.drupal.org//atlanta2025/session/scaling-quality-mental-health-support-low-income-settings-two-un-agencies",
+      "track": "success stories",
+      "speakers": [
+        "elaman"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T16:10:00Z",
+      "endTime": "2025-03-26T17:00:00Z",
+      "duration": "PT50M",
+      "summary": "The Best (and Worst) Themes, Modules, Widgets, Extensions, and AI tools for ADA Compliance",
+      "location": "Location Hanover FG (LL2)",
+      "description": "Are you looking for an easy way to remediate your site's accessibility issues? Are you looking for an 'out of the box' solution for Drupal accessibility, like a fully WCAG compliant contrib theme or an 'all-in-one' magic accessibility module?",
+      "link": "https://events.drupal.org//atlanta2025/session/best-and-worst-themes-modules-widgets-extensions-and-ai-tools-ada-compliance",
+      "track": "user experience, accessibility \u0026 design",
+      "speakers": [
+        "alyssapanetta"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-26T16:10:00Z",
+      "endTime": "2025-03-26T17:00:00Z",
+      "duration": "PT50M",
+      "summary": "What the WordPress Conflict Means for Open Source Businesses",
+      "location": "Location Regency VI (LL1)",
+      "description": "The recent dispute between WordPress founder Matt Mullenweg and hosting company WP Engine has sparked widespread discussion about the social and philosophical responsibilities of open source software.",
+      "link": "https://events.drupal.org//atlanta2025/session/what-wordpress-conflict-means-open-source-businesses",
+      "track": "leadership, management \u0026 business",
+      "speakers": [
+        "gdemet"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-27T08:00:00Z",
+      "endTime": "2025-03-27T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "Birds of a Feather - Edgewood Room (Thursday)",
+      "location": "Location Edgewood (LL3)",
+      "description": "View the BoF schedule or submit your own: https://events.drupal.org/atlanta2025/bofs/all",
+      "link": "https://events.drupal.org//atlanta2025/session/birds-feather-edgewood-room-thursday",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-27T08:00:00Z",
+      "endTime": "2025-03-27T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "Birds of a Feather - Harris Room (Thursday)",
+      "location": "Location Harris (LL3)",
+      "description": "View the BoF schedule or submit your own: https://events.drupal.org/atlanta2025/bofs/all",
+      "link": "https://events.drupal.org//atlanta2025/session/birds-feather-harris-room-thursday",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-27T08:00:00Z",
+      "endTime": "2025-03-27T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "Birds of a Feather - Lenox Room (Thursday)",
+      "location": "Location Lenox (LL3)",
+      "description": "View the BoF schedule or submit your own: https://events.drupal.org/atlanta2025/bofs/all",
+      "link": "https://events.drupal.org//atlanta2025/session/birds-feather-lenox-room-thursday",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-27T08:00:00Z",
+      "endTime": "2025-03-27T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "Birds of a Feather - Marietta Room (Thursday)",
+      "location": "Location Marietta (LL3)",
+      "description": "View the BoF schedule or submit your own: https://events.drupal.org/atlanta2025/bofs/all",
+      "link": "https://events.drupal.org//atlanta2025/session/birds-feather-marietta-room-thursday",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-27T08:00:00Z",
+      "endTime": "2025-03-27T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "General Contribution",
+      "location": "Location Centennial Ballroom I (LL1)",
+      "description": "Generously Sponsored by ThirdAndGrove",
+      "link": "https://events.drupal.org//atlanta2025/session/general-contribution-2",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-27T08:00:00Z",
+      "endTime": "2025-03-27T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "Mentored Contribution",
+      "location": "Location Hanover AB (LL2)",
+      "description": "If you are already familiar with the tools the Drupal community uses (such as the issue queue and/or a local development environment), but could still use help choosing issues and navigating the process, Mentored Contribution is for you.",
+      "link": "https://events.drupal.org//atlanta2025/session/mentored-contribution",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-27T08:00:00Z",
+      "endTime": "2025-03-27T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "New Member + Local Drupal Community Meeting Space",
+      "location": "Location Regency VII (LL1)",
+      "description": "Meeting space for organized local camps, associations, or communities with designated ambassadors. Creating a welcoming and functional space for fostering a sense of community and collaboration.",
+      "link": "https://events.drupal.org//atlanta2025/session/new-member-local-drupal-community-meeting-space-2",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-27T08:00:00Z",
+      "endTime": "2025-03-27T17:00:00Z",
+      "duration": "PT9H",
+      "summary": "Quiet Room",
+      "location": "Location Executive Conference Room 219 - Hotel 2nd Floor",
+      "description": "This room is available for mediation and reflection. It is in Executive Conference Room 219, located on the 2nd Floor of the Hyatt Hotel.",
+      "link": "https://events.drupal.org//atlanta2025/session/quiet-room-2",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-27T08:00:00Z",
+      "endTime": "2025-03-27T12:00:00Z",
+      "duration": "PT4H",
+      "summary": "REGISTRATION",
+      "location": "Location Terrace Foyer (LL1)",
+      "description": "",
+      "link": "https://events.drupal.org//atlanta2025/session/registration-2",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-27T09:00:00Z",
+      "endTime": "2025-03-27T10:00:00Z",
+      "duration": "PT1H",
+      "summary": "First-Time Contributor Workshop",
+      "location": "Location Hanover C (LL2)",
+      "description": "Do you want to contribute but are not sure how? Check out the First Time Contributor Pathway for a list of recommended sessions at DrupalCon Atlanta to help you figure out how to use your particular skills to contribute to the Drupal project!",
+      "link": "https://events.drupal.org//atlanta2025/session/first-time-contributor-workshop",
+      "track": "",
+      "speakers": [
+        "Chris Darke"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-27T09:30:00Z",
+      "endTime": "2025-03-27T11:30:00Z",
+      "duration": "PT2H",
+      "summary": "Marketing Contribution",
+      "location": "Location Hanover DE (LL2)",
+      "description": "Whether you are a talented writer or a visual creator, there is a place for you. Rosie Gladden will lead a social media writing track, while Nick Koger will guide participants in designing graphics using the Drupal brand.",
+      "link": "https://events.drupal.org//atlanta2025/session/marketing-contribution",
+      "track": "content \u0026 marketing",
+      "speakers": [
+        "nkoger"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-27T12:00:00Z",
+      "endTime": "2025-03-27T13:00:00Z",
+      "duration": "PT1H",
+      "summary": "Lunch (for those participating in Contribution Day)",
+      "location": "Location Hanover Foyer (LL2)",
+      "description": "",
+      "link": "https://events.drupal.org//atlanta2025/session/lunch-those-participating-contribution-day",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-03-27T18:00:00Z",
+      "endTime": "2025-03-27T21:00:00Z",
+      "duration": "PT3H",
+      "summary": "Trivia Night",
+      "location": "Location Regency V (LL1)",
+      "description": "",
+      "link": "https://events.drupal.org//atlanta2025/session/trivia-night",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    }
+  ],
+  "result": "✅",
+  "url": "https://events.drupal.org/atlanta2025"
+}

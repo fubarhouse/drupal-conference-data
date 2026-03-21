@@ -1,0 +1,2857 @@
+{
+  "event": {
+    "Location": "Barcelona",
+    "Year": "2024",
+    "URL": "https://events.drupal.org/barcelona2024/session-schedule",
+    "Region": "America",
+    "EndDate": "2024-09-27T00:00:00Z",
+    "StartDate": "2024-09-24T00:00:00Z",
+    "Website": "https://events.drupal.org/barcelona2024",
+    "Venue": "International Barcelona Convention Center",
+    "Timezone": ""
+  },
+  "items": [
+    {
+      "startTime": "2024-09-24T09:30:00Z",
+      "endTime": "2024-09-24T18:00:00Z",
+      "duration": "PT8H30M",
+      "summary": "General Contribution Day 1",
+      "location": "Location Contribution Room (Area 1)",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/general-contribution-day-1",
+      "track": "contribution topic",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T11:00:00Z",
+      "endTime": "2024-09-24T12:30:00Z",
+      "duration": "PT1H30M",
+      "summary": "Opening Ceremony + Women in Drupal Award",
+      "location": "Location Auditorium",
+      "description": "Join the Opening Ceremony for an exciting start to DrupalCon Barcelona 2024. Right after the welcome coffee, the Organizing Secretariat, Advisory Board members, and Drupal Association staff are eager to welcome you to the vibrant city of Barcelona.",
+      "link": "https://events.drupal.org//barcelona2024/session/opening-ceremony-women-drupal-award",
+      "track": "other",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T12:30:00Z",
+      "endTime": "2024-09-24T13:45:00Z",
+      "duration": "PT1H15M",
+      "summary": "Lunch Break, Tuesday",
+      "location": "",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/lunch-break-tuesday",
+      "track": "coffee \u0026 lunch break time",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T13:45:00Z",
+      "endTime": "2024-09-24T15:00:00Z",
+      "duration": "PT1H15M",
+      "summary": "DRIESNOTE AUDITORIUM",
+      "location": "Location Auditorium",
+      "description": "Belgium-born Drupal founder Dries Buytaert is a pioneer in the Open Source web publishing and digital experience platform space. For his customary (and 40th ever) #Driesnote presentation in Barcelona, Dries will give an update on the State of Drupal.",
+      "link": "https://events.drupal.org//barcelona2024/session/driesnote-auditorium",
+      "track": "keynote",
+      "speakers": [
+        "Dries Buytaert (Dries)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T15:00:00Z",
+      "endTime": "2024-09-24T15:10:00Z",
+      "duration": "PT10M",
+      "summary": "Group Photo",
+      "location": "Location Outside of the Venue",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/group-photo",
+      "track": "other",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T15:15:00Z",
+      "endTime": "2024-09-24T16:00:00Z",
+      "duration": "PT45M",
+      "summary": "Delayed but Not Doomed: Ensuring Security for Your Drupal 7 Site After End of Life (Sponsored by HeroDevs)",
+      "location": "Location Sponsor Workshop Room M211+M212",
+      "description": "Drupal 7 is reaching end of life, but extended security support from HeroDevs means you can stay secure and compliant until you’re ready to migrate.",
+      "link": "https://events.drupal.org//barcelona2024/session/delayed-not-doomed-ensuring-security-your-drupal-7-site-after-end-life",
+      "track": "sponsor talks",
+      "speakers": [
+        "Jared Rhodes (Jcalles)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T15:15:00Z",
+      "endTime": "2024-09-24T16:00:00Z",
+      "duration": "PT45M",
+      "summary": "Designing for Low Literacy: Enhancing Accessibility and Understanding",
+      "location": "Location Room 2 (131-132)",
+      "description": "Designing for low literacy: Enhancing accessibility and understanding through techniques such as visual storytelling, iconography, and simplified language, to communicate information effectively to users with limited reading skills.",
+      "link": "https://events.drupal.org//barcelona2024/session/designing-low-literacy-enhancing-accessibility-and-understanding",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Prerna Singh (Prerna Singh)",
+        "Piyuesh Kumar (piyuesh23)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T15:15:00Z",
+      "endTime": "2024-09-24T16:00:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal at the core of Schwabe Group’s Digital Strategy",
+      "location": "Location Room 3 (129-130)",
+      "description": "Our CEO will present together with the Director Global Digital Marketing at Schwabe Group the digital transformation and decision process behind the selection of Drupal as an essential solution component in their digital strategy.",
+      "link": "https://events.drupal.org//barcelona2024/session/drupal-core-schwabe-groups-digital-strategy",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Baddy Sonja Breidert (baddysonja)",
+        "Alexander Reisenauer (alexreisenauer)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T15:15:00Z",
+      "endTime": "2024-09-24T17:15:00Z",
+      "duration": "PT2H",
+      "summary": "Gander in practice: start monitoring your site’s performance today",
+      "location": "Location Room 6 (122-123)",
+      "description": "At this workshop we will teach attendees how to use Gander, Drupal’s new performance testing framework. We will teach how to write performance tests and how to improve existing PHPUnit tests with performance related assertions.",
+      "link": "https://events.drupal.org//barcelona2024/session/gander-practice-start-monitoring-your-sites-performance-today",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Janez Urevc (slashrsm)",
+        "Nathaniel Catchpole (Catch)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T15:15:00Z",
+      "endTime": "2024-09-24T16:00:00Z",
+      "duration": "PT45M",
+      "summary": "How combining open source platforms can make your business and the community stronger. An update on Mautic, Drupal and the open DXP.",
+      "location": "Location Room 5 (124-125)",
+      "description": "Bridge the gap between two powerful platforms, Drupal and Mautic, within the context of an open Digital Experience Platform (DXP).",
+      "link": "https://events.drupal.org//barcelona2024/session/how-combining-open-source-platforms-can-make-your-business-and-community",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Dominique De Cooman (Domidc)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T15:15:00Z",
+      "endTime": "2024-09-24T16:00:00Z",
+      "duration": "PT45M",
+      "summary": "Movement and Music - Wellness",
+      "location": "Location Room BoF 4 (121)",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/movement-and-music-wellness",
+      "track": "other",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T15:15:00Z",
+      "endTime": "2024-09-24T16:00:00Z",
+      "duration": "PT45M",
+      "summary": "Networking in the Solidarity Economy: Cooperatives, Sociocracy, and Alternative Work Models for a Sustainable Future",
+      "location": "Location Room BoF 1 (118)",
+      "description": "Are you part of an organization that embraces cooperative structures, sociocracy, or other alternative work models?",
+      "link": "https://events.drupal.org//barcelona2024/session/networking-solidarity-economy-cooperatives-sociocracy-and-alternative-work",
+      "track": "bof",
+      "speakers": [
+        "Brian Sharpe (Ridefree)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T15:15:00Z",
+      "endTime": "2024-09-24T16:00:00Z",
+      "duration": "PT45M",
+      "summary": "Over 15000 courses and almost 100 different providers - Developing and maintaining a custom Course Marketing system",
+      "location": "Location Room 1 (133-134)",
+      "description": "Everyone is special. No more so than the almost 1000 further education providers across Ireland who provide information for use on the National Further Education Portal.",
+      "link": "https://events.drupal.org//barcelona2024/session/over-15000-courses-and-almost-100-different-providers-developing-and",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Alan Burke (alanburke)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T15:15:00Z",
+      "endTime": "2024-09-24T16:00:00Z",
+      "duration": "PT45M",
+      "summary": "Running a fleet of web sites with ease via LocalGov Drupal Microsites Platform",
+      "location": "Location Room 4 (127-128)",
+      "description": "Large organisations like councils, governments, universities have always needed to run a varying number of small websites. However, these are often on disparate technologies, maintained by disparate individuals and companies and quickly become inconsistent and out of date.",
+      "link": "https://events.drupal.org//barcelona2024/session/running-fleet-web-sites-ease-localgov-drupal-microsites-platform",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Finn Lewis (Finn Lewis)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T15:15:00Z",
+      "endTime": "2024-09-24T16:00:00Z",
+      "duration": "PT45M",
+      "summary": "The IXP initiative - Building a path for newcomers",
+      "location": "Location Room BoF 3 (120)",
+      "description": "In DrupalCon Lille we officially started the IXP Initiative. The IXP Fellowship Initiative is a community-driven initiative to create incentives for companies to guide new developers through the very beginning of their career in Drupal. It seeks to address several issues:",
+      "link": "https://events.drupal.org//barcelona2024/session/ixp-initiative-building-path-newcomers",
+      "track": "bof",
+      "speakers": [
+        "Carlos Ospina (Camoa)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T15:15:00Z",
+      "endTime": "2024-09-24T16:00:00Z",
+      "duration": "PT45M",
+      "summary": "Working together: DDEV on Gitpod and GitHub Codespaces",
+      "location": "Location Room BoF 2 (119)",
+      "description": "Gitpod and GitHub Codespaces are great places to work on your Drupal/DDEV projects. (We don't be talking about Drupalpod here unless you want to, we'll have another session for Drupalpod, which is mostly for direct contributions to Drupal core and contrib.)",
+      "link": "https://events.drupal.org//barcelona2024/session/working-together-ddev-gitpod-and-github-codespaces",
+      "track": "bof",
+      "speakers": [
+        "Randy Fay (rfay)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T16:00:00Z",
+      "endTime": "2024-09-24T16:30:00Z",
+      "duration": "PT30M",
+      "summary": "Coffee Break 1, Tuesday",
+      "location": "",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/coffee-break-1-tuesday",
+      "track": "coffee \u0026 lunch break time",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T16:00:00Z",
+      "endTime": "2024-09-24T16:15:00Z",
+      "duration": "PT15M",
+      "summary": "Enhancing TraceLink Website Experiences: Driving User Engagement and Business Growth through Digital Innovation (Sponsored by Material)",
+      "location": "Location Open Stage - Exhibition",
+      "description": "TraceLink has revolutionized the healthcare supply chain by creating the world’s largest digital network, which simplifies the global track-and-trace processes for pharmaceuticals.",
+      "link": "https://events.drupal.org//barcelona2024/session/enhancing-tracelink-website-experiences-driving-user-engagement-and-business",
+      "track": "sponsor talks",
+      "speakers": [
+        "Reena Tripathi (reena.india)",
+        "Manish Kothare (mkothare@tracelink.com)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T16:15:00Z",
+      "endTime": "2024-09-24T16:30:00Z",
+      "duration": "PT15M",
+      "summary": "AI Meets Accessibility: Enhancing Drupal with Smart Image Descriptions (Sponsored by Hounder)",
+      "location": "Location Open Stage - Exhibition",
+      "description": "Hey there! I’m excited to talk to you about a cool new Drupal module I’ve been working on. You know how writing alt text for images can be a real pain, especially when you’ve got tons of pictures? Well, I’ve found a way to make it super easy using AI.",
+      "link": "https://events.drupal.org//barcelona2024/session/ai-meets-accessibility-enhancing-drupal-smart-image-descriptions-sponsored",
+      "track": "sponsor talks",
+      "speakers": [
+        "Austin Amento (Austin.amento)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T16:30:00Z",
+      "endTime": "2024-09-24T17:15:00Z",
+      "duration": "PT45M",
+      "summary": "Empowering content editors: managing content with ease in highly complex environments",
+      "location": "Location Room 1 (133-134)",
+      "description": "Content management forms look complicated and are difficult to work with? You want to see your changes while doing them? Join my session and I will show you how to avoid stress and frustration, while empowering your content editor experience with realtime inline editing.",
+      "link": "https://events.drupal.org//barcelona2024/session/empowering-content-editors-managing-content-ease-highly-complex-environments",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Artem Dmitriiev (admitriiev)",
+        "Bruno Bruno (bbruno)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T16:30:00Z",
+      "endTime": "2024-09-24T17:15:00Z",
+      "duration": "PT45M",
+      "summary": "Experience Builder Initiative",
+      "location": "Location Auditorium",
+      "description": "Join us to learn how we're planning to enable content creators and site builders to build fully customized pages and themes using no-code and low-code tools without ever leaving the browser.",
+      "link": "https://events.drupal.org//barcelona2024/session/experience-builder-initiative",
+      "track": "drupal starshot",
+      "speakers": [
+        "Lauri Timmanee (lauriii)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T16:30:00Z",
+      "endTime": "2024-09-24T17:15:00Z",
+      "duration": "PT45M",
+      "summary": "First-time contributor workshop 1",
+      "location": "Location Room BoF 4 (121)",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/first-time-contributor-workshop-1",
+      "track": "contribution topic",
+      "speakers": [
+        "Chris Darke (Chrisdarke)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T16:30:00Z",
+      "endTime": "2024-09-24T17:15:00Z",
+      "duration": "PT45M",
+      "summary": "From Vision to Reality: Project Management in Multi-brand Platform with 140+ websites.",
+      "location": "Location Room 5 (124-125)",
+      "description": "Ready to discover the magic behind managing 140+ websites in a multi-brand platform? Join us for an eye-opening session on turning visions into digital reality! Don't miss out on this captivating insight!",
+      "link": "https://events.drupal.org//barcelona2024/session/vision-reality-project-management-multi-brand-platform-140-websites",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Mihael Shumelov (Shumelov)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T16:30:00Z",
+      "endTime": "2024-09-24T17:15:00Z",
+      "duration": "PT45M",
+      "summary": "How did we get 135,000 opinions and 67,000 points on maps from citizens about mobility, their city, quality of life, nature in 160 webform-projects? How do we create insights for decisions from all that data? What could this mean for your web solutio...",
+      "location": "Location Room BoF 3 (120)",
+      "description": "At Drupalcon Lille 2023, we showed our webform map solutions. Citizens from more than 100 cities and towns, including Brussels, Antwerp, Bilbao, Santander, Eindhoven, Edinburgh, Paris - collaborated on some 160 projects to improve their neighbourhood, city, region.",
+      "link": "https://events.drupal.org//barcelona2024/session/how-did-we-get-135000-opinions-and-67000-points-maps-citizens-about-mobility",
+      "track": "bof",
+      "speakers": [
+        "Jan De Kezel (Jandekezel)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T16:30:00Z",
+      "endTime": "2024-09-24T17:15:00Z",
+      "duration": "PT45M",
+      "summary": "How to use automated tools to upgrade your site from Drupal 7 to Drupal 10.x (Sponsored by Acquia)",
+      "location": "Location Sponsor Workshop Room M211+M212",
+      "description": "43% of the entire Drupal community is on Drupal 7. Drupal 7 end of life is coming in 2025. Acquia recently open sourced our migration automation tool, Acquia Migrate: Accelerate (AM:A) to help the community get to D10 and prepare for D11.",
+      "link": "https://events.drupal.org//barcelona2024/session/how-use-automated-tools-upgrade-your-site-drupal-7-drupal-10x-sponsored",
+      "track": "sponsor talks",
+      "speakers": [
+        "Matt Glaman (Mglaman)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T16:30:00Z",
+      "endTime": "2024-09-24T17:15:00Z",
+      "duration": "PT45M",
+      "summary": "Let's try to understand Typed Data, finally...",
+      "location": "Location Room 4 (127-128)",
+      "description": "Typed Data API still remains quite a mystery for many. We need to get familiar with it in order to really know how entity data is modeled. In this session I'm going to get to the bottom of it, so please fasten your seatbelts and be ready to understand it. Finally...",
+      "link": "https://events.drupal.org//barcelona2024/session/lets-try-understand-typed-data-finally",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Piotr Pakulski (piotr-pakulski)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T16:30:00Z",
+      "endTime": "2024-09-24T17:15:00Z",
+      "duration": "PT45M",
+      "summary": "Migrations at scale: Migrating sites with millions of objects",
+      "location": "Location Room BoF 1 (118)",
+      "description": "We run Drupal migrations on every other project. The unique thing about our migrations is the amount of data we have. GLAM repositories sometimes have several million objects.",
+      "link": "https://events.drupal.org//barcelona2024/session/migrations-scale-migrating-sites-millions-objects",
+      "track": "bof",
+      "speakers": [
+        "Akanksha Singh (bibliophileaxe)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T16:30:00Z",
+      "endTime": "2024-09-24T17:15:00Z",
+      "duration": "PT45M",
+      "summary": "Scaling Smiles: GC Dental's Mammoth Digital Transformation with Drupal",
+      "location": "Location Room 3 (129-130)",
+      "description": "Embark on a professional journey into the heart of digital transformation as we unveil GC Dental's remarkable evolution of unification of brand identity and design standards across a multitude of brands, enhancing engagement and fostering trust among B2B customers, specifically dental professiona",
+      "link": "https://events.drupal.org//barcelona2024/session/scaling-smiles-gc-dentals-mammoth-digital-transformation-drupal",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Reena Tripathi (reena.india)",
+        "Anubhav Gupta (anubhavgupta)",
+        "Eric​​​ Luijer"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T16:30:00Z",
+      "endTime": "2024-09-24T17:15:00Z",
+      "duration": "PT45M",
+      "summary": "The PHP Foundation",
+      "location": "Location Room BoF 2 (119)",
+      "description": "I'm a founding board member of the PHP Foundation, ask me anything! The PHP Foundation is a collective of people and organizations relying on the PHP language. Its mission is to ensure the long-term prosperity of the PHP language. The PHP Foundation's mission statement:",
+      "link": "https://events.drupal.org//barcelona2024/session/php-foundation",
+      "track": "bof",
+      "speakers": [
+        "Nils Adermann (Naderman)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T16:30:00Z",
+      "endTime": "2024-09-24T17:15:00Z",
+      "duration": "PT45M",
+      "summary": "When Designers code - UX Paper Cuts at GitLab",
+      "location": "Location Room 2 (131-132)",
+      "description": "We all know how painful a small cut on the tips of your finger can be. Not worth it for a doctor to check it, but painful enough to always remind you of its existence.",
+      "link": "https://events.drupal.org//barcelona2024/session/when-designers-code-ux-paper-cuts-gitlab",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Sascha Eggenberger (Saschaeggi)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T17:30:00Z",
+      "endTime": "2024-09-24T18:15:00Z",
+      "duration": "PT45M",
+      "summary": "AI with Drupal - Using LLM technology is easy, but how do you actually build useful applications?",
+      "location": "Location Room 1 (133-134)",
+      "description": "AI functionalities based on Large Language Models (LLMs) such as ChatGPT from OpenAI are well integrated with Drupal. But finding the right use-cases for AI in custom projects can be quite challenging.",
+      "link": "https://events.drupal.org//barcelona2024/session/ai-drupal-using-llm-technology-easy-how-do-you-actually-build-useful",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Christoph Breidert (breidert)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T17:30:00Z",
+      "endTime": "2024-09-24T17:50:00Z",
+      "duration": "PT20M",
+      "summary": "Drupal Dives into Agile Waterfalls: How to Embrace Agile Principles in Traditional Project Environments",
+      "location": "Location Room 5 (124-125)",
+      "description": "Have you ever tried to manage a closed scope project using agile methodologies, only to realize that the notorious \"scope creep\" had silently made its way into your meticulously planned backlog? Join us on this quest for flexible control, happy clients, and healthier teams.",
+      "link": "https://events.drupal.org//barcelona2024/session/drupal-dives-agile-waterfalls-how-embrace-agile-principles-traditional",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Raquel Fialho (raqfialho)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T17:30:00Z",
+      "endTime": "2024-09-24T18:15:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal Gutenberg: Let's make it even better!",
+      "location": "Location Room BoF 2 (119)",
+      "description": "We'll present the new features of version 4 but mostly discuss the current state and the next steps for Drupal Gutenberg. Anyone can bring their own topics but here's some of them that we'd like to be discussed: - How Gutenberg will fit in Experience Builder.",
+      "link": "https://events.drupal.org//barcelona2024/session/drupal-gutenberg-lets-make-it-even-better",
+      "track": "bof",
+      "speakers": [
+        "Marco Fernandes (Marcofernandes)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T17:30:00Z",
+      "endTime": "2024-09-24T17:50:00Z",
+      "duration": "PT20M",
+      "summary": "Engaging a user in a multibrand environment.",
+      "location": "Location Room 3 (129-130)",
+      "description": "Seamlessly connect users from different brands spaces on a single multibrand website, coordinating identities and promoting engagement through a transversal loyalty experience.",
+      "link": "https://events.drupal.org//barcelona2024/session/engaging-user-multibrand-environment",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Fernando Quintero (Fquintero)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T17:30:00Z",
+      "endTime": "2024-09-24T17:50:00Z",
+      "duration": "PT20M",
+      "summary": "Innovation in action: Building a flexible and scalable Drupal platform for managing 60+ sites on Google Kubernetes Engine",
+      "location": "Location Room 4 (127-128)",
+      "description": "In this session, we would like to share with you the secrets and strategies behind building a Drupal platform on Google Kubernetes Engine in our real example.",
+      "link": "https://events.drupal.org//barcelona2024/session/innovation-action-building-flexible-and-scalable-drupal-platform-managing-60",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Osman SEFEROV (osman_seferov)",
+        "Vladyslav Moskalenko (vmoskalenko)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T17:30:00Z",
+      "endTime": "2024-09-24T18:15:00Z",
+      "duration": "PT45M",
+      "summary": "Issue Triage",
+      "location": "Location Room BoF 4 (121)",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/issue-triage",
+      "track": "contribution topic",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T17:30:00Z",
+      "endTime": "2024-09-24T18:15:00Z",
+      "duration": "PT45M",
+      "summary": "People's wisdom, crafting success one tip at a time",
+      "location": "Location Room BoF 3 (120)",
+      "description": "Everyone has his own little book of professional wisdom (\"cada maestrillo tiene su librillo\" we say in Spanish, which roughly translates to \"each to their own way\").",
+      "link": "https://events.drupal.org//barcelona2024/session/peoples-wisdom-crafting-success-one-tip-time",
+      "track": "bof",
+      "speakers": [
+        "Jorge Lopez-Lago (Kurkuma)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T17:30:00Z",
+      "endTime": "2024-09-24T18:15:00Z",
+      "duration": "PT45M",
+      "summary": "Project Browser: making Starshot's in-browser feature composition a reality",
+      "location": "Location Room 6 (122-123)",
+      "description": "Drupal Starshot puts Project Browser front and center, and will allow users to pick entire site templates and additional features during the installation process.",
+      "link": "https://events.drupal.org//barcelona2024/session/project-browser-making-starshots-browser-feature-composition-reality",
+      "track": "drupal starshot",
+      "speakers": [
+        "Christopher Wells (chrisfromredfin)",
+        "Leslie Glynn (leslieg)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T17:30:00Z",
+      "endTime": "2024-09-24T17:50:00Z",
+      "duration": "PT20M",
+      "summary": "The Evolution of Customer Interaction on a Pioneering Telecom Website in a Developing Country",
+      "location": "Location Room 2 (131-132)",
+      "description": "Over a decade ago, a leading Telecom company embarked on a digital journey with the launch of its website using Drupal 6. Navigating the unique challenges posed by users in a developing country, the journey unfolded.",
+      "link": "https://events.drupal.org//barcelona2024/session/evolution-customer-interaction-pioneering-telecom-website-developing-country",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Eashika Naznin Easha (enaznin)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T17:30:00Z",
+      "endTime": "2024-09-24T18:15:00Z",
+      "duration": "PT45M",
+      "summary": "The future of DrupalCamps - Hosting in-person events in the post-COVID era",
+      "location": "Location Room BoF 1 (118)",
+      "description": "The Drupal community is spread across the globe. Bringing the community together to foster collaboration and exchange, as well as to bring new people into the community, is a key driver of Drupal's success.",
+      "link": "https://events.drupal.org//barcelona2024/session/future-drupalcamps-hosting-person-events-post-covid-era",
+      "track": "bof",
+      "speakers": [
+        "Niklas Franke (Heroicnick)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T17:30:00Z",
+      "endTime": "2024-09-24T18:15:00Z",
+      "duration": "PT45M",
+      "summary": "Total Energies x Jakala: Achieving quality in large scale Drupal projects​: Retrospective on a Site Factory migration (Sponsored by Jakala)",
+      "location": "Location Sponsor Workshop Room M211+M212",
+      "description": "Join us to explore the journey of TotalEnergies in migrating 200 websites from Drupal 7 to Drupal 10.",
+      "link": "https://events.drupal.org//barcelona2024/session/total-energies-x-jakala-achieving-quality-large-scale-drupal-projects",
+      "track": "sponsor talks",
+      "speakers": [
+        "Stephane Streng (Stephstreng)",
+        "Laurent Poinsignon (Spif)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T17:55:00Z",
+      "endTime": "2024-09-24T18:15:00Z",
+      "duration": "PT20M",
+      "summary": "Accelerating Transformation in Web Accessibility on Enterprise Level",
+      "location": "Location Room 3 (129-130)",
+      "description": "We are all familiar with the concept of accessibility and its significance. In today's digital world, ensuring accessibility is not only a legal requirement but also a crucial element in creating inclusive and user-centered experiences for consumers.",
+      "link": "https://events.drupal.org//barcelona2024/session/accelerating-transformation-web-accessibility-enterprise-level",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Antonella Severo (antonellasevero)",
+        "Sarah Mens-Escalas (Na)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T17:55:00Z",
+      "endTime": "2024-09-24T18:15:00Z",
+      "duration": "PT20M",
+      "summary": "Catch 'em all: how to tackle major updates and refactors without releasing bugs to production.",
+      "location": "Location Room 5 (124-125)",
+      "description": "Practical insights and best practices for Drupal major version at once for 35+ sites hosted on AWS.",
+      "link": "https://events.drupal.org//barcelona2024/session/catch-em-all-how-tackle-major-updates-and-refactors-without-releasing-bugs",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Valentin Garushev"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T17:55:00Z",
+      "endTime": "2024-09-24T18:15:00Z",
+      "duration": "PT20M",
+      "summary": "Drupal's Bundle Classes to Better Code",
+      "location": "Location Room 4 (127-128)",
+      "description": "Bundle classes are PHP classes that define the structure and behavior of an entity bundle. Bundle classes in Drupal can help to separate logic and reduce coupling between modules by providing a centralized location for entity-related code.",
+      "link": "https://events.drupal.org//barcelona2024/session/drupals-bundle-classes-better-code",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Santhosh Kumar Gurram (santhoshkumar-gurram)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T17:55:00Z",
+      "endTime": "2024-09-24T18:15:00Z",
+      "duration": "PT20M",
+      "summary": "Jumpstart your Drupal contribution with Bug Smash Initiative",
+      "location": "Location Room 2 (131-132)",
+      "description": "If you want to contribute to Drupal but are not sure where to start, or if you are frustrated by a core bug and want to see it fixed, join us in the Bug Smash Initiative! Prerequisite None but some familiarity with the Drupal core contribution process would be beneficial.",
+      "link": "https://events.drupal.org//barcelona2024/session/jumpstart-your-drupal-contribution-bug-smash-initiative",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Pamela Barone (pameeela)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-24T18:15:00Z",
+      "endTime": "2024-09-24T19:15:00Z",
+      "duration": "PT1H",
+      "summary": "Opening reception",
+      "location": "",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/opening-reception",
+      "track": "other",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T08:45:00Z",
+      "endTime": "2024-09-25T09:30:00Z",
+      "duration": "PT45M",
+      "summary": "Bridging the gap: Unlocking Non-Code Contributions",
+      "location": "Location Room 2 (131-132)",
+      "description": "We all know about Non-code Contribution, but do we truly understand how it works? This panel discussion aims to shed light on what it involves, its challenges, and more, all from the perspective of contributors themselves.",
+      "link": "https://events.drupal.org//barcelona2024/session/bridging-gap-unlocking-non-code-contributions",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Surabhi Gokte (Surabhi-gokte)",
+        "Baddy Sonja Breidert (baddysonja)",
+        "Shawn Perritt (SPerritt)",
+        "Lenny Moskalyk (Lenny Moskalyk)",
+        "Seferiba Salif SOULAMA (soulsesa)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T08:45:00Z",
+      "endTime": "2024-09-25T09:30:00Z",
+      "duration": "PT45M",
+      "summary": "Deploy all your sites, all the ways, all the time. (Sponsored by amazee.io)",
+      "location": "Location Sponsor Workshop Room M211+M212",
+      "description": "At amazee.io, we’ve encountered virtually every method of managing the deployment of multiple Drupal sites. Whether you’re running a few personal sites, managing a medium-sized agency, or overseeing a vast portfolio of brand sites, you’ll find valuable insights here.",
+      "link": "https://events.drupal.org//barcelona2024/session/deploy-all-your-sites-all-ways-all-time-sponsored-amazeeio",
+      "track": "sponsor talks",
+      "speakers": [
+        "Toby Bellwood (tobybellwood)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T08:45:00Z",
+      "endTime": "2024-09-25T09:30:00Z",
+      "duration": "PT45M",
+      "summary": "Fast Tracks to Compensation: Revolutionising Rail Claims with Drupal and AI - A Case Study",
+      "location": "Location Room 3 (129-130)",
+      "description": "In a world where time is money, discover how we revolutionised the rail industry's Delay Repay claims management system using Drupal and AI, and reduced their processing time from 30 minutes to 5.",
+      "link": "https://events.drupal.org//barcelona2024/session/fast-tracks-compensation-revolutionising-rail-claims-drupal-and-ai-case-study",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "James Abrahams (Yautja_cetanu)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T08:45:00Z",
+      "endTime": "2024-09-25T09:30:00Z",
+      "duration": "PT45M",
+      "summary": "Git on the Command Line - Office Hours",
+      "location": "Location Room BoF 2 (119)",
+      "description": "Do you want to improve your productivity and confidence with git? Let's work together to look at the basics of git on the command-line, and try to solve specific problems you may have. You can bring any project or concern or skill you want to work on. I'll share my preferred strategies.",
+      "link": "https://events.drupal.org//barcelona2024/session/git-command-line-office-hours",
+      "track": "bof",
+      "speakers": [
+        "Randy Fay (rfay)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T08:45:00Z",
+      "endTime": "2024-09-25T09:30:00Z",
+      "duration": "PT45M",
+      "summary": "How I shoe-horned Drupal and PHP into Reykjavik University's Curriculum",
+      "location": "Location Room BoF 1 (118)",
+      "description": "Very few universities teach PHP as part of their curriculum, since it's not \"fancy\" enough. In 2020 I was able to shoehorn in a class, with a little bit of disguise, into the curriculum of Reykjavik University, where I'm now teaching it for the fifth time.",
+      "link": "https://events.drupal.org//barcelona2024/session/how-i-shoe-horned-drupal-and-php-reykjavik-universitys-curriculum",
+      "track": "bof",
+      "speakers": [
+        "Hilmar Kári Hallbjörnsson (Drupalviking)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T08:45:00Z",
+      "endTime": "2024-09-25T09:30:00Z",
+      "duration": "PT45M",
+      "summary": "Lessons from 12 years of mapping animals in and out of Drupal",
+      "location": "Location Room 4 (127-128)",
+      "description": "Take a tip and bookmark packed dive through the vast landscape of interactive mapping sofware via tales of mapping seabirds, seals, sharks, trees, bears and more, and learn how far too many housecats almost put this developer off Drupal for life.",
+      "link": "https://events.drupal.org//barcelona2024/session/lessons-12-years-mapping-animals-and-out-drupal",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Filip Hnízdo (Filipnest)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T08:45:00Z",
+      "endTime": "2024-09-25T09:30:00Z",
+      "duration": "PT45M",
+      "summary": "Let’s burst our bubble: projects, products, estimates and forecasts.",
+      "location": "Location Room 5 (124-125)",
+      "description": "Software estimation, despised by many, is one of the most contentious subjects in the world of software development. Constantly creating tension between developers, project managers, product managers, clients, budget holders and stakeholders.",
+      "link": "https://events.drupal.org//barcelona2024/session/lets-burst-our-bubble-projects-products-estimates-and-forecasts",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Tassos Koutlas (Tassos)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T08:45:00Z",
+      "endTime": "2024-09-25T09:30:00Z",
+      "duration": "PT45M",
+      "summary": "Membership Breakfast for Ripple Makers",
+      "location": "Location Room BoF 3 (120)",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/membership-breakfast-ripple-makers",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Jitka Pilar (Jitka_pilar)",
+        "Julia Kranzthor (JR_KThor)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T08:45:00Z",
+      "endTime": "2024-09-25T09:30:00Z",
+      "duration": "PT45M",
+      "summary": "The Admin UI Redesign Process",
+      "location": "Location Room 6 (122-123)",
+      "description": "Curious about the design process behind the Drupal Admin UI redesign initiative? Join us as we walk you through the research, design and collaboration process while sharing concepts that didn't quite make the cut.",
+      "link": "https://events.drupal.org//barcelona2024/session/admin-ui-redesign-process",
+      "track": "drupal starshot",
+      "speakers": [
+        "Jen Witkowski (jwitkowski79)",
+        "Stephanie Ganzer (StephanieGanzer)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T08:45:00Z",
+      "endTime": "2024-09-25T09:30:00Z",
+      "duration": "PT45M",
+      "summary": "The Circular Economy: Creating a Unique Search Experience to Facilitate an Environmentally Friendly Community",
+      "location": "Location Room 1 (133-134)",
+      "description": "Love Essex is a site dedicated to dealing with waste in a responsible and environmentally friendly manner. Discover how the end user was at the very core of the creation process for this unique approach to functionality, education, and guidance.",
+      "link": "https://events.drupal.org//barcelona2024/session/circular-economy-creating-unique-search-experience-facilitate-environmentally",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Anthony Lindsay (Anthonylindsay)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T08:45:00Z",
+      "endTime": "2024-09-25T09:30:00Z",
+      "duration": "PT45M",
+      "summary": "UI Suite DaisyUI Live Demo",
+      "location": "Location Room BoF 4 (121)",
+      "description": "UI Suite aims to improve Display building experience by integrating full Design systems (components, style utilities, layouts, examples, CSS variables, themes, icons sets, ...) in configuration everywhere in the Drupal UI.",
+      "link": "https://events.drupal.org//barcelona2024/session/ui-suite-daisyui-live-demo",
+      "track": "bof",
+      "speakers": [
+        "Michael Fanini (G4mbini)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T09:00:00Z",
+      "endTime": "2024-09-25T18:00:00Z",
+      "duration": "PT9H",
+      "summary": "General Contribution Day 2",
+      "location": "Location Contribution Room (Area 1)",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/general-contribution-day-2",
+      "track": "contribution topic",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T09:30:00Z",
+      "endTime": "2024-09-25T10:00:00Z",
+      "duration": "PT30M",
+      "summary": "Coffee Break 1, Wednesday",
+      "location": "",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/coffee-break-1-wednesday",
+      "track": "coffee \u0026 lunch break time",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T09:30:00Z",
+      "endTime": "2024-09-25T09:45:00Z",
+      "duration": "PT15M",
+      "summary": "Experts in Drupal (Sponsored by Hiberus)",
+      "location": "Location Open Stage - Exhibition",
+      "description": "We are one of the leading technology consulting companies with 100% private capital nationwide in Spain.",
+      "link": "https://events.drupal.org//barcelona2024/session/experts-drupal-sponsored-hiberus",
+      "track": "sponsor talks",
+      "speakers": [
+        "Adrián Marín (amarincolas)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T09:45:00Z",
+      "endTime": "2024-09-25T10:00:00Z",
+      "duration": "PT15M",
+      "summary": "How we improved service quality through innovation: Introducing SiteGuardian (Sponsored by CACI Digital Experience, Formely Cyber-Duck)",
+      "location": "Location Open Stage - Exhibition",
+      "description": "CACI Digital Experience (formerly Cyber-Duck) has been driving digital transformation for over 19 years, leveraging Drupal to deliver impactful solutions. Our clients include renowned organisations such as Sport England, the College of Policing, and the Bank of England.",
+      "link": "https://events.drupal.org//barcelona2024/session/how-we-improved-service-quality-through-innovation-introducing-siteguardian",
+      "track": "sponsor talks",
+      "speakers": [
+        "Enrique Worwa"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T10:00:00Z",
+      "endTime": "2024-09-25T11:15:00Z",
+      "duration": "PT1H15M",
+      "summary": "Coding beyond functionality. Altering technologies through artistic research.",
+      "location": "Location Auditorium",
+      "description": "In a moment when all conversations about technology seem to center on AI, machine learning, and the need for vast, unattainable resources, this keynote seeks to reclaim the importance of open, unproductive, unstable, and maker-culture-like practices.",
+      "link": "https://events.drupal.org//barcelona2024/session/coding-beyond-functionality-altering-technologies-through-artistic-research",
+      "track": "keynote",
+      "speakers": [
+        "Mónica Rikić"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T11:30:00Z",
+      "endTime": "2024-09-25T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Breaking Boundaries: A Success Story of Crafting a Decoupled Web Portal for IDMC a part of the Norwegian Refugee Council (NRC)",
+      "location": "Location Room 3 (129-130)",
+      "description": "The Internal Displacement Monitoring Centre (IDMC) is the world’s leading data source and analysis on internal displacement.",
+      "link": "https://events.drupal.org//barcelona2024/session/breaking-boundaries-success-story-crafting-decoupled-web-portal-idmc-part",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Kartik Shukla (Kartikshukla)",
+        "Annam Ravin (annam-sreenivasan)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T11:30:00Z",
+      "endTime": "2024-09-25T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Building the future of Drupal: 11, 12 and Starshot",
+      "location": "Location Room 4 (127-128)",
+      "description": "As of DrupalCon Barcelona 2024, Drupal 11.0 is still very new, but we already know when Drupal 12 will be released. Work on Starshot is well underway, and the Driesnote will provide a high-level update on its progress.",
+      "link": "https://events.drupal.org//barcelona2024/session/building-future-drupal-11-12-and-starshot",
+      "track": "drupal starshot",
+      "speakers": [
+        "Gábor Hojtsy (Gábor Hojtsy)",
+        "Tim Plunkett (tim.plunkett)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T11:30:00Z",
+      "endTime": "2024-09-25T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal Association Ripple Maker Roundtable",
+      "location": "Location Room BoF 3 (120)",
+      "description": "All Drupal Association individual members are invited to this round table discussion. The DA team will present our vision for the future of the membership program, and invite your questions and feedback. Experience levelBeginner",
+      "link": "https://events.drupal.org//barcelona2024/session/drupal-association-ripple-maker-roundtable",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Julia Kranzthor (JR_KThor)",
+        "Jitka Pilar (Jitka_pilar)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T11:30:00Z",
+      "endTime": "2024-09-25T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal for galleries, libraries, archives and museums (GLAM)",
+      "location": "Location Room BoF 1 (118)",
+      "description": "Let's exchange ideas on best practices for designing and developing Drupal digital repositories that cater to the unique needs of galleries, libraries, archives, and museums.",
+      "link": "https://events.drupal.org//barcelona2024/session/drupal-galleries-libraries-archives-and-museums-glam",
+      "track": "bof",
+      "speakers": [
+        "Akanksha Singh (bibliophileaxe)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T11:30:00Z",
+      "endTime": "2024-09-25T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "First-time contributor workshop 1",
+      "location": "Location Room BoF 4 (121)",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/first-time-contributor-workshop-1-1",
+      "track": "contribution topic",
+      "speakers": [
+        "James Shields (Lostcarpark)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T11:30:00Z",
+      "endTime": "2024-09-25T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "From CMS to DXP: Bring your investment in Drupal to the next level (Sponsored by Dropsolid)",
+      "location": "Location Sponsor Workshop Room M211+M212",
+      "description": "Now that everyone sees how important it is to build an open DXP to deliver personalised digital experiences to deliver ROI to customers in the form of double engagement and conversion rates, let's look at the fundamentals needed.",
+      "link": "https://events.drupal.org//barcelona2024/session/cms-dxp-bring-your-investment-drupal-next-level-sponsored-dropsolid",
+      "track": "sponsor talks",
+      "speakers": [
+        "Dominique De Cooman (Domidc)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T11:30:00Z",
+      "endTime": "2024-09-25T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Getting started with la_eu: local association site",
+      "location": "Location Room BoF 2 (119)",
+      "description": "The Dutch Drupal association shared their code for drupal.nl with the community. This resulted in the la_eu project. Multiple countries have launched their local site using this template and translated the english content to their language.",
+      "link": "https://events.drupal.org//barcelona2024/session/getting-started-laeu-local-association-site",
+      "track": "bof",
+      "speakers": [
+        "Björn Brala (bbrala)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T11:30:00Z",
+      "endTime": "2024-09-25T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Large-scale content creation with Drupal — Delights, Pitfalls and support structures to help editors",
+      "location": "Location Room 1 (133-134)",
+      "description": "The new Website of a large public administration in Switzerland is based on Drupal. With a new structure and a setup built from scratch, the new website offers a state-of-the-art user experience. But to make this work, nearly all content had to be created from scratch.",
+      "link": "https://events.drupal.org//barcelona2024/session/large-scale-content-creation-drupal-delights-pitfalls-and-support-structures",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Jonathan Noack (Jonock)",
+        "Thomas Nagy (Thomnagy)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T11:30:00Z",
+      "endTime": "2024-09-25T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Reinventing the Digital Agency Business Model",
+      "location": "Location Room 5 (124-125)",
+      "description": "The traditional digital agency business model is broken. By embracing an agile mindset and self-organization, we can reinvent our businesses in ways that increase engagement, reduce burnout, and improve outcomes.",
+      "link": "https://events.drupal.org//barcelona2024/session/reinventing-digital-agency-business-model",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "George DeMet (gdemet)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T11:30:00Z",
+      "endTime": "2024-09-25T13:15:00Z",
+      "duration": "PT1H45M",
+      "summary": "Web AccessibIlity and Site Governance with Drupal",
+      "location": "Location Room 6 (122-123)",
+      "description": "How can we better build and maintain websites with accessibility built-in? This session hopes to explore best practices in accessibility-led website building and maintainance in Drupal.",
+      "link": "https://events.drupal.org//barcelona2024/session/web-accessibility-and-site-governance-drupal",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "John Lockhart (jwlockhart)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T11:30:00Z",
+      "endTime": "2024-09-25T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Webforms for everyone. Explore alternatives UIs for editors to create their own online forms",
+      "location": "Location Room 2 (131-132)",
+      "description": "Webform is a great form builder but the complete interface can be too daunting for the typical Drupal editor Prerequisite Having played at least once with webform is enough to be able to get some insights from the session although some code will be presented.",
+      "link": "https://events.drupal.org//barcelona2024/session/webforms-everyone-explore-alternatives-uis-editors-create-their-own-online",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Rodrigo Aguilera (Rodrigoaguilera)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T12:30:00Z",
+      "endTime": "2024-09-25T13:15:00Z",
+      "duration": "PT45M",
+      "summary": "Designing for Privacy: Techniques and Methodologies for Balancing User Needs and Data Security",
+      "location": "Location Room 1 (133-134)",
+      "description": "Hello! I'm Piyuesh, Director of Technology at QED42. Our team led a successful session at DrupalCon Lille, and I'm thrilled to share some advanced tips for creating secure digital experiences.",
+      "link": "https://events.drupal.org//barcelona2024/session/designing-privacy-techniques-and-methodologies-balancing-user-needs-and-data",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Piyuesh Kumar (piyuesh23)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T12:30:00Z",
+      "endTime": "2024-09-25T13:15:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal AI: Once again leading the way with the new golden era of the web - The AI Module and Starshot",
+      "location": "Location Auditorium",
+      "description": "Time and time again Drupal has led the way in the golden era of the web and we continued to do so with AI.",
+      "link": "https://events.drupal.org//barcelona2024/session/drupal-ai-once-again-leading-way-new-golden-era-web-ai-module-and-starshot",
+      "track": "drupal starshot",
+      "speakers": [
+        "Marcus Johansson (Marcus_johansson)",
+        "James Abrahams (Yautja_cetanu)",
+        "Frederik Wouters (Wouters_f)",
+        "Martin Anderson-Clutz (Mandclu)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T12:30:00Z",
+      "endTime": "2024-09-25T13:15:00Z",
+      "duration": "PT45M",
+      "summary": "Drush - open discussion",
+      "location": "Location Room BoF 4 (121)",
+      "description": "Come with any topics you'd like to discuss. I'll come with some notes on the changes in Drush 13 in case folks want to hear about that.",
+      "link": "https://events.drupal.org//barcelona2024/session/drush-open-discussion",
+      "track": "bof",
+      "speakers": [
+        "Moshe Weitzman (moshe weitzman)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T12:30:00Z",
+      "endTime": "2024-09-25T13:15:00Z",
+      "duration": "PT45M",
+      "summary": "Exploring Agile Contracts: Maximizing Collaboration and Value in Client Relationships",
+      "location": "Location Room 5 (124-125)",
+      "description": "Agile methodologies have revolutionized the way development projects are executed, emphasizing flexibility, collaboration, and value delivery. However, the traditional contract models often do not fully align with agile principles.",
+      "link": "https://events.drupal.org//barcelona2024/session/exploring-agile-contracts-maximizing-collaboration-and-value-client",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Jorge Tutor (Gedur)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T12:30:00Z",
+      "endTime": "2024-09-25T13:15:00Z",
+      "duration": "PT45M",
+      "summary": "Key Technical Decisions framework",
+      "location": "Location Room BoF 3 (120)",
+      "description": "In depth discussion about the Key Technical Decisions framework and process that was introduced in Lille 2023.",
+      "link": "https://events.drupal.org//barcelona2024/session/key-technical-decisions-framework",
+      "track": "bof",
+      "speakers": [
+        "Jorge Lopez-Lago (Kurkuma)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T12:30:00Z",
+      "endTime": "2024-09-25T13:15:00Z",
+      "duration": "PT45M",
+      "summary": "Opening up Drupal's terminology",
+      "location": "Location Room BoF 1 (118)",
+      "description": "We want Drupal to be inclusive and accessible to everyone, and that starts with the words we use. The 'Drupalisms' issue was born from a belief that people shouldn't need to know how to ‘speak Drupal’ to be able to use it to create outstanding digital user experiences.",
+      "link": "https://events.drupal.org//barcelona2024/session/opening-drupals-terminology",
+      "track": "bof",
+      "speakers": [
+        "Emma Horrell (emma-horrell)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T12:30:00Z",
+      "endTime": "2024-09-25T13:15:00Z",
+      "duration": "PT45M",
+      "summary": "Refactoring the DrupalCon Submission Review Process: A mini-retro with a focus to improve for next year",
+      "location": "Location Room BoF 2 (119)",
+      "description": "We will review the results of the DrupalCon Europe Submissions Survey, talk about some key takeaways and actions, and open the floor for community members to give their insights and experiences.",
+      "link": "https://events.drupal.org//barcelona2024/session/refactoring-drupalcon-submission-review-process-mini-retro-focus-improve-next",
+      "track": "bof",
+      "speakers": [
+        "Jeremy Chinquist (Jjchinquist)",
+        "Aikaterine Tsiboukas (Bletch)",
+        "Antonella Severo (antonellasevero)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T12:30:00Z",
+      "endTime": "2024-09-25T13:15:00Z",
+      "duration": "PT45M",
+      "summary": "Revisiting how to organise a Drupal event in your city or country: curiosities, tips and lessons learned",
+      "location": "Location Room 2 (131-132)",
+      "description": "\"Come for the code, stay for the community\" – this is Drupal's motto, but...is it difficult to build community on your location, given the post-pandemic new reality, remote work, etc.? The answer is absolutely not! Prerequisite",
+      "link": "https://events.drupal.org//barcelona2024/session/revisiting-how-organise-drupal-event-your-city-or-country-curiosities-tips",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Pedro Cambra (Pcambra)",
+        "Niklas Franke (Heroicnick)",
+        "Ricardo Amaro (Ricardoamaro)",
+        "Nick Veenhof (Nick_vh)",
+        "Cristina Chumillas (ckrina)",
+        "Hernani Borges De Freitas (Hernani)",
+        "Anne-Sophie PICOT (Asplamagnifique)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T12:30:00Z",
+      "endTime": "2024-09-25T12:50:00Z",
+      "duration": "PT20M",
+      "summary": "Third-Party Cookies Phase-out \u0026 Server-Side Tagging",
+      "location": "Location Room 3 (129-130)",
+      "description": "Did you know that an average internet user is tracked by hundreds of trackers every day, often without their explicit consent? This invisible tracking has fueled the digital advertising industry but at the cost of privacy.",
+      "link": "https://events.drupal.org//barcelona2024/session/third-party-cookies-phase-out-server-side-tagging",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Tihomir Radev (T.Radev)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T12:30:00Z",
+      "endTime": "2024-09-25T13:15:00Z",
+      "duration": "PT45M",
+      "summary": "Using AI to Speed Up Drupal Personalization (Sponsored by Pantheon)",
+      "location": "Location Sponsor Workshop Room M211+M212",
+      "description": "Personalization has long been a \"holy grail\" for many web teams. Legendary in its power. But also hidden in parts unknown, out of reach. It takes a heroic journey to get there. Or does it?",
+      "link": "https://events.drupal.org//barcelona2024/session/using-ai-speed-drupal-personalization-sponsored-pantheon",
+      "track": "sponsor talks",
+      "speakers": [
+        "Alex Moreno",
+        "Josh Koenig (Joshk)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T12:55:00Z",
+      "endTime": "2024-09-25T13:15:00Z",
+      "duration": "PT20M",
+      "summary": "Helping nonprofits personalize Drupal websites with a CDP",
+      "location": "Location Room 3 (129-130)",
+      "description": "While many nonprofits would like to add personalization to the website, most remain stuck at the starting line. We’ll walk through how we are piloting personalization for Boston Children's Hospital with no additional software costs using Lytics.",
+      "link": "https://events.drupal.org//barcelona2024/session/helping-nonprofits-personalize-drupal-websites-cdp",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Sam Zimmerman (Sam Zimmerman)",
+        "Annam Ravin (annam-sreenivasan)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T13:15:00Z",
+      "endTime": "2024-09-25T14:30:00Z",
+      "duration": "PT1H15M",
+      "summary": "Lunch Break, Wednesday",
+      "location": "",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/lunch-break-wednesday",
+      "track": "coffee \u0026 lunch break time",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T13:15:00Z",
+      "endTime": "2024-09-25T13:30:00Z",
+      "duration": "PT15M",
+      "summary": "Progressive Migration Magic: Migrating Large Scale Drupal 7 Apps (Sponsored by Opensense Labs Pvt Ltd)",
+      "location": "Location Open Stage - Exhibition",
+      "description": "Discover how to navigate the complexities of migrating large-scale Drupal 7 applications. Our session will delve into real-world case studies, best practices, and expert insights to help you successfully transition to the latest Drupal versions.",
+      "link": "https://events.drupal.org//barcelona2024/session/progressive-migration-magic-migrating-large-scale-drupal-7-apps-sponsored",
+      "track": "sponsor talks",
+      "speakers": [
+        "Mohammad Danish Usmani (Danishusmani)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T13:30:00Z",
+      "endTime": "2024-09-25T13:45:00Z",
+      "duration": "PT15M",
+      "summary": "How not to be a Drupal Community’s Vampire? (Sponsored by NTT Data)",
+      "location": "Location Open Stage - Exhibition",
+      "description": "Commitment is an intrinsic part of NTT DATA’s corporate culture, and this of course applies to the Drupal community.",
+      "link": "https://events.drupal.org//barcelona2024/session/how-not-be-drupal-communitys-vampire-sponsored-ntt-data",
+      "track": "sponsor talks",
+      "speakers": [
+        "Raquel Fialho (raqfialho)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T13:30:00Z",
+      "endTime": "2024-09-25T14:00:00Z",
+      "duration": "PT30M",
+      "summary": "Single Directory Components - a new web of possibilities (Sponsored by Hounder)",
+      "location": "Location Auditorium",
+      "description": "The Single Directory Component module (SDC), now integrated into Drupal core, offers indispensable benefits for effectively managing content organization and presentation on your website and directly support the Starshot initiative.",
+      "link": "https://events.drupal.org//barcelona2024/session/single-directory-components-new-web-possibilities-sponsored-hounder",
+      "track": "sponsor talks",
+      "speakers": [
+        "Joshua Northcott (Joshnorthcott)",
+        "Austin Amento (Austin.amento)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T13:45:00Z",
+      "endTime": "2024-09-25T14:00:00Z",
+      "duration": "PT15M",
+      "summary": "Centarro Insights: Sales Analytics and Reports for Drupal Commerce (Sponsored by Centarro)",
+      "location": "Location Open Stage - Exhibition",
+      "description": "Drupal Commerce 2.37 added a dashboard for merchants to track their store's performance and receive updates from the project and module maintainers. It delivers useful summary statistics, but it is limited just to basic queries against the order tables in your store.",
+      "link": "https://events.drupal.org//barcelona2024/session/centarro-insights-sales-analytics-and-reports-drupal-commerce-sponsored",
+      "track": "sponsor talks",
+      "speakers": [
+        "Ryan Szrama (Rszrama)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T14:00:00Z",
+      "endTime": "2024-09-25T14:15:00Z",
+      "duration": "PT15M",
+      "summary": "How to set up cooperation with an AI vendor? (Sponsored by Lemberg Solutions)",
+      "location": "Location Open Stage - Exhibition",
+      "description": "Are you an agency considering extending your offering with AI services or a business looking to enhance your product using AI technologies? If any of the latter describes your case, you're in the right place.",
+      "link": "https://events.drupal.org//barcelona2024/session/how-set-cooperation-ai-vendor-sponsored-lemberg-solutions",
+      "track": "sponsor talks",
+      "speakers": [
+        "Roy Vikovych"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T14:30:00Z",
+      "endTime": "2024-09-25T15:45:00Z",
+      "duration": "PT1H15M",
+      "summary": "Building Safer Digital Communities - The Mission of \"Defend Iceland\"",
+      "location": "Location Auditorium",
+      "description": "In November 2023, Theódór Ragnar Gíslason, CTO and Head of Innovation at Syndis, an Icelandic cybersecurity firm, secured a €2.53M grant from the European Commission as part of the Digital Europe plan.",
+      "link": "https://events.drupal.org//barcelona2024/session/building-safer-digital-communities-mission-defend-iceland",
+      "track": "keynote",
+      "speakers": [
+        "Theodor Gislason"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T16:00:00Z",
+      "endTime": "2024-09-25T16:45:00Z",
+      "duration": "PT45M",
+      "summary": "Building strong virtual communities and digital ecosystems using Drupal: Transforming clients into happy engaged members of a flourishing ecosystem",
+      "location": "Location Room 1 (133-134)",
+      "description": "Building bonded and loyal communities centered around common interests and needs is a pivotal strategy in marketing. We are going to delve into best practises and smart ideas of forming such vibrant communities and ecosystems.",
+      "link": "https://events.drupal.org//barcelona2024/session/building-strong-virtual-communities-and-digital-ecosystems-using-drupal",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Georgios Andreadis (esepia)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T16:00:00Z",
+      "endTime": "2024-09-25T16:45:00Z",
+      "duration": "PT45M",
+      "summary": "Developer Debugging Toolkit: Practical Techniques for Debugging Drupal Cache Problems",
+      "location": "Location Room 3 (129-130)",
+      "description": "Unlock the mysteries of Drupal cache woes with our Developer Debugging Toolkit! Dive into practical techniques that'll empower you to conquer cache issues and turbocharge your site's performance.",
+      "link": "https://events.drupal.org//barcelona2024/session/developer-debugging-toolkit-practical-techniques-debugging-drupal-cache",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Ovanes Budakyan (ovanes)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T16:00:00Z",
+      "endTime": "2024-09-25T16:45:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal Association Public Board Meeting",
+      "location": "Location Auditorium",
+      "description": "Join us for a public board meeting of the Drupal Association. Board members will talk about future programs, conduct regular business to support the Drupal Association's non-profit operations, and and answer community questions. Experience levelBeginner",
+      "link": "https://events.drupal.org//barcelona2024/session/drupal-association-public-board-meeting",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Tim Doyle (Tim D.)",
+        "Owen Lansbury (owenlansbury)",
+        "Dries Buytaert (Dries)",
+        "Tiffany Farriss (Farriss)",
+        "Nikhil Deshpande (Nikofthehill)",
+        "and the rest of the DA board"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T16:00:00Z",
+      "endTime": "2024-09-25T16:45:00Z",
+      "duration": "PT45M",
+      "summary": "DrupalCon’s Got Talent game show, test your skills and win prizes!",
+      "location": "Location Room 6 (122-123)",
+      "description": "Fancy yourself as someone with mad website building skillz!? Think you have the creds to win the game show of the year? Then join the DrupalCon’s Got Talent’ (DGT) game show, the CivicTheme design system edition! Prerequisite Beginner Drupal content Management",
+      "link": "https://events.drupal.org//barcelona2024/session/drupalcons-got-talent-game-show-test-your-skills-and-win-prizes",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Suchi Garg (gargsuchi)",
+        "Akhil Bhandari (Akhil@salsa)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T16:00:00Z",
+      "endTime": "2024-09-25T16:45:00Z",
+      "duration": "PT45M",
+      "summary": "Get Paid and Famed for Core Accessibility Contributions",
+      "location": "Location Room BoF 2 (119)",
+      "description": "Sometimes working on a client project we run into accessibility issues that could be fixed in the core (or contrib). Let's always try to do just that. It's sometimes even easier - and you get credit for it, maybe even your client.",
+      "link": "https://events.drupal.org//barcelona2024/session/get-paid-and-famed-core-accessibility-contributions",
+      "track": "bof",
+      "speakers": [
+        "Simo Hellsten (Simohell)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T16:00:00Z",
+      "endTime": "2024-09-25T16:45:00Z",
+      "duration": "PT45M",
+      "summary": "How to Promote Drupal: The ultimate toolkit",
+      "location": "Location Room 2 (131-132)",
+      "description": "Crafting your content involves more than just sharing a success story. In this session, we will share best practices involved in standing out among the noise, along with the ultimate toolkit for being a Drupal ambassador, covering how to approach:",
+      "link": "https://events.drupal.org//barcelona2024/session/how-promote-drupal-ultimate-toolkit",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Rosie Gladden (rgladden)",
+        "Paul Johnson (pdjohnson)",
+        "Emma Horrell (emma-horrell)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T16:00:00Z",
+      "endTime": "2024-09-25T16:45:00Z",
+      "duration": "PT45M",
+      "summary": "Kindness costs nothing: Leadership for a modern engineering organization",
+      "location": "Location Room 5 (124-125)",
+      "description": "Leadership doesn't come from a title and having oodles of experience won't make you a great manager, so what does? Prerequisite None",
+      "link": "https://events.drupal.org//barcelona2024/session/kindness-costs-nothing-leadership-modern-engineering-organization",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Shawna Spoor (shawna.s)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T16:00:00Z",
+      "endTime": "2024-09-25T16:45:00Z",
+      "duration": "PT45M",
+      "summary": "Leveraging the Command Pattern: Enhancing Drupal with Symfony Messenger",
+      "location": "Location Room BoF 1 (118)",
+      "description": "Managing user interactions can be complicated. Some operations must be executed immediately, whereas others can be scheduled for the future. Drupal core has batches and queues, but we can do better. We can dispatch commands that can be synchronous and asynchronous, in real-time or delayed.",
+      "link": "https://events.drupal.org//barcelona2024/session/leveraging-command-pattern-enhancing-drupal-symfony-messenger",
+      "track": "bof",
+      "speakers": [
+        "Luca Lusso (lussoluca)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T16:00:00Z",
+      "endTime": "2024-09-25T16:45:00Z",
+      "duration": "PT45M",
+      "summary": "Mastering Enterprise Digital Solutions with Drupal: Unlocking the Power of Contrib Modules (Sponsored by Factorial GmbH)",
+      "location": "Location Sponsor Workshop Room M211+M212",
+      "description": "In this session we'll explore how we used several key Contrib modules to create a complex, enterprise-level solution in one of our recent projects.",
+      "link": "https://events.drupal.org//barcelona2024/session/mastering-enterprise-digital-solutions-drupal-unlocking-power-contrib-modules",
+      "track": "sponsor talks",
+      "speakers": [
+        "Simon Bäse (Simonbaese)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T16:00:00Z",
+      "endTime": "2024-09-25T16:45:00Z",
+      "duration": "PT45M",
+      "summary": "Mentor orientation 1",
+      "location": "Location Room BoF 4 (121)",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/mentor-orientation-1",
+      "track": "contribution topic",
+      "speakers": [
+        "Rachel Lawson (Rachel_norfolk)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T16:00:00Z",
+      "endTime": "2024-09-25T16:45:00Z",
+      "duration": "PT45M",
+      "summary": "Software Supply Chain Security Deep Dive",
+      "location": "Location Room BoF 3 (120)",
+      "description": "Join the maintainers of Drupal packaging infrastructure, Packagist and Rugged TUF Server for an in-depth discussion and Q\u0026A about how the Drupal Association is helping to keep your Drupal sites up-to-date and secure.",
+      "link": "https://events.drupal.org//barcelona2024/session/software-supply-chain-security-deep-dive",
+      "track": "bof",
+      "speakers": [
+        "Christopher Gervais (Ergonlogic)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T16:00:00Z",
+      "endTime": "2024-09-25T16:45:00Z",
+      "duration": "PT45M",
+      "summary": "UI Patterns 2: Unleash SDC potential, plug your components directly in Drupal UI.",
+      "location": "Location Room 4 (127-128)",
+      "description": "The UI Patterns community has large experience in building component-based Drupal solutions. We rethink UI Patterns to build a flexible and straightforward no-code solution on top of SDC to make it easy for site builders to bring the data to the components.",
+      "link": "https://events.drupal.org//barcelona2024/session/ui-patterns-2-unleash-sdc-potential-plug-your-components-directly-drupal-ui",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Christian Wiedemann (Christian.wiedemann)",
+        "Pierre Dureau (pdureau)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T16:45:00Z",
+      "endTime": "2024-09-25T17:15:00Z",
+      "duration": "PT30M",
+      "summary": "Coffee Break 2, Wednesday",
+      "location": "",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/coffee-break-2-wednesday",
+      "track": "coffee \u0026 lunch break time",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T16:45:00Z",
+      "endTime": "2024-09-25T17:00:00Z",
+      "duration": "PT15M",
+      "summary": "The Future of Digital Experience Platforms and AI Integration (Sponsored by QED42)",
+      "location": "Location Open Stage - Exhibition",
+      "description": "Piyuesh Kumar, Director of Technology at QED42, will explore the evolution of Digital Experience Platforms (DXPs) in addressing modern digital engagement needs and discuss the future of digital solutions with Space DXP integrated with AI technologies.",
+      "link": "https://events.drupal.org//barcelona2024/session/future-digital-experience-platforms-and-ai-integration-sponsored-qed42",
+      "track": "sponsor talks",
+      "speakers": [
+        "Piyuesh Kumar (piyuesh23)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T17:15:00Z",
+      "endTime": "2024-09-25T18:00:00Z",
+      "duration": "PT45M",
+      "summary": "DDEV Office Hours",
+      "location": "Location Room BoF 2 (119)",
+      "description": "Do you have questions about using DDEV, or a particular problem, or just want an introduction to using DDEV? Join us as we work together on anything you want to work on.",
+      "link": "https://events.drupal.org//barcelona2024/session/ddev-office-hours",
+      "track": "bof",
+      "speakers": [
+        "Randy Fay (rfay)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T17:15:00Z",
+      "endTime": "2024-09-25T18:00:00Z",
+      "duration": "PT45M",
+      "summary": "Distracted during meetings? Try Sketchnoting",
+      "location": "Location Room 6 (122-123)",
+      "description": "Distractions, whether internal or external, can significantly impede productivity and focus. Numerous studies have delved into understanding these distractions and devising strategies to mitigate their effects.",
+      "link": "https://events.drupal.org//barcelona2024/session/distracted-during-meetings-try-sketchnoting",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Ashita Jain"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T17:15:00Z",
+      "endTime": "2024-09-25T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "Following Drupal core development: Is it possible to understand every added change?",
+      "location": "Location Room 4 (127-128)",
+      "description": "Drupal moves faster than perceived. Keeping up to date is important and it may be challenging if you are not doing drupal core development full time. Let us explore Drupal core pace of changes, resources to follow it, and some experiences trying to do that.",
+      "link": "https://events.drupal.org//barcelona2024/session/following-drupal-core-development-it-possible-understand-every-added-change",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Marco Villegas (marvil07)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T17:15:00Z",
+      "endTime": "2024-09-25T18:00:00Z",
+      "duration": "PT45M",
+      "summary": "HTTP requests \u0026 more with kernel tests",
+      "location": "Location Room BoF 1 (118)",
+      "description": "Kernel tests are faster to run than browser tests, but they're typically only used for testing APIs.",
+      "link": "https://events.drupal.org//barcelona2024/session/http-requests-more-kernel-tests",
+      "track": "bof",
+      "speakers": [
+        "Joachim Noreiko (Joachim)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T17:15:00Z",
+      "endTime": "2024-09-25T18:00:00Z",
+      "duration": "PT45M",
+      "summary": "Mind \u0026 Body Stress Reduction Activities",
+      "location": "Location Room BoF 4 (121)",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/mind-body-stress-reduction-activities",
+      "track": "other",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T17:15:00Z",
+      "endTime": "2024-09-25T18:00:00Z",
+      "duration": "PT45M",
+      "summary": "Orange - Using Drupal to foster communities around external Digital Asset management system (Sponsored by Annertech)",
+      "location": "Location Sponsor Workshop Room M211+M212",
+      "description": "Introduction",
+      "link": "https://events.drupal.org//barcelona2024/session/orange-using-drupal-foster-communities-around-external-digital-asset",
+      "track": "sponsor talks",
+      "speakers": [
+        "Alan Burke (alanburke)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T17:15:00Z",
+      "endTime": "2024-09-25T18:00:00Z",
+      "duration": "PT45M",
+      "summary": "Rules of development (and everything else for what matters)",
+      "location": "Location Room BoF 3 (120)",
+      "description": "Introduction to my black book of development rules, which I have compiled throughout my career in engineering and software development. We will use some of them as conversation starters so you can bring your own to the table.",
+      "link": "https://events.drupal.org//barcelona2024/session/rules-development-and-everything-else-what-matters",
+      "track": "bof",
+      "speakers": [
+        "Jorge Lopez-Lago (Kurkuma)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T17:15:00Z",
+      "endTime": "2024-09-25T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "Strength through solidarity, resilience and collaboration: Overcoming challenges and productivity phenomenon of Ukrainian Drupal development teams during wartime",
+      "location": "Location Room 2 (131-132)",
+      "description": "Embark on an inspiring journey into the resilience of Ukrainian Drupal development teams amid wartime adversity. Uncover how solidarity, resilience, and collaboration fuel productivity, offering invaluable lessons for teams facing challenges worldwide.",
+      "link": "https://events.drupal.org//barcelona2024/session/strength-through-solidarity-resilience-and-collaboration-overcoming",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Vladyslav Moskalenko (vmoskalenko)",
+        "Osman SEFEROV (osman_seferov)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T17:15:00Z",
+      "endTime": "2024-09-25T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "Terms, Conditions, and Drupal: Spinning Legal Pages into Web Wonders",
+      "location": "Location Room 1 (133-134)",
+      "description": "Welcome, fellow travellers, to a journey through the intricate pathways of legal compliance on the digital highway. Just as traffic laws regulate our conduct on the road, legal pages on your website serve as guiding lights, rules and regulations in the vast expanse of cyberspace.",
+      "link": "https://events.drupal.org//barcelona2024/session/terms-conditions-and-drupal-spinning-legal-pages-web-wonders",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Mirena Dobcheva (mdobcheva)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T17:15:00Z",
+      "endTime": "2024-09-25T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "The final hurdle: Empowering and supporting your pitch team towards success",
+      "location": "Location Room 5 (124-125)",
+      "description": "Not everyone is a natural salesperson, or wants to be. This session will center on how, in an increasingly competitive market, we can best support our pitch teams to win more new business and grow the global Drupal community.",
+      "link": "https://events.drupal.org//barcelona2024/session/final-hurdle-empowering-and-supporting-your-pitch-team-towards-success",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Hannah O'leary (Hannaholeary)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T17:15:00Z",
+      "endTime": "2024-09-25T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "The Web APIs powering the Starshot trial experience",
+      "location": "Location Room 3 (129-130)",
+      "description": "Join us to explore how this cutting-edge development could revolutionize the way users get started with Drupal, making it more accessible and convenient than ever before. Prerequisite Outline",
+      "link": "https://events.drupal.org//barcelona2024/session/web-apis-powering-starshot-trial-experience",
+      "track": "drupal starshot",
+      "speakers": [
+        "Matt Glaman (Mglaman)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T17:40:00Z",
+      "endTime": "2024-09-25T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "\"Why on Earth Has This Not Been Released Yet?\" - The Critical Gap in Drupal Contributions",
+      "location": "Location Room 2 (131-132)",
+      "description": "\"Why on Earth Has This Not Been Released Yet?\" - The question, that often comes up in Drupal forums when a contributed code was tested by the community. In this session, we unveil the critical gap in tested and untested contributions and its consequences for the Drupal community.",
+      "link": "https://events.drupal.org//barcelona2024/session/why-earth-has-not-been-released-yet-critical-gap-drupal-contributions",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Adam Nagy (joevagyok)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T17:40:00Z",
+      "endTime": "2024-09-25T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "Building with Drupal in 2025: Reap the benefits of Drupal’s long-term architecture \u0026 modern features",
+      "location": "Location Room 1 (133-134)",
+      "description": "Drupal's focus on a high-quality, maintainable architecture is paying off. Learn how even jr developers can efficiently build modern websites with Drupal in 2025. Prerequisite Knowledge of how websites are generally built using Drupal",
+      "link": "https://events.drupal.org//barcelona2024/session/building-drupal-2025-reap-benefits-drupals-long-term-architecture-modern",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Ashraf Abed (ashrafabed)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T17:40:00Z",
+      "endTime": "2024-09-25T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "Drupal Staff Augmentation: Doing it right for Customer Delight",
+      "location": "Location Room 5 (124-125)",
+      "description": "Digital projects extensively rely on Staff Augmentation for project capacity needs, and Staff Augmentation service providers have much within control to bring about customer delight.",
+      "link": "https://events.drupal.org//barcelona2024/session/drupal-staff-augmentation-doing-it-right-customer-delight",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Monisha Navlani (Monishanavlani)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T17:40:00Z",
+      "endTime": "2024-09-25T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "Gin Admin Theme - Road to stable",
+      "location": "Location Room 3 (129-130)",
+      "description": "It's been a while since I've talked about the Gin Admin Theme! We've slowed down development quite a bit, but we've recently picked up speed again and cleared some of the big hurdles to finally get Gin to a stable release, even though it may feel like a meme now.",
+      "link": "https://events.drupal.org//barcelona2024/session/gin-admin-theme-road-stable",
+      "track": "drupal starshot",
+      "speakers": [
+        "Sascha Eggenberger (Saschaeggi)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-25T17:40:00Z",
+      "endTime": "2024-09-25T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "Symfony Console: Evolving Your Drupal Toolkit with Symfony Console Commands",
+      "location": "Location Room 4 (127-128)",
+      "description": "Drupal's evolution has been marked by the continual pursuit of developer experience improvements and usability improvement. Imagine how effortless it would be to create console commands in your Drupal application or module.",
+      "link": "https://events.drupal.org//barcelona2024/session/symfony-console-evolving-your-drupal-toolkit-symfony-console-commands",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Mohit Aghera (Mohit_aghera)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T09:00:00Z",
+      "endTime": "2024-09-26T18:00:00Z",
+      "duration": "PT9H",
+      "summary": "General Contribution Day 3",
+      "location": "Location Contribution Room (Area 1)",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/general-contribution-day-3",
+      "track": "contribution topic",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T09:30:00Z",
+      "endTime": "2024-09-26T10:15:00Z",
+      "duration": "PT45M",
+      "summary": "Content/Comment-Analyzer 2.0",
+      "location": "Location Room 2 (131-132)",
+      "description": "The City of Hamburg is pioneering an innovative approach to public engagement and content management through the integration of Large Language Models (LLMs) within their Drupal-based digital platforms.",
+      "link": "https://events.drupal.org//barcelona2024/session/contentcomment-analyzer-20",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Julien Hofer (MethodJules)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T09:30:00Z",
+      "endTime": "2024-09-26T10:15:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal Certified Partners + Organization Members Roundtable",
+      "location": "Location Sponsor Workshop Room M211+M212",
+      "description": "Engage with the Drupal Association's Development and Fundraising team.",
+      "link": "https://events.drupal.org//barcelona2024/session/drupal-certified-partners-organization-members-roundtable",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Jitka Pilar (Jitka_pilar)",
+        "Tim Doyle (Tim D.)",
+        "Kelly Delaney (Kelly_delaney)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T09:30:00Z",
+      "endTime": "2024-09-26T10:15:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal Recipes Initiative Update",
+      "location": "Location Auditorium",
+      "description": "\"[The Recipes Initiative] is a great example of making it easy for people to be part of Drupal and the open web.\" - Dries Buytaert, Driesnote, DrupalCon Prague",
+      "link": "https://events.drupal.org//barcelona2024/session/drupal-recipes-initiative-update",
+      "track": "drupal starshot",
+      "speakers": [
+        "Martin Anderson-Clutz (Mandclu)",
+        "Mark Casias (Markie)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T09:30:00Z",
+      "endTime": "2024-09-26T10:15:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal, the good parts",
+      "location": "Location Room BoF 3 (120)",
+      "description": "Websites are probably what Drupal does worst, but everything and everyone seems to be focused on that. I understand we are following the money, but I wonder what other things can be done with Drupal.",
+      "link": "https://events.drupal.org//barcelona2024/session/drupal-good-parts",
+      "track": "bof",
+      "speakers": [
+        "Jorge Lopez-Lago (Kurkuma)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T09:30:00Z",
+      "endTime": "2024-09-26T09:50:00Z",
+      "duration": "PT20M",
+      "summary": "Everything you need to know about cookies but are afraid to ask!",
+      "location": "Location Room 5 (124-125)",
+      "description": "The world of cookies is changing. By the end of this year, Google aims to have phased out 3rd party cookies entirely for Chrome, which has big implications for website owners.",
+      "link": "https://events.drupal.org//barcelona2024/session/everything-you-need-know-about-cookies-are-afraid-ask",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Will Huggins (Zoocha Will)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T09:30:00Z",
+      "endTime": "2024-09-26T10:15:00Z",
+      "duration": "PT45M",
+      "summary": "How to come from stress to happiness - Wellness",
+      "location": "Location Room BoF 4 (121)",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/how-come-stress-happiness-wellness",
+      "track": "other",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T09:30:00Z",
+      "endTime": "2024-09-26T10:15:00Z",
+      "duration": "PT45M",
+      "summary": "Implementing AI solutions for the French government",
+      "location": "Location Room 3 (129-130)",
+      "description": "As part of its strategic plan for this decade, the French government is pursuing its efforts to provide more and improved public services online.",
+      "link": "https://events.drupal.org//barcelona2024/session/implementing-ai-solutions-french-government",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "David Suissa (Dydave)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T09:30:00Z",
+      "endTime": "2024-09-26T10:15:00Z",
+      "duration": "PT45M",
+      "summary": "Open Source A11y Tools - How and Why?",
+      "location": "Location Room BoF 1 (118)",
+      "description": "Let's share experiences and learn from each other on checking for accessibility. Do you use Open Source Accessibility tools? Which one is your favourite? Is something missing from you toolbox? What are your regular workflows for checking issues?",
+      "link": "https://events.drupal.org//barcelona2024/session/open-source-a11y-tools-how-and-why",
+      "track": "bof",
+      "speakers": [
+        "Simo Hellsten (Simohell)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T09:30:00Z",
+      "endTime": "2024-09-26T10:15:00Z",
+      "duration": "PT45M",
+      "summary": "Prepare for Contribution Day: Issue Forks, Drupalpod, DDEV, Git",
+      "location": "Location Room BoF 2 (119)",
+      "description": "Let's get ready for Friday's contribution day. We'll refresh on * Issue Forks, what they are, how to use them * Using Drupalpod to test or fix an issue * DDEV skills and needs * Using git and how it relates to Drupalpod and Issue forks.",
+      "link": "https://events.drupal.org//barcelona2024/session/prepare-contribution-day-issue-forks-drupalpod-ddev-git",
+      "track": "bof",
+      "speakers": [
+        "Randy Fay (rfay)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T09:30:00Z",
+      "endTime": "2024-09-26T10:15:00Z",
+      "duration": "PT45M",
+      "summary": "Search API meets Typesense",
+      "location": "Location Room 4 (127-128)",
+      "description": "Are you building a decoupled website or need advanced search capabilities like search-as-you-type and AI integration? Typesense may be the right solution for you; it's flexible, powerful, open source, and integrated with Drupal (using the Search API module).",
+      "link": "https://events.drupal.org//barcelona2024/session/search-api-meets-typesense",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Luca Lusso (lussoluca)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T09:30:00Z",
+      "endTime": "2024-09-26T10:15:00Z",
+      "duration": "PT45M",
+      "summary": "Unleash all Drupal features: how ambitious site builders take it to the next level with ECA and BPMN",
+      "location": "Location Room 1 (133-134)",
+      "description": "The Events, Conditions, and Actions (ECA) module, also recognized by the Drupal Project Initiatives Keynote in Portland, revolutionizes Drupal's capabilities for site builders without having to write code or involve a programmer.",
+      "link": "https://events.drupal.org//barcelona2024/session/unleash-all-drupal-features-how-ambitious-site-builders-take-it-next-level",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Jürgen Haas (jurgenhaas)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T09:55:00Z",
+      "endTime": "2024-09-26T10:15:00Z",
+      "duration": "PT20M",
+      "summary": "Accessibility Beyond Compliance: Practical Insights for Drupal Users and Editors",
+      "location": "Location Room 5 (124-125)",
+      "description": "In a world where accessibility compliance is more important than ever, it can be easy to fall into seeing this as a box ticking exercise.",
+      "link": "https://events.drupal.org//barcelona2024/session/accessibility-beyond-compliance-practical-insights-drupal-users-and-editors",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Paul Sebborn (Psebborn)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T10:15:00Z",
+      "endTime": "2024-09-26T10:45:00Z",
+      "duration": "PT30M",
+      "summary": "Coffee Break 1, Thursday",
+      "location": "",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/coffee-break-1-thursday",
+      "track": "coffee \u0026 lunch break time",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T10:15:00Z",
+      "endTime": "2024-09-26T10:30:00Z",
+      "duration": "PT15M",
+      "summary": "The Drupal Learning Management System (Sponsored by Systemseed Digital Services Llc)",
+      "location": "Location Open Stage - Exhibition",
+      "description": "Anu LMS is our open-source, Drupal-based, learning management system, currently used in over 70 countries. Join SystemSeed CTO, Evgeniy Maslovskiy, for a project update, to understand how you can use Anu, and learn about what's coming next.",
+      "link": "https://events.drupal.org//barcelona2024/session/drupal-learning-management-system-sponsored-systemseed-digital-services-llc",
+      "track": "sponsor talks",
+      "speakers": [
+        "Ev Maslovskiy (Spleshka)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T10:30:00Z",
+      "endTime": "2024-09-26T10:45:00Z",
+      "duration": "PT15M",
+      "summary": "European Commission - EU Open Source Solutions catalogue - Demo (Sponsored by European Commission)",
+      "location": "Location Open Stage - Exhibition",
+      "description": "Join our session for a short demo of the EU Open Source Solutions Catalogue – an MVP developed by the European Commission on Drupal to showcase open source software created by public administrations across Europe.",
+      "link": "https://events.drupal.org//barcelona2024/session/european-commission-eu-open-source-solutions-catalogue-demo-sponsored",
+      "track": "sponsor talks",
+      "speakers": [
+        "Miguel Diez Blanco (Miguel.diez)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T10:45:00Z",
+      "endTime": "2024-09-26T11:30:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal Business Survey 2024 Results BoF",
+      "location": "Location Room BoF 1 (118)",
+      "description": "The Drupal Business Survey investigate the trends in the digital market, in particular from service provides involved with the open source DXP Drupal. Digital agencies from all over the world participate in the yearly survey.",
+      "link": "https://events.drupal.org//barcelona2024/session/drupal-business-survey-2024-results-bof",
+      "track": "bof",
+      "speakers": [
+        "Imre Gmelig Meijling (Imre-gmelig-meijling)",
+        "Janne Kalliola (Jannekalliola)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T10:45:00Z",
+      "endTime": "2024-09-26T11:30:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal LMS: A new, modern, easy-to-use Learning Management System",
+      "location": "Location Room 3 (129-130)",
+      "description": "Education is the base of every career path, and too often it has a limited budget, but that does not mitigate its importance.",
+      "link": "https://events.drupal.org//barcelona2024/session/drupal-lms-new-modern-easy-use-learning-management-system",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Marcin Grabias (Graber)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T10:45:00Z",
+      "endTime": "2024-09-26T11:30:00Z",
+      "duration": "PT45M",
+      "summary": "Empowering Drupal for offline: Improved usability for low connectivity areas using PWA and IndexedDB",
+      "location": "Location Room 2 (131-132)",
+      "description": "Explore the success story of Progressive Web Apps (PWA) and IndexedDB to enhance Drupal's capabilities and elevate user’s offline experience. Prerequisite Basic understanding of Drupal websites.",
+      "link": "https://events.drupal.org//barcelona2024/session/empowering-drupal-offline-improved-usability-low-connectivity-areas-using-pwa",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Anjali Rathod (anjali-rathod)",
+        "Abhai Sasidharan (abhaisasidharan)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T10:45:00Z",
+      "endTime": "2024-09-26T11:30:00Z",
+      "duration": "PT45M",
+      "summary": "Improved out-of-the-box experience with Sobki: demo of a design system oriented profile",
+      "location": "Location Room BoF 3 (120)",
+      "description": "The UI Suite ecosystem is composed of 5 main modules: UI Patterns UI Styles UI Skins UI Examples UI Icons (being developed during summer 2024)",
+      "link": "https://events.drupal.org//barcelona2024/session/improved-out-box-experience-sobki-demo-design-system-oriented-profile",
+      "track": "bof",
+      "speakers": [
+        "Nicolas Loye (Nicoloye)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T10:45:00Z",
+      "endTime": "2024-09-26T11:30:00Z",
+      "duration": "PT45M",
+      "summary": "Local development environments for Drupal with DDEV",
+      "location": "Location Room 6 (122-123)",
+      "description": "Learn to effectively use DDEV for local development of Drupal projects. This session will walk you through a wide array of features for professional Drupal development. Prerequisite No prior knowledge of DDEV or Docker is needed.",
+      "link": "https://events.drupal.org//barcelona2024/session/local-development-environments-drupal-ddev",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Mauricio Dinarte (dinarcon)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T10:45:00Z",
+      "endTime": "2024-09-26T11:30:00Z",
+      "duration": "PT45M",
+      "summary": "Love thy CMS: Going from 0 to 60 with the Schema.org Blueprints module",
+      "location": "Location Room 1 (133-134)",
+      "description": "A journey with a live demo showing how to go from 0 to 60 with the Schema.org Blueprints module. The session aims to help, inspire, and assist people to \"Love thy CMS!\"",
+      "link": "https://events.drupal.org//barcelona2024/session/love-thy-cms-going-0-60-schemaorg-blueprints-module",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Jacob Rockowitz (Jrockowitz)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T10:45:00Z",
+      "endTime": "2024-09-26T11:30:00Z",
+      "duration": "PT45M",
+      "summary": "Mastering the Art of the Agency Pitch",
+      "location": "Location Room 5 (124-125)",
+      "description": "As a communication agency, we help other agencies, technical product companies, and open source projects pitch themselves. But we have to pitch ourselves to them to get there!",
+      "link": "https://events.drupal.org//barcelona2024/session/mastering-art-agency-pitch",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Jeffey McGuire (Horncologne)",
+        "Tiffany Farriss (Farriss)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T10:45:00Z",
+      "endTime": "2024-09-26T11:30:00Z",
+      "duration": "PT45M",
+      "summary": "Mentor orientation 1",
+      "location": "Location Room BoF 4 (121)",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/mentor-orientation-1-0",
+      "track": "contribution topic",
+      "speakers": [
+        "Chris Darke (Chrisdarke)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T10:45:00Z",
+      "endTime": "2024-09-26T11:30:00Z",
+      "duration": "PT45M",
+      "summary": "Quick and stable code delivery with Drupal in a Microservices environment (Sponsored by Platform.sh)",
+      "location": "Location Sponsor Workshop Room M211+M212",
+      "description": "Snippet: Imagine you are tasked with integrating a legacy Drupal site into a microservices environment. How do you automate testing for stable code delivery? How do you set up your CI/CD pipelines Prerequisite: You use drupal and have a rough idea about APIs and microservices",
+      "link": "https://events.drupal.org//barcelona2024/session/quick-and-stable-code-delivery-drupal-microservices-environment-sponsored",
+      "track": "sponsor talks",
+      "speakers": [
+        "Moritz Schuh"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T10:45:00Z",
+      "endTime": "2024-09-26T11:30:00Z",
+      "duration": "PT45M",
+      "summary": "Svelte Javascript Framework in Drupal core via Project Browser",
+      "location": "Location Room BoF 2 (119)",
+      "description": "Come learn a bit about how we're using Svelte in Project Browser and identify how you can contribute to Drupal core while learning a modern, easy-to-understand JavaScript framework.",
+      "link": "https://events.drupal.org//barcelona2024/session/svelte-javascript-framework-drupal-core-project-browser",
+      "track": "bof",
+      "speakers": [
+        "Christopher Wells (chrisfromredfin)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T10:45:00Z",
+      "endTime": "2024-09-26T11:30:00Z",
+      "duration": "PT45M",
+      "summary": "Why a big deal async Drupal is",
+      "location": "Location Room 4 (127-128)",
+      "description": "Discover how you can provide new experiences when moving beyond the synchronous world of web servers. Prerequisite This session requires no prior knowledge.",
+      "link": "https://events.drupal.org//barcelona2024/session/why-big-deal-async-drupal",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Alexander Varwijk (Kingdutch)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T11:45:00Z",
+      "endTime": "2024-09-26T13:00:00Z",
+      "duration": "PT1H15M",
+      "summary": "Drupal Core Initiative Leads",
+      "location": "Location Auditorium",
+      "description": "Drupal’s initiatives form powerful teams that make great things happen. Core initiatives self-organize to get new improvements to the base system while community initiatives coordinate event organization, spread diversity best practices, collaborate on promotional materials, and so on.",
+      "link": "https://events.drupal.org//barcelona2024/session/drupal-core-initiative-leads",
+      "track": "keynote",
+      "speakers": [
+        "Christoph Breidert (breidert)",
+        "Emma Horrell (emma-horrell)",
+        "Tiffany Farriss (Farriss)",
+        "Gábor Hojtsy (Gábor Hojtsy)",
+        "Gareth Alexander (the_g_bomb)",
+        "Christian López Espínola (penyaskito)",
+        "Tony Barker (Tonypaulbarker)",
+        "James Abrahams (Yautja_cetanu)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T13:00:00Z",
+      "endTime": "2024-09-26T13:30:00Z",
+      "duration": "PT30M",
+      "summary": "Embracing Open Source: The European Commission’s Journey with Drupal and the Interoperable Europe Portal (Sponsored by European Commission – DIGIT)",
+      "location": "Location Auditorium",
+      "description": "Learn how the European Commission is pioneering digital transformation through its Open Source Strategy, driving innovation and transparency across EU institutions.",
+      "link": "https://events.drupal.org//barcelona2024/session/embracing-open-source-european-commissions-journey-drupal-and-interoperable",
+      "track": "sponsor talks",
+      "speakers": [
+        "Miguel Diez Blanco (Miguel.diez)",
+        "Claudiu Cristea (claudiu.cristea)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T13:00:00Z",
+      "endTime": "2024-09-26T14:15:00Z",
+      "duration": "PT1H15M",
+      "summary": "Lunch Break, Thursday",
+      "location": "",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/lunch-break-thursday",
+      "track": "coffee \u0026 lunch break time",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T13:15:00Z",
+      "endTime": "2024-09-26T13:30:00Z",
+      "duration": "PT15M",
+      "summary": "Sustainable websites \u0026 Business (Sponsored by Halvar.io)",
+      "location": "Location Open Stage - Exhibition",
+      "description": "This presentation is about what you as a web developer or website owner can do with your site but also with your company to get a lower footprint. With just a few small adjustments you can make a big difference.",
+      "link": "https://events.drupal.org//barcelona2024/session/sustainable-websites-business-sponsored-halvario",
+      "track": "sponsor talks",
+      "speakers": [
+        "Ramon Fincken (Halvar_io)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T13:30:00Z",
+      "endTime": "2024-09-26T13:45:00Z",
+      "duration": "PT15M",
+      "summary": "Turbocharging Membership Registration: Asynchronous Solutions with ReactPHP (Sponsored by CTI Digital)",
+      "location": "Location Open Stage - Exhibition",
+      "description": "In this technical deep dive, we will explore how we transformed a sluggish membership registration process into a swift and seamless experience.",
+      "link": "https://events.drupal.org//barcelona2024/session/turbocharging-membership-registration-asynchronous-solutions-reactphp",
+      "track": "sponsor talks",
+      "speakers": [
+        "David Bishop (david-bishop)",
+        "Fathima Asmat (Fathimaasmat)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T13:45:00Z",
+      "endTime": "2024-09-26T14:00:00Z",
+      "duration": "PT15M",
+      "summary": "Next Generation of Drupal Developers: Effective Onboarding Strategies and Best Practices (Sponsored by Agiledrop)",
+      "location": "Location Open Stage - Exhibition",
+      "description": "The session will address the challenges of attracting developers to use PHP and sequentially recruiting them in companies and teams where Drupal is the framework of choice.",
+      "link": "https://events.drupal.org//barcelona2024/session/next-generation-drupal-developers-effective-onboarding-strategies-and-best",
+      "track": "sponsor talks",
+      "speakers": [
+        "Ales Kohek (akohek)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T14:00:00Z",
+      "endTime": "2024-09-26T14:15:00Z",
+      "duration": "PT15M",
+      "summary": "Complex Drupal 7 Ubercart Store Migration to Drupal 10 (Sponsored by LN Webworks)",
+      "location": "Location Open Stage - Exhibition",
+      "description": "Little Background about Ubercart: Ubercart and Drupal commerce are two famous alternate solutions to get your ecommerce store settled up very quickly in Drupal. Ubercart has been heavily used for e-commerce setups by Drupal, but it's support has been deprecated after Drupal 7",
+      "link": "https://events.drupal.org//barcelona2024/session/complex-drupal-7-ubercart-store-migration-drupal-10-sponsored-ln-webworks",
+      "track": "sponsor talks",
+      "speakers": [
+        "Shikha Kumar (Shikha_lnweb)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T14:15:00Z",
+      "endTime": "2024-09-26T15:00:00Z",
+      "duration": "PT45M",
+      "summary": "Being well at your desk (\u0026 beyond) - practical accessible bitesize activities to support your life-work balance.",
+      "location": "Location Room 5 (124-125)",
+      "description": "We all know movement, exercise and screen breaks are recommended, do we do them? Probably not as much as we should! I’m sharing activities that can fit in your schedule at or near your desk! This is an interactive workshop offering practical modifiable takeaways.",
+      "link": "https://events.drupal.org//barcelona2024/session/being-well-your-desk-beyond-practical-accessible-bitesize-activities-support",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Karen Leech (Kae76)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T14:15:00Z",
+      "endTime": "2024-09-26T15:00:00Z",
+      "duration": "PT45M",
+      "summary": "Configuration validation, how we got here and what is in the future",
+      "location": "Location Room 4 (127-128)",
+      "description": "Configuration schema's power most of the configuration of your drupal sites, making those validatable paves the path towards easier config forms, recipies and decoupled admin ui's. Prerequisite",
+      "link": "https://events.drupal.org//barcelona2024/session/configuration-validation-how-we-got-here-and-what-future",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Joris Vercammen (Borisson_)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T14:15:00Z",
+      "endTime": "2024-09-26T15:00:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal + Modern JS without going headless",
+      "location": "Location Room 2 (131-132)",
+      "description": "Sometimes headless is overkill! The Drupal Acceleration Team has found a way to make modern JS driven Drupal sites while keeping their head intact. Prerequisite Awareness of the pros/cons headless vs. non-headless sites.",
+      "link": "https://events.drupal.org//barcelona2024/session/drupal-modern-js-without-going-headless",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Benjamin Mullins (bnjmnm)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T14:15:00Z",
+      "endTime": "2024-09-26T14:35:00Z",
+      "duration": "PT20M",
+      "summary": "Drupal at the Heart of a Pharma's Education Revolution",
+      "location": "Location Room 3 (129-130)",
+      "description": "Join us to explore pharma company’s transformative journey to a unified learning ecosystem with Drupal. From scattered sources to a centralized platform, discover how integrating AI, xAPI, and data analytics revolutionized training for global biopharmaceutical teams.",
+      "link": "https://events.drupal.org//barcelona2024/session/drupal-heart-pharmas-education-revolution",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Raúl Bordallo (rbordallo)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T14:15:00Z",
+      "endTime": "2024-09-26T15:00:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal.org Engineering Panel",
+      "location": "Location Sponsor Workshop Room M211+M212",
+      "description": "Join the Drupal.org engineering team for updates on our work to support the community.",
+      "link": "https://events.drupal.org//barcelona2024/session/drupalorg-engineering-panel",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Neil Drumm (Drumm)",
+        "Brendan Blaine (B_man)",
+        "Fran Garcia-linares (Fjgarlin)",
+        "Lenny Moskalyk (Lenny Moskalyk)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T14:15:00Z",
+      "endTime": "2024-09-26T15:00:00Z",
+      "duration": "PT45M",
+      "summary": "Fractional vs. Full-Time Teams: Maximizing Efficiency and Expertise",
+      "location": "Location Room 6 (122-123)",
+      "description": "Your talent needs probably fluctuate as you adapt and grow and the market changes around you. Fractional teams are on the rise at many companies in response to these changes in the professional landscape.",
+      "link": "https://events.drupal.org//barcelona2024/session/fractional-vs-full-time-teams-maximizing-efficiency-and-expertise",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Tracy Evans (Kanadiankicks)",
+        "Jeffey McGuire (Horncologne)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T14:15:00Z",
+      "endTime": "2024-09-26T15:00:00Z",
+      "duration": "PT45M",
+      "summary": "Integration of AI in Drupal",
+      "location": "Location Room BoF 3 (120)",
+      "description": "Dive into the power of AI + Drupal. In this how we can achieve and use Power of Ai into our drupal websites.",
+      "link": "https://events.drupal.org//barcelona2024/session/integration-ai-drupal",
+      "track": "bof",
+      "speakers": [
+        "Ashish Ashish (Ashish Verma (ashish.verma85))"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T14:15:00Z",
+      "endTime": "2024-09-26T15:00:00Z",
+      "duration": "PT45M",
+      "summary": "Local Drupal Regions \u0026 Associations Round Table",
+      "location": "Location Room BoF 4 (121)",
+      "description": "Local Drupal initiatives are at the heart of the Drupal community, bringing people together to exchange ideas, innovate, and celebrate the incredible things being done with Drupal every day.",
+      "link": "https://events.drupal.org//barcelona2024/session/local-drupal-regions-associations-round-table",
+      "track": "bof",
+      "speakers": [
+        "Joi Garrett (Joigarrett)",
+        "Baddy Sonja Breidert (baddysonja)",
+        "Imre Gmelig Meijling (Imre-gmelig-meijling)",
+        "Esmeralda Tijhoff (Esmoves)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T14:15:00Z",
+      "endTime": "2024-09-26T15:00:00Z",
+      "duration": "PT45M",
+      "summary": "Recipes Initiative BoF",
+      "location": "Location Room BoF 1 (118)",
+      "description": "As a follow-up up to the Recipes Initiative Update, we can use this this time to discuss, real-life experiences building Recipes, potential opportunities for new recipes, some of the ways site builders can already use recipes, and more.",
+      "link": "https://events.drupal.org//barcelona2024/session/recipes-initiative-bof",
+      "track": "bof",
+      "speakers": [
+        "Martin Anderson-Clutz (Mandclu)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T14:15:00Z",
+      "endTime": "2024-09-26T15:00:00Z",
+      "duration": "PT45M",
+      "summary": "Say Good-Bye to Your Staging Site: True Enterprise Content Management in Drupal With the Workspaces Module",
+      "location": "Location Room 1 (133-134)",
+      "description": "Discover how to leverage the Workspaces module for implementing enterprise-ready publishing workflows by staging large sets of content changes!",
+      "link": "https://events.drupal.org//barcelona2024/session/say-good-bye-your-staging-site-true-enterprise-content-management-drupal",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Fabian Franz (Fabianx)",
+        "Andrei Mateescu (amateescu)",
+        "Hank VanZile (Hankvanzile)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T14:15:00Z",
+      "endTime": "2024-09-26T15:00:00Z",
+      "duration": "PT45M",
+      "summary": "Where have the Drupal Hobbyists Gone? (And can Starshot bring them back?)",
+      "location": "Location Room BoF 2 (119)",
+      "description": "How many of us started out building Drupal sites as a hobby? Drupal used to be easy to download, install on low cost hosting, and build a site. Drupal was common for personal sites, blogs, photo galleries, forums, etc. But Drupal is rarely used for these any more.",
+      "link": "https://events.drupal.org//barcelona2024/session/where-have-drupal-hobbyists-gone-and-can-starshot-bring-them-back",
+      "track": "bof",
+      "speakers": [
+        "James Shields (Lostcarpark)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T14:40:00Z",
+      "endTime": "2024-09-26T15:00:00Z",
+      "duration": "PT20M",
+      "summary": "Drupal History in the European Commission",
+      "location": "Location Room 3 (129-130)",
+      "description": "Drupal has a long history of usage in the European Commission (\u003e10y at large scale) powering hundreds of websites from high profile communication websites to community websites where European citizens interact.",
+      "link": "https://events.drupal.org//barcelona2024/session/drupal-history-european-commission",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Hernani Borges De Freitas (Hernani)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T15:15:00Z",
+      "endTime": "2024-09-26T16:00:00Z",
+      "duration": "PT45M",
+      "summary": "70 good reasons for a code refactoring",
+      "location": "Location Room 3 (129-130)",
+      "description": "Discover how we upgraded 70 websites (50 countries + 20 local careers sites) to new branding, built a robust content delivery system, and followed country-specific requirements in a highly regulated environment.",
+      "link": "https://events.drupal.org//barcelona2024/session/70-good-reasons-code-refactoring",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Marcello Testi (Pinolo)",
+        "Alexander Farkas"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T15:15:00Z",
+      "endTime": "2024-09-26T16:00:00Z",
+      "duration": "PT45M",
+      "summary": "DCEU volunteer app",
+      "location": "Location Room BoF 2 (119)",
+      "description": "Have you been a volunteer this year? Please come and discuss your experiences using the new app. Any problems you've had, improvements that can be made, features to add? Let me know and we can sort them for next year.",
+      "link": "https://events.drupal.org//barcelona2024/session/dceu-volunteer-app",
+      "track": "bof",
+      "speakers": [
+        "John Cook (John Cook)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T15:15:00Z",
+      "endTime": "2024-09-26T16:00:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal AI module and Starshot",
+      "location": "Location Room BoF 1 (118)",
+      "description": "Let's have a discussion about Drupal and AI! Learn about the features and sub modules of the AI abstraction layer and how we built the planned Starshot functionality. Learn how you can use it yourself or even contribute.",
+      "link": "https://events.drupal.org//barcelona2024/session/drupal-ai-module-and-starshot",
+      "track": "bof",
+      "speakers": [
+        "James Abrahams (Yautja_cetanu)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T15:15:00Z",
+      "endTime": "2024-09-26T16:00:00Z",
+      "duration": "PT45M",
+      "summary": "Hidden Diamonds - The best lesser known Drupal modules you want to add to your website (Sponsored by 1xINTERNET)",
+      "location": "Location Sponsor Workshop Room M211+M212",
+      "description": "Over the years we have built very many and very different websites. Some have many authenticated users, some integrate many APIs, some have many different editorial roles, some have a lot of content, some have highly structured content.",
+      "link": "https://events.drupal.org//barcelona2024/session/hidden-diamonds-best-lesser-known-drupal-modules-you-want-add-your-website",
+      "track": "sponsor talks",
+      "speakers": [
+        "Norman Kämper-Leymann (Leymannx)",
+        "Yannick Leyendecker (yannickoo)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T15:15:00Z",
+      "endTime": "2024-09-26T16:00:00Z",
+      "duration": "PT45M",
+      "summary": "Human Centred Design: An introduction for Drupal people (and how to make it work for you)",
+      "location": "Location Room 5 (124-125)",
+      "description": "Human Centred Design is becoming more widely used as a UX and product design discipline. Join this session to learn what it is and how it can help you.",
+      "link": "https://events.drupal.org//barcelona2024/session/human-centred-design-introduction-drupal-people-and-how-make-it-work-you",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Elise West"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T15:15:00Z",
+      "endTime": "2024-09-26T16:00:00Z",
+      "duration": "PT45M",
+      "summary": "Introducing the new Access Policy API in Drupal core",
+      "location": "Location Room 4 (127-128)",
+      "description": "Want to make sure your employees do not work outside of office hours? Want to get rid of UID 1's all-access pass? Well now you can, thanks to the brand-new Access Policy API!",
+      "link": "https://events.drupal.org//barcelona2024/session/introducing-new-access-policy-api-drupal-core",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Kristiaan Van den Eynde (Kristiaanvandeneynde)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T15:15:00Z",
+      "endTime": "2024-09-26T16:00:00Z",
+      "duration": "PT45M",
+      "summary": "Network of European Drupal Associations (NEDA)",
+      "location": "Location Room BoF 4 (121)",
+      "description": "In extension to the presentation of Joi Garret about the Local Associations Initiative during the BoF 'Local Drupal Regions \u0026 Associations Round Table', we come together to further discuss strategies for local associations and camps.",
+      "link": "https://events.drupal.org//barcelona2024/session/network-european-drupal-associations-neda",
+      "track": "bof",
+      "speakers": [
+        "Esmeralda Tijhoff (Esmoves)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T15:15:00Z",
+      "endTime": "2024-09-26T16:00:00Z",
+      "duration": "PT45M",
+      "summary": "Practical exploitation of Drupal security vulnerabilities",
+      "location": "Location Room 1 (133-134)",
+      "description": "What would it look like if your site got hacked? What would the bad actors actually do, and why? How can you avoid this? Prerequisite No prerequisites.",
+      "link": "https://events.drupal.org//barcelona2024/session/practical-exploitation-drupal-security-vulnerabilities",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Drew Webber (mcdruid)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T15:15:00Z",
+      "endTime": "2024-09-26T16:00:00Z",
+      "duration": "PT45M",
+      "summary": "RAGify drupal - What drupal and a rag stack can do in the world of AI",
+      "location": "Location Room BoF 3 (120)",
+      "description": "This BoF will explore the possibilities of an integration of drupal into a RAG stack. First it will describe what a RAG stack generally is and what problems it can solve. Then it will discuss why it makes sense to integrate it with drupal , how that can be done and what advantages it gives.",
+      "link": "https://events.drupal.org//barcelona2024/session/ragify-drupal-what-drupal-and-rag-stack-can-do-world-ai",
+      "track": "bof",
+      "speakers": [
+        "Hendrik Kuck (Uniquename)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T15:15:00Z",
+      "endTime": "2024-09-26T16:00:00Z",
+      "duration": "PT45M",
+      "summary": "Securing the Modern Web: Strategies, Tools, and Ethical Hacking Techniques",
+      "location": "Location Room 6 (122-123)",
+      "description": "Welcome to our workshop on \"Securing the Modern Web: Strategies, Tools, and Ethical Hacking Techniques\"! In today's digital landscape, web security is a critical concern. Join us as we delve into essential strategies, tools, and ethical hacking techniques designed to safeguard web applications.",
+      "link": "https://events.drupal.org//barcelona2024/session/securing-modern-web-strategies-tools-and-ethical-hacking-techniques",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Kavana Tadagalale (Kavana_tad)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T15:15:00Z",
+      "endTime": "2024-09-26T16:00:00Z",
+      "duration": "PT45M",
+      "summary": "The Drupal API Client",
+      "location": "Location Room 2 (131-132)",
+      "description": "The Drupal API Client project has made substantial progress since being selected for funding as part of the Pitch-burgh Innovation Contest. We're excited to share information about the 1.x release of our JSON:API Client, and what the future holds for this initiative.",
+      "link": "https://events.drupal.org//barcelona2024/session/drupal-api-client",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Brian Perry (Brianperry)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T16:00:00Z",
+      "endTime": "2024-09-26T16:30:00Z",
+      "duration": "PT30M",
+      "summary": "Coffee Break 2, Thursday",
+      "location": "",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/coffee-break-2-thursday",
+      "track": "coffee \u0026 lunch break time",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T16:30:00Z",
+      "endTime": "2024-09-26T17:15:00Z",
+      "duration": "PT45M",
+      "summary": "blökkli - Demo, Q\u0026A for the Interactive page building experience with Nuxt.",
+      "location": "Location Room BoF 1 (118)",
+      "description": "Join us to see https://blokk.li/ in action, get your questions answered and find out how-to contribute \u0026 what are the first steps to try it out.",
+      "link": "https://events.drupal.org//barcelona2024/session/blokkli-demo-qa-interactive-page-building-experience-nuxt",
+      "track": "bof",
+      "speakers": [
+        "Josef Kruckenberg (Dasjo)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T16:30:00Z",
+      "endTime": "2024-09-26T17:15:00Z",
+      "duration": "PT45M",
+      "summary": "Consolidating core development tools",
+      "location": "Location Room BoF 4 (121)",
+      "description": "This is a session to discuss the current landscape for core and contrib local development, and plan a roadmap. Newcomers to core and contrib contribution are easily baffled by the wide range of tools and techniques for local development.",
+      "link": "https://events.drupal.org//barcelona2024/session/consolidating-core-development-tools",
+      "track": "bof",
+      "speakers": [
+        "Joachim Noreiko (Joachim)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T16:30:00Z",
+      "endTime": "2024-09-26T16:50:00Z",
+      "duration": "PT20M",
+      "summary": "Drupal on Cloud Nine: Maximizing GitHub CodeSpaces for Development and Beyond",
+      "location": "Location Room 4 (127-128)",
+      "description": "Explore the Future of Drupal Development: Leverage GitHub CodeSpaces for efficient, containerised Drupal site development and testing - completely free.",
+      "link": "https://events.drupal.org//barcelona2024/session/drupal-cloud-nine-maximizing-github-codespaces-development-and-beyond",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Ivaylo Kadiyski (Kadiiski)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T16:30:00Z",
+      "endTime": "2024-09-26T16:50:00Z",
+      "duration": "PT20M",
+      "summary": "Empowering Drupal developers: redefining training and mentorship",
+      "location": "Location Room 2 (131-132)",
+      "description": "In this session, I'll share a story of several years on developing company's mentoring and training programs. In the beginning, they lacked organization and a coherent structure. I brought there my experience as a mentor and my love for Drupal.",
+      "link": "https://events.drupal.org//barcelona2024/session/empowering-drupal-developers-redefining-training-and-mentorship",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Yevgeniya Kobrina (Yevko)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T16:30:00Z",
+      "endTime": "2024-09-26T16:50:00Z",
+      "duration": "PT20M",
+      "summary": "Empowering QA as Defenders of Business Goals and Client Satisfaction",
+      "location": "Location Room 5 (124-125)",
+      "description": "QA bridging the gap between what the business needs and what the dev team does. Ensuring the best implementation of the best product for a satisfied customer.",
+      "link": "https://events.drupal.org//barcelona2024/session/empowering-qa-defenders-business-goals-and-client-satisfaction",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Stanislav Todorov (Stodorov)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T16:30:00Z",
+      "endTime": "2024-09-26T17:15:00Z",
+      "duration": "PT45M",
+      "summary": "Future of the Gin admin theme",
+      "location": "Location Room BoF 3 (120)",
+      "description": "Join the lead maintainer of Gin Sascha Eggenberger and Starshot UX lead Cristina Chumillas to discuss the future of Gin and get involved. (Note for content admin: make Sascha and Cristina the owners of this BoF is possible on the schedule and omit Gábor :)",
+      "link": "https://events.drupal.org//barcelona2024/session/future-gin-admin-theme",
+      "track": "bof",
+      "speakers": [
+        "Sascha Eggenberger (Saschaeggi)",
+        "Cristina Chumillas (ckrina)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T16:30:00Z",
+      "endTime": "2024-09-26T17:15:00Z",
+      "duration": "PT45M",
+      "summary": "Lazy loading content for better performance, UX and SEO",
+      "location": "Location Room 6 (122-123)",
+      "description": "Improve your application look \u0026 feel and performance using Drupal's build-in capabilities. Prerequisite Medium to advanced knowledge of Drupal front-end development.",
+      "link": "https://events.drupal.org//barcelona2024/session/lazy-loading-content-better-performance-ux-and-seo",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Ignacio Díaz-Roncero Fraile (Idiaz.roncero)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T16:30:00Z",
+      "endTime": "2024-09-26T17:15:00Z",
+      "duration": "PT45M",
+      "summary": "Let‘s talk headless Drupal",
+      "location": "Location Room BoF 2 (119)",
+      "description": "This BoF session invites everyone to share their experiences with Drupal and headless architecture, discuss challenges, and brainstorm ways to improve headless Drupal solutions. Whether you're a frontend developer, backend expert, or content manager, your input is valuable.",
+      "link": "https://events.drupal.org//barcelona2024/session/lets-talk-headless-drupal",
+      "track": "bof",
+      "speakers": [
+        "Lukas Fischer (Lukasfischer)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T16:30:00Z",
+      "endTime": "2024-09-26T16:50:00Z",
+      "duration": "PT20M",
+      "summary": "Migrating the A11yTalks Website from React Components to Single Directory Components",
+      "location": "Location Room 1 (133-134)",
+      "description": "Learn how the A11yTalks website was moved from Gatsby to Drupal using Single Directory Components. Prerequisite Attendees will need familiarity with Drupal and an interest in Single Directory Components",
+      "link": "https://events.drupal.org//barcelona2024/session/migrating-a11ytalks-website-react-components-single-directory-components",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Mark Casias (Markie)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T16:30:00Z",
+      "endTime": "2024-09-26T17:15:00Z",
+      "duration": "PT45M",
+      "summary": "Supply Chain Security in Drupal and Composer",
+      "location": "Location Room 3 (129-130)",
+      "description": "In the modern world of 'software built elsewhere' and complex dependency trees, supply chain security is more important than ever.",
+      "link": "https://events.drupal.org//barcelona2024/session/supply-chain-security-drupal-and-composer",
+      "track": "drupal starshot",
+      "speakers": [
+        "Christopher Gervais (Ergonlogic)",
+        "Nils Adermann (Naderman)",
+        "Neil Drumm (Drumm)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T16:55:00Z",
+      "endTime": "2024-09-26T17:15:00Z",
+      "duration": "PT20M",
+      "summary": "Ahead of the Curve: The Power of Shift Left in Ensuring Quality",
+      "location": "Location Room 1 (133-134)",
+      "description": "Dive into the 'Shift Left' revolution where early testing meets efficiency, transforming the DNA of software development and quality assurance for the agile era.",
+      "link": "https://events.drupal.org//barcelona2024/session/ahead-curve-power-shift-left-ensuring-quality",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Daniel Angelov (Danielangelov)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T16:55:00Z",
+      "endTime": "2024-09-26T17:15:00Z",
+      "duration": "PT20M",
+      "summary": "Automated or near-automated migrations from Drupal 7 to 10",
+      "location": "Location Room 2 (131-132)",
+      "description": "We are going to show you how we have managed to reduce the time needed to migrate a site from Drupal 7 to Drupal 10 to minutes. Prerequisite None",
+      "link": "https://events.drupal.org//barcelona2024/session/automated-or-near-automated-migrations-drupal-7-10",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Julían Valero (JulianVJ)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T16:55:00Z",
+      "endTime": "2024-09-26T17:15:00Z",
+      "duration": "PT20M",
+      "summary": "How we convinced our boss to create a team of makers",
+      "location": "Location Room 4 (127-128)",
+      "description": "This is a real life story of how we turned a team of takers in to a team of makers by convincing the company to allow the whole Drupal team to spend a day every other week innovating, working together to do Drupal better and make Drupal better.",
+      "link": "https://events.drupal.org//barcelona2024/session/how-we-convinced-our-boss-create-team-makers",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Duncan Worrell (Dunx)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T16:55:00Z",
+      "endTime": "2024-09-26T17:15:00Z",
+      "duration": "PT20M",
+      "summary": "The Goldilocks principle in drupal projects - It is all about being \"just right\"!",
+      "location": "Location Room 5 (124-125)",
+      "description": "Customer Value, Team Empowerment and Profitability - The balancing act while delivering Drupal projects from Goldilocks \u0026 the Three Bears!",
+      "link": "https://events.drupal.org//barcelona2024/session/goldilocks-principle-drupal-projects-it-all-about-being-just-right",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Hetal Mistry (Hetalmistry)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T17:30:00Z",
+      "endTime": "2024-09-26T18:00:00Z",
+      "duration": "PT30M",
+      "summary": "Wrap Up Ceremony Auditorium - DrupalCon 2025 city Announcement",
+      "location": "Location Auditorium",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/wrap-ceremony-auditorium-drupalcon-2025-city-announcement",
+      "track": "other",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-26T20:30:00Z",
+      "endTime": "2024-09-26T23:45:00Z",
+      "duration": "PT3H15M",
+      "summary": "Trivia Night",
+      "location": "",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/trivia-night",
+      "track": "other",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-27T09:00:00Z",
+      "endTime": "2024-09-27T18:00:00Z",
+      "duration": "PT9H",
+      "summary": "Contribution Day",
+      "location": "Location Room 112",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/contribution-day",
+      "track": "contribution topic",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-27T09:00:00Z",
+      "endTime": "2024-09-27T12:30:00Z",
+      "duration": "PT3H30M",
+      "summary": "First Time Contributor Workshop 1",
+      "location": "Location Room 111",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/first-time-contributor-workshop-1-0",
+      "track": "contribution topic",
+      "speakers": [
+        "Rodrigo Aguilera (Rodrigoaguilera)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-27T09:00:00Z",
+      "endTime": "2024-09-27T18:00:00Z",
+      "duration": "PT9H",
+      "summary": "Mentored Contribution",
+      "location": "Location Room 111",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/mentored-contribution",
+      "track": "contribution topic",
+      "speakers": [
+        "Chris Darke (Chrisdarke)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-27T10:00:00Z",
+      "endTime": "2024-09-27T10:30:00Z",
+      "duration": "PT30M",
+      "summary": "Coffe Break 1, Friday",
+      "location": "",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/coffe-break-1-friday",
+      "track": "coffee \u0026 lunch break time",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-27T12:30:00Z",
+      "endTime": "2024-09-27T14:00:00Z",
+      "duration": "PT1H30M",
+      "summary": "Lunch Break, Friday",
+      "location": "",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/lunch-break-friday",
+      "track": "coffee \u0026 lunch break time",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-09-27T15:30:00Z",
+      "endTime": "2024-09-27T16:00:00Z",
+      "duration": "PT30M",
+      "summary": "Coffee Break 2, Friday",
+      "location": "",
+      "description": "",
+      "link": "https://events.drupal.org//barcelona2024/session/coffee-break-2-friday",
+      "track": "coffee \u0026 lunch break time",
+      "speakers": null,
+      "timezone": ""
+    }
+  ],
+  "result": "✅",
+  "url": "https://events.drupal.org/barcelona2024"
+}

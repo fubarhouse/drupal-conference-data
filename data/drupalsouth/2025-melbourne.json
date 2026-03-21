@@ -1,0 +1,724 @@
+{
+  "event": {
+    "Designation": "DrupalSouth",
+    "Location": "Melbourne",
+    "Year": "2025",
+    "URL": "https://drupalsouth.org/events/drupalsouth-melbourne-2025",
+    "Region": "Australia – Victoria",
+    "EndDate": "2025-03-13T00:00:00Z",
+    "StartDate": "2025-03-11T00:00:00Z",
+    "ScheduleURL": "https://drupalsouth.org/events/drupalsouth-melbourne-2025/schedule",
+    "Venue": "Australian Centre for the Moving Image (ACMI)",
+    "Timezone": "Australia/Melbourne"
+  },
+  "items": [
+    {
+      "startTime": "2026-03-11T22:20:00Z",
+      "summary": "Humanizing technology",
+      "location": "Cinema 1",
+      "track": "Keynote",
+      "speakers": [
+        "Nicola Ny"
+      ]
+    },
+    {
+      "startTime": "2026-03-11T23:15:00Z",
+      "summary": "Varnish for Drupal developers [40 mins]",
+      "location": "Cinema 1",
+      "track": "Drupal Development",
+      "speakers": [
+        "Thijs Feryn"
+      ]
+    },
+    {
+      "startTime": "2026-03-11T23:15:00Z",
+      "summary": "Takeaways from teaching Drupal in college",
+      "location": "Cinema 2",
+      "track": "People \u0026 Culture",
+      "speakers": [
+        "Vladimir Roudakov"
+      ]
+    },
+    {
+      "startTime": "2026-03-11T23:15:00Z",
+      "summary": "Dude, where's my users?",
+      "location": "Swinburne",
+      "track": "User Experience \u0026 Content",
+      "speakers": [
+        "Emily Mills"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T00:15:00Z",
+      "summary": "Ready, Set, Drupal: Simplifying Development with Feature Recipes",
+      "location": "Cinema 1",
+      "track": "Drupal Development",
+      "speakers": [
+        "Richard Gaunt"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T00:15:00Z",
+      "summary": "Automating Attendance: How Georgia Tech Built an RFID Check-In System in Drupal",
+      "location": "Cinema 2",
+      "track": "Web Tools \u0026 Complementary Technologies",
+      "speakers": [
+        "Jimmy Kriigel"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T00:15:00Z",
+      "summary": "How inclusive can your documents get?",
+      "location": "Swinburne",
+      "track": "User Experience \u0026 Content",
+      "speakers": [
+        "Adrian Redman"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T01:15:00Z",
+      "summary": "Building the experience builder experience",
+      "location": "Cinema 1",
+      "track": "Drupal Development",
+      "speakers": [
+        "Lee Rowlands"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T01:15:00Z",
+      "summary": "Managing emergencies with cutting edge technology",
+      "location": "Cinema 2",
+      "track": "Web Tools \u0026 Complementary Technologies",
+      "speakers": [
+        "Nigel Cunningham"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T01:15:00Z",
+      "summary": "AX: Turning your B2B tech strategy into content that converts",
+      "location": "Swinburne",
+      "track": "User Experience \u0026 Content",
+      "speakers": [
+        "Felicity Brand"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T02:45:00Z",
+      "summary": "Avoiding CSS crime scenes - practical tips for maintainable styles.",
+      "location": "Cinema 1",
+      "track": "Drupal Development",
+      "speakers": [
+        "Tina Reymann"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T02:45:00Z",
+      "summary": "Automated AI Testing with Postman",
+      "location": "Cinema 2",
+      "track": "Web Tools \u0026 Complementary Technologies",
+      "speakers": [
+        "Michelle Parker"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T02:45:00Z",
+      "summary": "Writing for Australian Government websites",
+      "location": "Swinburne",
+      "track": "User Experience \u0026 Content",
+      "speakers": [
+        "Amber Henry"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T03:30:00Z",
+      "summary": "Building Workflows into Drupal Webforms: A Practical Guide",
+      "location": "Cinema 1",
+      "track": "Drupal Development",
+      "speakers": [
+        "Philip Joseph"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T03:30:00Z",
+      "summary": "Drupal and the Open Web in the Australian Government - 2025 edition",
+      "location": "Cinema 2",
+      "track": "Web Tools \u0026 Complementary Technologies",
+      "speakers": [
+        "Sean Hamlin"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T04:20:00Z",
+      "summary": "Drupal \u0026 Firebase: Real-time Config \u0026 Content for Android \u0026 iOS Apps",
+      "location": "Cinema 1",
+      "track": "Drupal Development",
+      "speakers": [
+        "Daynis Olman"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T04:20:00Z",
+      "summary": "Lead, Manage, Succeed: From Technical Lead to Drupal Project Manager",
+      "location": "Cinema 2",
+      "track": "People \u0026 Culture",
+      "speakers": [
+        "David Flores-Condez"
+      ]
+    },
+    {
+      "startTime": "2026-03-11T22:20:00Z",
+      "summary": "Humanizing technology",
+      "location": "Cinema 1",
+      "track": "Keynote",
+      "speakers": [
+        "Nicola Ny"
+      ]
+    },
+    {
+      "startTime": "2026-03-11T23:15:00Z",
+      "summary": "Varnish for Drupal developers [40 mins]",
+      "location": "Cinema 1",
+      "track": "Drupal Development",
+      "speakers": [
+        "Thijs Feryn"
+      ]
+    },
+    {
+      "startTime": "2026-03-11T23:15:00Z",
+      "summary": "Takeaways from teaching Drupal in college",
+      "location": "Cinema 2",
+      "track": "People \u0026 Culture",
+      "speakers": [
+        "Vladimir Roudakov"
+      ]
+    },
+    {
+      "startTime": "2026-03-11T23:15:00Z",
+      "summary": "Dude, where's my users?",
+      "location": "Swinburne",
+      "track": "User Experience \u0026 Content",
+      "speakers": [
+        "Emily Mills"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T00:15:00Z",
+      "summary": "Ready, Set, Drupal: Simplifying Development with Feature Recipes",
+      "location": "Cinema 1",
+      "track": "Drupal Development",
+      "speakers": [
+        "Richard Gaunt"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T00:15:00Z",
+      "summary": "Automating Attendance: How Georgia Tech Built an RFID Check-In System in Drupal",
+      "location": "Cinema 2",
+      "track": "Web Tools \u0026 Complementary Technologies",
+      "speakers": [
+        "Jimmy Kriigel"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T00:15:00Z",
+      "summary": "How inclusive can your documents get?",
+      "location": "Swinburne",
+      "track": "User Experience \u0026 Content",
+      "speakers": [
+        "Adrian Redman"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T01:15:00Z",
+      "summary": "Building the experience builder experience",
+      "location": "Cinema 1",
+      "track": "Drupal Development",
+      "speakers": [
+        "Lee Rowlands"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T01:15:00Z",
+      "summary": "Managing emergencies with cutting edge technology",
+      "location": "Cinema 2",
+      "track": "Web Tools \u0026 Complementary Technologies",
+      "speakers": [
+        "Nigel Cunningham"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T01:15:00Z",
+      "summary": "AX: Turning your B2B tech strategy into content that converts",
+      "location": "Swinburne",
+      "track": "User Experience \u0026 Content",
+      "speakers": [
+        "Felicity Brand"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T02:45:00Z",
+      "summary": "Avoiding CSS crime scenes - practical tips for maintainable styles.",
+      "location": "Cinema 1",
+      "track": "Drupal Development",
+      "speakers": [
+        "Tina Reymann"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T02:45:00Z",
+      "summary": "Automated AI Testing with Postman",
+      "location": "Cinema 2",
+      "track": "Web Tools \u0026 Complementary Technologies",
+      "speakers": [
+        "Michelle Parker"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T02:45:00Z",
+      "summary": "Writing for Australian Government websites",
+      "location": "Swinburne",
+      "track": "User Experience \u0026 Content",
+      "speakers": [
+        "Amber Henry"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T03:30:00Z",
+      "summary": "Building Workflows into Drupal Webforms: A Practical Guide",
+      "location": "Cinema 1",
+      "track": "Drupal Development",
+      "speakers": [
+        "Philip Joseph"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T03:30:00Z",
+      "summary": "Drupal and the Open Web in the Australian Government - 2025 edition",
+      "location": "Cinema 2",
+      "track": "Web Tools \u0026 Complementary Technologies",
+      "speakers": [
+        "Sean Hamlin"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T04:20:00Z",
+      "summary": "Drupal \u0026 Firebase: Real-time Config \u0026 Content for Android \u0026 iOS Apps",
+      "location": "Cinema 1",
+      "track": "Drupal Development",
+      "speakers": [
+        "Daynis Olman"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T04:20:00Z",
+      "summary": "Lead, Manage, Succeed: From Technical Lead to Drupal Project Manager",
+      "location": "Cinema 2",
+      "track": "People \u0026 Culture",
+      "speakers": [
+        "David Flores-Condez"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T23:00:00Z",
+      "summary": "Transforming Drupal data workflows: An in-depth look at Data Pipelines and Search API",
+      "location": "Cinema 1",
+      "track": "Drupal Development",
+      "speakers": [
+        "Brynn Briedis"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T23:00:00Z",
+      "summary": "Building a Versatile Design System for Pacific Data Hub: Bridging Drupal Themes and Headless Frontends",
+      "location": "Cinema 2",
+      "track": "Web Tools \u0026 Complementary Technologies",
+      "speakers": [
+        "Rox Flam"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T23:00:00Z",
+      "summary": "Mindful connections: enhancing mental health awareness in a remote work culture",
+      "location": "Swinburne",
+      "track": "People \u0026 Culture",
+      "speakers": [
+        "Angela Rak"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T23:50:00Z",
+      "summary": "Launch your design system into hyperdrive with Starshot's Experience Builder",
+      "location": "Cinema 1",
+      "track": "User Experience \u0026 Content",
+      "speakers": [
+        "Akhil Bhandari"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T23:50:00Z",
+      "summary": "Hashes and Nonces and Violations, Oh My! Everything you need to know about Content Security Policy (CSP)",
+      "location": "Cinema 2",
+      "track": "Web Tools \u0026 Complementary Technologies",
+      "speakers": [
+        "Michael Strelan"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T23:50:00Z",
+      "summary": "Let's bring new people to Drupal!",
+      "location": "Swinburne",
+      "track": "People \u0026 Culture",
+      "speakers": [
+        "Daniel Carvalhinh"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T00:30:00Z",
+      "summary": "My journey to becoming a Core maintainer [Lightning talk]",
+      "location": "Cinema 1",
+      "track": "Drupal Development",
+      "speakers": [
+        "Daniel Veza"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T00:30:00Z",
+      "summary": "Using generative tools to assist with software development [Lightning talk]",
+      "location": "Cinema 2",
+      "track": "Web Tools \u0026 Complementary Technologies",
+      "speakers": [
+        "Vladimir Roudakov"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T00:30:00Z",
+      "summary": "Forming an AI strategy for a digital agency",
+      "location": "Swinburne",
+      "track": "People \u0026 Culture",
+      "speakers": [
+        "Kurt Foster"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T00:45:00Z",
+      "summary": "Object Oriented theming with Pinto [Lightning talk]",
+      "location": "Cinema 1",
+      "track": "Drupal Development",
+      "speakers": [
+        "Adam Bramley"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T00:45:00Z",
+      "summary": "The Pygmy Stack: The Little Docker Helper Tool That Could [Lightning talk]",
+      "location": "Cinema 2",
+      "track": "Web Tools \u0026 Complementary Technologies",
+      "speakers": [
+        "Karl Hepworth"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T02:00:00Z",
+      "summary": "How Drupal Plays Its Role in Modern Enterprise Digital Architecture",
+      "location": "Cinema 1",
+      "track": "Drupal Development",
+      "speakers": [
+        "Weynham Zheng"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T02:00:00Z",
+      "summary": "Setup projects and onboard developers in minutes with Vortex",
+      "location": "Cinema 2",
+      "track": "Web Tools \u0026 Complementary Technologies",
+      "speakers": [
+        "Alex Skrypnyk"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T02:40:00Z",
+      "summary": "Making a splash with an accessible, consistent design system",
+      "location": "Cinema 1",
+      "track": "User Experience \u0026 Content",
+      "speakers": [
+        "Melissa Coombs",
+        "Kate Faulkner"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T02:40:00Z",
+      "summary": "Drupal F1 Trivia with Salsa Digital – Test Your Knowledge \u0026 Win Prizes!",
+      "location": "Cinema 2",
+      "track": "Sponsor session",
+      "speakers": [
+        "Akhil Bhandari"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T02:40:00Z",
+      "summary": "per-charging Drupal and GovCMS with ethical personalisation and content powered by Salesforce",
+      "location": "Swinburne",
+      "track": "User Experience \u0026 Content",
+      "speakers": [
+        "Chris Dodds"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T03:30:00Z",
+      "summary": "Building digital experiences that align to Digital Service Standards",
+      "location": "Cinema 1",
+      "track": "User Experience \u0026 Content",
+      "speakers": [
+        "Paul Morriss"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T03:30:00Z",
+      "summary": "How we modernised our frontend tooling using Vite and Storybook",
+      "location": "Cinema 2",
+      "track": "Web Tools \u0026 Complementary Technologies",
+      "speakers": [
+        "Jack Tarant"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T03:30:00Z",
+      "summary": "Two Suppliers, One Team: A case study on a collaborative Drupal project in the Digital Transformation of Catholic Schools NSW",
+      "location": "Swinburne",
+      "track": "People \u0026 Culture",
+      "speakers": [
+        "Griffyn Heels",
+        "Joanne Paterson"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T04:10:00Z",
+      "summary": "Unlocking GovCMS Personalization: Custom Metatags and Convivial Profiler in Action",
+      "location": "Cinema 1",
+      "track": "User Experience \u0026 Content",
+      "speakers": [
+        "Naveen Valecha"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T04:10:00Z",
+      "summary": "Deep Telemetry with eBPF and Rust",
+      "location": "Cinema 2",
+      "track": "Web Tools \u0026 Complementary Technologies",
+      "speakers": [
+        "Nick Schuch"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T04:10:00Z",
+      "summary": "Turning rules and legislation into interactive digital experiences",
+      "location": "Swinburne",
+      "track": "Web Tools \u0026 Complementary Technologies",
+      "speakers": [
+        "Phillipa Martin"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T23:00:00Z",
+      "summary": "Transforming Drupal data workflows: An in-depth look at Data Pipelines and Search API",
+      "location": "Cinema 1",
+      "track": "Drupal Development",
+      "speakers": [
+        "Brynn Briedis"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T23:00:00Z",
+      "summary": "Building a Versatile Design System for Pacific Data Hub: Bridging Drupal Themes and Headless Frontends",
+      "location": "Cinema 2",
+      "track": "Web Tools \u0026 Complementary Technologies",
+      "speakers": [
+        "Rox Flam"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T23:00:00Z",
+      "summary": "Mindful connections: enhancing mental health awareness in a remote work culture",
+      "location": "Swinburne",
+      "track": "People \u0026 Culture",
+      "speakers": [
+        "Angela Rak"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T23:50:00Z",
+      "summary": "Launch your design system into hyperdrive with Starshot's Experience Builder",
+      "location": "Cinema 1",
+      "track": "User Experience \u0026 Content",
+      "speakers": [
+        "Akhil Bhandari"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T23:50:00Z",
+      "summary": "Hashes and Nonces and Violations, Oh My! Everything you need to know about Content Security Policy (CSP)",
+      "location": "Cinema 2",
+      "track": "Web Tools \u0026 Complementary Technologies",
+      "speakers": [
+        "Michael Strelan"
+      ]
+    },
+    {
+      "startTime": "2026-03-12T23:50:00Z",
+      "summary": "Let's bring new people to Drupal!",
+      "location": "Swinburne",
+      "track": "People \u0026 Culture",
+      "speakers": [
+        "Daniel Carvalhinh"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T00:30:00Z",
+      "summary": "My journey to becoming a Core maintainer [Lightning talk]",
+      "location": "Cinema 1",
+      "track": "Drupal Development",
+      "speakers": [
+        "Daniel Veza"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T00:30:00Z",
+      "summary": "Using generative tools to assist with software development [Lightning talk]",
+      "location": "Cinema 2",
+      "track": "Web Tools \u0026 Complementary Technologies",
+      "speakers": [
+        "Vladimir Roudakov"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T00:30:00Z",
+      "summary": "Forming an AI strategy for a digital agency",
+      "location": "Swinburne",
+      "track": "People \u0026 Culture",
+      "speakers": [
+        "Kurt Foster"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T00:45:00Z",
+      "summary": "Object Oriented theming with Pinto [Lightning talk]",
+      "location": "Cinema 1",
+      "track": "Drupal Development",
+      "speakers": [
+        "Adam Bramley"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T00:45:00Z",
+      "summary": "The Pygmy Stack: The Little Docker Helper Tool That Could [Lightning talk]",
+      "location": "Cinema 2",
+      "track": "Web Tools \u0026 Complementary Technologies",
+      "speakers": [
+        "Karl Hepworth"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T02:00:00Z",
+      "summary": "How Drupal Plays Its Role in Modern Enterprise Digital Architecture",
+      "location": "Cinema 1",
+      "track": "Drupal Development",
+      "speakers": [
+        "Weynham Zheng"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T02:00:00Z",
+      "summary": "Setup projects and onboard developers in minutes with Vortex",
+      "location": "Cinema 2",
+      "track": "Web Tools \u0026 Complementary Technologies",
+      "speakers": [
+        "Alex Skrypnyk"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T02:40:00Z",
+      "summary": "Making a splash with an accessible, consistent design system",
+      "location": "Cinema 1",
+      "track": "User Experience \u0026 Content",
+      "speakers": [
+        "Melissa Coombs",
+        "Kate Faulkner"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T02:40:00Z",
+      "summary": "Drupal F1 Trivia with Salsa Digital – Test Your Knowledge \u0026 Win Prizes!",
+      "location": "Cinema 2",
+      "track": "Sponsor session",
+      "speakers": [
+        "Akhil Bhandari"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T02:40:00Z",
+      "summary": "per-charging Drupal and GovCMS with ethical personalisation and content powered by Salesforce",
+      "location": "Swinburne",
+      "track": "User Experience \u0026 Content",
+      "speakers": [
+        "Chris Dodds"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T03:30:00Z",
+      "summary": "Building digital experiences that align to Digital Service Standards",
+      "location": "Cinema 1",
+      "track": "User Experience \u0026 Content",
+      "speakers": [
+        "Paul Morriss"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T03:30:00Z",
+      "summary": "How we modernised our frontend tooling using Vite and Storybook",
+      "location": "Cinema 2",
+      "track": "Web Tools \u0026 Complementary Technologies",
+      "speakers": [
+        "Jack Tarant"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T03:30:00Z",
+      "summary": "Two Suppliers, One Team: A case study on a collaborative Drupal project in the Digital Transformation of Catholic Schools NSW",
+      "location": "Swinburne",
+      "track": "People \u0026 Culture",
+      "speakers": [
+        "Griffyn Heels",
+        "Joanne Paterson"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T04:10:00Z",
+      "summary": "Unlocking GovCMS Personalization: Custom Metatags and Convivial Profiler in Action",
+      "location": "Cinema 1",
+      "track": "User Experience \u0026 Content",
+      "speakers": [
+        "Naveen Valecha"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T04:10:00Z",
+      "summary": "Deep Telemetry with eBPF and Rust",
+      "location": "Cinema 2",
+      "track": "Web Tools \u0026 Complementary Technologies",
+      "speakers": [
+        "Nick Schuch"
+      ]
+    },
+    {
+      "startTime": "2026-03-13T04:10:00Z",
+      "summary": "Turning rules and legislation into interactive digital experiences",
+      "location": "Swinburne",
+      "track": "Web Tools \u0026 Complementary Technologies",
+      "speakers": [
+        "Phillipa Martin"
+      ]
+    }
+  ],
+  "result": "✅",
+  "url": "https://drupalsouth.org/events/drupalsouth-melbourne-2025/schedule"
+}

@@ -1,0 +1,924 @@
+{
+  "event": {
+    "Location": "Singapore",
+    "Year": "2024",
+    "URL": "https://events.drupal.org/singapore2024/schedule",
+    "Region": "Asia",
+    "EndDate": "2024-12-11T00:00:00Z",
+    "StartDate": "2024-12-09T00:00:00Z",
+    "Website": "https://events.drupal.org/singapore2024",
+    "Venue": "PARKROYAL Collection Marina Bay",
+    "Timezone": ""
+  },
+  "items": [
+    {
+      "startTime": "2024-12-09T08:30:00Z",
+      "endTime": "2024-12-09T09:00:00Z",
+      "duration": "PT30M",
+      "summary": "Registration",
+      "location": "Location Atrium",
+      "description": "",
+      "link": "https://events.drupal.org//singapore2024/session/registration",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T09:00:00Z",
+      "endTime": "2024-12-09T09:45:00Z",
+      "duration": "PT45M",
+      "summary": "Automating Behavior-Driven Development: Boosting Productivity with Template-Driven Test Experience",
+      "location": "Location Clover 4+5",
+      "description": "We have successfully established our development process for Drupal custom modules, including automated testing using PHPUnit, all managed through our own GitLab CI/CD pipeline. This setup mirrors the automated testing process used by Drupal.org, which was our goal to emulate.",
+      "link": "https://events.drupal.org//singapore2024/session/automating-behavior-driven-development-boosting-productivity-template-driven",
+      "track": "devops",
+      "speakers": [
+        "yas"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T09:00:00Z",
+      "endTime": "2024-12-09T09:45:00Z",
+      "duration": "PT45M",
+      "summary": "Beyond Boundaries: The Triumph of a Decoupled Web Portal for IDMC a part of the Norwegian Refugee Co",
+      "location": "Location Clover 3",
+      "description": "The Internal Displacement Monitoring Centre (IDMC), established in 1998 as part of the Norwegian Refugee Council (NRC), is the world's leading authority on internal displacement data and analysis.",
+      "link": "https://events.drupal.org//singapore2024/session/beyond-boundaries-triumph-decoupled-web-portal-idmc-part-norwegian-refugee-co",
+      "track": "drupal showcase",
+      "speakers": [
+        "annamravingmailcom"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T09:00:00Z",
+      "endTime": "2024-12-09T09:45:00Z",
+      "duration": "PT45M",
+      "summary": "Server-side rendering a Drupal site with Next.js",
+      "location": "Location Garden Ballroom",
+      "description": "But Drupal can already render your website on the server! Why would you want to decouple your frontend and have it render your website in JavaScript on the server?",
+      "link": "https://events.drupal.org//singapore2024/session/server-side-rendering-drupal-site-nextjs",
+      "track": "development and coding",
+      "speakers": [
+        "JohnAlbin"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T09:45:00Z",
+      "endTime": "2024-12-09T10:00:00Z",
+      "duration": "PT15M",
+      "summary": "Morning tea",
+      "location": "Location Atrium",
+      "description": "",
+      "link": "https://events.drupal.org//singapore2024/session/morning-tea",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T10:00:00Z",
+      "endTime": "2024-12-09T10:15:00Z",
+      "duration": "PT15M",
+      "summary": "Welcome",
+      "location": "Location Garden Ballroom",
+      "description": "Let's begin DrupalCon Singapore with Welcome note by Tim Doyle, Mike Richardson and Surabhi Gokte",
+      "link": "https://events.drupal.org//singapore2024/session/welcome",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T10:15:00Z",
+      "endTime": "2024-12-09T11:15:00Z",
+      "duration": "PT1H",
+      "summary": "Driesnote",
+      "location": "Location Garden Ballroom",
+      "description": "",
+      "link": "https://events.drupal.org//singapore2024/session/driesnote",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T11:15:00Z",
+      "endTime": "2024-12-09T11:30:00Z",
+      "duration": "PT15M",
+      "summary": "Group Photo",
+      "location": "Location Garden Ballroom",
+      "description": "",
+      "link": "https://events.drupal.org//singapore2024/session/group-photo",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T11:30:00Z",
+      "endTime": "2024-12-09T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Building the future of Drupal: 11, 12 and Starshot",
+      "location": "Location Garden Ballroom",
+      "description": "As of DrupalCon Barcelona 2024, Drupal 11.0 is still very new, but we already know when Drupal 12 will be released. Work on Starshot is well underway, and the Driesnote will provide a high-level update on its progress.",
+      "link": "https://events.drupal.org//singapore2024/session/building-future-drupal-11-12-and-starshot",
+      "track": "user experience, accessibility and design drupal starshot",
+      "speakers": [
+        "Gábor Hojtsy",
+        "tim.plunkett"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T11:30:00Z",
+      "endTime": "2024-12-09T11:50:00Z",
+      "duration": "PT20M",
+      "summary": "Sustainable Digital Marketing with Drupal—Eco-Friendly Tech Solutions",
+      "location": "Location Clover 4+5",
+      "description": "Session Description: Exploring the dynamic intersection of sustainability and digital marketing through the powerful lens of Drupal.",
+      "link": "https://events.drupal.org//singapore2024/session/sustainable-digital-marketing-drupal-eco-friendly-tech-solutions",
+      "track": "content and marketing",
+      "speakers": [
+        "Prevya C P"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T11:30:00Z",
+      "endTime": "2024-12-09T11:50:00Z",
+      "duration": "PT20M",
+      "summary": "The Path to Drupal Excellence: Delivery Success Through Professional Growth",
+      "location": "Location Clover 3",
+      "description": "Introduction",
+      "link": "https://events.drupal.org//singapore2024/session/path-drupal-excellence-delivery-success-through-professional-growth",
+      "track": "leadership, management and business",
+      "speakers": [
+        "Trupti Bhosale"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T11:55:00Z",
+      "endTime": "2024-12-09T12:15:00Z",
+      "duration": "PT20M",
+      "summary": "Implementation of automation system in Balochistan's Public Accounts Committee",
+      "location": "Location Clover 4+5",
+      "description": "The Public Accounts Committee (known as PAC) of Balochistan province in Pakistan had an outdated manual system of tracking their audit cases over the years. That had caused a lot of backlog.",
+      "link": "https://events.drupal.org//singapore2024/session/implementation-automation-system-balochistans-public-accounts-committee",
+      "track": "drupal showcase",
+      "speakers": [
+        "muhammad.tanweer"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T11:55:00Z",
+      "endTime": "2024-12-09T12:15:00Z",
+      "duration": "PT20M",
+      "summary": "Level Up Your Impact: Building Socially-Driven Projects with Drupal as a Digital Public Good",
+      "location": "Location Clover 3",
+      "description": "=== Abstract ===",
+      "link": "https://events.drupal.org//singapore2024/session/level-your-impact-building-socially-driven-projects-drupal-digital-public",
+      "track": "community health",
+      "speakers": [
+        "Shriaas"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T12:15:00Z",
+      "endTime": "2024-12-09T13:15:00Z",
+      "duration": "PT1H",
+      "summary": "Lunch",
+      "location": "Location Atrium",
+      "description": "",
+      "link": "https://events.drupal.org//singapore2024/session/lunch",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T12:45:00Z",
+      "endTime": "2024-12-09T13:00:00Z",
+      "duration": "PT15M",
+      "summary": "5 Varnish features that will improve the caching of your Drupal site",
+      "location": "Location Garden Ballroom",
+      "description": "In this short presentation, Thijs Feryn, the Technical Evangelist at Varnish Software, will highlight 5 Varnish features that will improve the efficiency, simplicity, flexibility and performance of your full page caching strategy in Drupal.",
+      "link": "https://events.drupal.org//singapore2024/session/5-varnish-features-will-improve-caching-your-drupal-site",
+      "track": "devops",
+      "speakers": [
+        "thijsferyn"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T13:00:00Z",
+      "endTime": "2024-12-09T13:10:00Z",
+      "duration": "PT10M",
+      "summary": "Features of Fully Open Source Enterprise Hosting",
+      "location": "Location Garden Ballroom",
+      "description": "amazee.io has been delivering Enterprise Drupal hosting on our open source platform for over 10 years, but what does Enterprise actually mean to our customers across the globe?",
+      "link": "https://events.drupal.org//singapore2024/session/features-fully-open-source-enterprise-hosting",
+      "track": "devops",
+      "speakers": [
+        "tobybellwood"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T13:15:00Z",
+      "endTime": "2024-12-09T13:35:00Z",
+      "duration": "PT20M",
+      "summary": "Adapting Hosting Platforms for Starshot’s Automatic Updates",
+      "location": "Location Clover 3",
+      "description": "As the world of Starshot continues to take shape, its features are continuing to mature.",
+      "link": "https://events.drupal.org//singapore2024/session/adapting-hosting-platforms-starshots-automatic-updates",
+      "track": "devops drupal starshot",
+      "speakers": [
+        "fubarhouse"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T13:15:00Z",
+      "endTime": "2024-12-09T14:00:00Z",
+      "duration": "PT45M",
+      "summary": "Making the Drupal Credit System Less Gamifiable",
+      "location": "Location Garden Ballroom",
+      "description": "Join us for an engaging panel discussion where we dive into a critical issue facing the Drupal community: the potential for abuse of the Drupal credit system. This practice not only undermines the integrity of the credit system but also affects the overall quality and",
+      "link": "https://events.drupal.org//singapore2024/session/making-drupal-credit-system-less-gamifiable",
+      "track": "community health",
+      "speakers": [
+        "msankhala"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T13:15:00Z",
+      "endTime": "2024-12-09T14:00:00Z",
+      "duration": "PT45M",
+      "summary": "Widening access to Justice using AI: A Case Study of some US based Legal Services Chatbot",
+      "location": "Location Clover 4+5",
+      "description": "Explore how some Legal Service Organizations \u0026 QED42 leveraged the power of AI and Drupal to develop an innovative chatbot that revolutionizes access to legal information and services for the larger low-income and vulnerable populations.",
+      "link": "https://events.drupal.org//singapore2024/session/widening-access-justice-using-ai-case-study-some-us-based-legal-services",
+      "track": "drupal showcase",
+      "speakers": [
+        "ajv009"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T13:40:00Z",
+      "endTime": "2024-12-09T14:00:00Z",
+      "duration": "PT20M",
+      "summary": "Beyond Accessibility: Crafting Empathetic Digital Experiences",
+      "location": "Location Clover 3",
+      "description": "Ever wondered how to make your website welcoming to everyone, regardless of ability? Join me for a lightning talk where we’ll unveil a straightforward accessibility checklist that ensures your site is inclusive and user-friendly.",
+      "link": "https://events.drupal.org//singapore2024/session/beyond-accessibility-crafting-empathetic-digital-experiences",
+      "track": "user experience, accessibility and design",
+      "speakers": [
+        "nikitaaswani"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T14:15:00Z",
+      "endTime": "2024-12-09T15:00:00Z",
+      "duration": "PT45M",
+      "summary": "American Diabetes Association’s Digital Landscape Overhaul with Drupal 10 \u0026 Multisite Architecture",
+      "location": "Location Clover 3",
+      "description": "This session will delve into the comprehensive case study of the American Diabetes Association's digital landscape overhaul using Drupal 10 and multisite architecture. The discussion will cover new features and sites launched on the platform.",
+      "link": "https://events.drupal.org//singapore2024/session/american-diabetes-associations-digital-landscape-overhaul-drupal-10-multisite",
+      "track": "drupal showcase",
+      "speakers": [
+        "guptahemant"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T14:15:00Z",
+      "endTime": "2024-12-09T15:00:00Z",
+      "duration": "PT45M",
+      "summary": "Being a Drupal developer in a small third world country",
+      "location": "Location Clover 4+5",
+      "description": "I am from Sri Lanka and I want to talk about my efforts to promote Drupal and train developers in Sri Lanka. Also I want to talk about how the journey has been so far working as Drupal developer in Sri Lanka with a small community.",
+      "link": "https://events.drupal.org//singapore2024/session/being-drupal-developer-small-third-world-country",
+      "track": "community health",
+      "speakers": [
+        "nmeegama"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T14:15:00Z",
+      "endTime": "2024-12-09T15:00:00Z",
+      "duration": "PT45M",
+      "summary": "End-to-end observability with decoupled Drupal and microservices? Yes, it’s possible now!",
+      "location": "Location Garden Ballroom",
+      "description": "Monitoring and debugging a simple decoupled project with our Drupal at the backend and a separate JS frontend app is already a tricky task, right?",
+      "link": "https://events.drupal.org//singapore2024/session/end-end-observability-decoupled-drupal-and-microservices-yes-its-possible-now",
+      "track": "devops",
+      "speakers": [
+        "Murz"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T15:00:00Z",
+      "endTime": "2024-12-09T15:15:00Z",
+      "duration": "PT15M",
+      "summary": "Afternoon tea",
+      "location": "Location Atrium",
+      "description": "",
+      "link": "https://events.drupal.org//singapore2024/session/afternoon-tea",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T15:15:00Z",
+      "endTime": "2024-12-09T16:00:00Z",
+      "duration": "PT45M",
+      "summary": "Dance with Waterfall and Agile",
+      "location": "Location Clover 3",
+      "description": "We, as a Drupal shop, love agile developmenmt for sure. But in many Asian countries, at least here in Japan, business people are conservative, and they love waterfall development.",
+      "link": "https://events.drupal.org//singapore2024/session/dance-waterfall-and-agile",
+      "track": "leadership, management and business",
+      "speakers": [
+        "ken_taguchi"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T15:15:00Z",
+      "endTime": "2024-12-09T16:00:00Z",
+      "duration": "PT45M",
+      "summary": "Defining Drupal Starshot with user-centered design",
+      "location": "Location Garden Ballroom",
+      "description": "This session will give an overview of how we’ve prioritized the product definition for Starshot, which role research has played and what are the future plans.",
+      "link": "https://events.drupal.org//singapore2024/session/defining-drupal-starshot-user-centered-design",
+      "track": "user experience, accessibility and design drupal starshot",
+      "speakers": [
+        "Cristina Chumillas"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T15:15:00Z",
+      "endTime": "2024-12-09T16:00:00Z",
+      "duration": "PT45M",
+      "summary": "Enhancing Drupal with PHP 8: Exploring New Features and Compatibility",
+      "location": "Location Clover 4+5",
+      "description": "Each version of Drupal brings in new changes. And the changes coming to Drupal Core are easier to be made, thanks to semantic versioning! It is easier to get a new experimental module/theme in core and work towards getting it stable and production ready.",
+      "link": "https://events.drupal.org//singapore2024/session/enhancing-drupal-php-8-exploring-new-features-and-compatibility",
+      "track": "development and coding",
+      "speakers": [
+        "AjitS"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T16:15:00Z",
+      "endTime": "2024-12-09T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "Let's write and expand your Drupal books from your local community!",
+      "location": "Location Garden Ballroom",
+      "description": "In this session, Takahiro Komatsu, Drupal Meetup Toyota co-organizer, will share the experience of how we collaborated with community members in Japan to write and expand Drupal books.",
+      "link": "https://events.drupal.org//singapore2024/session/lets-write-and-expand-your-drupal-books-your-local-community",
+      "track": "community health",
+      "speakers": [
+        "takahiro-komatsu"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T16:15:00Z",
+      "endTime": "2024-12-09T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "Supercharge your company with an open source business model",
+      "location": "Location Clover 3",
+      "description": "Traditional digital agencies are typically reliant on subservient relationships with global technology giants, with zero influence on the software their businesses rely on.",
+      "link": "https://events.drupal.org//singapore2024/session/supercharge-your-company-open-source-business-model",
+      "track": "leadership, management and business",
+      "speakers": [
+        "owenlansbury"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T16:15:00Z",
+      "endTime": "2024-12-09T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "What, Why, and When for Recipes \u0026 Distributions with Starshot",
+      "location": "Location Clover 4+5",
+      "description": "As the Starshot initiative was introduced, people have started to think more about the differences and use cases between Drupal distributions and recipes.",
+      "link": "https://events.drupal.org//singapore2024/session/what-why-and-when-recipes-distributions-starshot",
+      "track": "development and coding drupal starshot",
+      "speakers": [
+        "abhisekmazumdar"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T17:15:00Z",
+      "endTime": "2024-12-09T18:15:00Z",
+      "duration": "PT1H",
+      "summary": "Splash Awards",
+      "location": "Location Garden Ballroom",
+      "description": "",
+      "link": "https://events.drupal.org//singapore2024/session/splash-awards",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-09T18:15:00Z",
+      "endTime": "2024-12-09T20:00:00Z",
+      "duration": "PT1H45M",
+      "summary": "Drupal CMS Candidate Release Party",
+      "location": "Location Atrium",
+      "description": "Join us as we celebrate the launch of the highly anticipated Drupal CMS Release Candidate at DrupalCon Singapore!",
+      "link": "https://events.drupal.org//singapore2024/session/drupal-cms-candidate-release-party",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-10T09:00:00Z",
+      "endTime": "2024-12-10T09:15:00Z",
+      "duration": "PT15M",
+      "summary": "Welcome",
+      "location": "Location Garden Ballroom",
+      "description": "",
+      "link": "https://events.drupal.org//singapore2024/session/welcome-0",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-10T09:15:00Z",
+      "endTime": "2024-12-10T10:00:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal CMS Panel: Key Leads Answer Your Questions",
+      "location": "Location Garden Ballroom",
+      "description": "Join us for an engaging Drupal CMS panel featuring key leaders from the Starshot project in a fireside chat-style discussion. They will share their perspectives on the future of Drupal, current challenges, and opportunities, while also answering questions from the audience.",
+      "link": "https://events.drupal.org//singapore2024/session/drupal-cms-panel-key-leads-answer-your-questions",
+      "track": "",
+      "speakers": [
+        "tim.plunkett",
+        "Dries Buytaert",
+        "Gábor Hojtsy",
+        "lauriii",
+        "pameeela",
+        "Cristina Chumillas",
+        "yautja_cetanu",
+        "lenny-moskalyk"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-10T10:00:00Z",
+      "endTime": "2024-12-10T10:15:00Z",
+      "duration": "PT15M",
+      "summary": "Morning Tea",
+      "location": "Location Atrium",
+      "description": "",
+      "link": "https://events.drupal.org//singapore2024/session/morning-tea-0",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-10T10:15:00Z",
+      "endTime": "2024-12-10T11:00:00Z",
+      "duration": "PT45M",
+      "summary": "Building Multi-Language Sites in Drupal: Unlocking Global Potential",
+      "location": "Location Clover 4+5",
+      "description": "Ever wondered how to seamlessly extend your website’s reach to a global audience without compromising on user experience or content quality? Join in as we delve into the intricacies of building robust multi-language sites in Drupal.",
+      "link": "https://events.drupal.org//singapore2024/session/building-multi-language-sites-drupal-unlocking-global-potential",
+      "track": "site building",
+      "speakers": [
+        "Anjali Rathod"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-10T10:15:00Z",
+      "endTime": "2024-12-10T11:00:00Z",
+      "duration": "PT45M",
+      "summary": "Mastering UI Patterns in Drupal 10: Building Reusable and Dynamic Components",
+      "location": "Location Clover 3",
+      "description": "I am excited to present an insightful session on \"Mastering UI Patterns in Drupal 10: Building Reusable and Dynamic Components.\" This session aims to equip developers, designers, and site builders with the knowledge and skills needed to leverage UI Patterns effectively within the Drupal 10 ecosys",
+      "link": "https://events.drupal.org//singapore2024/session/mastering-ui-patterns-drupal-10-building-reusable-and-dynamic-components",
+      "track": "site building",
+      "speakers": [
+        "thedrupalkid"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-10T10:15:00Z",
+      "endTime": "2024-12-10T11:00:00Z",
+      "duration": "PT45M",
+      "summary": "Panel: Meet the Drupal Asia Steering Committee and maybe join us?",
+      "location": "Location Garden Ballroom",
+      "description": "The Drupal Asia Steering Committee is a volunteer, non-profit community body that has helped bring DrupalCon Singapore to life in partnership with the Drupal Association.",
+      "link": "https://events.drupal.org//singapore2024/session/panel-meet-drupal-asia-steering-committee-and-maybe-join-us",
+      "track": "community health",
+      "speakers": [
+        "Michael Richardson",
+        "surabhi-gokte",
+        "Masami",
+        "loziju",
+        "Shriaas",
+        "Joe Chin"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-10T11:15:00Z",
+      "endTime": "2024-12-10T12:00:00Z",
+      "duration": "PT45M",
+      "summary": "First Time Contributor Workshop",
+      "location": "Location Clover 6 +7 (BoF)",
+      "description": "Did you know that Drupal (the software) is built by people just like you and me? If you haven't contributed yet (or need a refresher), this is your opportunity to learn how to contribute, through code, documentation, project managing, marketing and more!",
+      "link": "https://events.drupal.org//singapore2024/session/first-time-contributor-workshop",
+      "track": "community health",
+      "speakers": [
+        "greggmarshall"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-10T11:15:00Z",
+      "endTime": "2024-12-10T12:00:00Z",
+      "duration": "PT45M",
+      "summary": "Innovation and the future of Drupal",
+      "location": "Location Garden Ballroom",
+      "description": "The Drupal project thrives on innovation and collaboration, shaping the future of digital experiences.",
+      "link": "https://events.drupal.org//singapore2024/session/innovation-and-future-drupal",
+      "track": "leadership, management and business",
+      "speakers": [
+        "Alejandro Moreno Lopez",
+        "Piyuesh Kumar",
+        "lenny-moskalyk",
+        "Cristina Chumillas",
+        "guptahemant"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-10T11:15:00Z",
+      "endTime": "2024-12-10T11:35:00Z",
+      "duration": "PT20M",
+      "summary": "Mutual Benefits: How Government Adoption of Drupal Spurs Local Communities and Unlocks Synergy",
+      "location": "Location Clover 4+5",
+      "description": "When it comes to government websites, Drupal is everywhere. In 2021, around 56% of the world’s government websites relied on Drupal. Numerous case studies illustrate the profound technical benefits of choosing Drupal.",
+      "link": "https://events.drupal.org//singapore2024/session/mutual-benefits-how-government-adoption-drupal-spurs-local-communities-and",
+      "track": "leadership, management and business",
+      "speakers": [
+        "tinto",
+        "akmalfikri"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-10T11:15:00Z",
+      "endTime": "2024-12-10T12:00:00Z",
+      "duration": "PT45M",
+      "summary": "Navigating Tomorrow: The Future of Websites in the Age of AI and Content Proliferation",
+      "location": "Location Clover 3",
+      "description": "The landscape of websites is undergoing a seismic shift, driven by an insatiable demand for new content and the impending influence of artificial intelligence.",
+      "link": "https://events.drupal.org//singapore2024/session/navigating-tomorrow-future-websites-age-ai-and-content-proliferation",
+      "track": "content and marketing",
+      "speakers": [
+        "_doyle_",
+        "gaurav.goyal"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-10T11:40:00Z",
+      "endTime": "2024-12-10T12:00:00Z",
+      "duration": "PT20M",
+      "summary": "Enhanced User Experience of Batch Components in Drupal",
+      "location": "Location Clover 4+5",
+      "description": "Enhanced User Experience with Batch Components in Drupal Prerequisite None(session is designing in such manner that anyone can able to understand)",
+      "link": "https://events.drupal.org//singapore2024/session/enhanced-user-experience-batch-components-drupal",
+      "track": "development and coding",
+      "speakers": [
+        "pooja_sharma"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-10T12:00:00Z",
+      "endTime": "2024-12-10T13:00:00Z",
+      "duration": "PT1H",
+      "summary": "Lunch",
+      "location": "Location Atrium",
+      "description": "",
+      "link": "https://events.drupal.org//singapore2024/session/lunch-0",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-10T12:20:00Z",
+      "endTime": "2024-12-10T12:50:00Z",
+      "duration": "PT30M",
+      "summary": "Accelerating Web Performance: The Power of Fastly and Drupal Integration",
+      "location": "Location Garden Ballroom",
+      "description": "As the digital landscape evolves, performance and collaboration are key to delivering fast, reliable, and scalable web experiences. Bring your lunch and join us as we explore how the integration of Fastly's advanced CDN and edge",
+      "link": "https://events.drupal.org//singapore2024/session/accelerating-web-performance-power-fastly-and-drupal-integration",
+      "track": "devops",
+      "speakers": [
+        "Michael Richardson",
+        "Shu Teng Loh"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-10T13:00:00Z",
+      "endTime": "2024-12-10T13:45:00Z",
+      "duration": "PT45M",
+      "summary": "Consistency and Collaboration: The Future of Front-End Development with Design Tokens",
+      "location": "Location Clover 3",
+      "description": "Have you ever been on a project where the design process was slowed down by repetitive tasks such as manually updating colors, fonts, and spacing? Discover a forward-thinking approach to enriching user experiences by integrating design tokens with Storybook and Figma in Drupal.",
+      "link": "https://events.drupal.org//singapore2024/session/consistency-and-collaboration-future-front-end-development-design-tokens",
+      "track": "user experience, accessibility and design",
+      "speakers": [
+        "asmita26",
+        "nikitaaswani"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-10T13:00:00Z",
+      "endTime": "2024-12-10T13:45:00Z",
+      "duration": "PT45M",
+      "summary": "From 'them' to 'us': Demystifying Drupal contribution",
+      "location": "Location Clover 4+5",
+      "description": "Millions of people use Drupal, but a small fraction of those contribute in a given year. That's enough to make Drupal one of the biggest open-source projects in the world, but it still leaves a high proportion of takers to makers.",
+      "link": "https://events.drupal.org//singapore2024/session/them-us-demystifying-drupal-contribution",
+      "track": "community health",
+      "speakers": [
+        "pameeela",
+        "larowlan"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-10T13:00:00Z",
+      "endTime": "2024-12-10T13:45:00Z",
+      "duration": "PT45M",
+      "summary": "Using Drupal’s AI module to power your Drupal websites and potential plans for Starshot.",
+      "location": "Location Garden Ballroom",
+      "description": "Description When ChatGPT first launched, along with many other people I thought my job could be over! Instead, we as Drupal developers have the potential to become indispensable through offering our clients valuable and effective AI-powered solutions and powerful AI applications.",
+      "link": "https://events.drupal.org//singapore2024/session/using-drupals-ai-module-power-your-drupal-websites-and-potential-plans",
+      "track": "development and coding drupal starshot",
+      "speakers": [
+        "yautja_cetanu",
+        "Marcus_Johansson"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-10T14:00:00Z",
+      "endTime": "2024-12-10T14:45:00Z",
+      "duration": "PT45M",
+      "summary": "Deep Telemetry with eBPF and Rust",
+      "location": "Location Clover 4+5",
+      "description": "Performance profiling is the process of reviewing and debugging applications for bottlenecks and inefficiencies to identify areas for improvement.",
+      "link": "https://events.drupal.org//singapore2024/session/deep-telemetry-ebpf-and-rust",
+      "track": "devops",
+      "speakers": [
+        "nick_schuch"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-10T14:00:00Z",
+      "endTime": "2024-12-10T14:45:00Z",
+      "duration": "PT45M",
+      "summary": "Improved authoring experience with layout builder: balancing contrib and custom modules",
+      "location": "Location Clover 3",
+      "description": "It's widely known that Drupal's content authoring experience has room for improvement, particularly in comparison to platforms like Wix and Wordpress.",
+      "link": "https://events.drupal.org//singapore2024/session/improved-authoring-experience-layout-builder-balancing-contrib-and-custom",
+      "track": "site building",
+      "speakers": [
+        "zoee-Y",
+        "loziju"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-10T14:00:00Z",
+      "endTime": "2024-12-10T14:45:00Z",
+      "duration": "PT45M",
+      "summary": "The Drupal.org Engineering team: How we're building a new Drupal.org, contributor tools, and support",
+      "location": "Location Garden Ballroom",
+      "description": "Join the Drupal.org engineering team for updates on our recent work. You'll learn how the engineering team has worked with community partners to build out new.drupal.org, a fresh face for the home of the community.",
+      "link": "https://events.drupal.org//singapore2024/session/drupalorg-engineering-team-how-were-building-new-drupalorg-contributor-tools",
+      "track": "development and coding",
+      "speakers": [
+        "lenny-moskalyk",
+        "drumm"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-10T14:45:00Z",
+      "endTime": "2024-12-10T15:00:00Z",
+      "duration": "PT15M",
+      "summary": "Afternoon Tea",
+      "location": "Location Atrium",
+      "description": "",
+      "link": "https://events.drupal.org//singapore2024/session/afternoon-tea-0",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-10T15:00:00Z",
+      "endTime": "2024-12-10T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "A Drupal core maintainer shares peer code review best practices",
+      "location": "Location Garden Ballroom",
+      "description": "Downloadable slides for this session - https://bit.ly/xjm-singapore-slides",
+      "link": "https://events.drupal.org//singapore2024/session/drupal-core-maintainer-shares-peer-code-review-best-practices",
+      "track": "development and coding",
+      "speakers": [
+        "xjm"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-10T15:00:00Z",
+      "endTime": "2024-12-10T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Master the Multilingual Maze: Harnessing Drupal to Achieve Global Success",
+      "location": "Location Clover 3",
+      "description": "In the competitive e-bike industry, Tern manages nearly 40 language variants on its global branding website, leveraging Drupal for seamless localization and content management.",
+      "link": "https://events.drupal.org//singapore2024/session/master-multilingual-maze-harnessing-drupal-achieve-global-success",
+      "track": "content and marketing",
+      "speakers": [
+        "amourow"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-10T15:00:00Z",
+      "endTime": "2024-12-10T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Maximizing Potential: Our Journey with Drupal Internships at QED42",
+      "location": "Location Clover 4+5",
+      "description": "In this session, we will delve into the strategic benefits and challenges of implementing a Drupal internship program at an organizational level.",
+      "link": "https://events.drupal.org//singapore2024/session/maximizing-potential-our-journey-drupal-internships-qed42",
+      "track": "leadership, management and business",
+      "speakers": [
+        "jaykandari"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-10T16:00:00Z",
+      "endTime": "2024-12-10T16:45:00Z",
+      "duration": "PT45M",
+      "summary": "Enhancing Drupal SEO with Real-Time Updates: Integrating Yoast SEO and Site Studio",
+      "location": "Location Clover 4+5",
+      "description": "While the existing Drupal search engine optimization (SEO) module provides comprehensive SEO tools directly within the Drupal content management system, this can be optimized by integrating Yoast SEO and Site Studio for further performance",
+      "link": "https://events.drupal.org//singapore2024/session/enhancing-drupal-seo-real-time-updates-integrating-yoast-seo-and-site-studio",
+      "track": "development and coding",
+      "speakers": [
+        "immaculatexavier"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-10T16:00:00Z",
+      "endTime": "2024-12-10T16:45:00Z",
+      "duration": "PT45M",
+      "summary": "Experience Builder Initiative",
+      "location": "Location Garden Ballroom",
+      "description": "Join us to hear the latest news on the Experience Builder initiative from the initiative leaders.",
+      "link": "https://events.drupal.org//singapore2024/session/experience-builder-initiative",
+      "track": "site building drupal starshot",
+      "speakers": [
+        "lauriii"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-10T16:00:00Z",
+      "endTime": "2024-12-10T16:45:00Z",
+      "duration": "PT45M",
+      "summary": "How to setup a disaster recovery of highly critical drupal sites in AWS",
+      "location": "Location Clover 3",
+      "description": "This presentation will present and setup a disaster recovery for highly critical drupal site with standard RPO and RTO in AWS. Will demo a DR exercise on how to respond and mitigate an infrastructure/application downtime issue.",
+      "link": "https://events.drupal.org//singapore2024/session/how-setup-disaster-recovery-highly-critical-drupal-sites-aws",
+      "track": "devops",
+      "speakers": [
+        "fusionx1"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-10T17:00:00Z",
+      "endTime": "2024-12-10T17:15:00Z",
+      "duration": "PT15M",
+      "summary": "Closing Ceremony",
+      "location": "Location Garden Ballroom",
+      "description": "",
+      "link": "https://events.drupal.org//singapore2024/session/closing-ceremony",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-11T09:30:00Z",
+      "endTime": "2024-12-11T12:15:00Z",
+      "duration": "PT2H45M",
+      "summary": "Contribution",
+      "location": "Location Staytion Lounge Dhoby Ghaut (Different Venue)",
+      "description": "Mentored, First Time, and General Contribution sessions. Please note the venue for contribution sprint is different: Staytion Lounge Dhoby Ghaut, 11 Orchard Rd, B1-13 Dhoby Ghaut, Singapore 238826 (Dhoby Ghaut MRT) For details check Community \u003e Contributions page.",
+      "link": "https://events.drupal.org//singapore2024/session/contribution",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-11T09:30:00Z",
+      "endTime": "2024-12-11T12:15:00Z",
+      "duration": "PT2H45M",
+      "summary": "Training: Drupal: Zero to Hero in One Day with Pixel Onion",
+      "location": "Location Palm Room 5",
+      "description": "For details check: https://events.drupal.org/singapore2024/training",
+      "link": "https://events.drupal.org//singapore2024/session/training-drupal-zero-hero-one-day-pixel-onion",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-11T09:30:00Z",
+      "endTime": "2024-12-11T12:15:00Z",
+      "duration": "PT2H45M",
+      "summary": "Training: Headless Drupal with Axelerant",
+      "location": "Location Palm Room 6",
+      "description": "For details check: https://events.drupal.org/singapore2024/training",
+      "link": "https://events.drupal.org//singapore2024/session/training-headless-drupal-axelerant",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-11T12:15:00Z",
+      "endTime": "2024-12-11T13:15:00Z",
+      "duration": "PT1H",
+      "summary": "Lunch",
+      "location": "Location Staytion Lounge Dhoby Ghaut (Different Venue)",
+      "description": "",
+      "link": "https://events.drupal.org//singapore2024/session/lunch-1",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-11T13:15:00Z",
+      "endTime": "2024-12-11T17:00:00Z",
+      "duration": "PT3H45M",
+      "summary": "Contribution",
+      "location": "Location Staytion Lounge Dhoby Ghaut (Different Venue)",
+      "description": "Mentored, First Time, and General Contribution sessions. Please note the venue for contribution sprint is different: Staytion Lounge Dhoby Ghaut, 11 Orchard Rd, B1-13 Dhoby Ghaut, Singapore 238826 (Dhoby Ghaut MRT) For details check Community \u003e Contributions page.",
+      "link": "https://events.drupal.org//singapore2024/session/contribution-0",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-11T13:15:00Z",
+      "endTime": "2024-12-11T17:00:00Z",
+      "duration": "PT3H45M",
+      "summary": "Training: Drupal: Zero to Hero in One Day with Pixel Onion",
+      "location": "Location Palm Room 5",
+      "description": "For details check: https://events.drupal.org/singapore2024/training",
+      "link": "https://events.drupal.org//singapore2024/session/training-drupal-zero-hero-one-day-pixel-onion-0",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2024-12-11T13:15:00Z",
+      "endTime": "2024-12-11T17:00:00Z",
+      "duration": "PT3H45M",
+      "summary": "Training: Headless Drupal with Axelerant",
+      "location": "Location Palm Room 6",
+      "description": "For details check: https://events.drupal.org/singapore2024/training",
+      "link": "https://events.drupal.org//singapore2024/session/training-headless-drupal-axelerant-0",
+      "track": "",
+      "speakers": null,
+      "timezone": ""
+    }
+  ],
+  "result": "✅",
+  "url": "https://events.drupal.org/singapore2024"
+}

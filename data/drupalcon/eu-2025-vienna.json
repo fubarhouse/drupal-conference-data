@@ -1,0 +1,2658 @@
+{
+  "event": {
+    "Location": "Vienna",
+    "Year": "2025",
+    "URL": "https://events.drupal.org/vienna2025/schedule",
+    "Region": "Europe",
+    "EndDate": "2025-10-17T00:00:00Z",
+    "StartDate": "2025-10-14T00:00:00Z",
+    "Website": "https://events.drupal.org/vienna2025",
+    "Venue": "Austria Center Vienna",
+    "Timezone": ""
+  },
+  "items": [
+    {
+      "startTime": "2025-10-14T09:00:00Z",
+      "endTime": "2025-10-14T18:30:00Z",
+      "duration": "PT9H30M",
+      "summary": "General Contribution Day 1",
+      "location": "Location Contribution Room (Hall K)",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/general-contribution-day-1",
+      "track": "contribution topic",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T10:30:00Z",
+      "endTime": "2025-10-14T12:00:00Z",
+      "duration": "PT1H30M",
+      "summary": "Opening Ceremony + Women in Drupal Award",
+      "location": "Location Auditorium (Hall D)",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/opening-ceremony-women-drupal-award",
+      "track": "other",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T12:00:00Z",
+      "endTime": "2025-10-14T13:15:00Z",
+      "duration": "PT1H15M",
+      "summary": "Welcome Lunch",
+      "location": "Location Exhibition Hall - X2",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/welcome-lunch",
+      "track": "coffee \u0026 lunch break time",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T13:15:00Z",
+      "endTime": "2025-10-14T14:30:00Z",
+      "duration": "PT1H15M",
+      "summary": "DRIESNOTE AUDITORIUM",
+      "location": "Location Auditorium (Hall D)",
+      "description": "Belgium-born Drupal founder Dries Buytaert is a pioneer in the Open Source web publishing and digital experience platform space. As is tradition, Dries will take the stage at the Austria Center Vienna for his Driesnote presentation.",
+      "link": "https://events.drupal.org//vienna2025/session/driesnote-auditorium",
+      "track": "keynote",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T14:30:00Z",
+      "endTime": "2025-10-14T14:45:00Z",
+      "duration": "PT15M",
+      "summary": "Group Photo",
+      "location": "Location Austria Center Vienna",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/group-photo",
+      "track": "other",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T14:45:00Z",
+      "endTime": "2025-10-14T16:45:00Z",
+      "duration": "PT2H",
+      "summary": "Accessibility, Sustainability and the Open Web",
+      "location": "Location Session Room (-2.43)",
+      "description": "The intersection of accessibility, sustainability, and open web principles forms the foundation for digital experiences that truly serves us all.",
+      "link": "https://events.drupal.org//vienna2025/session/accessibility-sustainability-and-open-web",
+      "track": "open web",
+      "speakers": [
+        "John Lockhart (jwlockhart)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T14:45:00Z",
+      "endTime": "2025-10-14T15:30:00Z",
+      "duration": "PT45M",
+      "summary": "BEM vs Tailwind Death match: A lighthearted battle to the (front) end",
+      "location": "Location Session Room (Hall G1)",
+      "description": "Which front end technology should we be using in our Drupal projects? Please note that no BEMs or Tailwinds will be harmed in the making of this session.",
+      "link": "https://events.drupal.org//vienna2025/session/bem-vs-tailwind-death-match-lighthearted-battle-front-end",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "Tony Barker (tonypaulbarker)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T14:45:00Z",
+      "endTime": "2025-10-14T15:30:00Z",
+      "duration": "PT45M",
+      "summary": "DDEV Office Hours",
+      "location": "Location Room BoF (-2.62)",
+      "description": "Come with any question, problem, suggestion, feature request that you might have. Let's work on it together!",
+      "link": "https://events.drupal.org//vienna2025/session/ddev-office-hours",
+      "track": "bof",
+      "speakers": [
+        "Randy Fay (rfay)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T14:45:00Z",
+      "endTime": "2025-10-14T15:30:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal Canvas unleashed: The future of Drupal is here",
+      "location": "Location Auditorium (Hall D)",
+      "description": "DrupalCon Vienna marks the arrival of Drupal Canvas 1.0, ready for production. It's time to adopt new mental models for the fundamental shift in how we build Drupal sites. Get practical insights from key contributors who've been shaping Drupal Canvas from its inception.",
+      "link": "https://events.drupal.org//vienna2025/session/drupal-canvas-unleashed-future-drupal-here",
+      "track": "drupal cms",
+      "speakers": [
+        "Lauri Timmanee (lauriii)",
+        "Bálint Kléri (balintbrews)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T14:45:00Z",
+      "endTime": "2025-10-14T15:30:00Z",
+      "duration": "PT45M",
+      "summary": "GitHub Actions + Docker + Cypress = CI/CD Nirvana",
+      "location": "Location Session Room (-2.42)",
+      "description": "In today’s Drupal landscape, speed alone isn't enough – your deployments must also be secure, tested, and repeatable.",
+      "link": "https://events.drupal.org//vienna2025/session/github-actions-docker-cypress-cicd-nirvana",
+      "track": "infosec \u0026 devops",
+      "speakers": [
+        "Marji Cermak (Marji)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T14:45:00Z",
+      "endTime": "2025-10-14T15:30:00Z",
+      "duration": "PT45M",
+      "summary": "How to Thrive in AI Times as a Drupal Business Organisation (Sponsored by Dropsolid)",
+      "location": "Location Exhibition Hall - Open Stage",
+      "description": "How to Thrive in AI Times as a Drupal Business Organisation",
+      "link": "https://events.drupal.org//vienna2025/session/how-thrive-ai-times-drupal-business-organisation-sponsored-dropsolid",
+      "track": "sponsor talks",
+      "speakers": [
+        "Dominique De Cooman (Domidc)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T14:45:00Z",
+      "endTime": "2025-10-14T15:30:00Z",
+      "duration": "PT45M",
+      "summary": "Mentor Orientation 1",
+      "location": "Location Room BoF (-2.82)",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/mentor-orientation-1",
+      "track": "contribution topic",
+      "speakers": [
+        "Chris Darke (Chrisdarke)",
+        "Rachel Lawson (Rachel_norfolk)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T14:45:00Z",
+      "endTime": "2025-10-14T15:30:00Z",
+      "duration": "PT45M",
+      "summary": "Nestlé Nutrition Scalable Multibrand Design System on Drupal",
+      "location": "Location Session Room (-2.33)",
+      "description": "A scalable multi-brand design system enables companies to effectively manage multiple brands, reduce costs, comply with accessibility regulations and deliver a consistent user experience across all digital touchpoints.",
+      "link": "https://events.drupal.org//vienna2025/session/nestle-nutrition-scalable-multibrand-design-system-drupal",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Olga Tsiamliak (Volha-tsiamliak)",
+        "Bastien Chanot"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T14:45:00Z",
+      "endTime": "2025-10-14T15:30:00Z",
+      "duration": "PT45M",
+      "summary": "TCP Fast Open and HTTP/3: Network-Level Optimizations for Lightning-Fast Drupal",
+      "location": "Location Session Room (-2.32)",
+      "description": "Experience dramatic performance gains by diving beneath Drupal's application layer into the network protocols that power the web. This session explores cutting-edge transport layer technologies to supercharge your Drupal sites without changing a single line of PHP code.",
+      "link": "https://events.drupal.org//vienna2025/session/tcp-fast-open-and-http3-network-level-optimizations-lightning-fast-drupal",
+      "track": "infosec \u0026 devops",
+      "speakers": [
+        "Nicolas PERUSSEL (mamoot)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T14:45:00Z",
+      "endTime": "2025-10-14T15:30:00Z",
+      "duration": "PT45M",
+      "summary": "Transforming Drupal Agency Ops using Gleicher's Formula for Change",
+      "location": "Location Session Room (-2.41)",
+      "description": "When things are going well, agencies fall into the trap of cognitive ease. There is a false sense of security in the status quo. This sense of security is often disrupted by a change in the business environment. Cognitive ease leaves agencies unprepared for this disruption.",
+      "link": "https://events.drupal.org//vienna2025/session/transforming-drupal-agency-ops-using-gleichers-formula-change",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Hetal Mistry (Hetalad)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T14:45:00Z",
+      "endTime": "2025-10-14T15:30:00Z",
+      "duration": "PT45M",
+      "summary": "Your Camp Website Here! What’s New and Exciting with Drupal’s Event Platform",
+      "location": "Location Session Room (Hall G2)",
+      "description": "Have you wanted to organize a new Drupal camp or similar event that features community-provided talks? Feeling daunted by the prospect of creating a website that will allow your team to efficiently collect, evaluate, moderate, and schedule the submitted sessions?",
+      "link": "https://events.drupal.org//vienna2025/session/your-camp-website-here-whats-new-and-exciting-drupals-event-platform",
+      "track": "community health",
+      "speakers": [
+        "Martin Anderson-Clutz (mandclu)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T15:30:00Z",
+      "endTime": "2025-10-14T16:00:00Z",
+      "duration": "PT30M",
+      "summary": "Coffee Break, Tuesday",
+      "location": "Location Exhibition Hall - X2",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/coffee-break-tuesday",
+      "track": "coffee \u0026 lunch break time",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T15:40:00Z",
+      "endTime": "2025-10-14T15:50:00Z",
+      "duration": "PT10M",
+      "summary": "Enterprise B2B Commerce: Worthington Biochemical (Sponsored by Centarro)",
+      "location": "Location Exhibition Hall - Open Stage",
+      "description": "Ryan Szrama is the CEO of Centarro where he leads the company's sales and marketing efforts while providing high level direction to the team maintaining Drupal Commerce.",
+      "link": "https://events.drupal.org//vienna2025/session/enterprise-b2b-commerce-worthington-biochemical-sponsored-centarro-0",
+      "track": "sponsor talks",
+      "speakers": [
+        "Ryan Szrama (Rszrama)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T16:00:00Z",
+      "endTime": "2025-10-14T16:45:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal Association Public Board Meeting",
+      "location": "Location Session Room (-2.42)",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/drupal-association-public-board-meeting",
+      "track": "community health",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T16:00:00Z",
+      "endTime": "2025-10-14T16:45:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal CMS now and beyond",
+      "location": "Location Session Room (Hall G2)",
+      "description": "Drupal CMS 1.0 has arrived, but what’s next? Join us as we unveil the roadmap for the next versions, explore key development areas to shape the future of Drupal. Prerequisite",
+      "link": "https://events.drupal.org//vienna2025/session/drupal-cms-now-and-beyond",
+      "track": "drupal cms",
+      "speakers": [
+        "Cristina Chumillas (ckrina)",
+        "Pamela Barone (Pameeela)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T16:00:00Z",
+      "endTime": "2025-10-14T16:45:00Z",
+      "duration": "PT45M",
+      "summary": "First-Time Contributor Workshop - Tuesday",
+      "location": "Location Room BoF (-2.82)",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/first-time-contributor-workshop-tuesday",
+      "track": "contribution topic",
+      "speakers": [
+        "James Shields (Lostcarpark)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T16:00:00Z",
+      "endTime": "2025-10-14T16:45:00Z",
+      "duration": "PT45M",
+      "summary": "Git into the Groove - Moving from Freelance to Collaborative Workflow",
+      "location": "Location Session Room (-2.41)",
+      "description": "Git into the groove and git ready to move from freelance to working in an agency. In this session, learn the basics of version control, branches \u0026 local environments... all to the tune of our favorite 80s songs! Prerequisite Basic Command Line knowledge",
+      "link": "https://events.drupal.org//vienna2025/session/git-groove-moving-freelance-collaborative-workflow",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "AmyJune Hineline (Volkswagenchick)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T16:00:00Z",
+      "endTime": "2025-10-14T16:45:00Z",
+      "duration": "PT45M",
+      "summary": "How to efficiently use AI to speed up Infrastructure management and app deployment (Sponsored by upsun formerly Platform.sh)",
+      "location": "Location Exhibition Hall - Open Stage",
+      "description": "This session covers practical AI applications for infrastructure management and app deployment. You’ll learn which tasks AI can automate effectively like environment provisioning, resource scaling, and configuration management and which still need human oversight.",
+      "link": "https://events.drupal.org//vienna2025/session/how-efficiently-use-ai-speed-infrastructure-management-and-app-deployment",
+      "track": "sponsor talks",
+      "speakers": [
+        "Guillaume Moigneu (Gmoigneu)",
+        "Florent Huck (Flovntp)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T16:00:00Z",
+      "endTime": "2025-10-14T16:45:00Z",
+      "duration": "PT45M",
+      "summary": "Scaling Drupal’s Marketing to Match Its Innovation: Uniting the Community as Drupal's Marketing Super Power #promotedrupal",
+      "location": "Location Session Room (-2.33)",
+      "description": "Drupal’s technical innovation has reached new heights, but marketing must now match its ambition. This session unites community leaders to present a bold plan: align global efforts, amplify success stories, and trigger a new wave of Drupal adoption in the accelerating AI-driven digital world.",
+      "link": "https://events.drupal.org//vienna2025/session/scaling-drupals-marketing-match-its-innovation-uniting-community-drupals",
+      "track": "open web",
+      "speakers": [
+        "Lenny Moskalyk (Lenny Moskalyk)",
+        "James Hall (jamesh-0)",
+        "David Bishop (David_bishop)",
+        "Paul Johnson (pdjohnson)",
+        "Matthew Saunders (Matthews)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T16:00:00Z",
+      "endTime": "2025-10-14T16:45:00Z",
+      "duration": "PT45M",
+      "summary": "Secure by Design: Integrating Security into Drupal Development",
+      "location": "Location Session Room (-2.32)",
+      "description": "In today's threat landscape, securing Drupal applications is paramount. This session diving into the practical application of 'Secure by Design' principles.",
+      "link": "https://events.drupal.org//vienna2025/session/secure-design-integrating-security-drupal-development",
+      "track": "infosec \u0026 devops",
+      "speakers": [
+        "Janna Malikova (Jannakha)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T16:00:00Z",
+      "endTime": "2025-10-14T16:45:00Z",
+      "duration": "PT45M",
+      "summary": "Writing Custom PHPStan Rules for Drupal Projects",
+      "location": "Location Session Room (Hall G1)",
+      "description": "Static analysis tools like PHPStan have become essential for PHP developers, and Drupal projects can benefit greatly from custom rules tailored to their specific architecture and conventions.",
+      "link": "https://events.drupal.org//vienna2025/session/writing-custom-phpstan-rules-drupal-projects",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "Ondřej Mirtes"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T16:50:00Z",
+      "endTime": "2025-10-14T17:00:00Z",
+      "duration": "PT10M",
+      "summary": "Decoupled Drupal CMS: Opening the World of Modern UI Libraries to Site-Builders (Sponsored by drunomics Gmbh)",
+      "location": "Location Exhibition Hall - Open Stage",
+      "description": "Discover how Drupal CMS can be easily transformed into a decoupled system with a modern frontend. Perfect for empowering site-builders to leverage today's best UI component libraries— without writing a single line of Drupal code.",
+      "link": "https://events.drupal.org//vienna2025/session/decoupled-drupal-cms-opening-world-modern-ui-libraries-site-builders-sponsored",
+      "track": "sponsor talks",
+      "speakers": [
+        "Wolfgang Ziegler (fago)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T17:00:00Z",
+      "endTime": "2025-10-14T17:20:00Z",
+      "duration": "PT20M",
+      "summary": "Communicating Collaboratively: Steering Clients Towards EAA Compliance",
+      "location": "Location Session Room (Hall G2)",
+      "description": "The European Accessibility Act has come into force, bringing new responsibilities for our clients.",
+      "link": "https://events.drupal.org//vienna2025/session/communicating-collaboratively-steering-clients-towards-eaa-compliance",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Paul Sebborn (psebborn)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T17:00:00Z",
+      "endTime": "2025-10-14T17:20:00Z",
+      "duration": "PT20M",
+      "summary": "Forks, Features, and Frustration: Technical Lessons from 100+ Drupal Sites",
+      "location": "Location Session Room (-2.32)",
+      "description": "Scaling Drupal across 100+ independent sites brings technical chaos: config overrides, rogue modules, forked repos. In this session, we’ll explore real-world solutions — and the scars — from managing it.",
+      "link": "https://events.drupal.org//vienna2025/session/forks-features-and-frustration-technical-lessons-100-drupal-sites",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "Benjamin Rasmussen (Ras-ben)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T17:00:00Z",
+      "endTime": "2025-10-14T17:20:00Z",
+      "duration": "PT20M",
+      "summary": "How it feels to be dyslexic in a world dominated by written communication.",
+      "location": "Location Session Room (-2.41)",
+      "description": "Imagine walking through the jungle in shoes 5 sizes too big for you. It would be uncomfortable and you would look much clumsier than you really are. This feeling is the closest I can think of to what dyslexics experience when faced with long written conversations.",
+      "link": "https://events.drupal.org//vienna2025/session/how-it-feels-be-dyslexic-world-dominated-written-communication",
+      "track": "community health",
+      "speakers": [
+        "Alvaro J Hurtado Villegas (Alvar0hurtad0)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T17:00:00Z",
+      "endTime": "2025-10-14T17:20:00Z",
+      "duration": "PT20M",
+      "summary": "Strategies for Integrating Drupal Canvas in Your Existing Drupal Platform",
+      "location": "Location Session Room (Hall G1)",
+      "description": "Explore practical strategies for adopting Drupal's Drupal Canvas in existing platforms, ensuring a smooth transition without compromising current investments.",
+      "link": "https://events.drupal.org//vienna2025/session/strategies-integrating-drupal-canvas-your-existing-drupal-platform",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "Boyan Borisov (boyan.borisov)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T17:00:00Z",
+      "endTime": "2025-10-14T17:20:00Z",
+      "duration": "PT20M",
+      "summary": "Synchronizing an ad hoc subset of my Drupal users with the members of an Azure AD Security Group having one single APP permission given by the Tenant and nothing more",
+      "location": "Location Session Room (-2.43)",
+      "description": "To be honest, I would've rather preferred not having had to deal with Azure AD. You know! The Open Source vs. the-other-way-around thing. But once I was asked to do that and was not in a power position to avoid it completely, I tried to make the best out of it.",
+      "link": "https://events.drupal.org//vienna2025/session/synchronizing-ad-hoc-subset-my-drupal-users-members-azure-ad-security-group",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "Rodrigo Panchiniak Fernandes (Rodrigo-panchiniak-fernandes)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T17:00:00Z",
+      "endTime": "2025-10-14T17:20:00Z",
+      "duration": "PT20M",
+      "summary": "The secret lives of OSS designers: Diary studies of designers contributing to OSS",
+      "location": "Location Session Room (-2.42)",
+      "description": "Listen to the unfiltered inner worlds and experiences of Designers contributing to critical OSS projects in order to make your projects more accessible to designers and design contributions.",
+      "link": "https://events.drupal.org//vienna2025/session/secret-lives-oss-designers-diary-studies-designers-contributing-oss",
+      "track": "open web",
+      "speakers": [
+        "Eriol Fox",
+        "Victory Brown (Victory Brown)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T17:00:00Z",
+      "endTime": "2025-10-14T17:20:00Z",
+      "duration": "PT20M",
+      "summary": "Why we left Drupal, tried Storyblok, and what happened next",
+      "location": "Location Session Room (-2.33)",
+      "description": "Tempted by SaaS CMS promises? The marketing for SaaS CMS solutions is persuasive, often highlighting ease of use and contrasting it with traditional CMS systems. I got sold on those claims and decided to put them to the test by migrating our website from Drupal to Storyblok.",
+      "link": "https://events.drupal.org//vienna2025/session/why-we-left-drupal-tried-storyblok-and-what-happened-next",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Iztok Smolic (iztok)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T17:05:00Z",
+      "endTime": "2025-10-14T17:15:00Z",
+      "duration": "PT10M",
+      "summary": "Inside a year connecting communities: from Media Management in Drupal CMS to leading LocalGov Drupal development (Sponsored by Annertech)",
+      "location": "Location Exhibition Hall - Open Stage",
+      "description": "From Media Management Track Lead for the Starshot initiative to Lead Developer of LocalGov Drupal—Tony’s year connecting two communities revealed something powerful: we’re all trying to solve the same problems.",
+      "link": "https://events.drupal.org//vienna2025/session/inside-year-connecting-communities-media-management-drupal-cms-leading-localgov",
+      "track": "sponsor talks",
+      "speakers": [
+        "Tony Barker (tonypaulbarker)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T17:20:00Z",
+      "endTime": "2025-10-14T17:30:00Z",
+      "duration": "PT10M",
+      "summary": "Flowdrop - A modular platform where agents, logic, and automation flow together effortlessly (Sponsored by Factorial)",
+      "location": "Location Exhibition Hall - Open Stage",
+      "description": "FlowDrop is an emerging, UI-first platform for building AI-assisted workflows and is currently in active development.",
+      "link": "https://events.drupal.org//vienna2025/session/flowdrop-modular-platform-where-agents-logic-and-automation-flow-together",
+      "track": "sponsor talks",
+      "speakers": [
+        "Shibin Das (d34dman)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T17:30:00Z",
+      "endTime": "2025-10-14T18:30:00Z",
+      "duration": "PT1H",
+      "summary": "The International Splash Awards 2025 Ceremony",
+      "location": "Location Auditorium (Hall D)",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/international-splash-awards-2025-ceremony",
+      "track": "other",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-14T18:30:00Z",
+      "endTime": "2025-10-14T19:30:00Z",
+      "duration": "PT1H",
+      "summary": "Opening Reception",
+      "location": "Location Exhibition Hall - X2",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/opening-reception",
+      "track": "other",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T08:00:00Z",
+      "endTime": "2025-10-15T08:30:00Z",
+      "duration": "PT30M",
+      "summary": "Morning Coffee, Wednesday",
+      "location": "Location Exhibition Hall - X2",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/morning-coffee-wednesday",
+      "track": "coffee \u0026 lunch break time",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T08:15:00Z",
+      "endTime": "2025-10-15T18:00:00Z",
+      "duration": "PT9H45M",
+      "summary": "General Contribution Day 2",
+      "location": "Location Contribution Room (Hall K)",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/general-contribution-day-2",
+      "track": "contribution topic",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T08:45:00Z",
+      "endTime": "2025-10-15T10:00:00Z",
+      "duration": "PT1H15M",
+      "summary": "Neurodiversity: An Underrated Superpower in Business",
+      "location": "Location Auditorium (Hall D)",
+      "description": "In tech, some of the most innovative minds think differently – and that difference is often misunderstood. People with ADHD, Autism, or High Sensitivity bring unique strengths like deep focus, pattern recognition, creativity, empathy, and sharp intuition.",
+      "link": "https://events.drupal.org//vienna2025/session/neurodiversity-underrated-superpower-business",
+      "track": "keynote",
+      "speakers": [
+        "Vera Herzmann"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T10:00:00Z",
+      "endTime": "2025-10-15T10:30:00Z",
+      "duration": "PT30M",
+      "summary": "Coffee Break 1, Wednesday",
+      "location": "Location Exhibition Hall - X2",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/coffee-break-1-wednesday",
+      "track": "coffee \u0026 lunch break time",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T10:00:00Z",
+      "endTime": "2025-10-15T10:45:00Z",
+      "duration": "PT45M",
+      "summary": "Epic things you built with Drupal AI (Sponsored by amazee.io)",
+      "location": "Location Exhibition Hall - Open Stage",
+      "description": "Let's look at all the awesome things that have been built with Drupal AI. This session gives an overview of actual running Drupal AI Implementations, how they work, and what we can learn from them.",
+      "link": "https://events.drupal.org//vienna2025/session/epic-things-you-built-drupal-ai-sponsored-amazeeio",
+      "track": "sponsor talks",
+      "speakers": [
+        "Michael Schmid (Schnitzel)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T10:30:00Z",
+      "endTime": "2025-10-15T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "DDEV: Contributing using Claude Code",
+      "location": "Location Room BoF (-2.62)",
+      "description": "Claude Code knows lots about DDEV and can help you contribute and solve your pet problem or add your pet feature. We'll demonstrate solving a simple issue.",
+      "link": "https://events.drupal.org//vienna2025/session/ddev-contributing-using-claude-code",
+      "track": "bof",
+      "speakers": [
+        "Randy Fay (rfay)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T10:30:00Z",
+      "endTime": "2025-10-15T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal + AI: The Power Duo Redefining Digital Experiences (Sponsored by NTT DATA)",
+      "location": "Location Session Room (-2.41)",
+      "description": "See how the integration of Artificial Intelligence with Drupal is reshaping digital experience delivery. In this session, we’ll walk through a real-world use case where AI played a key role in streamlining complex processes.",
+      "link": "https://events.drupal.org//vienna2025/session/drupal-ai-power-duo-redefining-digital-experiences-sponsored-ntt-data",
+      "track": "sponsor talks",
+      "speakers": [
+        "Ricardo Tenreiro de Sá (Ricardotenreiro)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T10:30:00Z",
+      "endTime": "2025-10-15T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "How we built Drupal CMS 2.0's design system and site templates",
+      "location": "Location Session Room (Hall G2)",
+      "description": "What if launching a Drupal site didn’t mean starting from scratch—or stitching together a dozen modules, recipes, and a theme manually?",
+      "link": "https://events.drupal.org//vienna2025/session/how-we-built-drupal-cms-20s-design-system-and-site-templates",
+      "track": "drupal cms",
+      "speakers": [
+        "Jason Thompson (Galactus86)",
+        "Pamela Barone (Pameeela)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T10:30:00Z",
+      "endTime": "2025-10-15T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "JavaScript frontend development with Drupal Canvas: Beyond decoupling",
+      "location": "Location Session Room (-2.32)",
+      "description": "With its built-in code editor, Drupal Canvas lets you create JavaScript components right in your browser.",
+      "link": "https://events.drupal.org//vienna2025/session/javascript-frontend-development-drupal-canvas-beyond-decoupling",
+      "track": "drupal cms",
+      "speakers": [
+        "Bálint Kléri (balintbrews)",
+        "Wolfgang Ziegler (fago)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T10:30:00Z",
+      "endTime": "2025-10-15T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "Mentor Orientation 2",
+      "location": "Location Room BoF (-2.82)",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/mentor-orientation-2",
+      "track": "contribution topic",
+      "speakers": [
+        "Michael Lenahan (Michaellenahan)",
+        "James Shields (Lostcarpark)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T10:30:00Z",
+      "endTime": "2025-10-15T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "So you think you know PHPUnit",
+      "location": "Location Session Room (Hall G1)",
+      "description": "PHPUnit has been around for over two decades and is used by nearly every PHP developer in the world. While most of us know the basics, there are depths and hidden valleys of PHPUnit that even the most experienced of us may have never even heard of.",
+      "link": "https://events.drupal.org//vienna2025/session/so-you-think-you-know-phpunit",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "Sebastian Bergmann"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T10:30:00Z",
+      "endTime": "2025-10-15T10:50:00Z",
+      "duration": "PT20M",
+      "summary": "The Human Edge in Presales: Beating AI-Drafted Drupal Proposals",
+      "location": "Location Session Room (-2.33)",
+      "description": "In a world where AI—and therefore every agency—can draft a solid Drupal proposal in minutes, standing out has never been more urgent. Yet the agencies that win bring hard-earned success stories, tailored demos, and clear trust signals in every pitch. Come learn how.",
+      "link": "https://events.drupal.org//vienna2025/session/human-edge-presales-beating-ai-drafted-drupal-proposals",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Monisha Navlani (monishanavlani)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T10:30:00Z",
+      "endTime": "2025-10-15T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "The post-product product manifesto: AI is disrupting both the SaaS and the consulting world, how to turn this threat into a Drupal renaissance",
+      "location": "Location Session Room (-2.42)",
+      "description": "What happens when organisations expect that they no longer need to hire agencies, because they think they can just vibe code applications themselves? And for those organisations that are still buying, developers have just become a lot more efficient, right?",
+      "link": "https://events.drupal.org//vienna2025/session/post-product-product-manifesto-ai-disrupting-both-saas-and-consulting-world-how",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Bram ten Hove",
+        "Kristof Van Tomme (kvantomme)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T10:30:00Z",
+      "endTime": "2025-10-15T12:15:00Z",
+      "duration": "PT1H45M",
+      "summary": "Workshop - Start with Drupal and AI. Up and running with the AI ecosystem in Drupal in no time.",
+      "location": "Location Session Room (-2.43)",
+      "description": "After doing this workshop you are well prepared to build your own Drupal AI powered applications. We'll walk you through everything from installing the Drupal AI module to building your first working AI-powered application, step by step.",
+      "link": "https://events.drupal.org//vienna2025/session/workshop-start-drupal-and-ai-and-running-ai-ecosystem-drupal-no-time",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "Christoph Breidert (breidert)",
+        "Frederik Wouters (Wouters_f)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T10:55:00Z",
+      "endTime": "2025-10-15T11:15:00Z",
+      "duration": "PT20M",
+      "summary": "From chaos to control: Why automation is non-negotiable in big projects",
+      "location": "Location Session Room (-2.33)",
+      "description": "Have you ever been part of a huge project that’s as big as it is messy? I’m here to show you how automation can make your life a whole lot easier.",
+      "link": "https://events.drupal.org//vienna2025/session/chaos-control-why-automation-non-negotiable-big-projects",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Stanislav Todorov (Stodorov)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T11:30:00Z",
+      "endTime": "2025-10-15T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Autowiring all the things",
+      "location": "Location Session Room (-2.33)",
+      "description": "Have you ever wondered how Drupal efficiently manages the complex dependencies that power its modules? The service container is the backbone of modern Drupal applications, streamlining service management and boosting performance.",
+      "link": "https://events.drupal.org//vienna2025/session/autowiring-all-things",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "Luca Lusso (lussoluca)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T11:30:00Z",
+      "endTime": "2025-10-15T11:50:00Z",
+      "duration": "PT20M",
+      "summary": "Back Together Again: Lessons from Reviving a Community Post-COVID",
+      "location": "Location Session Room (-2.32)",
+      "description": "When the world shut down, so did our meetups, camps, and energy. But coming back wasn’t just about restarting, it was about rebuilding something better. This is the real story of the Drupal India community revival.",
+      "link": "https://events.drupal.org//vienna2025/session/back-together-again-lessons-reviving-community-post-covid",
+      "track": "community health",
+      "speakers": [
+        "Nikita Aswani (Nikitaaswani)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T11:30:00Z",
+      "endTime": "2025-10-15T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Building an AI-Powered DevOps Co-Pilot for Drupal: Automate Git, Drush \u0026 Deployments",
+      "location": "Location Session Room (-2.41)",
+      "description": "What if your next patch, Drush command, or deployment script were drafted by an AI partner? Discover how to train and integrate an AI co-pilot into your Drupal DevOps pipeline.",
+      "link": "https://events.drupal.org//vienna2025/session/building-ai-powered-devops-co-pilot-drupal-automate-git-drush-deployments",
+      "track": "infosec \u0026 devops",
+      "speakers": [
+        "Ovanes Budakyan (ovanes)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T11:30:00Z",
+      "endTime": "2025-10-15T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal CMS AI and Google Gemini (Sponsored by Pantheon)",
+      "location": "Location Exhibition Hall - Open Stage",
+      "description": "This session demonstrates what can be achieved with the combination of Drupal CMS’s AI capabilities, including the new Tools API, and the most advanced models available from Google Cloud Platform.",
+      "link": "https://events.drupal.org//vienna2025/session/drupal-cms-ai-and-google-gemini-sponsored-pantheon",
+      "track": "sponsor talks",
+      "speakers": [
+        "Josh Koenig (Josh_k)",
+        "Alex Moreno López"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T11:30:00Z",
+      "endTime": "2025-10-15T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal Editor Showcase + Q\u0026A",
+      "location": "Location Session Room (Hall G2)",
+      "description": "Drupal Canvas, Gutenberg, Blökkli - how do the different editors available for Drupal CMS compare? Join this showcase + Q\u0026A session to find out.",
+      "link": "https://events.drupal.org//vienna2025/session/drupal-editor-showcase-qa",
+      "track": "drupal cms",
+      "speakers": [
+        "Cristina Chumillas (ckrina)",
+        "Josef Kruckenberg (dasjo)",
+        "Lauri Timmanee (lauriii)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T11:30:00Z",
+      "endTime": "2025-10-15T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "DrupalCamp England",
+      "location": "Location Room BoF (-2.66)",
+      "description": "After the successful gathering of our Drupal friends in Cambridge for the first interaction of DrupalCamp England in sprint 2025, we will be back for 2026!",
+      "link": "https://events.drupal.org//vienna2025/session/drupalcamp-england",
+      "track": "bof",
+      "speakers": [
+        "Rachel Lawson (Rachel_norfolk)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T11:30:00Z",
+      "endTime": "2025-10-15T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "From starters to solid Drupal team members: strategies for finding and growing new talent in the Drupal community.",
+      "location": "Location Session Room (-2.42)",
+      "description": "It’s no secret that finding, growing and retaining Drupal talent can be challenging.",
+      "link": "https://events.drupal.org//vienna2025/session/starters-solid-drupal-team-members-strategies-finding-and-growing-new-talent",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Jess Vetsuypers (Jessvetsuypers)",
+        "Eline Van Coillie (Eline Van Coillie)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T11:30:00Z",
+      "endTime": "2025-10-15T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "How to build a site template",
+      "location": "Location Session Room (Hall G1)",
+      "description": "How do you start Drupal sites the right way? Site templates! Learn everything you need to know to build awesome templates and share them with the world.",
+      "link": "https://events.drupal.org//vienna2025/session/how-build-site-template",
+      "track": "drupal cms",
+      "speakers": [
+        "Adam Globus-Hoenich (phenaproxima)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T11:30:00Z",
+      "endTime": "2025-10-15T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Member Platform Initiative Discussion",
+      "location": "Location Room BoF (-2.62)",
+      "description": "Member Platform is a community initiative to build a Drupal based solution for membership organisations such as clubs, associations and non-profits (and let's not forget local Drupal associations).",
+      "link": "https://events.drupal.org//vienna2025/session/member-platform-initiative-discussion",
+      "track": "bof",
+      "speakers": [
+        "James Shields (Lostcarpark)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T11:55:00Z",
+      "endTime": "2025-10-15T12:15:00Z",
+      "duration": "PT20M",
+      "summary": "Leaving Work at Work – How to successfully finish your working day without thinking about work in your free time",
+      "location": "Location Session Room (-2.32)",
+      "description": "Push your last commit, then push away from the desk. Clear your cache, recharge your brain. Great code starts with a well-rested mind. Prerequisite None",
+      "link": "https://events.drupal.org//vienna2025/session/leaving-work-work-how-successfully-finish-your-working-day-without-thinking",
+      "track": "community health",
+      "speakers": [
+        "Norman Kämper-Leymann (normanlol)",
+        "Svitlana Fedchenko (svitlana)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T12:15:00Z",
+      "endTime": "2025-10-15T13:30:00Z",
+      "duration": "PT1H15M",
+      "summary": "Lunch Break, Wednesday",
+      "location": "Location Exhibition Hall - X2",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/lunch-break-wednesday-0",
+      "track": "coffee \u0026 lunch break time",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T12:25:00Z",
+      "endTime": "2025-10-15T13:30:00Z",
+      "duration": "PT1H5M",
+      "summary": "Women in Drupal Networking Event (Sponsored by JAKALA)",
+      "location": "Location Room BoF (-2.62)",
+      "description": "Join us for our Women in Drupal Networking Event!",
+      "link": "https://events.drupal.org//vienna2025/session/women-drupal-networking-event-sponsored-jakala",
+      "track": "sponsor talks",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T12:30:00Z",
+      "endTime": "2025-10-15T13:15:00Z",
+      "duration": "PT45M",
+      "summary": "AI Bots \u0026 Drupal: Protecting Your Sites, Powering Your Content Speaker (Sponsored by Acquia Ltd)",
+      "location": "Location Exhibition Hall - Open Stage",
+      "description": "This talk explores how AI bots are transforming the web and what that means for Drupal-powered enterprise sites.",
+      "link": "https://events.drupal.org//vienna2025/session/ai-bots-drupal-protecting-your-sites-powering-your-content-speaker-sponsored",
+      "track": "sponsor talks",
+      "speakers": [
+        "Greg OToole (gto1)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T12:45:00Z",
+      "endTime": "2025-10-15T13:15:00Z",
+      "duration": "PT30M",
+      "summary": "Protecting the Open Web: How Drupal and CrowdSec Team Up for Community Driven Security (Sponsored by CrowdSec)",
+      "location": "Location Session Room (Hall G1)",
+      "description": "Web security is a shared responsibility, and staying ahead of threats means acting proactively. In this talk, we will explore how the Drupal Association and CrowdSec have joined forces to bring community-powered protection directly into the CMS layer.",
+      "link": "https://events.drupal.org//vienna2025/session/protecting-open-web-how-drupal-and-crowdsec-team-community-driven-security",
+      "track": "sponsor talks",
+      "speakers": [
+        "Laurence Jones"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T13:30:00Z",
+      "endTime": "2025-10-15T14:45:00Z",
+      "duration": "PT1H15M",
+      "summary": "The Web in 2035: A Keynote Panel on the Future of the Web",
+      "location": "Location Auditorium (Hall D)",
+      "description": "- What will the web look like in 10 years? Will it be open, fair, and sustainable - or fragmented, automated, and opaque?",
+      "link": "https://events.drupal.org//vienna2025/session/web-2035-keynote-panel-future-web",
+      "track": "keynote",
+      "speakers": [
+        "Sebastian Bergmann",
+        "Sachiko Muto",
+        "Ondřej Mirtes",
+        "Derick Rethans"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T15:00:00Z",
+      "endTime": "2025-10-15T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "“We Need to Talk: Burnout, Belonging, and Being Human in Drupal”",
+      "location": "Location Session Room (-2.43)",
+      "description": "This workshop can be a follow-up to other session(s) about mental health, which reflects on the emotional toll of todays society in the sense of burnouts and depressions. In this session, we’ll bring those ideas into action—through conversation, connection, and co-creation.",
+      "link": "https://events.drupal.org//vienna2025/session/we-need-talk-burnout-belonging-and-being-human-drupal",
+      "track": "community health",
+      "speakers": [
+        "Panagiotis Moutsopoulos (Vensires)",
+        "Esmeralda Tijhoff (Esmoves)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T15:00:00Z",
+      "endTime": "2025-10-15T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "£16 million of public funding for Open Standards, Open Source collaboration and Drupal",
+      "location": "Location Session Room (-2.32)",
+      "description": "Since 2018 the Local Digital Fund has provided over £16 million of funding and support to 61 council-led projects in the UK, including LocalGov Drupal, Open Referral, Local Gov IMS and Open Digital Planning. What can we learn from this and how can we replicate the successes?",
+      "link": "https://events.drupal.org//vienna2025/session/ps16-million-public-funding-open-standards-open-source-collaboration-and-drupal",
+      "track": "open web",
+      "speakers": [
+        "Will Callaghan (Willguv)",
+        "Finn Lewis (finn lewis)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T15:00:00Z",
+      "endTime": "2025-10-15T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "AI vs. Human Creativity: How to Strike the Right Balance in Drupal",
+      "location": "Location Session Room (Hall G2)",
+      "description": "AI is transforming the way we build and manage digital experiences, but where does human creativity fit in? In this session, we’ll explore how to leverage AI as a tool to enhance—not replace—human creativity in Drupal.",
+      "link": "https://events.drupal.org//vienna2025/session/ai-vs-human-creativity-how-strike-right-balance-drupal",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Anubhav Tiwari (tiwarianubhav22)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T15:00:00Z",
+      "endTime": "2025-10-15T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Contrib care program: Building a sustainable future for Drupal's essential modules",
+      "location": "Location Room BoF (-2.66)",
+      "description": "The Drupal ecosystem's strength lies in its rich collection of contributed modules, but this strength has become a vulnerability.",
+      "link": "https://events.drupal.org//vienna2025/session/contrib-care-program-building-sustainable-future-drupals-essential-modules",
+      "track": "bof",
+      "speakers": [
+        "Dezső Biczó (Mxr576)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T15:00:00Z",
+      "endTime": "2025-10-15T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Debugging techniques: the good, the bad, and the ugly",
+      "location": "Location Session Room (-2.33)",
+      "description": "Debugging is an essential skill for software development. Attend this workshop to learn how to debug and solve pesky coding issues. Prerequisite Understanding of PHP and basic Drupal development skills are expected to take full advantage of this training.",
+      "link": "https://events.drupal.org//vienna2025/session/debugging-techniques-good-bad-and-ugly",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "Mauricio Dinarte (dinarcon)",
+        "Wendy Baltodano (Baltowen)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T15:00:00Z",
+      "endTime": "2025-10-15T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal Canvas APIs: How to integrate and extend Canvas",
+      "location": "Location Auditorium (Hall D)",
+      "description": "Drupal Canvas will revolutionize how you will empower your editors and marketers to build sites with Drupal. But that might not be enough for your audience, and you will want to put guiderails, extend or improve the Experience of your Builders.",
+      "link": "https://events.drupal.org//vienna2025/session/drupal-canvas-apis-how-integrate-and-extend-canvas",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "Christian López Espínola (penyaskito)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T15:00:00Z",
+      "endTime": "2025-10-15T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Field Widget Actions: Bring Functionality Closer to Content Editors (Sponsored by 1xINTERNET)",
+      "location": "Location Exhibition Hall - Open Stage",
+      "description": "Wouldn't it be great if your website could assist you while you're creating content, not just in the CKEditor, but also when you're tagging content, entering a title, or uploading an image?",
+      "link": "https://events.drupal.org//vienna2025/session/field-widget-actions-bring-functionality-closer-content-editors-sponsored",
+      "track": "sponsor talks",
+      "speakers": [
+        "Artem Dmitriiev (admitriiev)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T15:00:00Z",
+      "endTime": "2025-10-15T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "First-Time Contributor Workshop - Wednesday",
+      "location": "Location Room BoF (-2.82)",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/first-time-contributor-workshop-wednesday",
+      "track": "contribution topic",
+      "speakers": [
+        "Rachel Lawson (Rachel_norfolk)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T15:00:00Z",
+      "endTime": "2025-10-15T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "From CMS to Platform: How to Build Future-Proof Digital Ecosystems with Drupal",
+      "location": "Location Session Room (-2.41)",
+      "description": "Don't just build a website — build a platform. Learn how to design Drupal solutions that scale with your business, evolve with technology, and stay ahead of changing needs.",
+      "link": "https://events.drupal.org//vienna2025/session/cms-platform-how-build-future-proof-digital-ecosystems-drupal",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Lukas Fischer (lukasfischer)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T15:00:00Z",
+      "endTime": "2025-10-15T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Help! My search page is getting hammered by an AI bot!",
+      "location": "Location Session Room (Hall G1)",
+      "description": "AI bots are bringing websites down with never ending search queries. What can you as a site builder do about that? Which modules can help? And how do you get a better search experience at the same time.",
+      "link": "https://events.drupal.org//vienna2025/session/help-my-search-page-getting-hammered-ai-bot",
+      "track": "infosec \u0026 devops",
+      "speakers": [
+        "Antje Lorch (Ifrik)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T15:00:00Z",
+      "endTime": "2025-10-15T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Oh no! undo! Revert recipes and AI configuration changes",
+      "location": "Location Session Room (-2.42)",
+      "description": "You applied a recipe to your site? Or did you let an AI change some configuration on your site? It didn't do what you wanted? You want to go back! In this session you get to see how.",
+      "link": "https://events.drupal.org//vienna2025/session/oh-no-undo-revert-recipes-and-ai-configuration-changes",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "Fabian Bircher (Bircher)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T15:00:00Z",
+      "endTime": "2025-10-15T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Using DDEV on Windows",
+      "location": "Location Room BoF (-2.62)",
+      "description": "DDEV works great on Windows. WSL2 is the best way. We'll show how to install and get started. Bring your computer, it's easy!",
+      "link": "https://events.drupal.org//vienna2025/session/using-ddev-windows",
+      "track": "bof",
+      "speakers": [
+        "Randy Fay (rfay)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T15:45:00Z",
+      "endTime": "2025-10-15T16:15:00Z",
+      "duration": "PT30M",
+      "summary": "Coffee Break 2, Wednesday",
+      "location": "Location Exhibition Hall - X2",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/coffee-break-2-wednesday",
+      "track": "coffee \u0026 lunch break time",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T15:45:00Z",
+      "endTime": "2025-10-15T16:15:00Z",
+      "duration": "PT30M",
+      "summary": "Figma to Drupal Canvas — In Minutes, Not Months (Sponsored by Consumer mesh)",
+      "location": "Location Exhibition Hall - Open Stage",
+      "description": "Join a leading enterprise and Consumer Mesh to explore real-world Drupal transformations: from Figma designs to fully functional sites, featuring stats, insights, and a live Figma-to-Canvas demo.",
+      "link": "https://events.drupal.org//vienna2025/session/figma-drupal-canvas-minutes-not-months-sponsored-consumer-mesh",
+      "track": "sponsor talks",
+      "speakers": [
+        "Senthil Prabakaran (Spfoos)",
+        "Phuoc Lieu"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T16:15:00Z",
+      "endTime": "2025-10-15T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "Beyond Borders: Building Strong Open Source Communities from Local Roots to Global Collaboration",
+      "location": "Location Session Room (-2.32)",
+      "description": "Imagine a community where every voice is heard, every contribution is valued, and the power of collaboration drives innovation. Now, picture that community stretching across organizations, regions, and even entire continents. Sounds like a dream?",
+      "link": "https://events.drupal.org//vienna2025/session/beyond-borders-building-strong-open-source-communities-local-roots-global",
+      "track": "community health",
+      "speakers": [
+        "Esmeralda Tijhoff (Esmoves)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T16:15:00Z",
+      "endTime": "2025-10-15T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "BYOPB: Understanding Project Browser's Architecture and Building Your Own Plugins",
+      "location": "Location Session Room (-2.41)",
+      "description": "Unleash the power of Project Browser: discover how its pluggable architecture enhances project discovery, then learn how to develop your own Source Plugins to tap into any data source—from Google Sheets to self-hosted Git servers.",
+      "link": "https://events.drupal.org//vienna2025/session/byopb-understanding-project-browsers-architecture-and-building-your-own-plugins",
+      "track": "drupal cms",
+      "speakers": [
+        "Chris Wells (Chrisfromredfin)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T16:15:00Z",
+      "endTime": "2025-10-15T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal.org Engineering Panel",
+      "location": "Location Session Room (-2.42)",
+      "description": "Join the Drupal.org engineering team for updates on our work to support the community.",
+      "link": "https://events.drupal.org//vienna2025/session/drupalorg-engineering-panel",
+      "track": "open web",
+      "speakers": [
+        "Brendan Blaine (B_man)",
+        "Fran Garcia-Linares (fjgarlin)",
+        "Timothy Lehnen (Hestenet)",
+        "Neil Drumm (drumm)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T16:15:00Z",
+      "endTime": "2025-10-15T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "Exploring Semantic Search and AI Agent Integration with Typesense in Drupal",
+      "location": "Location Room BoF (-2.62)",
+      "description": "Search is evolving fast, and so is Drupal. With the growing need for semantic search, vector databases, and AI-driven features, the Drupal community is experimenting with new ways to make content discovery smarter.",
+      "link": "https://events.drupal.org//vienna2025/session/exploring-semantic-search-and-ai-agent-integration-typesense-drupal",
+      "track": "bof",
+      "speakers": [
+        "Roberto Peruzzo (robertoperuzzo)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T16:15:00Z",
+      "endTime": "2025-10-15T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "How to Land an EPIC Contribution in Drupal (Without Losing Your Mind)",
+      "location": "Location Session Room (-2.33)",
+      "description": "Behind every great Drupal feature is a stubborn person (not necessarily a developer) who refused to let it stay broken. Want to be that person? We’ll show you how.",
+      "link": "https://events.drupal.org//vienna2025/session/how-land-epic-contribution-drupal-without-losing-your-mind",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "Matt Glaman (mglaman)",
+        "Mike Herchel (mherchel)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T16:15:00Z",
+      "endTime": "2025-10-15T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "Institutional Intelligence: How Yale Uses Drupal to Transform Bureaucratic Complexity into Conversational Simplicity",
+      "location": "Location Session Room (Hall G2)",
+      "description": "Journey inside Yale's digital transformation as we reveal how our Drupal-based YaleSites platform has become the foundation for Beacon—an AI system that transforms bureaucratic complexity into intuitive conversations.",
+      "link": "https://events.drupal.org//vienna2025/session/institutional-intelligence-how-yale-uses-drupal-transform-bureaucratic",
+      "track": "open web",
+      "speakers": [
+        "Franz Joseph Hartl (Franzhartl)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T16:15:00Z",
+      "endTime": "2025-10-15T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "LocalGov Drupal - where next?",
+      "location": "Location Room BoF (-2.66)",
+      "description": "An open discussion about the LocalGov Drupal distribution, the LocalGov Microsites distribution, the community, the features, the funding, the opportunities... ... and where to take it next!",
+      "link": "https://events.drupal.org//vienna2025/session/localgov-drupal-where-next",
+      "track": "bof",
+      "speakers": [
+        "Finn Lewis (finn lewis)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T16:15:00Z",
+      "endTime": "2025-10-15T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "Scaling Drupal as a Headless Enterprise API: A High-Performance Case Study",
+      "location": "Location Session Room (-2.43)",
+      "description": "This session presents a real-world case study of a large-scale enterprise application built on Drupal as a headless API, designed to handle a high volume of data—both fresh and migrated from Drupal 7. We’ll dive into key challenges and solutions, including:",
+      "link": "https://events.drupal.org//vienna2025/session/scaling-drupal-headless-enterprise-api-high-performance-case-study",
+      "track": "infosec \u0026 devops",
+      "speakers": [
+        "Vijay Mani (vijaycs85)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T16:15:00Z",
+      "endTime": "2025-10-15T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "Status and Goals of the Drupal Open University Initiative",
+      "location": "Location Session Room (Hall G1)",
+      "description": "Just one year after the initial BoF in Barcelona, the Drupal Open University has grown beyond the wildest imagination of the attendees. Over 100 people contribute to the initiative with suggestions and contributions.",
+      "link": "https://events.drupal.org//vienna2025/session/status-and-goals-drupal-open-university-initiative",
+      "track": "community health",
+      "speakers": [
+        "Hilmar Hallbjörnsson (Drupalviking)",
+        "Jean-Paul Vosmeer (Jpvos)",
+        "Rachel Lawson (Rachel_norfolk)",
+        "Lenny Moskalyk (Lenny Moskalyk)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T16:15:00Z",
+      "endTime": "2025-10-15T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "The AI Agent Swarm has come to Drupal Canvas!",
+      "location": "Location Auditorium (Hall D)",
+      "description": "The Agent Swarm has come to Drupal Canvas and nothing in Drupal will ever be the same again! Since Barcelona, we have seen glimpses of how AI could help migrate designs and certain content into Drupal, but now with the release of Drupal Canvas, it’s finally here!",
+      "link": "https://events.drupal.org//vienna2025/session/ai-agent-swarm-has-come-drupal-canvas",
+      "track": "drupal cms",
+      "speakers": [
+        "James Abrahams (Yautja_cetanu)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T17:15:00Z",
+      "endTime": "2025-10-15T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "AIO automation testing framework - we've built it, so you don't have to!",
+      "location": "Location Session Room (-2.32)",
+      "description": "Supercharge your QA automation with Cuppet - the all-in-one Node.js framework designed to streamline functional, performance, SEO, and accessibility testing - for free!",
+      "link": "https://events.drupal.org//vienna2025/session/aio-automation-testing-framework-weve-built-it-so-you-dont-have",
+      "track": "open web",
+      "speakers": [
+        "Miroslav Rusev (Mup0)",
+        "Daniel Angelov (danielangelov)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T17:15:00Z",
+      "endTime": "2025-10-15T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "Carbon Impact Evaluator: Measuring and Reducing Drupal's Digital Carbon Footprint",
+      "location": "Location Session Room (Hall G1)",
+      "description": "In a world that values sustainability, the \"Carbon Impact Evaluator\" is essential for web developers and technology companies to reduce the environmental footprint of their websites.",
+      "link": "https://events.drupal.org//vienna2025/session/carbon-impact-evaluator-measuring-and-reducing-drupals-digital-carbon-footprint",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Cláudia Desidério (claudiadesiderio)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T17:15:00Z",
+      "endTime": "2025-10-15T18:00:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal Dev Days 2026 - Brainstorming micro-symposium",
+      "location": "Location Room BoF (-2.62)",
+      "description": "Join us in a discussion about the upcoming Drupal Developer Days 2026 that will be held in Athens, Greece from 22nd to 25th of April 2026 (more details in https://devdays2026.drupal.org.gr/).",
+      "link": "https://events.drupal.org//vienna2025/session/drupal-dev-days-2026-brainstorming-micro-symposium",
+      "track": "bof",
+      "speakers": [
+        "George Kaffezas (gkffzs)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T17:15:00Z",
+      "endTime": "2025-10-15T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "Drush 14 is slimmed and ready for adoption by Drupal core",
+      "location": "Location Session Room (-2.41)",
+      "description": "Drush 14 is a rewrite of all of its commands. We have trimmed a lot of special sauce in favor of doing things the native Symfony Console way. Our end game is for Drush to go away in favor of our commands in Drupal Core or CMS.",
+      "link": "https://events.drupal.org//vienna2025/session/drush-14-slimmed-and-ready-adoption-drupal-core",
+      "track": "infosec \u0026 devops",
+      "speakers": [
+        "Moshe Weitzman (moshe weitzman)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T17:15:00Z",
+      "endTime": "2025-10-15T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "From Recipe Platform to Consumer Hub - The Maggi.de Drupal Evolution",
+      "location": "Location Session Room (Hall G2)",
+      "description": "Explore Maggi.de's transformation from a recipe platform to a thriving consumer hub. Discover how Drupal's power enabled Maggi to deliver personalized, innovative services, driving user engagement and setting new standards in the food industry.",
+      "link": "https://events.drupal.org//vienna2025/session/recipe-platform-consumer-hub-maggide-drupal-evolution",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Baddý Sonja Breidert (baddysonja)",
+        "Grischa Marky (Gmarky)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T17:15:00Z",
+      "endTime": "2025-10-15T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "Hooks, from magic names to php language feature",
+      "location": "Location Session Room (-2.33)",
+      "description": "In bygone versions you could extend Drupal by creating a special module file and write php functions with magic names like mymodule_block_info or mymodule_form_alter. In Drupal 11 almost all of that code lives in particular places and has php attributes but it doesn't have to be frightening.",
+      "link": "https://events.drupal.org//vienna2025/session/hooks-magic-names-php-language-feature",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "Fabian Bircher (Bircher)",
+        "Sally Young (Justafish)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T17:15:00Z",
+      "endTime": "2025-10-15T18:00:00Z",
+      "duration": "PT45M",
+      "summary": "NEDA community meeting for European Local Associations, DrupalCamps and Drupal User Groups",
+      "location": "Location Session Room (-2.43)",
+      "description": "This session is intended for leaders and organizers from local European Drupal associations, DrupalCamps, other community initiatives, as well as representatives from the Drupal Association (DA).",
+      "link": "https://events.drupal.org//vienna2025/session/neda-community-meeting-european-local-associations-drupalcamps-and-drupal-user",
+      "track": "community health",
+      "speakers": [
+        "Joris Vercammen (Borisson_)",
+        "Esmeralda Tijhoff (Esmoves)",
+        "Imre Gmelig Meijling (Imre-gmelig-meijling)",
+        "Marine Gandy (Mupsi)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T17:15:00Z",
+      "endTime": "2025-10-15T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "Smart Routing Between Legacy and Modern Drupal Sites with Cloudflare",
+      "location": "Location Session Room (-2.42)",
+      "description": "Still running Drupal 7, rebuilding in Drupal 10/11, and stuck with some on-prem along the way? What if your traffic could pick the right path automatically, all while using one domain? Join us for a routing adventure through legacy, modern, and everything between!",
+      "link": "https://events.drupal.org//vienna2025/session/smart-routing-between-legacy-and-modern-drupal-sites-cloudflare",
+      "track": "infosec \u0026 devops",
+      "speakers": [
+        "Constantin Dumitrescu (oldspot)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T17:40:00Z",
+      "endTime": "2025-10-15T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "AI Content Migrate for Drupal: Automating Large-Scale Content Migrations with AI",
+      "location": "Location Session Room (Hall G2)",
+      "description": "Speed up website migrations and cut costs: discover how AI can automate content analysis, simplify workflows, and help you migrate your old Drupal website into a new one faster and smarter.",
+      "link": "https://events.drupal.org//vienna2025/session/ai-content-migrate-drupal-automating-large-scale-content-migrations-ai",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "Raffaele Chiocca (Rafuel92)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T17:40:00Z",
+      "endTime": "2025-10-15T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "From Chaos to Clarity: Planning for success with a Drupal Content Architecture",
+      "location": "Location Session Room (-2.33)",
+      "description": "Great sites start with great plans: how the process of creating a content architecture can transform your next Drupal build — better, faster, stronger, and ready to grow.",
+      "link": "https://events.drupal.org//vienna2025/session/chaos-clarity-planning-success-drupal-content-architecture",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "Duncan Worrell (Dunx)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T17:40:00Z",
+      "endTime": "2025-10-15T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "From Zero to Community: Building and Scaling Your Local Drupal Group",
+      "location": "Location Session Room (-2.32)",
+      "description": "Ever wondered how to build a strong Drupal community in your city? Learn the actionable steps to start, grow, and sustain a local Drupal community from scratch — lessons learned while building Drupal Kerala community.",
+      "link": "https://events.drupal.org//vienna2025/session/zero-community-building-and-scaling-your-local-drupal-group",
+      "track": "community health",
+      "speakers": [
+        "Anish Anilkumar (anish.a)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T17:40:00Z",
+      "endTime": "2025-10-15T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "Profiling your Drupal app with New Relic \u0026 DDEV: A practical guide",
+      "location": "Location Session Room (-2.41)",
+      "description": "Is your Drupal app still facing performance issues despite all the efforts? Discover how to profile your app locally with New Relic and DDEV to uncover deeper code issues affecting the performance.",
+      "link": "https://events.drupal.org//vienna2025/session/profiling-your-drupal-app-new-relic-ddev-practical-guide",
+      "track": "infosec \u0026 devops",
+      "speakers": [
+        "Roman Paska (Taran2l)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-15T17:40:00Z",
+      "endTime": "2025-10-15T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "Redefining Leadership: How Adversity can cultivate Strength, Empathy, and Leadership Skills",
+      "location": "Location Session Room (-2.42)",
+      "description": "Leadership is often seen through the lens of strength, vision, and tireless energy. We picture the unshakable leader; the one who always shows up, ready to carry the weight of the world. But what happens when life delivers a blow so powerful, it shakes even the strongest among us?",
+      "link": "https://events.drupal.org//vienna2025/session/redefining-leadership-how-adversity-can-cultivate-strength-empathy-and",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Rae Pizer (Raeloupi)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T08:30:00Z",
+      "endTime": "2025-10-16T09:15:00Z",
+      "duration": "PT45M",
+      "summary": "Morning Coffee, Thursday",
+      "location": "Location Exhibition Hall - X2",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/morning-coffee-thursday",
+      "track": "coffee \u0026 lunch break time",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T08:45:00Z",
+      "endTime": "2025-10-16T18:00:00Z",
+      "duration": "PT9H15M",
+      "summary": "General Contribution Day 3",
+      "location": "Location Contribution Room (Hall K)",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/general-contribution-day-3",
+      "track": "contribution topic",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T09:15:00Z",
+      "endTime": "2025-10-16T10:00:00Z",
+      "duration": "PT45M",
+      "summary": "Building AI Agents, Tools, and Assistants in Drupal: A Hands-On Workshop",
+      "location": "Location Session Room (-2.43)",
+      "description": "In this hands-on workshop, you’ll learn how to build AI Tools, Agents, and Assistants inside Drupal CMS using the ai_agents module. We’ll code together, step-by-step, covering best practices for designing agents and evaluating agent performance.",
+      "link": "https://events.drupal.org//vienna2025/session/building-ai-agents-tools-and-assistants-drupal-hands-workshop",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "Vincenzo Gambino (Vincenzo Gambino)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T09:15:00Z",
+      "endTime": "2025-10-16T10:00:00Z",
+      "duration": "PT45M",
+      "summary": "DDEV New Features",
+      "location": "Location Room BoF (-2.62)",
+      "description": "Let's look at the new features added to DDEV this year, including XHGui for studying performance, the Windows installer, and many more. Bring your questions and your feature requests!",
+      "link": "https://events.drupal.org//vienna2025/session/ddev-new-features",
+      "track": "bof",
+      "speakers": [
+        "Randy Fay (rfay)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T09:15:00Z",
+      "endTime": "2025-10-16T10:00:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal Business Survey 2025",
+      "location": "Location Session Room (-2.32)",
+      "description": "The Drupal Business Survey investigates trends in the Drupal market based on data provided by digital service providers from all over the world.",
+      "link": "https://events.drupal.org//vienna2025/session/drupal-business-survey-2025",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Janne Kalliola (jannekalliola)",
+        "Michel Van Velde (Michel Van Velde)",
+        "Imre Gmelig Meijling (Imre-gmelig-meijling)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T09:15:00Z",
+      "endTime": "2025-10-16T10:00:00Z",
+      "duration": "PT45M",
+      "summary": "Extend your Drupal Watchdog!",
+      "location": "Location Session Room (-2.41)",
+      "description": "Do you still use Database Logging in Drupal? Or already switched to the syslog, files, cloud? In both cases - you're cooking the logs wrong! And I'll explain why! Prerequisite A couple of looks at Drupal logs and an attempt to find something useful there.",
+      "link": "https://events.drupal.org//vienna2025/session/extend-your-drupal-watchdog",
+      "track": "infosec \u0026 devops",
+      "speakers": [
+        "Aleksei Korepov (Murz)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T09:15:00Z",
+      "endTime": "2025-10-16T09:35:00Z",
+      "duration": "PT20M",
+      "summary": "Imposter Syndrome's bigger, badder sibling: Shame",
+      "location": "Location Session Room (Hall G2)",
+      "description": "So much of our lives is spent working. We talk about work/life balance. And sometimes we talk about harder things, like Imposter Syndrome, or burnout, or \"mental health\". But we rarely talk about mental illness or about how our emotions affect our lives and our work.",
+      "link": "https://events.drupal.org//vienna2025/session/imposter-syndromes-bigger-badder-sibling-shame",
+      "track": "community health",
+      "speakers": [
+        "John Albin Wilkins (Johnalbin)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T09:15:00Z",
+      "endTime": "2025-10-16T10:00:00Z",
+      "duration": "PT45M",
+      "summary": "Migrating anything and everything to Drupal Canvas",
+      "location": "Location Auditorium (Hall D)",
+      "description": "You've heard about Drupal Canvas and it looks great! But... you are already using Layout Builder or Paragraphs or [insert some Drupal tech here] and you aren't sure how you can go from where you are to leveraging the goodness of Canvas. No worries... we've got you covered!",
+      "link": "https://events.drupal.org//vienna2025/session/migrating-anything-and-everything-drupal-canvas",
+      "track": "drupal cms",
+      "speakers": [
+        "Kristen Pol (Kristen Pol)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T09:15:00Z",
+      "endTime": "2025-10-16T10:00:00Z",
+      "duration": "PT45M",
+      "summary": "No more steep learning curve! How UX research is making a more user-centric Drupal CMS (and how you can help",
+      "location": "Location Session Room (-2.42)",
+      "description": "A UX mindset is our superpower in making Drupal CMS the gold standard for non-technical audiences. As Drupal CMS UX Research Lead, I’ll share how UX research is driving a product that’s changing the narrative about Drupal.",
+      "link": "https://events.drupal.org//vienna2025/session/no-more-steep-learning-curve-how-ux-research-making-more-user-centric-drupal-cms",
+      "track": "drupal cms",
+      "speakers": [
+        "Emma Horrell (emma horrell)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T09:15:00Z",
+      "endTime": "2025-10-16T10:00:00Z",
+      "duration": "PT45M",
+      "summary": "PRESERVING LEGACY, EMPOWERING FUTURE: HOW DRUPAL POWERS AMI’S GLOBAL DIGITAL NETWORK",
+      "location": "Location Session Room (-2.33)",
+      "description": "How do you manage a diverse ecosystem of digital experiences while ensuring scalability, accessibility and streamlined content sharing? The Association Montessori Internationale (AMI) has found its answer in Drupal.",
+      "link": "https://events.drupal.org//vienna2025/session/preserving-legacy-empowering-future-how-drupal-powers-amis-global-digital",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Roland Obermair (Roromedia)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T09:15:00Z",
+      "endTime": "2025-10-16T10:00:00Z",
+      "duration": "PT45M",
+      "summary": "Shaking Up the Travel Industry with Drupal: Why Drupal Was the Catalyst for Riviera Travel’s Sector-Leading Transformation.",
+      "location": "Location Session Room (Hall G1)",
+      "description": "Discover how Drupal unlocked Riviera Travel’s ability to deliver seamless customer journeys, unify complex data relationships, and accelerate ahead of industry expectations - all in a sector not often seen as a Drupal use case.",
+      "link": "https://events.drupal.org//vienna2025/session/shaking-travel-industry-drupal-why-drupal-was-catalyst-riviera-travels-sector",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Greg Sines (Gregn0r)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T09:40:00Z",
+      "endTime": "2025-10-16T10:00:00Z",
+      "duration": "PT20M",
+      "summary": "Leading Through the Storm: My Journey with Mental Health to the C-Suite",
+      "location": "Location Session Room (Hall G2)",
+      "description": "The unspoken burden of mental health can silently shape our lives and careers. For decades, I navigated leadership roles unaware of my own challenges. Discover my journey to the C-suite and learn how bringing awareness and openness can transform individuals and your workplace culture.",
+      "link": "https://events.drupal.org//vienna2025/session/leading-through-storm-my-journey-mental-health-c-suite",
+      "track": "community health",
+      "speakers": [
+        "Diego Costa (diegofcosta)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T10:00:00Z",
+      "endTime": "2025-10-16T10:30:00Z",
+      "duration": "PT30M",
+      "summary": "Coffee Break 1, Thursday",
+      "location": "Location Exhibition Hall - X2",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/coffee-break-1-thursday",
+      "track": "coffee \u0026 lunch break time",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T10:10:00Z",
+      "endTime": "2025-10-16T10:20:00Z",
+      "duration": "PT10M",
+      "summary": "Revolutionising UK Government Research with Drupal: transforming a paper-based medical research agency into a digital-first organisation (Sponsored by Reading Room)",
+      "location": "Location Exhibition Hall - Open Stage",
+      "description": "Discover how Drupal empowered the Clinical Practice Research Datalink (CPRD) to transition from a paper-based system into a digital-first platform, streamlining research applications, enhancing user experience, and advancing public health research across the UK.",
+      "link": "https://events.drupal.org//vienna2025/session/revolutionising-uk-government-research-drupal-transforming-paper-based-medical",
+      "track": "sponsor talks",
+      "speakers": [
+        "Vijay Mani (vijaycs85)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T10:30:00Z",
+      "endTime": "2025-10-16T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "Accessible by Default: How Drupal 11 Redefines Inclusive Design",
+      "location": "Location Session Room (-2.33)",
+      "description": "Accessibility is no longer an afterthought — Drupal 11 builds it into every site by default. Discover how Single Directory Components, Recipes, and real-time tools empower you to create inclusive, scalable experiences effortlessly.",
+      "link": "https://events.drupal.org//vienna2025/session/accessible-default-how-drupal-11-redefines-inclusive-design",
+      "track": "open web",
+      "speakers": [
+        "Ulka Bendale (Bendale)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T10:30:00Z",
+      "endTime": "2025-10-16T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "Better Debugging with Xdebug",
+      "location": "Location Session Room (Hall G1)",
+      "description": "In this talk I explain how to use Xdebug to get more productive writing PHP code, focussing on the improvements in Xdebug 3.3 and 3.4, and the upcoming 3.5, to make the debugging experience better and easier to set up.",
+      "link": "https://events.drupal.org//vienna2025/session/better-debugging-xdebug",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "Derick Rethans"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T10:30:00Z",
+      "endTime": "2025-10-16T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "Beyond 99 Red Balloons: a guide to alternative text and accessible images",
+      "location": "Location Session Room (-2.32)",
+      "description": "Ready to make your content sing? Join us for a deep dive into inclusive content creation, alt text best practices, and how 80s imagery can help bring it all to life. Let’s ensure every reader feels the beat! Prerequisite None Outline",
+      "link": "https://events.drupal.org//vienna2025/session/beyond-99-red-balloons-guide-alternative-text-and-accessible-images",
+      "track": "open web",
+      "speakers": [
+        "Chris Vickery (Kafkadoodledoo)",
+        "AmyJune Hineline (Volkswagenchick)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T10:30:00Z",
+      "endTime": "2025-10-16T10:50:00Z",
+      "duration": "PT20M",
+      "summary": "Decision-Making at Scale: Behind the Drupal Marketplace Process",
+      "location": "Location Session Room (Hall G2)",
+      "description": "Making big decisions in open source isn't magic—it's intentional. Learn how the Drupal community is co-creating the future of our ecosystem through transparency, collaboration, and shared leadership.",
+      "link": "https://events.drupal.org//vienna2025/session/decision-making-scale-behind-drupal-marketplace-process",
+      "track": "community health",
+      "speakers": [
+        "Tiffany Farriss (Farriss)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T10:30:00Z",
+      "endTime": "2025-10-16T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal Canvas Accessibility",
+      "location": "Location Room BoF (-2.62)",
+      "description": "Let's gather those interested in improving the accessibility of Drupal Canvas and formulate plans to make it better.",
+      "link": "https://events.drupal.org//vienna2025/session/drupal-canvas-accessibility",
+      "track": "bof",
+      "speakers": [
+        "Gábor Hojtsy (gábor hojtsy)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T10:30:00Z",
+      "endTime": "2025-10-16T10:50:00Z",
+      "duration": "PT20M",
+      "summary": "Drupal Without Limits: Expanding Drupal's reach into IoT, Commerce, and application ecosystems.",
+      "location": "Location Session Room (-2.42)",
+      "description": "As technology rapidly advances, Drupal’s adaptability positions it at the forefront of innovation, powering IoT platforms, cutting-edge applications, and sophisticated commerce solutions.",
+      "link": "https://events.drupal.org//vienna2025/session/drupal-without-limits-expanding-drupals-reach-iot-commerce-and-application",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Yorgos Andreadis (Esepia)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T10:30:00Z",
+      "endTime": "2025-10-16T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "Europa Web Platform: Where today meets tomorrow (Sponsored by Drupal Community of Practice (CoP) at the European Commission )",
+      "location": "Location Exhibition Hall - Open Stage",
+      "description": "Join us to discover how the EuropaIT Team of the European Commission is shaping the future of digital platforms through open source, innovation, and collaboration.",
+      "link": "https://events.drupal.org//vienna2025/session/europa-web-platform-where-today-meets-tomorrow-sponsored-drupal-community",
+      "track": "sponsor talks",
+      "speakers": [
+        "Monika VLADIMIROVA (Vladimo)",
+        "Adam Nagy (joevagyok)",
+        "Joao SANTOS (Jonhy81)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T10:30:00Z",
+      "endTime": "2025-10-16T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "Local Drupal Regions \u0026 Associations Round Table",
+      "location": "Location Room BoF (-2.82)",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/local-drupal-regions-associations-round-table",
+      "track": "other",
+      "speakers": [
+        "DrupalCon Vienna 2025"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T10:30:00Z",
+      "endTime": "2025-10-16T12:15:00Z",
+      "duration": "PT1H45M",
+      "summary": "Securing Drupal Content with Client-Side Encryption: A Zero Trust Approach",
+      "location": "Location Session Room (-2.43)",
+      "description": "Imagine everyone was a royal. If that was the case, privacy would not be enough. We would all have top notch secrecy.",
+      "link": "https://events.drupal.org//vienna2025/session/securing-drupal-content-client-side-encryption-zero-trust-approach",
+      "track": "infosec \u0026 devops",
+      "speakers": [
+        "Rodrigo Panchiniak Fernandes (Rodrigo-panchiniak-fernandes)",
+        "Renato Vasconcellos Gomes (revagomes)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T10:30:00Z",
+      "endTime": "2025-10-16T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "The Future of Login: How Drupal Can Champion User Choice, Privacy, and Simplicity",
+      "location": "Location Session Room (-2.41)",
+      "description": "Login today often limits users to a few big tech providers -and compromises their privacy. Let's explore how Drupal can lead a new movement: one where users choose how they log in, safely and freely.",
+      "link": "https://events.drupal.org//vienna2025/session/future-login-how-drupal-can-champion-user-choice-privacy-and-simplicity",
+      "track": "open web",
+      "speakers": [
+        "Unnikrishnan Bhargavakurup (Unnikrishnan)",
+        "Anish Anilkumar (anish.a)",
+        "Dick Hardt (Dickhardt)",
+        "Santhosh Raju"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T10:55:00Z",
+      "endTime": "2025-10-16T11:15:00Z",
+      "duration": "PT20M",
+      "summary": "Building web experiences for the UK's biggest free TV platforms",
+      "location": "Location Session Room (-2.42)",
+      "description": "Everyone TV is a not-for-profit joint venture owned by the BBC, ITV, Channel 4 and 5 ,who run the UK's biggest free TV platforms: Freely, Freeview and Freesat. Learn how Drupal is at the heart of Everyone TV's web experiences.",
+      "link": "https://events.drupal.org//vienna2025/session/building-web-experiences-uks-biggest-free-tv-platforms",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "James Hall (jamesh-0)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T10:55:00Z",
+      "endTime": "2025-10-16T11:15:00Z",
+      "duration": "PT20M",
+      "summary": "How to sell Drupal site templates",
+      "location": "Location Session Room (Hall G2)",
+      "description": "After Dries Buytaert introduced site templates at DrupalCon Atlanta, Centarro released a completely retooled Commerce Kickstart to use the concept as a sales strategy. We set a goal to make our first template sales before DrupalCon Vienna, and we found success within weeks.",
+      "link": "https://events.drupal.org//vienna2025/session/how-sell-drupal-site-templates",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Ryan Szrama (Rszrama)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T11:30:00Z",
+      "endTime": "2025-10-16T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Building AI Agents without coding",
+      "location": "Location Session Room (Hall G2)",
+      "description": "This talk will showcase how the Agents can be used everywhere in Drupal for helping with everything from menial small tasks to supercharging you when building your website from the ground up with external tools via MCP. All without having write a single line of code.",
+      "link": "https://events.drupal.org//vienna2025/session/building-ai-agents-without-coding",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "Marcus Johansson (marcus_johansson)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T11:30:00Z",
+      "endTime": "2025-10-16T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Digital Sovereignty by Design",
+      "location": "Location Session Room (-2.32)",
+      "description": "Digital sovereignty is a topic on the rise, but true digital sovereignty cannot happen without the freedoms of open source software. Let's look at what digital sovereignty really is and how you add true \"digital sovereignty by design\" to your sales pitch.",
+      "link": "https://events.drupal.org//vienna2025/session/digital-sovereignty-design",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Jeffrey McGuire (horncologne)",
+        "Mathias Bolt Lesniak (mabolek)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T11:30:00Z",
+      "endTime": "2025-10-16T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal, the first design-system native CMS",
+      "location": "Location Session Room (-2.42)",
+      "description": "Drupal Core is accelerating its adoption of design-system related API started in 2023 with SDC, revolutionizing its theming workflow. Inspired by UI Suite proposals, our beloved Drupal is becoming the first design-system native CMS.",
+      "link": "https://events.drupal.org//vienna2025/session/drupal-first-design-system-native-cms",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "Pierre Dureau (Pdureau)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T11:30:00Z",
+      "endTime": "2025-10-16T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Get started with your Local Association Website using the shared La_eu project",
+      "location": "Location Room BoF (-2.66)",
+      "description": "Are you part of a local Drupal association or community group looking to launch or modernize your website? The La_eu shared codebase offers an open, flexible solution built and maintained collaboratively by European Drupal associations.",
+      "link": "https://events.drupal.org//vienna2025/session/get-started-your-local-association-website-using-shared-laeu-project",
+      "track": "bof",
+      "speakers": [
+        "Esmeralda Tijhoff (Esmoves)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T11:30:00Z",
+      "endTime": "2025-10-16T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Improving and contributing Drupal Documentation. 2025 edition",
+      "location": "Location Session Room (-2.33)",
+      "description": "Lately we've organised a series of help contribution sprints focused on reviewing, updating, and enhancing Drupal documentation based on feedback from the Slack documentation channel.",
+      "link": "https://events.drupal.org//vienna2025/session/improving-and-contributing-drupal-documentation-2025-edition",
+      "track": "community health",
+      "speakers": [
+        "Vladimir Roudakov (VladimirAus)",
+        "Janna Malikova (Jannakha)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T11:30:00Z",
+      "endTime": "2025-10-16T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Keeping the Commons Open: Ensuring Drupal's Sustainability",
+      "location": "Location Session Room (-2.41)",
+      "description": "What happens when a digital commons reaches its breaking point? As Drupal grows, so does the risk to our shared ecosystem.",
+      "link": "https://events.drupal.org//vienna2025/session/keeping-commons-open-ensuring-drupals-sustainability",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "George DeMet (gdemet)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T11:30:00Z",
+      "endTime": "2025-10-16T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Multilingual Drupal Canvas",
+      "location": "Location Room BoF (-2.62)",
+      "description": "Drupal Canvas does not support multilingual use cases at the start. Let's meet to discuss potential use cases, UI elements, workflows, and so on. Organizations and individuals interested to help implement it are especially welcome, but also don't be shy to come if you can't contribute (yet).",
+      "link": "https://events.drupal.org//vienna2025/session/multilingual-drupal-canvas",
+      "track": "bof",
+      "speakers": [
+        "Gábor Hojtsy (gábor hojtsy)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T11:30:00Z",
+      "endTime": "2025-10-16T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Privacy by Design in Drupal (Sponsored by Hinto Group)",
+      "location": "Location Exhibition Hall - Open Stage",
+      "description": "To enhance user experience, brand trust and awareness in modern web architecture, designing with privacy in mind has become a crucial aspect of digital design.",
+      "link": "https://events.drupal.org//vienna2025/session/privacy-design-drupal-sponsored-hinto-group",
+      "track": "sponsor talks",
+      "speakers": [
+        "Alessandra Petromilli"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T11:30:00Z",
+      "endTime": "2025-10-16T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Why and how to write your own compiler?",
+      "location": "Location Session Room (Hall G1)",
+      "description": "Writing a compiler is almost always perceived as a task not intended for high-level languages such as PHP. If you believe so, allow me to convince you otherwise. Through real-world examples, knowledge of how compilers work, and their benefits, will be demonstrated.",
+      "link": "https://events.drupal.org//vienna2025/session/why-and-how-write-your-own-compiler",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "Nikola Svitlica (thecelavi)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T12:15:00Z",
+      "endTime": "2025-10-16T13:30:00Z",
+      "duration": "PT1H15M",
+      "summary": "Lunch Break, Thursday",
+      "location": "Location Exhibition Hall - X2",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/lunch-break-thursday",
+      "track": "coffee \u0026 lunch break time",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T13:00:00Z",
+      "endTime": "2025-10-16T13:10:00Z",
+      "duration": "PT10M",
+      "summary": "Drupal Hosting in the Age of AI (Sponsored by Acolono)",
+      "location": "Location Exhibition Hall - Open Stage",
+      "description": "We enable organizations to run secure, resilient, and high-performance Drupal hosting platforms. We’ll introduce Buzztion, an all-in-one edge solution that unifies caching, security, and metrics in a single lightweight package. Learn how to:",
+      "link": "https://events.drupal.org//vienna2025/session/drupal-hosting-age-ai-sponsored-acolono",
+      "track": "sponsor talks",
+      "speakers": [
+        "Nico Grienauer (Grienauer)",
+        "David Spiola"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T13:30:00Z",
+      "endTime": "2025-10-16T14:45:00Z",
+      "duration": "PT1H15M",
+      "summary": "Drupal CMS Spotlights",
+      "location": "Location Auditorium (Hall D)",
+      "description": "Meet key Drupal CMS leaders to get insights on how the platform is being built and learn about future plans. Topics include Drupal Canvas, AI, design systems and more. BÁLINT KLÉRI ELLIOTT MOWER GÁBOR HOJTSY GIORGI JIBLADZE KRISTEN POL PIERRE DUREAU",
+      "link": "https://events.drupal.org//vienna2025/session/drupal-cms-spotlights",
+      "track": "keynote",
+      "speakers": [
+        "Giorgi Jibladze (jibla)",
+        "Pierre Dureau (Pdureau)",
+        "Yolanda Górriz Expósito (ygoex)",
+        "Kristen Pol (Kristen Pol)",
+        "Bálint Kléri (balintbrews)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T15:00:00Z",
+      "endTime": "2025-10-16T15:20:00Z",
+      "duration": "PT20M",
+      "summary": "AI in EAA?",
+      "location": "Location Session Room (Hall G1)",
+      "description": "What is the European Accessibility Act and how can AI help you in your journey to become compliant Prerequisite Nothing really. I'll explain all of the EAA and accessibility concepts from ground zero.",
+      "link": "https://events.drupal.org//vienna2025/session/ai-eaa",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Daniel Angelov (danielangelov)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T15:00:00Z",
+      "endTime": "2025-10-16T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Beyond Searching - Leveraging the Search API infrastructure for different features",
+      "location": "Location Session Room (Hall G2)",
+      "description": "Replacing dblog by Solr Log, implementing Cross Language Information Retrieval (CLIR) with TMGMT, integrating Default Content Deploy with Search API. Prerequisite Basic Drupal site-building knowledge, no coding skills required",
+      "link": "https://events.drupal.org//vienna2025/session/beyond-searching-leveraging-search-api-infrastructure-different-features",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "Markus Kalkbrenner (mkalkbrenner)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T15:00:00Z",
+      "endTime": "2025-10-16T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal AI - strategy and application",
+      "location": "Location Auditorium (Hall D)",
+      "description": "Drupal has become the most advanced open-source AI orchestration platform in the world. With the Drupal AI module and its growing ecosystem, it’s now possible to automate content workflows, power advanced search, create digital assistants, and personalise user experiences.",
+      "link": "https://events.drupal.org//vienna2025/session/drupal-ai-strategy-and-application",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Christoph Breidert (breidert)",
+        "Frederik Wouters (Wouters_f)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T15:00:00Z",
+      "endTime": "2025-10-16T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "From Chaos to Consistency: Streamlining Data Analytics in Drupal Multisite Projects",
+      "location": "Location Session Room (-2.33)",
+      "description": "In this case study session, discover how a single solution can power analytics for 50+ Drupal websites. Learn how a reusable Google Tag Manager and Google Analytics 4 framework delivers consistent web-tracking and rapid insights at scale.",
+      "link": "https://events.drupal.org//vienna2025/session/chaos-consistency-streamlining-data-analytics-drupal-multisite-projects",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Daniil Borysenko (Daniil_borysenko)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T15:00:00Z",
+      "endTime": "2025-10-16T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Git Bisect for Fun and Profit",
+      "location": "Location Room BoF (-2.62)",
+      "description": "`git bisect` is an amazing tool and surprisingly easy to use. You don't have to remember much at all to use it. You can find out so very easily where a bug was added in your commit history. We'll use a real hands-on example.",
+      "link": "https://events.drupal.org//vienna2025/session/git-bisect-fun-and-profit",
+      "track": "bof",
+      "speakers": [
+        "Randy Fay (rfay)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T15:00:00Z",
+      "endTime": "2025-10-16T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "How to concentrate in a meeting",
+      "location": "Location Room BoF (-2.66)",
+      "description": "We've all been there... at a meeting where your mind just starts wandering off... Even in meetings that aren't actually boring. What are our tricks to stay focused? Doodling? Walking around during a zoom call? Knitting? Drawing notes?",
+      "link": "https://events.drupal.org//vienna2025/session/how-concentrate-meeting",
+      "track": "bof",
+      "speakers": [
+        "Antje Lorch (Ifrik)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T15:00:00Z",
+      "endTime": "2025-10-16T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Issue Triage",
+      "location": "Location Room BoF (-2.82)",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/issue-triage",
+      "track": "contribution topic",
+      "speakers": [
+        "Rodrigo Aguilera (Rodrigoaguilera)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T15:00:00Z",
+      "endTime": "2025-10-16T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Lean digital service design with Drupal: Lessons from London's Southwark Council",
+      "location": "Location Session Room (-2.43)",
+      "description": "How do you digitally transform hundreds of public services without blowing the budget? Discover how Southwark Council cracked the code—saving resources for bigger challenges, accelerating delivery, and seamlessly integrating legacy systems.",
+      "link": "https://events.drupal.org//vienna2025/session/lean-digital-service-design-drupal-lessons-londons-southwark-council",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Alex Langley (A_langley)",
+        "David Bishop (David_bishop)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T15:00:00Z",
+      "endTime": "2025-10-16T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Masterclass: Scaling sales and marketing success for Drupal agencies",
+      "location": "Location Session Room (-2.42)",
+      "description": "Many Drupal agencies excel at technical delivery. A recent survey ran by the Drupal Executives Network shows Drupal agencies would benefit from support with structured sales and marketing.",
+      "link": "https://events.drupal.org//vienna2025/session/masterclass-scaling-sales-and-marketing-success-drupal-agencies",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Imre Gmelig Meijling (Imre-gmelig-meijling)",
+        "Janne Kalliola (jannekalliola)",
+        "Michel Van Velde (Michel Van Velde)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T15:00:00Z",
+      "endTime": "2025-10-16T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Test all the things!",
+      "location": "Location Session Room (-2.41)",
+      "description": "All other checks and actions apart from Unit and Browsing testing that can be added to a project to quality assurance: accessibility, performance, API testing, static analysis and other tests.",
+      "link": "https://events.drupal.org//vienna2025/session/test-all-things",
+      "track": "infosec \u0026 devops",
+      "speakers": [
+        "Ricardo Sanz Ante (Tunic)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T15:00:00Z",
+      "endTime": "2025-10-16T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Thinking Async",
+      "location": "Location Session Room (-2.32)",
+      "description": "With the introduction of the Revolt event loop in Drupal Core, we're getting ready for Drupal to tackle an entirely new class of problems: asynchronous applications. In this session you'll find out how to think asynchronously and leverage Revolt in your applications.",
+      "link": "https://events.drupal.org//vienna2025/session/thinking-async",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "Alexander Varwijk (Kingdutch)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T15:25:00Z",
+      "endTime": "2025-10-16T15:45:00Z",
+      "duration": "PT20M",
+      "summary": "From the Starting Line to the Finish: A Digital Sprint Toward Scalable Transformation",
+      "location": "Location Session Room (Hall G1)",
+      "description": "The Story Begins In the fast-paced world of endurance sports, success isn’t just measured at the finish line—it’s about delivering seamless, memorable experiences from the moment an athlete signs up to when they cross the tape.",
+      "link": "https://events.drupal.org//vienna2025/session/starting-line-finish-digital-sprint-toward-scalable-transformation",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Tanja Jesse",
+        "Annam Ravin (Annam-sreenivasan)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T15:45:00Z",
+      "endTime": "2025-10-16T16:15:00Z",
+      "duration": "PT30M",
+      "summary": "Coffee Break 2, Thursday",
+      "location": "Location Exhibition Hall - X2",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/coffee-break-2-thursday",
+      "track": "coffee \u0026 lunch break time",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T16:15:00Z",
+      "endTime": "2025-10-16T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "Declarative Shadow DOM and the future of Drupal Theming",
+      "location": "Location Session Room (-2.32)",
+      "description": "For a frontend developer, Drupal is old-school. For the past decade, developers have been experimenting with JavaScript-based frontend frameworks that completely replace Drupal's frontend. But what if we could inject a fully modern JavaScript API into Drupal's rendering system?",
+      "link": "https://events.drupal.org//vienna2025/session/declarative-shadow-dom-and-future-drupal-theming",
+      "track": "open web",
+      "speakers": [
+        "John Albin Wilkins (Johnalbin)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T16:15:00Z",
+      "endTime": "2025-10-16T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "From Reactive to Proactive: Automated Performance Testing Success Stories",
+      "location": "Location Session Room (-2.33)",
+      "description": "Gander, Drupal's performance testing framework introduced in Drupal core 10.3 and implemented for Drupal CMS 1.0, is markedly improving Drupal’s performance.",
+      "link": "https://events.drupal.org//vienna2025/session/reactive-proactive-automated-performance-testing-success-stories",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "Nathaniel Catchpole (Catch)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T16:15:00Z",
+      "endTime": "2025-10-16T16:35:00Z",
+      "duration": "PT20M",
+      "summary": "Green UX in the Age of AI: Digital Products for a Sustainable Future",
+      "location": "Location Session Room (Hall G1)",
+      "description": "Can your next digital project help save the planet? Discover how Green UX and responsible AI can reduce your digital footprint—without sacrificing user experience or business goals.",
+      "link": "https://events.drupal.org//vienna2025/session/green-ux-age-ai-digital-products-sustainable-future",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Petra Morawa-zechner (pemoze)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T16:15:00Z",
+      "endTime": "2025-10-16T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "Make your own Drupal CMS: from distribution/profile to recipe based installation",
+      "location": "Location Session Room (-2.41)",
+      "description": "For every new project, there are certain tasks we have to complete over and over again. We install the same modules, because we are used to having them, we configure features in a consistent way, implementing best practices or the optimal approaches that we know work well.",
+      "link": "https://events.drupal.org//vienna2025/session/make-your-own-drupal-cms-distributionprofile-recipe-based-installation",
+      "track": "drupal cms",
+      "speakers": [
+        "Maksym Yemets (Cmd87)",
+        "Artem Dmitriiev (admitriiev)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T16:15:00Z",
+      "endTime": "2025-10-16T16:35:00Z",
+      "duration": "PT20M",
+      "summary": "Onboarding and Growing New Drupal Developers: Our 45-Day Internship Blueprint",
+      "location": "Location Session Room (-2.43)",
+      "description": "Finding skilled Drupal talent is hard — so why not build it yourself? This session shares the structured 45-day plan we used to successfully onboard and mentor a batch of interns into confident junior Drupal developers, blending hands-on projects with best practice learning.",
+      "link": "https://events.drupal.org//vienna2025/session/onboarding-and-growing-new-drupal-developers-our-45-day-internship-blueprint",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Pritish Kumar (pritishkumar)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T16:15:00Z",
+      "endTime": "2025-10-16T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "Supercharging Drupal with Real-Time Notifications Using WebSockets and Redis",
+      "location": "Location Session Room (-2.42)",
+      "description": "Imagine your Drupal site delivering live updates, pushing real-time notifications, or powering a chat system without the need to refresh the page. And more importantly, without depending on Firebase, Pusher, or any commercial messaging service.",
+      "link": "https://events.drupal.org//vienna2025/session/supercharging-drupal-real-time-notifications-using-websockets-and-redis",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "Shibin Das (d34dman)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T16:15:00Z",
+      "endTime": "2025-10-16T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "The Future of Drupal Theming: AI, Drupal Canvas, and Beyond",
+      "location": "Location Session Room (Hall G2)",
+      "description": "Drupal’s theming layer has grown by leaps and bounds over the past several years. We’ve seen new Twig filters, theme generation tools, and the introduction of Single Directory Components.",
+      "link": "https://events.drupal.org//vienna2025/session/future-drupal-theming-ai-drupal-canvas-and-beyond",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "Mike Herchel (mherchel)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T16:15:00Z",
+      "endTime": "2025-10-16T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "The Future of the Search API Typesense Module",
+      "location": "Location Room BoF (-2.62)",
+      "description": "Join us to explore the latest improvements and shape the future of the **Search API Typesense** module—the bridge between Drupal's Search API and the powerful Typesense search engine.",
+      "link": "https://events.drupal.org//vienna2025/session/future-search-api-typesense-module",
+      "track": "bof",
+      "speakers": [
+        "Roberto Peruzzo (robertoperuzzo)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T16:40:00Z",
+      "endTime": "2025-10-16T17:00:00Z",
+      "duration": "PT20M",
+      "summary": "Drupal CMS: What's in it for me?",
+      "location": "Location Session Room (-2.43)",
+      "description": "Are you struggling to navigate Drupal CMS’s seismic shift? With no-code and AI tools reshaping everything—including client and management expectations—adaptation is key, or we risk going the way of the dinosaurs...",
+      "link": "https://events.drupal.org//vienna2025/session/drupal-cms-whats-it-me",
+      "track": "drupal cms",
+      "speakers": [
+        "Raquel Fialho (raqfialho)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T16:40:00Z",
+      "endTime": "2025-10-16T17:00:00Z",
+      "duration": "PT20M",
+      "summary": "Fueling the Future: How Drupal and Open Source Propel the Airline Industry Towards Carbon Neutrality",
+      "location": "Location Session Room (Hall G1)",
+      "description": "This session highlights a success story in how Drupal powers a data-driven solution for tracking sustainable fuel usage, which in turn supports the EU's ambitious goal of becoming carbon neutral by 2050 (55% reduction by 2030, compared to 1990 levels).",
+      "link": "https://events.drupal.org//vienna2025/session/fueling-future-how-drupal-and-open-source-propel-airline-industry-towards-carbon",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Sofiane Boudadi",
+        "Janick Cox (Jaynike)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T17:05:00Z",
+      "endTime": "2025-10-16T17:15:00Z",
+      "duration": "PT10M",
+      "summary": "Drupal Fitness Award (Sponsored by DrupalFit)",
+      "location": "Location Exhibition Hall - Open Stage",
+      "description": "We plan to access the visitors sites during the event and award 3 best sites at the end of the event.",
+      "link": "https://events.drupal.org//vienna2025/session/drupal-fitness-award-sponsored-drupalfit",
+      "track": "sponsor talks",
+      "speakers": [
+        "Christoph Mangold"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T17:15:00Z",
+      "endTime": "2025-10-16T18:00:00Z",
+      "duration": "PT45M",
+      "summary": "A Tour of Drupal CMS Recipes: Best Practices for Modern Site Building",
+      "location": "Location Session Room (-2.41)",
+      "description": "Discover what’s inside Drupal CMS Recipes with a fast-paced, insightful tour. See what’s being delivered, uncover new best practices, and explore how these pre-configured solutions can enhance your site-building workflow.",
+      "link": "https://events.drupal.org//vienna2025/session/tour-drupal-cms-recipes-best-practices-modern-site-building",
+      "track": "drupal cms",
+      "speakers": [
+        "Gareth Alexander (The_g_bomb)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T17:15:00Z",
+      "endTime": "2025-10-16T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "Beyond the Build: Architecting Resilient Client Journeys with Drupal",
+      "location": "Location Session Room (Hall G2)",
+      "description": "It’s not just about building Drupal sites — it’s about building client journeys that evolve, convert, and last. This session explores how to architect experiences that scale with real-world clients from the education, event and insurance sector.",
+      "link": "https://events.drupal.org//vienna2025/session/beyond-build-architecting-resilient-client-journeys-drupal",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Michal Czernik (michalczernik)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T17:15:00Z",
+      "endTime": "2025-10-16T18:00:00Z",
+      "duration": "PT45M",
+      "summary": "ECA, AI and MCP: Connecting Context, Intelligence and Action",
+      "location": "Location Session Room (-2.43)",
+      "description": "Discover how integrating AI with Drupal's ECA module can revolutionize your workflows. Learn to use AI for chat, text-to-speech, and more, and meet an AI agent that simplifies model management.",
+      "link": "https://events.drupal.org//vienna2025/session/eca-ai-and-mcp-connecting-context-intelligence-and-action",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "Jasper Lammens (lammensj)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T17:15:00Z",
+      "endTime": "2025-10-16T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "It’s OK to NOT be OK! Establishing support frameworks in community teams",
+      "location": "Location Session Room (-2.33)",
+      "description": "Balancing volunteering and community responsibilities with personal and professional obligations can be stressful; it's difficult to know who to turn to for support.",
+      "link": "https://events.drupal.org//vienna2025/session/its-ok-not-be-ok-establishing-support-frameworks-community-teams",
+      "track": "community health",
+      "speakers": [
+        "Will Huggins (zoocha-will)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T17:15:00Z",
+      "endTime": "2025-10-16T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "Mastering the release flow - over 5 years of continuous improvement",
+      "location": "Location Session Room (-2.42)",
+      "description": "Transform your risky production deployments into a smooth, reliable process. Learn from 5+ years of continuously improving the release flow for a platform handling 40+ sites.",
+      "link": "https://events.drupal.org//vienna2025/session/mastering-release-flow-over-5-years-continuous-improvement",
+      "track": "infosec \u0026 devops",
+      "speakers": [
+        "Toni Kolev (toni.kolev)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T17:15:00Z",
+      "endTime": "2025-10-16T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "Software Update Security for Humans: A gentle introduction",
+      "location": "Location Session Room (Hall G1)",
+      "description": "The Update Framework (TUF) is a standard being adopted across the open web, as a collaboration between open source projects to improve supply chain security. Learn about how this collaboration came to be, what TUF is, and why it was chosen to support Drupal's Automatic Updates initiative.",
+      "link": "https://events.drupal.org//vienna2025/session/software-update-security-humans-gentle-introduction",
+      "track": "infosec \u0026 devops",
+      "speakers": [
+        "Christopher Gervais (ergonlogic)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T17:15:00Z",
+      "endTime": "2025-10-16T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "Top 10 Composer Problems in Drupal Projects: Solutions from Real-World Sites",
+      "location": "Location Session Room (-2.32)",
+      "description": "Are Composer issues causing headaches in your Drupal projects? Discover the top 10 real-world Composer mistakes and how to fix them, so you can build cleaner, safer, and more maintainable Drupal sites.",
+      "link": "https://events.drupal.org//vienna2025/session/top-10-composer-problems-drupal-projects-solutions-real-world-sites",
+      "track": "coding \u0026 site building",
+      "speakers": [
+        "Mohammad Zomorodian (Mzomorodian)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T17:40:00Z",
+      "endTime": "2025-10-16T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "Designing with Purpose: How to Integrate Your Features into Drupal Canvas",
+      "location": "Location Session Room (-2.33)",
+      "description": "Learn how Drupal Canvas was designed to grow with you — and how you can extend it without compromising usability, consistency, or performance.",
+      "link": "https://events.drupal.org//vienna2025/session/designing-purpose-how-integrate-your-features-drupal-canvas",
+      "track": "drupal cms",
+      "speakers": [
+        "Renee Lund (reneelund)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T17:40:00Z",
+      "endTime": "2025-10-16T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "Kubernetes-Powered Drupal: Architecting Scalable, Resilient Web Experiences",
+      "location": "Location Session Room (Hall G1)",
+      "description": "In an era where website performance directly impacts business outcomes, Kubernetes empowers Drupal developers to build infinitely scalable, self-healing architectures.",
+      "link": "https://events.drupal.org//vienna2025/session/kubernetes-powered-drupal-architecting-scalable-resilient-web-experiences",
+      "track": "infosec \u0026 devops",
+      "speakers": [
+        "Paulo Carvalho (Pmaiacar)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T17:40:00Z",
+      "endTime": "2025-10-16T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "SEO in the Age of AI Search: What’s Really Changing (and What’s Not)",
+      "location": "Location Session Room (-2.42)",
+      "description": "Captivating Introduction",
+      "link": "https://events.drupal.org//vienna2025/session/seo-age-ai-search-whats-really-changing-and-whats-not",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Hristiyan Myankov (Hristiyan Myankov)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T17:40:00Z",
+      "endTime": "2025-10-16T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "Taming the Beast: Navigating Scope Creep for Project Success",
+      "location": "Location Session Room (Hall G2)",
+      "description": "Scope creep is one of the most silent but deadly threats to any software project — derailing timelines, blowing budgets, and clouding project goals.",
+      "link": "https://events.drupal.org//vienna2025/session/taming-beast-navigating-scope-creep-project-success",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Nina Holzapfel (Nina-holzapfel)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T17:40:00Z",
+      "endTime": "2025-10-16T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "The Art of Doing Less: Let the Community Code Your Module",
+      "location": "Location Session Room (-2.32)",
+      "description": "The open web benefits from collaboration of many people on projects, but how can you encourage people to contribute to yours?",
+      "link": "https://events.drupal.org//vienna2025/session/art-doing-less-let-community-code-your-module",
+      "track": "open web",
+      "speakers": [
+        "James Shields (Lostcarpark)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T18:00:00Z",
+      "endTime": "2025-10-16T18:30:00Z",
+      "duration": "PT30M",
+      "summary": "Wrap Up Ceremony Auditorium - DrupalCon 2026 city Announcement",
+      "location": "Location Auditorium (Hall D)",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/wrap-ceremony-auditorium-drupalcon-2026-city-announcement",
+      "track": "other",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-16T20:30:00Z",
+      "endTime": "2025-10-16T23:45:00Z",
+      "duration": "PT3H15M",
+      "summary": "Trivia Night",
+      "location": "Location Gleisgarten",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/trivia-night",
+      "track": "other",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-17T09:00:00Z",
+      "endTime": "2025-10-17T16:30:00Z",
+      "duration": "PT7H30M",
+      "summary": "Drupal in a Day Seminar",
+      "location": "Location Room BoF (-2.77)",
+      "description": "Schedule 9:00 Opening 9:15 Drupal in a Day - Part 1 12:30 Lunch break 14:00 Drupal in a Day - Part 2 15:30 Photo and coffee break 16:30 Closing notes, and presentation of certifications",
+      "link": "https://events.drupal.org//vienna2025/session/drupal-day-seminar",
+      "track": "other",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-17T09:00:00Z",
+      "endTime": "2025-10-17T12:30:00Z",
+      "duration": "PT3H30M",
+      "summary": "First-Time Contributor Workshop - Friday",
+      "location": "Location Session Room (Hall G2)",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/first-time-contributor-workshop-friday",
+      "track": "contribution topic",
+      "speakers": [
+        "Chris Darke (Chrisdarke)",
+        "James Shields (Lostcarpark)",
+        "Rachel Lawson (Rachel_norfolk)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-17T09:00:00Z",
+      "endTime": "2025-10-17T18:00:00Z",
+      "duration": "PT9H",
+      "summary": "General Contribution Day 4",
+      "location": "Location Contribution Room (Hall K)",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/general-contribution-day-4",
+      "track": "contribution topic",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-17T09:00:00Z",
+      "endTime": "2025-10-17T18:00:00Z",
+      "duration": "PT9H",
+      "summary": "Mentored Contribution",
+      "location": "Location Session Room (Hall G2)",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/mentored-contribution",
+      "track": "contribution topic",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-17T10:00:00Z",
+      "endTime": "2025-10-17T10:30:00Z",
+      "duration": "PT30M",
+      "summary": "Coffe Break 1, Friday",
+      "location": "Location Foyer K",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/coffe-break-1-friday",
+      "track": "coffee \u0026 lunch break time",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-17T12:30:00Z",
+      "endTime": "2025-10-17T14:00:00Z",
+      "duration": "PT1H30M",
+      "summary": "Lunch Break, Friday",
+      "location": "Location Foyer K",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/lunch-break-friday",
+      "track": "coffee \u0026 lunch break time",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2025-10-17T15:30:00Z",
+      "endTime": "2025-10-17T16:00:00Z",
+      "duration": "PT30M",
+      "summary": "Coffe Break 2, Friday",
+      "location": "Location Foyer K",
+      "description": "",
+      "link": "https://events.drupal.org//vienna2025/session/coffe-break-2-friday",
+      "track": "coffee \u0026 lunch break time",
+      "speakers": null,
+      "timezone": ""
+    }
+  ],
+  "result": "✅",
+  "url": "https://events.drupal.org/vienna2025"
+}

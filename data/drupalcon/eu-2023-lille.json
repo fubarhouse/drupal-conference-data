@@ -1,0 +1,2566 @@
+{
+  "event": {
+    "Location": "Lille",
+    "Year": "2023",
+    "URL": "https://events.drupal.org/lille2023/schedule",
+    "Region": "Europe",
+    "EndDate": "2023-10-17T00:00:00Z",
+    "StartDate": "2023-10-20T00:00:00Z",
+    "Website": "https://events.drupal.org/lille2023",
+    "Venue": "Lille Grand Palais",
+    "Timezone": ""
+  },
+  "items": [
+    {
+      "startTime": "2023-10-17T09:00:00Z",
+      "endTime": "2023-10-17T18:00:00Z",
+      "duration": "PT9H",
+      "summary": "General Contribution Day 1",
+      "location": "Location Contribution Room 4.1",
+      "description": "",
+      "link": "https://events.drupal.org//lille2023/session/general-contribution-day-1",
+      "track": "contribution topic",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T12:00:00Z",
+      "endTime": "2023-10-17T13:25:00Z",
+      "duration": "PT1H25M",
+      "summary": "Opening Ceremony + Women in Drupal Award",
+      "location": "Location Auditorium",
+      "description": "",
+      "link": "https://events.drupal.org//lille2023/session/opening-ceremony-women-drupal-award",
+      "track": "other",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T13:30:00Z",
+      "endTime": "2023-10-17T14:45:00Z",
+      "duration": "PT1H15M",
+      "summary": "Driesnote",
+      "location": "Location Auditorium",
+      "description": "Belgium-born Drupal founder Dries Buytaert is a pioneer in the open source web publishing and digital experience platform space. In his traditional Driesnote he will present an update on the project and the development of Drupal. Keynote",
+      "link": "https://events.drupal.org//lille2023/session/driesnote",
+      "track": "keynote",
+      "speakers": [
+        "Dries Buytaert (Dries)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T14:45:00Z",
+      "endTime": "2023-10-17T14:55:00Z",
+      "duration": "PT10M",
+      "summary": "Group photo",
+      "location": "Location Auditorium",
+      "description": "",
+      "link": "https://events.drupal.org//lille2023/session/group-photo",
+      "track": "other",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T15:00:00Z",
+      "endTime": "2023-10-17T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal Coffee Exchange",
+      "location": "Location Room 2.1 - BoF",
+      "description": "Many of us in the Drupal community enjoy coffee, and the Drupal Coffee Exchange is a way to celebrate the magic elixir that many of us use to fuel our days.",
+      "link": "https://events.drupal.org//lille2023/session/drupal-coffee-exchange",
+      "track": "bof",
+      "speakers": [
+        "AmyJune Hineline (Volkswagenchick)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T15:00:00Z",
+      "endTime": "2023-10-17T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal DXP meets AI: Unlocking the Full Potential of Digital Experiences",
+      "location": "Location Room 3.8 The Lounge (1)",
+      "description": "In today's digital landscape, delivering exceptional digital experiences is essential for organisations to remain competitive. Imagine a digital experience platform that can learn from your customers, personalise their interactions, and predict their needs - all on its own.",
+      "link": "https://events.drupal.org//lille2023/session/drupal-dxp-meets-ai-unlocking-full-potential-digital-experiences",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Saranya Rajaram (saranya_rajaram)",
+        "Annam Ravin (Annam_sreenivasan)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T15:00:00Z",
+      "endTime": "2023-10-17T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Drush fans, unite!",
+      "location": "Location Room 2.4 - BoF",
+      "description": "Lets talk about all things Drush. Share your successes and questions and thoughts about its future direction.BoF",
+      "link": "https://events.drupal.org//lille2023/session/drush-fans-unite",
+      "track": "bof",
+      "speakers": [
+        "Moshe Weitzman"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T15:00:00Z",
+      "endTime": "2023-10-17T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Exploring Holacracy, Sociocracy, and Reinventing Organizations in a Drupal Agency",
+      "location": "Location Room 3.5 \u0026 3.6 (3)",
+      "description": "We at NETNODE, a small swiss Drupal agency have successfully adopted and blended principles from Holacracy, Sociocracy, and Reinventing Organizations since late 2019.",
+      "link": "https://events.drupal.org//lille2023/session/exploring-holacracy-sociocracy-and-reinventing-organizations-drupal-agency",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Lukas Fischer (Lukasfischer)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T15:00:00Z",
+      "endTime": "2023-10-17T16:15:00Z",
+      "duration": "PT1H15M",
+      "summary": "Getting started with Drupal",
+      "location": "Location Room 3.1 C \u0026 3.2 C (6)",
+      "description": "This workshop is for people who want to get a solid foundation in Drupal site building. No Drupal experience is required!",
+      "link": "https://events.drupal.org//lille2023/session/getting-started-drupal",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Mauricio Dinarte (dinarcon)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T15:00:00Z",
+      "endTime": "2023-10-17T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Helping Drupal's Authors Produce Inclusive Content",
+      "location": "Location Room 3.1 A \u0026 B (4)",
+      "description": "Mike will talk about how authoring tools like Drupal can help create more inclusive content. Tools like CKEditor can be great, but more often than not allow authors to make basic mistakes, because they don't know the basics of web accessibility.",
+      "link": "https://events.drupal.org//lille2023/session/helping-drupals-authors-produce-inclusive-content",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Mike Gifford (Mgifford)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T15:00:00Z",
+      "endTime": "2023-10-17T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Let’s work together to uncover and understand our Drupalisms",
+      "location": "Location Room 2.3 - BoF",
+      "description": "Help us de-mystify and de-jargon Drupal!",
+      "link": "https://events.drupal.org//lille2023/session/lets-work-together-uncover-and-understand-our-drupalisms",
+      "track": "bof",
+      "speakers": [
+        "Emma Horrell",
+        "Aaron McHale (AaronMcHale)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T15:00:00Z",
+      "endTime": "2023-10-17T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "New DDEV Features",
+      "location": "Location Room 2.2 - BoF",
+      "description": "There are loads of new things happening with DDEV, including support of new Docker providers like Orbstack, PHP 8.3, 18 official add-ons, PostgresQL support, focus on long-term sustainability of the project.",
+      "link": "https://events.drupal.org//lille2023/session/new-ddev-features",
+      "track": "bof",
+      "speakers": [
+        "Randy Fay"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T15:00:00Z",
+      "endTime": "2023-10-17T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Project Browser Initiative: Where We're At and How You Can Help",
+      "location": "Location Room 3.7 The Studio (2)",
+      "description": "Hear from co-initiative leads Leslie Glynn and Chris Wells about the current state of the Project Browser Strategic Initiative, what problems we are trying to solve, what remains to be accomplished to get Project Browser into Drupal core, and where you can chip in to help move the initiative forw",
+      "link": "https://events.drupal.org//lille2023/session/project-browser-initiative-where-were-and-how-you-can-help",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Leslie Glynn (leslieg)",
+        "Chris Wells"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T15:00:00Z",
+      "endTime": "2023-10-17T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "TDD - Test-Driven Drupal: an introduction to automated testing and test-driven development in Drupal",
+      "location": "Location Room 3.2 A \u0026 B (5)",
+      "description": "Testing is important.",
+      "link": "https://events.drupal.org//lille2023/session/tdd-test-driven-drupal-introduction-automated-testing-and-test-driven-development",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Oliver Davies (Opdavies)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T15:45:00Z",
+      "endTime": "2023-10-17T16:15:00Z",
+      "duration": "PT30M",
+      "summary": "Design System in Drupal : Build your website without coding! (sponsored by Smile)",
+      "location": "Location Open stage",
+      "description": "To meet our clients' need for an easily manageable design system approach, we, at Smile, developed the Streamlined CMS platform, based on Drupal, and funded by our R\u0026D investments. In addition to the design system approach, we wanted to give our Streamlined CMS platform a No-Code approach.",
+      "link": "https://events.drupal.org//lille2023/session/design-system-drupal-build-your-website-without-coding-sponsored-smile",
+      "track": "sponsored talk",
+      "speakers": [
+        "Florent Torregrosa",
+        "Nicolas Loye (Nicoloye)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T16:15:00Z",
+      "endTime": "2023-10-17T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "A wartime period for Ukrainian teams: challenges of 2022 and where are we now in 2023.",
+      "location": "Location Room 3.5 \u0026 3.6 (3)",
+      "description": "The world today is undergoing massive changes. On Feb 24, 2022, it changed significantly for Ukrainian IT teams. We encountered unique challenges and discovered our strength in overcoming them.",
+      "link": "https://events.drupal.org//lille2023/session/wartime-period-ukrainian-teams-challenges-2022-and-where-are-we-now-2023",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Iryna Semenova (instagram.com/isemyonovabel)",
+        "Anastasiia Paliienko (instagram.com/ssteyci?igshid=MzMyNGUyNmU2YQ%3D%3D\u0026utm_source=qr)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T16:15:00Z",
+      "endTime": "2023-10-17T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "Creating a DDEV Add-on",
+      "location": "Location Room 2.3 - BoF",
+      "description": "It's amazingly easy to create your own DDEV add-on. We'll go through the whole process to a completed add-on. Add-ons can benefit your local team or the whole world. BoF",
+      "link": "https://events.drupal.org//lille2023/session/creating-ddev-add",
+      "track": "bof",
+      "speakers": [
+        "Randy Fay"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T16:15:00Z",
+      "endTime": "2023-10-17T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "Designing for Privacy: Balancing User Needs and Data Security",
+      "location": "Location Room 3.1 A \u0026 B (4)",
+      "description": "Abstract:",
+      "link": "https://events.drupal.org//lille2023/session/designing-privacy-balancing-user-needs-and-data-security",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Tarkesh Deva (Tarkesh.deva)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T16:15:00Z",
+      "endTime": "2023-10-17T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "Having your cake, and eating it too: Using Varnish to serve content from your new Drupal site alongside your Legacy platform - keeping 2 platforms live at the same time.",
+      "location": "Location Room 3.2 A \u0026 B (5)",
+      "description": "For many website projects, the scariest thing is the 'big switch' - turning off the old platform and turning on the new one. But what if there was another way?",
+      "link": "https://events.drupal.org//lille2023/session/having-your-cake-and-eating-it-too-using-varnish-serve-content-your-new-drupal",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Alan Burke"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T16:15:00Z",
+      "endTime": "2023-10-17T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "Maintainers - prepare your modules to shine in the Project Browser",
+      "location": "Location Room 2.2 - BoF",
+      "description": "Learn the steps you can take now to make your modules shine in the new Project Browser. One of the key elements to making the Project Browser launch successful is the content added by module maintainers on the Drupal.org Project pages.",
+      "link": "https://events.drupal.org//lille2023/session/maintainers-prepare-your-modules-shine-project-browser",
+      "track": "bof",
+      "speakers": [
+        "Leslie Glynn (leslieg)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T16:15:00Z",
+      "endTime": "2023-10-17T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "Our joint sustainability journey: reducing emissions and technical learnings",
+      "location": "Location Room 3.8 The Lounge (1)",
+      "description": "Nestlé and Platform.sh have developed a new test case - focused on Nestlé’s Drupal fleet - which dramatically reduces greenhouse gas emissions in the cloud. Together we will share our approach and the lessons learned in terms of technology, process, and sustainability.",
+      "link": "https://events.drupal.org//lille2023/session/our-joint-sustainability-journey-reducing-emissions-and-technical-learnings",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Andrew Melck (Drewmelck)",
+        "Leah Goldfarb",
+        "Jérôme Andrieux",
+        "Antonella Severo",
+        "David Fernandez"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T16:15:00Z",
+      "endTime": "2023-10-17T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "People's wisdom: crafting success one tip at a time",
+      "location": "Location Room 2.1 - BoF",
+      "description": "The purpose of this BoF is to come together and share a valuable tip or trick that we use in our daily work, which we believe can benefit others. Each participant will suggest a tip, explain it, and then we will collectively vote for the best ones.",
+      "link": "https://events.drupal.org//lille2023/session/peoples-wisdom-crafting-success-one-tip-time",
+      "track": "bof",
+      "speakers": [
+        "Jorge Lopez-lago"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T16:15:00Z",
+      "endTime": "2023-10-17T18:00:00Z",
+      "duration": "PT1H45M",
+      "summary": "Shaping the most easy to use enterprise CMS through Drupal Gutenberg (sponsored by Frontkom)",
+      "location": "Location Room 3.3 (7)",
+      "description": "We start off with a demo session of how we’re using Gutenberg today, and some of the great selling points you typically miss when simply trying it out on your own.",
+      "link": "https://events.drupal.org//lille2023/session/shaping-most-easy-use-enterprise-cms-through-drupal-gutenberg-sponsored-frontkom",
+      "track": "sponsored talk",
+      "speakers": [
+        "Thor Andre Gretland",
+        "Marco Fernandes"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T16:15:00Z",
+      "endTime": "2023-10-17T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "So I logged in, now what? The Dashboard initiative welcomes you",
+      "location": "Location Room 3.7 The Studio (2)",
+      "description": "When you log in into a Drupal Site, by default you land on a mostly empty page which shows you how old your account is in the site. That’s not the best UX out there.",
+      "link": "https://events.drupal.org//lille2023/session/so-i-logged-now-what-dashboard-initiative-welcomes-you",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Christian López Espínola (Penyaskito)",
+        "Cristina Chumillas (ckrina)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T17:15:00Z",
+      "endTime": "2023-10-17T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "Accessibility for Everyone!",
+      "location": "Location Room 3.1 A \u0026 B (4)",
+      "description": "We all understand the importance of Accessibility to some extent. Some of us may have a basic understanding of certain rules, such as color contrast ratios and the need for Alt Text. But how many of us actually UNDERSTAND Accessibility?",
+      "link": "https://events.drupal.org//lille2023/session/accessibility-everyone",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Daniel Angelov (danielangelov)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T17:15:00Z",
+      "endTime": "2023-10-17T18:00:00Z",
+      "duration": "PT45M",
+      "summary": "Build user friendly Drupal admin experiences using existing widgets and guidance text. Hear about how it can be done and learn from each other",
+      "location": "Location Room 2.1 - BoF",
+      "description": "Join us for an engaging round table discussion where Drupal enthusiasts, designers, developers, and administrators explore creating user-friendly Drupal admin experiences.",
+      "link": "https://events.drupal.org//lille2023/session/build-user-friendly-drupal-admin-experiences-using-existing-widgets-and-guidance",
+      "track": "bof",
+      "speakers": [
+        "Mike Gyi"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T17:15:00Z",
+      "endTime": "2023-10-17T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "Building Engaging Communities with Gamification, Commerce, and Integrations: A Success Story.",
+      "location": "Location Room 3.8 The Lounge (1)",
+      "description": "In this talk at DrupalCon, we will share how our company, Dropsolid, successfully integrated gamification, Drupal commerce, and Microsoft Dynamics integration to create a language-based community with a robust role system.",
+      "link": "https://events.drupal.org//lille2023/session/building-engaging-communities-gamification-commerce-and-integrations-success",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Sven Van Uytfanghe"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T17:15:00Z",
+      "endTime": "2023-10-17T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "Drupal 10 localization server upgrade initiative status",
+      "location": "Location Room 3.7 The Studio (2)",
+      "description": "A group of volunteers is currently porting the Drupal community translation server (localize.drupal.org) from Drupal 7 to Drupal 10.",
+      "link": "https://events.drupal.org//lille2023/session/drupal-10-localization-server-upgrade-initiative-status",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Felip Manyer Ballester (FMB)",
+        "Nicolas Loye (Nicoloye)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T17:15:00Z",
+      "endTime": "2023-10-17T18:00:00Z",
+      "duration": "PT45M",
+      "summary": "First-time contributor workshop 1",
+      "location": "Location Room 2.4 - BoF",
+      "description": "",
+      "link": "https://events.drupal.org//lille2023/session/first-time-contributor-workshop-1",
+      "track": "contribution topic",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T17:15:00Z",
+      "endTime": "2023-10-17T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "How can QA and DEV work together towards improving automation tests coverage",
+      "location": "Location Room 3.2 A \u0026 B (5)",
+      "description": "As software development cycles become more agile and fast-paced, quality assurance (QA) and development (DEV) teams must work together closely to ensure that software products meet high-quality standards.",
+      "link": "https://events.drupal.org//lille2023/session/how-can-qa-and-dev-work-together-towards-improving-automation-tests-coverage",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Toni Kolev (toni.kolev)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T17:15:00Z",
+      "endTime": "2023-10-17T18:00:00Z",
+      "duration": "PT45M",
+      "summary": "Let's talk GitLab",
+      "location": "Location Room 2.3 - BoF",
+      "description": "Let's talk GitLab! As Director of Contributor Success at GitLab, having led a Drupal Agency as CTO for many years, part of the Board of the Drupal Association and being the lead of the Belgian Drupal Association I know a thing or 2 about Drupal \u0026 about GitLab!",
+      "link": "https://events.drupal.org//lille2023/session/lets-talk-gitlab",
+      "track": "bof",
+      "speakers": [
+        "Nick Veenhof (nick_vh)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T17:15:00Z",
+      "endTime": "2023-10-17T18:00:00Z",
+      "duration": "PT45M",
+      "summary": "Management lessons for small and medium-sized agencies from a fast-growing, billion-dollar business",
+      "location": "Location Room 3.1 C \u0026 3.2 C (6)",
+      "description": "Successfully running a small agency is not easy. The CEO and their team (if they have one) usually have to wear many hats and juggle multiple roles every day.",
+      "link": "https://events.drupal.org//lille2023/session/management-lessons-small-and-medium-sized-agencies-fast-growing-billion-dollar",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Tamsin Fox-Davies",
+        "Elise West",
+        "Julie Sheward",
+        "Anthony Fox-Davies"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T17:15:00Z",
+      "endTime": "2023-10-17T18:00:00Z",
+      "duration": "PT45M",
+      "summary": "Next-generation page building experience",
+      "location": "Location Room 2.2 - BoF",
+      "description": "Join us for a discussion about a next-generation page building tool for Drupal.",
+      "link": "https://events.drupal.org//lille2023/session/next-generation-page-building-experience",
+      "track": "bof",
+      "speakers": [
+        "Lauri Eskola (lauriii)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T17:15:00Z",
+      "endTime": "2023-10-17T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "Project First Aid: How to Respond, Recover, and Thrive in the Face of Project Failure",
+      "location": "Location Room 3.5 \u0026 3.6 (3)",
+      "description": "If you’ve ever delivered a digital project before, you’ll likely know that they can - and do - go wrong. In fact, industry experts estimate that a whopping 70% of digital projects fail. Faced with these kinds of odds, it’s vital to know how best to recognise and respond to a project in peril.",
+      "link": "https://events.drupal.org//lille2023/session/project-first-aid-how-respond-recover-and-thrive-face-project-failure",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Alice Minett"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T17:40:00Z",
+      "endTime": "2023-10-17T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "Bridging the Knowledge Gap: Connecting a Global Network of Non-Profits with Drupal",
+      "location": "Location Room 3.8 The Lounge (1)",
+      "description": "When 200 non-profit organizations with varying resources and expertise are scattered across the globe, the need for a centralized platform to share knowledge and resources becomes vital.",
+      "link": "https://events.drupal.org//lille2023/session/bridging-knowledge-gap-connecting-global-network-non-profits-drupal",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Peter Pónya (pedrop)",
+        "Zsófia Alföldi (Zsofiaalfoldi)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T17:40:00Z",
+      "endTime": "2023-10-17T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "Bringing Mautic and Drupal closer together in an open DXP",
+      "location": "Location Room 3.7 The Studio (2)",
+      "description": "This session is about how Drupal and Mautic can form the backbone of an open DXP. It's about how to bringing different worlds together: bringing communities together, developers and marketers together and markets together .",
+      "link": "https://events.drupal.org//lille2023/session/bringing-mautic-and-drupal-closer-together-open-dxp",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Dominique De Cooman (Domidc)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T17:40:00Z",
+      "endTime": "2023-10-17T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "How to onboard the next generation of Drupal engineers",
+      "location": "Location Room 3.5 \u0026 3.6 (3)",
+      "description": "This session addresses the challenges of attracting developers to use PHP and sequentially recruiting them in companies and teams where Drupal is the framework of choice.",
+      "link": "https://events.drupal.org//lille2023/session/how-onboard-next-generation-drupal-engineers",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Bostjan Kovac (Boshtian)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T17:40:00Z",
+      "endTime": "2023-10-17T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "Layout builder ecosystem Vol.2",
+      "location": "Location Room 3.2 A \u0026 B (5)",
+      "description": "This is a sequel of the presentation that I did 3 years ago on DrupalCon Amsterdam - https://www.youtube.com/watch?v=RQw7pZMzdDM. Three years later Layout builder has become a main building block for many Drupal websites.",
+      "link": "https://events.drupal.org//lille2023/session/layout-builder-ecosystem-vol2",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Boyan Borisov (Boyan.borisov)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-17T17:40:00Z",
+      "endTime": "2023-10-17T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "Translation management strategy for editors in Drupal 10",
+      "location": "Location Room 3.1 A \u0026 B (4)",
+      "description": "We have all heard it: “I have a small marketing website and I want it in English too.” It sounds simple, and it can be, but do not make the error to think “it is just a copy of each page, add the language switcher and voila, we’re done.”",
+      "link": "https://events.drupal.org//lille2023/session/translation-management-strategy-editors-drupal-10",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Jeremy Chinquist (Jjchinquist)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T08:45:00Z",
+      "endTime": "2023-10-18T10:00:00Z",
+      "duration": "PT1H15M",
+      "summary": "KitKat and Jägermeister, using Drupal to bring their digital experiences to life",
+      "location": "Location Auditorium",
+      "description": "With a decade of digital experience, Arush is a seasoned marketer with a passion for strategy, creativity, and data-driven results. He brings a unique blend of technical and creative skills to the table and has a proven track record of executing effective campaigns that drive growth.",
+      "link": "https://events.drupal.org//lille2023/session/kitkat-and-jagermeister-using-drupal-bring-their-digital-experiences-life",
+      "track": "keynote",
+      "speakers": [
+        "Arush Kochhar",
+        "Andrea Ostheer"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T09:00:00Z",
+      "endTime": "2023-10-18T18:00:00Z",
+      "duration": "PT9H",
+      "summary": "General Contribution Day 2",
+      "location": "Location Contribution Room 4.1",
+      "description": "",
+      "link": "https://events.drupal.org//lille2023/session/general-contribution-day-2",
+      "track": "contribution topic",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T10:00:00Z",
+      "endTime": "2023-10-18T10:15:00Z",
+      "duration": "PT15M",
+      "summary": "UNESCO's site web factory: a Drupal Adventure ! (sponsored by Axess)",
+      "location": "Location Open stage",
+      "description": "Embark on a thrilling 15-minute Drupal adventure as we unveil UNESCO's web evolution. Objective: to normalize and industrialize this complex ecosystem, connected to various Information Systems, and ensure scalability for the next 15 years.Other",
+      "link": "https://events.drupal.org//lille2023/session/unescos-site-web-factory-drupal-adventure-sponsored-axess",
+      "track": "sponsored talk",
+      "speakers": [
+        "Sylvain Moreau (Slybud)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T10:15:00Z",
+      "endTime": "2023-10-18T10:30:00Z",
+      "duration": "PT15M",
+      "summary": "Can Running a Fleet of Microsites Really be this Easy? (sponsored by Annertech)",
+      "location": "Location Open stage",
+      "description": "LocalGov Drupal got funding to build the most requested feature from our council partners: a platform to be able to manage all our microsites with.",
+      "link": "https://events.drupal.org//lille2023/session/can-running-fleet-microsites-really-be-easy-sponsored-annertech",
+      "track": "sponsored talk",
+      "speakers": [
+        "Mark Conroy"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T10:30:00Z",
+      "endTime": "2023-10-18T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "Decoupling your search solution with Drupal Search API",
+      "location": "Location Room 3.8 The Lounge (1)",
+      "description": "Do you want to build modern search apps with React or similar but still leverage the powerful module family Drupal Search API?",
+      "link": "https://events.drupal.org//lille2023/session/decoupling-your-search-solution-drupal-search-api",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Jose Nieves (Jnieves)",
+        "Christoph Breidert (Breidert)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T10:30:00Z",
+      "endTime": "2023-10-18T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "Defend FOSS: From innovation to positive change, we need to remind the world what we're about.",
+      "location": "Location Room 3.5 \u0026 3.6 (3)",
+      "description": "Open Source technology, practices, and thinking have revolutionized how we innovate, collaborate, and do business. The impact goes beyond our daily work and paying our rent. Open source is everywhere; we won! But there's a downside.",
+      "link": "https://events.drupal.org//lille2023/session/defend-foss-innovation-positive-change-we-need-remind-world-what-were-about",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Jeffrey McGuire",
+        "Mathias Bolt Lesniak (mabolek)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T10:30:00Z",
+      "endTime": "2023-10-18T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "Empathy-Driven Design: How Drupal Prioritizes Accessibility for End Users",
+      "location": "Location Room 3.7 The Studio (2)",
+      "description": "In the digital era, website accessibility has become essential to user experience. Drupal, a popular open-source content management system, has made accessibility a top priority in its development process.",
+      "link": "https://events.drupal.org//lille2023/session/empathy-driven-design-how-drupal-prioritizes-accessibility-end-users",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Annam Ravin (Annam_sreenivasan)",
+        "Saranya Rajaram (saranya_rajaram)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T10:30:00Z",
+      "endTime": "2023-10-18T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "Finding and bringing Drupal's New Blood, What is next?",
+      "location": "Location Room 2.1 - BoF",
+      "description": "Among many initiatives in Drupal, a very important one is how to.bring new talent. We have several programs and independent efforts for training and teaching new drupalists, but something is missing.",
+      "link": "https://events.drupal.org//lille2023/session/finding-and-bringing-drupals-new-blood-what-next",
+      "track": "bof",
+      "speakers": [
+        "Carlos Ospina (Camoa)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T10:30:00Z",
+      "endTime": "2023-10-18T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "First-time contributor workshop 1bis",
+      "location": "Location Room 2.4 - BoF",
+      "description": "",
+      "link": "https://events.drupal.org//lille2023/session/first-time-contributor-workshop-1bis",
+      "track": "contribution topic",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T10:30:00Z",
+      "endTime": "2023-10-18T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "Headless CMS Showdown: Live Demo and Comparison of Sanity, Strapi, Directus, and Drupal",
+      "location": "Location Room 3.1 A \u0026 B (4)",
+      "description": "Embark on an exciting journey as we put top headless CMS solutions—Sanity, Strapi, Directus, and Drupal—to the test in a live demo showdown.",
+      "link": "https://events.drupal.org//lille2023/session/headless-cms-showdown-live-demo-and-comparison-sanity-strapi-directus-and-drupal",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Lukas Fischer (Lukasfischer)",
+        "Natalia Justicia"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T10:30:00Z",
+      "endTime": "2023-10-18T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "How we integrated AI as a new colleague",
+      "location": "Location Room 3.2 A \u0026 B (5)",
+      "description": "In this presentation, we will dive into our company's journey of integrating AI into our daily operations, specifically through the implementation of ChatGPT, Midjourney, and Copilot.",
+      "link": "https://events.drupal.org//lille2023/session/how-we-integrated-ai-new-colleague",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Ulrika Mengshoel Wedelin (Ulrikamw)",
+        "David Holmlund (dholmlund)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T10:30:00Z",
+      "endTime": "2023-10-18T12:15:00Z",
+      "duration": "PT1H45M",
+      "summary": "Improving Layout Builder user experience (sponsored by Evolving Web)",
+      "location": "Location Room 3.3 (7)",
+      "description": "Improving Layout Builder user experience",
+      "link": "https://events.drupal.org//lille2023/session/improving-layout-builder-user-experience-sponsored-evolving-web",
+      "track": "sponsored talk",
+      "speakers": [
+        "Dharizza Espinach (dharizza)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T10:30:00Z",
+      "endTime": "2023-10-18T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "Less-known DDEV configuration",
+      "location": "Location Room 2.2 - BoF",
+      "description": "There are so many things you can do with DDEV! Have you used `ddev snapshot` or `ddev launch /uri` ? Know how to use hooks in the container or on the host? Ever created your own custom command? We'll go through lots of examples and ideas for expanding your use beyond `ddev start`.BoF",
+      "link": "https://events.drupal.org//lille2023/session/less-known-ddev-configuration",
+      "track": "bof",
+      "speakers": [
+        "Randy Fay"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T10:30:00Z",
+      "endTime": "2023-10-18T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "Local Drupal Regions \u0026 Associations Round Table",
+      "location": "Location Room 2.3 - BoF",
+      "description": "There are many great local Drupal initiatives happening around the world. Local Drupal communities support Drupal by bringing people together to exchange ideas. And to celebrate the wonderful things people do with Drupal everyday.",
+      "link": "https://events.drupal.org//lille2023/session/local-drupal-regions-associations-round-table",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Baddy Sonja Breidert (Baddysonja)",
+        "Imre Gmelig Meijling (imre-gmelig-meijling)",
+        "Drupal Association"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T10:30:00Z",
+      "endTime": "2023-10-18T12:00:00Z",
+      "duration": "PT1H30M",
+      "summary": "Technical Writing Workshop",
+      "location": "Location Room 3.1 C \u0026 3.2 C (6)",
+      "description": "Are you an architect, consultant, or engineer looking for another way to amplify your expertise? This workshop will share how you can do just that through writing.",
+      "link": "https://events.drupal.org//lille2023/session/technical-writing-workshop",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "AmyJune Hineline (Volkswagenchick)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T11:30:00Z",
+      "endTime": "2023-10-18T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Architecture Decision Records: Collaborative Decision Making that Sticks",
+      "location": "Location Room 3.2 A \u0026 B (5)",
+      "description": "Early in 2021, Lullabot's CEO gave the team a goal: find ways to standardize and simplify our processes across multiple projects.",
+      "link": "https://events.drupal.org//lille2023/session/architecture-decision-records-collaborative-decision-making-sticks",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Andrew Berry (deviantintegral)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T11:30:00Z",
+      "endTime": "2023-10-18T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Beyond the code: Community engagement for non-technical Drupal enthusiasts",
+      "location": "Location Room 2.2 - BoF",
+      "description": "In this session, I want to collect ideas and exchange best practices about contribution projects for Drupal community members which have no technical background.",
+      "link": "https://events.drupal.org//lille2023/session/beyond-code-community-engagement-non-technical-drupal-enthusiasts",
+      "track": "bof",
+      "speakers": [
+        "Niklas Franke (Nick.el.diablo)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T11:30:00Z",
+      "endTime": "2023-10-18T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal.org Update: Accelerating contribution",
+      "location": "Location Room 2.4 - BoF",
+      "description": "Meet the team that maintains Drupal.org! Join us to learn how major initiatives like the GitLab Acceleration project, single sign on, and others will help reduce friction points when contributing to Drupal and make it easier for you to participate in the project.",
+      "link": "https://events.drupal.org//lille2023/session/drupalorg-update-accelerating-contribution",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Timothy Lehnen (Hestenet)",
+        "Neil Drumm (Drumm)",
+        "Brendan Blaine",
+        "Fran Garcia-Linares (fjgarlin)",
+        "Alejandro Moreno Lopez (Alexmoreno)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T11:30:00Z",
+      "endTime": "2023-10-18T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal's Alternate Realities",
+      "location": "Location Room 2.1 - BoF",
+      "description": "In Drupal there is a philosophy of having only one module to fit most cases. Though this is mostly actually happening, there are still various ways of solving the same problem.",
+      "link": "https://events.drupal.org//lille2023/session/drupals-alternate-realities",
+      "track": "bof",
+      "speakers": [
+        "Panagiotis Moutsopoulos (vensires)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T11:30:00Z",
+      "endTime": "2023-10-18T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "From CMS to Page Builder, can Drupal do it all?",
+      "location": "Location Room 3.1 A \u0026 B (4)",
+      "description": "What if you had no intention of using a content on another page? What if you wanted to customize every little detail of any piece of content on your page? Would you still use Drupal? Can it even be possible?",
+      "link": "https://events.drupal.org//lille2023/session/cms-page-builder-can-drupal-do-it-all",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Simon Georges",
+        "Alex Druhet"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T11:30:00Z",
+      "endTime": "2023-10-18T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "How are you using Group: What went well, what did not? Help me build the next version.",
+      "location": "Location Room 2.3 - BoF",
+      "description": "As the author of the Group module, I often make architectural decisions that are really abstract so that they can solve as many cases as possible. Sometimes you may need to write a bit of code, but generally my aim is to make that as easy as possible for you.",
+      "link": "https://events.drupal.org//lille2023/session/how-are-you-using-group-what-went-well-what-did-not-help-me-build-next-version",
+      "track": "bof",
+      "speakers": [
+        "Kristiaan Van den Eynde"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T11:30:00Z",
+      "endTime": "2023-10-18T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "How I escaped poverty using Drupal. The emancipating power of free and accessible Drupal training.",
+      "location": "Location Room 3.5 \u0026 3.6 (3)",
+      "description": "How I escaped poverty using Drupal The emancipating power of free and accessible Drupal training.",
+      "link": "https://events.drupal.org//lille2023/session/how-i-escaped-poverty-using-drupal-emancipating-power-free-and-accessible-drupal",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Esmeralda Braad-Tijhoff (Esmoves)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T11:30:00Z",
+      "endTime": "2023-10-18T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "VisitBritain’s Digital Customer Experience Programme (DCXP) - how Drupal is playing a central role in a £multi-million digital transformation and new organisation-wide digital strategy",
+      "location": "Location Room 3.7 The Studio (2)",
+      "description": "VisitBritain is the national tourism agency for England, Scotland, Wales and Northern Ireland; VisitEngland is the national tourism agency for England.",
+      "link": "https://events.drupal.org//lille2023/session/visitbritains-digital-customer-experience-programme-dcxp-how-drupal-playing",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Paul Johnson (Pdjohnson)",
+        "Marie Orpen"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T11:30:00Z",
+      "endTime": "2023-10-18T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "When things take longer than you thought: Moving workloads to background processes",
+      "location": "Location Room 3.8 The Lounge (1)",
+      "description": "Your Drupal site needs to assign automatically a taxonomy term to some nodes at creation time. This sounds like a simple task that can be achieved with a hook or event subscriber.",
+      "link": "https://events.drupal.org//lille2023/session/when-things-take-longer-you-thought-moving-workloads-background-processes",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Pablo López Escobés (plopesc)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T12:15:00Z",
+      "endTime": "2023-10-18T13:30:00Z",
+      "duration": "PT1H15M",
+      "summary": "Client \u0026 Industry Track Hangout Hub",
+      "location": "Location Outside Room 1.1",
+      "description": "Grab your lunch and meet the Client \u0026 Industry team and other enterprise Drupal users and providers in an informal networking session.Other",
+      "link": "https://events.drupal.org//lille2023/session/client-industry-track-hangout-hub",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Client \u0026 Industry Track Chairs"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T12:15:00Z",
+      "endTime": "2023-10-18T12:45:00Z",
+      "duration": "PT30M",
+      "summary": "Drupal Security 101 (sponsored by Platform.sh)",
+      "location": "Location Open stage",
+      "description": "Drupal offers multiple native security layers, however there are many points to check to be sure to deliver a more secured experience to our users.",
+      "link": "https://events.drupal.org//lille2023/session/drupal-security-101-sponsored-platformsh",
+      "track": "sponsored talk",
+      "speakers": [
+        "Nicolas Loye (Nicoloye)",
+        "Marine Gandy"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T12:45:00Z",
+      "endTime": "2023-10-18T13:15:00Z",
+      "duration": "PT30M",
+      "summary": "End-to-End DevOps Workflow (sponsored by Acquia)",
+      "location": "Location Open stage",
+      "description": "End-to-End DevOps Workflow Inefficient toolchains are a major source of lost productivity for development teams. This talk will demonstrate managed, cloud-based tools that make your team more efficient at every stage of the software delivery life cycle, including:",
+      "link": "https://events.drupal.org//lille2023/session/end-end-devops-workflow-sponsored-acquia",
+      "track": "sponsored talk",
+      "speakers": [
+        "Martin Anderson-Clutz (Mandclu)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T13:15:00Z",
+      "endTime": "2023-10-18T13:30:00Z",
+      "duration": "PT15M",
+      "summary": "Drupal editorial experience at its best (sponsored by 1xINTERNET)",
+      "location": "Location Open stage",
+      "description": "Showcasing \"Try Drupal\" - the CMS solution powered by 1xINTERNETOther",
+      "link": "https://events.drupal.org//lille2023/session/drupal-editorial-experience-its-best-sponsored-1xinternet",
+      "track": "sponsored talk",
+      "speakers": [
+        "Baddy Sonja Breidert (Baddysonja)",
+        "Christoph Breidert (Breidert)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T13:30:00Z",
+      "endTime": "2023-10-18T14:45:00Z",
+      "duration": "PT1H15M",
+      "summary": "Fly Higher - How to lead fearlessly",
+      "location": "Location Auditorium",
+      "description": "",
+      "link": "https://events.drupal.org//lille2023/session/fly-higher-how-lead-fearlessly",
+      "track": "keynote",
+      "speakers": [
+        "Sarah Furness"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T15:00:00Z",
+      "endTime": "2023-10-18T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "api.drupal.org, a journey from Drupal 7 to Drupal 10",
+      "location": "Location Room 3.1 C \u0026 3.2 C (6)",
+      "description": "The api.drupal.org site has been rewritten in Drupal 10+. We will go through some of the biggest technical decisions and their implementation.",
+      "link": "https://events.drupal.org//lille2023/session/apidrupalorg-journey-drupal-7-drupal-10",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Fran Garcia-linares"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T15:00:00Z",
+      "endTime": "2023-10-18T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Contribution credits for translation activity on localize.drupal.org",
+      "location": "Location Room 2.1 - BoF",
+      "description": "A team of volunteers is currently working on porting Drupal's Localize server (https://localize.drupal.org/) to Drupal 10 (see the roadmap https://www.drupal.org/project/l10n_server/issu",
+      "link": "https://events.drupal.org//lille2023/session/contribution-credits-translation-activity-localizedrupalorg",
+      "track": "bof",
+      "speakers": [
+        "Felip Manyer Ballester (FMB)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T15:00:00Z",
+      "endTime": "2023-10-18T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Creating Accessible and Inclusive Presentations",
+      "location": "Location Room 3.1 A \u0026 B (4)",
+      "description": "What does it mean to have accessible and inclusive presentations?",
+      "link": "https://events.drupal.org//lille2023/session/creating-accessible-and-inclusive-presentations",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "AmyJune Hineline (Volkswagenchick)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T15:00:00Z",
+      "endTime": "2023-10-18T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "DDEV Office Hours",
+      "location": "Location Room 2.3 - BoF",
+      "description": "Bring any topic or problem or goal you want! We'll talk DDEV together and figure it out or explore the territory. Bring your laptop. BoF",
+      "link": "https://events.drupal.org//lille2023/session/ddev-office-hours",
+      "track": "bof",
+      "speakers": [
+        "Randy Fay"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T15:00:00Z",
+      "endTime": "2023-10-18T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Design in Figma and deploy a pixel perfect Drupal website in days, not weeks!",
+      "location": "Location Room 3.7 The Studio (2)",
+      "description": "You have the perfect final visual web design masterpiece, ready to be built. You’ve spent months and an eye-watering design budget creating, researching, validating and testing your visual designs. The designs look exquisite and next…a simple build in Drupal.",
+      "link": "https://events.drupal.org//lille2023/session/design-figma-and-deploy-pixel-perfect-drupal-website-days-not-weeks",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Akhil Bhandari"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T15:00:00Z",
+      "endTime": "2023-10-18T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Develop, Test and Deploy at scale: quality process for deliveries, experience and tools for clients, developpers and project managers.",
+      "location": "Location Room 3.2 A \u0026 B (5)",
+      "description": "Working for multiple clients and multiple websites can be a nightmare, deployment can also be hard and painful. Our customers may increse this stress, and in some cases, sites are not updated for months, even with security updates.",
+      "link": "https://events.drupal.org//lille2023/session/develop-test-and-deploy-scale-quality-process-deliveries-experience-and-tools",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Anne-Sophie Picot (Asplamagnifique)",
+        "Sylvain Moreau (Slybud)",
+        "Francis Lemaitre (flemaitre)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T15:00:00Z",
+      "endTime": "2023-10-18T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal Multisite is Dead, Long Live Drupal Multisite (sponsored by FFW \u0026 Saint-Gobain)",
+      "location": "Location Room 3.3 (7)",
+      "description": "How to merge multiple platforms into a single unified multi-brand ecosystem.",
+      "link": "https://events.drupal.org//lille2023/session/drupal-multisite-dead-long-live-drupal-multisite-sponsored-ffw-saint-gobain",
+      "track": "sponsored talk",
+      "speakers": [
+        "Boyan Borisov (Boyan.borisov)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T15:00:00Z",
+      "endTime": "2023-10-18T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "DrupalPod for shiny happy developers",
+      "location": "Location Room 2.2 - BoF",
+      "description": "As a developer team member, I often have had to face the tough process of setting up and running my local environment to work on a new project. And it seems I am not the only one complaining about it.",
+      "link": "https://events.drupal.org//lille2023/session/drupalpod-shiny-happy-developers",
+      "track": "bof",
+      "speakers": [
+        "Roberto Peruzzo"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T15:00:00Z",
+      "endTime": "2023-10-18T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Mentor orientation 1",
+      "location": "Location Room 2.4 - BoF",
+      "description": "",
+      "link": "https://events.drupal.org//lille2023/session/mentor-orientation-1",
+      "track": "contribution topic",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T15:00:00Z",
+      "endTime": "2023-10-18T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "The Unique Challenges of Design Systems at Scale",
+      "location": "Location Room 3.5 \u0026 3.6 (3)",
+      "description": "Setting up a design system can help create consistency and guardrails for authors, designers, strategists, developers, and all involved in creating and maintaining websites or applications.",
+      "link": "https://events.drupal.org//lille2023/session/unique-challenges-design-systems-scale",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Jen Witkowski (jwitkowski79)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T15:00:00Z",
+      "endTime": "2023-10-18T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "What is the secure software supply chain and the current state of the PHP and Drupal ecosystem",
+      "location": "Location Room 3.8 The Lounge (1)",
+      "description": "In this talk I’ll present the current state of the software supply chain, the big global recent events (SolarWinds, log4shell, codecov, packagist) and the state of the PHP and Drupal ecosystem, the threats and the mitigations that can be applied using tools like Sigstore, Syft, and Grype for digi",
+      "link": "https://events.drupal.org//lille2023/session/what-secure-software-supply-chain-and-current-state-php-and-drupal-ecosystem",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Paolo Mainardi"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T15:45:00Z",
+      "endTime": "2023-10-18T16:15:00Z",
+      "duration": "PT30M",
+      "summary": "Speed of Iteration as the foundation of Digital Success (sponsored by Pantheon)",
+      "location": "Location Open stage",
+      "description": "In today's digital landscape, the agility of a team isn't just a nice-to-have—it's a cornerstone of success.",
+      "link": "https://events.drupal.org//lille2023/session/speed-iteration-foundation-digital-success-sponsored-pantheon",
+      "track": "sponsored talk",
+      "speakers": [
+        "James Rutherford (Jamesrutherford)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T16:15:00Z",
+      "endTime": "2023-10-18T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "Defaults, cloning, referencing and content prototypes - editors' UX for similar content creation",
+      "location": "Location Room 3.8 The Lounge (1)",
+      "description": "Many websites require a lot of similar or nearly identical content. Traditional approaches to user needs have been field default values - that has limited possibilities - and cloning existing content to be modified.",
+      "link": "https://events.drupal.org//lille2023/session/defaults-cloning-referencing-and-content-prototypes-editors-ux-similar-content",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Simo Hellsten"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T16:15:00Z",
+      "endTime": "2023-10-18T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal Association Public Board Meeting and Staff + Board + Community Q\u0026A",
+      "location": "Location Room 3.3 (7)",
+      "description": "Join members of the Drupal Association board and staff for a public board meeting, community discussion and Q\u0026A. The Drupal Association is a 501c3 non-profit based in the United States and serving a global community.",
+      "link": "https://events.drupal.org//lille2023/session/drupal-association-public-board-meeting-and-staff-board-community-qa",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Timothy Lehnen (Hestenet)",
+        "Tim Doyle",
+        "Baddy Sonja Breidert (Baddysonja)",
+        "Dries Buytaert (Dries)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T16:15:00Z",
+      "endTime": "2023-10-18T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal Deliveries Acceleration — A chat among Practitioners.",
+      "location": "Location Room 2.3 - BoF",
+      "description": "Both customers and Agencies are looking to get more done in less time. This BoF tries to explore best practices \u0026 home recipes for faster deliveries — Be it Project Planning, Starter kits, Internal Migration recipes or opinionated developer guidelines.",
+      "link": "https://events.drupal.org//lille2023/session/drupal-deliveries-acceleration-chat-among-practitioners",
+      "track": "bof",
+      "speakers": [
+        "Rakhi Mandhania"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T16:15:00Z",
+      "endTime": "2023-10-18T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "From zero to a multilingual Next.js site powered by Next-drupal and Drupal Recipes with one command!",
+      "location": "Location Room 3.1 C \u0026 3.2 C (6)",
+      "description": "Setting up a decoupled project with Drupal as the backend in 2023 still involves a lot of setup and configuration. At Wunder, we have simplified this process with our “Next.js for Drupal multilingual template”.",
+      "link": "https://events.drupal.org//lille2023/session/zero-multilingual-nextjs-site-powered-next-drupal-and-drupal-recipes-one-command",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Mario Vercellotti (Vermario)",
+        "Joshua Scott"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T16:15:00Z",
+      "endTime": "2023-10-18T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "Managing technical debt: lessons learned and how modern Drupal helps you",
+      "location": "Location Room 3.2 A \u0026 B (5)",
+      "description": "Modern Drupal is amazing and awesome, your site can continue to grow and evolve indefinitely. But it also poses challenges. Technical debt is impossible to avoid when working on software and the longer it lives and the bigger it grows, the larger that challenge becomes.",
+      "link": "https://events.drupal.org//lille2023/session/managing-technical-debt-lessons-learned-and-how-modern-drupal-helps-you",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Dieter Blomme",
+        "Niels Aers (Nielsaers)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T16:15:00Z",
+      "endTime": "2023-10-18T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "Marketing Automation With Drupal Commerce \u0026 Mautic",
+      "location": "Location Room 3.7 The Studio (2)",
+      "description": "Drupal Commerce is an open-source e-commerce platform. It offers a flexible and scalable solution for building and managing online stores.",
+      "link": "https://events.drupal.org//lille2023/session/marketing-automation-drupal-commerce-mautic",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Abhishek Dhariwal (adhariwal)",
+        "Prateek Jain (Prateekjain)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T16:15:00Z",
+      "endTime": "2023-10-18T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "Only permanence is change! How to drive key technical decisions while implementing composable digital experience platforms in a constant state of flux.",
+      "location": "Location Room 3.5 \u0026 3.6 (3)",
+      "description": "Over the last few years the average Drupal project has changed significantly. From sizeable web builds we are now landing contracts for multi-million dollar composable digital experience platforms with decoupled front-ends, elaborate system architectures and multiple third party integrations.",
+      "link": "https://events.drupal.org//lille2023/session/only-permanence-change-how-drive-key-technical-decisions-while-implementing",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Tassos Koutlas (tassos)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T16:15:00Z",
+      "endTime": "2023-10-18T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "Project management in the age of agile: where did everything go wrong?",
+      "location": "Location Room 2.1 - BoF",
+      "description": "Let's get together to review the current status of project management (as well as development teams management) in the age of agile.",
+      "link": "https://events.drupal.org//lille2023/session/project-management-age-agile-where-did-everything-go-wrong",
+      "track": "bof",
+      "speakers": [
+        "Jorge Lopez-lago"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T16:15:00Z",
+      "endTime": "2023-10-18T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "What can we learn from the 2023 Drupal Local Development Survey?",
+      "location": "Location Room 3.1 A \u0026 B (4)",
+      "description": "The Drupal Local Development Survey aims to help inform the Drupal development community about itself, by asking Drupal devs all over the world about the tools and processes they use to build and maintain amazing Drupal sites.",
+      "link": "https://events.drupal.org//lille2023/session/what-can-we-learn-2023-drupal-local-development-survey",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Michael Richardson (Richo_au)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T17:15:00Z",
+      "endTime": "2023-10-18T18:00:00Z",
+      "duration": "PT45M",
+      "summary": "A Drupal core maintainer shares peer code review best practices",
+      "location": "Location Room 3.1 C \u0026 3.2 C (6)",
+      "description": "Improve your teams' peer code review process, your code maintainability, and your Drupal contributions. Learn from a Drupal core release manager—with over ten years of Drupal core experience—how to give an efficient and effective peer code review.",
+      "link": "https://events.drupal.org//lille2023/session/drupal-core-maintainer-shares-peer-code-review-best-practices",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Jess xjm (xjm)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T17:15:00Z",
+      "endTime": "2023-10-18T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "Breaking Barriers: My Inclusive Fairytale as a Tourettes-afflicted Drupal Developer",
+      "location": "Location Room 3.1 A \u0026 B (4)",
+      "description": "Join me on a journey as I share my personal story of overcoming Tourette’s Syndrome and how a community can accept people with disabilities and get more inclusive.",
+      "link": "https://events.drupal.org//lille2023/session/breaking-barriers-my-inclusive-fairytale-tourettes-afflicted-drupal-developer",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Mathieu De Meue (matdemeue)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T17:15:00Z",
+      "endTime": "2023-10-18T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "Drupal Translate Interface on steroids",
+      "location": "Location Room 3.5 \u0026 3.6 (3)",
+      "description": "Whether you're a product owner, a digital strategist, or a Drupal team lead, this session will provide you with valuable insights on executing large-scale multilingual digital transformation programs on Drupal.",
+      "link": "https://events.drupal.org//lille2023/session/drupal-translate-interface-steroids",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Lyubomir Filipov (Lfilipov)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T17:15:00Z",
+      "endTime": "2023-10-18T18:00:00Z",
+      "duration": "PT45M",
+      "summary": "Issue Triage",
+      "location": "Location Room 2.4 - BoF",
+      "description": "",
+      "link": "https://events.drupal.org//lille2023/session/issue-triage",
+      "track": "contribution topic",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T17:15:00Z",
+      "endTime": "2023-10-18T18:00:00Z",
+      "duration": "PT45M",
+      "summary": "Learning Management Systems and Drupal",
+      "location": "Location Room 2.3 - BoF",
+      "description": "What is an LMS? What is the best way to use Drupal to run an LMS? Join us to hear our experience of creating and running a Drupal-based LMS and share your experiences of LMS platforms, how they are being used, and the opportunities that you",
+      "link": "https://events.drupal.org//lille2023/session/learning-management-systems-and-drupal",
+      "track": "bof",
+      "speakers": [
+        "Alexey Beloglazov"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T17:15:00Z",
+      "endTime": "2023-10-18T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "Module Builder should be in your developer toolkit",
+      "location": "Location Room 3.7 The Studio (2)",
+      "description": "Your next custom module won't be written by AI, at least not for a while yet. But most of it could be written by Module Builder.",
+      "link": "https://events.drupal.org//lille2023/session/module-builder-should-be-your-developer-toolkit",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Joachim Noreiko (Joachim)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T17:15:00Z",
+      "endTime": "2023-10-18T18:00:00Z",
+      "duration": "PT45M",
+      "summary": "Polish contribution to Drupal",
+      "location": "Location Room 2.1 - BoF",
+      "description": "Let's meet and discuss the Polish contribution to Drupal!",
+      "link": "https://events.drupal.org//lille2023/session/polish-contribution-drupal",
+      "track": "bof",
+      "speakers": [
+        "Piotr Muszyński"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T17:15:00Z",
+      "endTime": "2023-10-18T18:00:00Z",
+      "duration": "PT45M",
+      "summary": "The PHP Foundation",
+      "location": "Location Room 2.2 - BoF",
+      "description": "The PHP Foundation is a collective of people and organizations relying on the PHP language. Its mission is to ensure the long-term prosperity of the PHP language.",
+      "link": "https://events.drupal.org//lille2023/session/php-foundation-0",
+      "track": "bof",
+      "speakers": [
+        "Nils Adermann"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T17:15:00Z",
+      "endTime": "2023-10-18T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "Transform Drupal 10 with collaborative content editing features",
+      "location": "Location Room 3.2 A \u0026 B (5)",
+      "description": "This 20-minute session will include some live demos to help you discover the world of collaborative content editing in Drupal 10, and transform your user experience with some game-changing CKEditor 5 plugins.",
+      "link": "https://events.drupal.org//lille2023/session/transform-drupal-10-collaborative-content-editing-features",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Piotrek Koszulinski"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T17:15:00Z",
+      "endTime": "2023-10-18T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "Using the EditorA11y module to improve accessibility in Drupal",
+      "location": "Location Room 3.8 The Lounge (1)",
+      "description": "A good website must be accessible. While Drupal is a very accessible platform, sometimes once a site is built, an editorial team will make updates that do not adhere to accessibility best practices.",
+      "link": "https://events.drupal.org//lille2023/session/using-editora11y-module-improve-accessibility-drupal",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Mark Casias (Markie)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T17:40:00Z",
+      "endTime": "2023-10-18T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "AI assisted content editing with CKEditor5 \u0026 OpenAI in Drupal 10",
+      "location": "Location Room 3.2 A \u0026 B (5)",
+      "description": "If you are struggling with content creation there is a module that, thanks to CKEditor5 and OpenAI integration, allows to generate validated and SEO optimized content, directly from Drupal.",
+      "link": "https://events.drupal.org//lille2023/session/ai-assisted-content-editing-ckeditor5-openai-drupal-10",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Raffaele Chiocca (Rafuel92)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T17:40:00Z",
+      "endTime": "2023-10-18T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "Automating software updates: How clients can benefit",
+      "location": "Location Room 3.5 \u0026 3.6 (3)",
+      "description": "As a client, you want your shiny new Drupal platform to keep working with as few security and performance issues as possible. You also know that all projects require support and maintenance, with software updates being a key part of essential maintenance for every site.",
+      "link": "https://events.drupal.org//lille2023/session/automating-software-updates-how-clients-can-benefit",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Evgeniy Maslovskiy (Spleshka)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T17:40:00Z",
+      "endTime": "2023-10-18T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "Drupal and the DXP World",
+      "location": "Location Room 3.8 The Lounge (1)",
+      "description": "In this session, I'll discuss how combining Drupal with other tools aimed at enhancing the digital experience a company can offer improved access for websites built using Drupal.",
+      "link": "https://events.drupal.org//lille2023/session/drupal-and-dxp-world",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Gaurav Kapoor (Gaurav.kapoor)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T17:40:00Z",
+      "endTime": "2023-10-18T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "How to learn Drupal 10 site building in a month?",
+      "location": "Location Room 3.1 A \u0026 B (4)",
+      "description": "Learning a CMS shouldn't be hard or a long period of hours to learn new technology. What if I tell you that I have proved the hypothesis of learning Drupal site building in less than a month?",
+      "link": "https://events.drupal.org//lille2023/session/how-learn-drupal-10-site-building-month",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Eduardo Telaya (Edutrul)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-18T17:40:00Z",
+      "endTime": "2023-10-18T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "Security by design: protecting Drupal websites without breaking a sweat!",
+      "location": "Location Room 3.7 The Studio (2)",
+      "description": "Have you ever got lost on which security measures you should use in your website? Maybe not, maybe you are an expert and can lock everything like Fort Knox and don't really need a guideline to help you protect your project... but if you're not this session is for you!",
+      "link": "https://events.drupal.org//lille2023/session/security-design-protecting-drupal-websites-without-breaking-sweat",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Bruno Carreira (bcruzcar)",
+        "Paulo Carvalho (pmaiacar)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T09:00:00Z",
+      "endTime": "2023-10-19T18:00:00Z",
+      "duration": "PT9H",
+      "summary": "General Contribution Day 3",
+      "location": "Location Contribution Room 4.1",
+      "description": "",
+      "link": "https://events.drupal.org//lille2023/session/general-contribution-day-3",
+      "track": "contribution topic",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T09:15:00Z",
+      "endTime": "2023-10-19T10:00:00Z",
+      "duration": "PT45M",
+      "summary": "Automated Acceptance testing",
+      "location": "Location Room 2.3 - BoF",
+      "description": "Testing is a vital part of good Drupal development and one of the best ways to do that is through automated tests. However, automated testing is new to a lot of teams, so this is an opportunity to share experiences with each other and ask questions.",
+      "link": "https://events.drupal.org//lille2023/session/automated-acceptance-testing",
+      "track": "bof",
+      "speakers": [
+        "Branimir Juranic"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T09:15:00Z",
+      "endTime": "2023-10-19T10:00:00Z",
+      "duration": "PT45M",
+      "summary": "Black in Drupal",
+      "location": "Location Room 2.4 - BoF",
+      "description": "The goal of this needs assessment is to create a space for open dialogue that can support opportunities for community building for those who identify as Black. Including anyone who identifies as a member of the African diaspora, from any country, multi/bi-racial and/or multinational.",
+      "link": "https://events.drupal.org//lille2023/session/black-drupal",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Joi Garrett"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T09:15:00Z",
+      "endTime": "2023-10-19T10:00:00Z",
+      "duration": "PT45M",
+      "summary": "Composer Behind the Scenes",
+      "location": "Location Room 3.2 A \u0026 B (5)",
+      "description": "Ever wondered what happens under the hood when you run a Composer update or why Composer 2 got so much faster? Learn about some of its inner workings, some lesser known parts and why they may be useful to you, as well as upcoming features and future plans.",
+      "link": "https://events.drupal.org//lille2023/session/composer-behind-scenes",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Nils Adermann"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T09:15:00Z",
+      "endTime": "2023-10-19T10:00:00Z",
+      "duration": "PT45M",
+      "summary": "Goodbye to traditional web agencies and management models - Welcome to common sense and collective intelligence",
+      "location": "Location Room 3.8 The Lounge (1)",
+      "description": "Keeping staff commited to an agency may seem like a daily challenge, especially with today's younger generation. We will share our lessons learned from our journey growing our agency from 8 to 27 people over the last 4 years .",
+      "link": "https://events.drupal.org//lille2023/session/goodbye-traditional-web-agencies-and-management-models-welcome-common-sense-and",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Benoit De Vos (Bendev)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T09:15:00Z",
+      "endTime": "2023-10-19T10:00:00Z",
+      "duration": "PT45M",
+      "summary": "How did 125.000 citizens help to improve their cities with Webform? How did they collect 60.000 points on maps about mobility, quality of life, nature? What could you do with the custom webform modules with your clients, citizens, customers?",
+      "location": "Location Room 2.2 - BoF",
+      "description": "We provide Drupal-tools and services for citizen participation. 125.000 users in Belgium, Spain, The Netherlands, France the UK have participated in over 200 participation projects.",
+      "link": "https://events.drupal.org//lille2023/session/how-did-125000-citizens-help-improve-their-cities-webform-how-did-they-collect",
+      "track": "bof",
+      "speakers": [
+        "Jan De Kezel"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T09:15:00Z",
+      "endTime": "2023-10-19T10:00:00Z",
+      "duration": "PT45M",
+      "summary": "How UNESCO built and now runs a Drupal Site Factory and a design system for its Web Overhaul and what is the roadmap for the future.",
+      "location": "Location Room 3.1 A \u0026 B (4)",
+      "description": "With hundreds of websites built upon various (and often outdated) technologies, and maintained by cross-cultural teams all across the globe, UNESCO faced by 2020 a major challenge: how to normalize and industrialize this complex ecosystem, connected to various Information Systems, and be able to",
+      "link": "https://events.drupal.org//lille2023/session/how-unesco-built-and-now-runs-drupal-site-factory-and-design-system-its-web",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Denis Pitzalis (Denix)",
+        "Sylvain Moreau (Slybud)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T09:15:00Z",
+      "endTime": "2023-10-19T10:00:00Z",
+      "duration": "PT45M",
+      "summary": "Innovation and the future of Drupal",
+      "location": "Location Room 3.1 C \u0026 3.2 C (6)",
+      "description": "Drupal seems to have hit a plateau. Or that’s what many in the community think. After Drupal 7, many sites are moving away from the platform while not as many seem to be choosing Drupal as their favourite CMS. Or is it really?",
+      "link": "https://events.drupal.org//lille2023/session/innovation-and-future-drupal",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Alejandro Moreno Lopez (Alexmoreno)",
+        "Scott Massey (sukotto100)",
+        "Cristina Chumillas (ckrina)",
+        "AmyJune Hineline (Volkswagenchick)",
+        "Nick Veenhof (nick_vh)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T09:15:00Z",
+      "endTime": "2023-10-19T10:00:00Z",
+      "duration": "PT45M",
+      "summary": "Shake a Li'l with VB in Lille: A Bollywood Dance Odyssey",
+      "location": "Location Room 2.1 - BoF",
+      "description": "Namaste!",
+      "link": "https://events.drupal.org//lille2023/session/shake-lil-vb-lille-bollywood-dance-odyssey",
+      "track": "bof",
+      "speakers": [
+        "Valuebound Consulting Services Private Limited"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T09:15:00Z",
+      "endTime": "2023-10-19T10:00:00Z",
+      "duration": "PT45M",
+      "summary": "Single Directory Components in Core",
+      "location": "Location Room 3.5 \u0026 3.6 (3)",
+      "description": "Twig was introduced into Drupal core over 10 years ago. Since then, improvements to Drupal’s front-end API have been minimal.",
+      "link": "https://events.drupal.org//lille2023/session/single-directory-components-core",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Mike Herchel (mherchel)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T09:15:00Z",
+      "endTime": "2023-10-19T10:00:00Z",
+      "duration": "PT45M",
+      "summary": "The Missing Link: Taxonomists and Taxonomy Governance",
+      "location": "Location Room 3.7 The Studio (2)",
+      "description": "Taxonomies are a key feature of Drupal architecture, but traditional web design teams do not always have the background for design and governance needed to support them. A taxonomist can bring best practices and a wealth of experience to this often overlooked area.",
+      "link": "https://events.drupal.org//lille2023/session/missing-link-taxonomists-and-taxonomy-governance",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Michele Jenkins (Micheleannj)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T10:00:00Z",
+      "endTime": "2023-10-19T10:15:00Z",
+      "duration": "PT15M",
+      "summary": "How Drupal with AI is a strong competitor in the DXP space (sponsored by Dropsolid)",
+      "location": "Location Open stage",
+      "description": "Using actual business cases, Dominique shows how much time and money you can save, how to provide a better customer service, and how to generate more leads.Other",
+      "link": "https://events.drupal.org//lille2023/session/how-drupal-ai-strong-competitor-dxp-space-sponsored-dropsolid",
+      "track": "sponsored talk",
+      "speakers": [
+        "Dominique De Cooman (Domidc)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T10:15:00Z",
+      "endTime": "2023-10-19T10:30:00Z",
+      "duration": "PT15M",
+      "summary": "AI in Drupal: Evolution, Modules, and Possibilities (sponsored by FFW)",
+      "location": "Location Open stage",
+      "description": "With the seemingly sudden advent of AI, many people and organizations are struggling to comprehend it. Over the past few months, the state of AI systems has changed dramatically, and it continues to change at a",
+      "link": "https://events.drupal.org//lille2023/session/ai-drupal-evolution-modules-and-possibilities-sponsored-ffw",
+      "track": "sponsored talk",
+      "speakers": [
+        "Jorge Lopez-lago"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T10:30:00Z",
+      "endTime": "2023-10-19T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "AI: friend or foe",
+      "location": "Location Room 2.1 - BoF",
+      "description": "AI is currently affecting our jobs and our projects. The rate of change in the field is neck breaking. The future is today more unknown and difficult to predict than ever.",
+      "link": "https://events.drupal.org//lille2023/session/ai-friend-or-foe",
+      "track": "bof",
+      "speakers": [
+        "Jorge Lopez-lago"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T10:30:00Z",
+      "endTime": "2023-10-19T12:15:00Z",
+      "duration": "PT1H45M",
+      "summary": "Behavior Driven Development: Behat and Drupal for acceptance tests",
+      "location": "Location Room 3.1 C \u0026 3.2 C (6)",
+      "description": "Behavior Driven Development (BDD) is a software development process that originates from TDD (Test Driven Development). The main idea is based on how the software must be understood from both technical and business points of view, focused on its value to the user through User Stories.",
+      "link": "https://events.drupal.org//lille2023/session/behavior-driven-development-behat-and-drupal-acceptance-tests",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Ricardo Sanz"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T10:30:00Z",
+      "endTime": "2023-10-19T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "DDEV, Drupalpod, Gitpod, and Codespaces",
+      "location": "Location Room 2.3 - BoF",
+      "description": "You probably know that DDEV works everywhere, but did you know you don't even need a fancy computer and can do it all in the cloud? We'll look at how to develop on Gitpod or Codespaces and how Drupalpod fits into all of this. Join with your experiences and questions!BoF",
+      "link": "https://events.drupal.org//lille2023/session/ddev-drupalpod-gitpod-and-codespaces",
+      "track": "bof",
+      "speakers": [
+        "Randy Fay"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T10:30:00Z",
+      "endTime": "2023-10-19T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "For good or for worse: making happy client relationships",
+      "location": "Location Room 3.8 The Lounge (1)",
+      "description": "As professional service providers we often walk a fine line in delivering bespoke software to a diverse set of clients. Each with their own traits and desires. Clients want partnerships. So do agencies and service providers.",
+      "link": "https://events.drupal.org//lille2023/session/good-or-worse-making-happy-client-relationships",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Imre Gmelig Meijling (imre-gmelig-meijling)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T10:30:00Z",
+      "endTime": "2023-10-19T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "How to organise your own Splash Awards",
+      "location": "Location Room 2.2 - BoF",
+      "description": "For about 10 years now, the Splash Awards have been held to honor the best Drupal projects in different countries around the world.",
+      "link": "https://events.drupal.org//lille2023/session/how-organise-your-own-splash-awards",
+      "track": "bof",
+      "speakers": [
+        "Niklas Franke (Nick.el.diablo)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T10:30:00Z",
+      "endTime": "2023-10-19T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "How we delivered a language learning website to rural internet-less schools in South Africa using Drupal",
+      "location": "Location Room 3.2 A \u0026 B (5)",
+      "description": "In South Africa, 78% of Grade 4 learners (around 9-10 years old) cannot read for meaning in English. That's because they're required to switch from learning in their home language to English in that year.",
+      "link": "https://events.drupal.org//lille2023/session/how-we-delivered-language-learning-website-rural-internet-less-schools-south",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Dane Rossenrode (Droces)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T10:30:00Z",
+      "endTime": "2023-10-19T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "Innovating personalisation with Rules as Code and Drupal",
+      "location": "Location Room 3.1 A \u0026 B (4)",
+      "description": "Anyone who has ever needed to understand what government benefits them or someone they cared for was entitled to know the web of perplexing rules and regulations involved with lodging a claim.",
+      "link": "https://events.drupal.org//lille2023/session/innovating-personalisation-rules-code-and-drupal",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Suchi Garg (Gargsuchi)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T10:30:00Z",
+      "endTime": "2023-10-19T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "Mentor orientation 1bis",
+      "location": "Location Room 2.4 - BoF",
+      "description": "",
+      "link": "https://events.drupal.org//lille2023/session/mentor-orientation-1bis",
+      "track": "contribution topic",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T10:30:00Z",
+      "endTime": "2023-10-19T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "Next Drupal admin UI improvements",
+      "location": "Location Room 3.7 The Studio (2)",
+      "description": "After getting Claro as the default Drupal administration theme, now we can focus on improving the administration experience beyond the visuals.",
+      "link": "https://events.drupal.org//lille2023/session/next-drupal-admin-ui-improvements",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Cristina Chumillas (ckrina)",
+        "Sascha Eggenberger (saschaeggi)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T10:30:00Z",
+      "endTime": "2023-10-19T11:15:00Z",
+      "duration": "PT45M",
+      "summary": "One Theme To Rule Them All: Using StarterKits to accelerate theme development and reduce technical debt",
+      "location": "Location Room 3.5 \u0026 3.6 (3)",
+      "description": "Drupal added a new StarterKit Theme Generator Tool as an experimental feature in Drupal 9.3, and promoted it to \"stable\" in 10.0. While the tool hasn't received much attention, it will revolutionize the way agencies and product teams create themes for years to come!",
+      "link": "https://events.drupal.org//lille2023/session/one-theme-rule-them-all-using-starterkits-accelerate-theme-development-and-reduce",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Andy Blum (Andy-blum)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T10:30:00Z",
+      "endTime": "2023-10-19T12:15:00Z",
+      "duration": "PT1H45M",
+      "summary": "Tutorial for Integrating SearchStax on Drupal Site (sponsored by SearchStax)",
+      "location": "Location Room 3.3 (7)",
+      "description": "Key Takeaways: This workshop is for people who want to improve their website search experience in a quick and easy way. No deep technical knowledge is required, either in Drupal or site search technologies.",
+      "link": "https://events.drupal.org//lille2023/session/tutorial-integrating-searchstax-drupal-site-sponsored-searchstax",
+      "track": "sponsored talk",
+      "speakers": [
+        "Tyler Huff (thuff)",
+        "Kevin Montgomery"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T11:30:00Z",
+      "endTime": "2023-10-19T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "CWG \"Office Hours\"",
+      "location": "Location Room 2.1 - BoF",
+      "description": "Come visit with the Community Working Group and see what's going on with the Community Health Team and Conflict Resolution Team. Ask questions, get answers... See what you can do to help out!BoF",
+      "link": "https://events.drupal.org//lille2023/session/cwg-office-hours",
+      "track": "bof",
+      "speakers": [
+        "Mark Casias (Markie)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T11:30:00Z",
+      "endTime": "2023-10-19T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Drupal Certified Partners + Supporting Partners Roundtable",
+      "location": "Location Room 2.4 - BoF",
+      "description": "Engage with the Drupal Association's Development and Fundraising team.",
+      "link": "https://events.drupal.org//lille2023/session/drupal-certified-partners-supporting-partners-roundtable",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Kelly Delaney",
+        "Tim Doyle",
+        "Jitka Pilar"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T11:30:00Z",
+      "endTime": "2023-10-19T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Getting down to the WHAT, HOW \u0026 WHY of consumer preferences through digital transformation and tech innovations",
+      "location": "Location Room 3.1 A \u0026 B (4)",
+      "description": "From sourcing the catalogue to conducting a facility-bound survey to delivering insights for world's most loved toy makers, Its a 6 month long process that requires lot of fieldwork and research and honestly doesnt warrant so much time and effort in today's world of set-it-and-forget-it.",
+      "link": "https://events.drupal.org//lille2023/session/getting-down-what-how-why-consumer-preferences-through-digital-transformation-and",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Ashish Goyal"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T11:30:00Z",
+      "endTime": "2023-10-19T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Hosted login: The future of the login",
+      "location": "Location Room 3.7 The Studio (2)",
+      "description": "Identity has become an important part of business, using hosted login service is the easiest way to ensure your user data is protected. In this session we will explain what hosted login is, how to easily implement this service on your drupal website and what are the benefits of use it.",
+      "link": "https://events.drupal.org//lille2023/session/hosted-login-future-login",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Raul jimenez morales"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T11:30:00Z",
+      "endTime": "2023-10-19T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Hybrid work model and Agile Methodology: opportunities and challenges",
+      "location": "Location Room 2.2 - BoF",
+      "description": "The pandemic has introduced new working models that have changed working environments forever.",
+      "link": "https://events.drupal.org//lille2023/session/hybrid-work-model-and-agile-methodology-opportunities-and-challenges",
+      "track": "bof",
+      "speakers": [
+        "Georgios Andreadis",
+        "Georgia Afioni (gafioni)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T11:30:00Z",
+      "endTime": "2023-10-19T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "ICT Greenhouse Gas Emissions Are Exploding – How Drupal Community Should Engage and Contribute Their Part",
+      "location": "Location Room 3.5 \u0026 3.6 (3)",
+      "description": "ICT is quickly becoming a bigger source of greenhouse gas emissions than flying. A recent study by Lancaster University estimated our emissions to be between 2.1 and 3.9 per cent of global emissions.",
+      "link": "https://events.drupal.org//lille2023/session/ict-greenhouse-gas-emissions-are-exploding-how-drupal-community-should-engage-and",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Janne Kalliola (Jannekalliola)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T11:30:00Z",
+      "endTime": "2023-10-19T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Making Drupal a Better Out-of-the-Box Product",
+      "location": "Location Room 3.2 A \u0026 B (5)",
+      "description": "Despite the Drupal community's efforts, Drupal still has a reputation for having a steep learning curve, which can discourage new users from adopting it. In this presentation, we will discuss the steps that can be taken to improve Drupal's user experience and address this perception.",
+      "link": "https://events.drupal.org//lille2023/session/making-drupal-better-out-box-product",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Lauri Eskola (lauriii)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T11:30:00Z",
+      "endTime": "2023-10-19T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "Strategies for Overcoming Common Software Development Challenges: A Management Perspective",
+      "location": "Location Room 3.8 The Lounge (1)",
+      "description": "In today's fast-paced technology environment, software development teams face numerous challenges that can hinder their ability to deliver high-quality products on time.",
+      "link": "https://events.drupal.org//lille2023/session/strategies-overcoming-common-software-development-challenges-management",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Jorge Tutor"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T11:30:00Z",
+      "endTime": "2023-10-19T12:15:00Z",
+      "duration": "PT45M",
+      "summary": "The future of frameworks and human written code",
+      "location": "Location Room 2.3 - BoF",
+      "description": "We are entering the age of throwaway software, where AI is getting better and better at writing code.",
+      "link": "https://events.drupal.org//lille2023/session/future-frameworks-and-human-written-code",
+      "track": "bof",
+      "speakers": [
+        "Jorge Lopez-lago"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T12:15:00Z",
+      "endTime": "2023-10-19T12:30:00Z",
+      "duration": "PT15M",
+      "summary": "A new way to search in your Drupal Site: an AI-enabled ChatBot (sponsored by Amazee IO)",
+      "location": "Location Open stage",
+      "description": "AI is all the rage, but how do we teach our ChatBots about the contents of our website so that visitors can ask for content about it? We’re going to show you how it works! And also talk about possible pitfalls and how to prevent them.Other",
+      "link": "https://events.drupal.org//lille2023/session/new-way-search-your-drupal-site-ai-enabled-chatbot-sponsored-amazee-io",
+      "track": "sponsored talk",
+      "speakers": [
+        "Michael Schmid (Schnitzel)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T13:00:00Z",
+      "endTime": "2023-10-19T13:15:00Z",
+      "duration": "PT15M",
+      "summary": "Live demo: How AI is transforming the Drupal Editor experience (sponsored by Dropsolid)",
+      "location": "Location Open stage",
+      "description": "A live demo combining ChatGPT with Drupal, Mautic, and personalization. The focus is on the effective and practical use of the tools. So you can implement them yourself after the session.Other",
+      "link": "https://events.drupal.org//lille2023/session/live-demo-how-ai-transforming-drupal-editor-experience-sponsored-dropsolid",
+      "track": "sponsored talk",
+      "speakers": [
+        "Frederik Wouters (Wouters_f)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T13:30:00Z",
+      "endTime": "2023-10-19T14:45:00Z",
+      "duration": "PT1H15M",
+      "summary": "Drupal Core Initiative Leads",
+      "location": "Location Auditorium",
+      "description": "Drupal’s initiatives form powerful teams that make great things happen. Core initiatives self-organize to get new improvements to the base system while community initiatives coordinate event organization, spread diversity best practices, collaborate on promotional materials, and so on.",
+      "link": "https://events.drupal.org//lille2023/session/drupal-core-initiative-leads",
+      "track": "keynote",
+      "speakers": [
+        "Chris Wells",
+        "Fran Garcia-linares",
+        "Mike Herchel (mherchel)",
+        "Suzanne Dergacheva",
+        "Sascha Eggenberger (saschaeggi)",
+        "Felip Manyer Ballester (FMB)",
+        "Wim Leers",
+        "Gábor Hojtsy"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T15:00:00Z",
+      "endTime": "2023-10-19T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Design Systems, Documentation, and Drupal: Grow your agency and retain clients before you write a line of code",
+      "location": "Location Room 3.7 The Studio (2)",
+      "description": "Design Systems, Documentation, and Drupal: Grow your agency and retain clients before you write a line of code",
+      "link": "https://events.drupal.org//lille2023/session/design-systems-documentation-and-drupal-grow-your-agency-and-retain-clients-you",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Chris Teitzel"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T15:00:00Z",
+      "endTime": "2023-10-19T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Enhancing Application Stability, Performance, and Security: Best Practices",
+      "location": "Location Room 2.4 - BoF",
+      "description": "In this session, we will explore strategies to enhance the stability, performance, and security of applications. Participants are encouraged to share their preferred tools and approaches so that we can all learn and understand more about which techniques are most suitable for different needs.",
+      "link": "https://events.drupal.org//lille2023/session/enhancing-application-stability-performance-and-security-best-practices",
+      "track": "bof",
+      "speakers": [
+        "Pavel Bulat"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T15:00:00Z",
+      "endTime": "2023-10-19T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Games!!",
+      "location": "Location Room 2.1 - BoF",
+      "description": "Just an opportunity to meet people while relaxing after a day packed with talks. And also a chance to go back home with the satisfaction of a victory of sorts (only for some I am afraid, no medals for all in here).",
+      "link": "https://events.drupal.org//lille2023/session/games",
+      "track": "bof",
+      "speakers": [
+        "Jorge Lopez-lago"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T15:00:00Z",
+      "endTime": "2023-10-19T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "How JSON:API 1.1 will make Drupal better",
+      "location": "Location Room 3.5 \u0026 3.6 (3)",
+      "description": "Drupal's JSON:API implementation is one of the best ones around. Recently JSON:API released version 1.1 of the specification. There is a lot of new goodies. Extensions and profiles enable describing implementation specific features like Drupal's filtering.",
+      "link": "https://events.drupal.org//lille2023/session/how-jsonapi-11-will-make-drupal-better",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Björn Brala"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T15:00:00Z",
+      "endTime": "2023-10-19T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "How to use tailwind in hybrid solutions using Drupal/Twig, web components, and React",
+      "location": "Location Room 3.1 C \u0026 3.2 C (6)",
+      "description": "If you are building hybrid applications with Drupal with embedded Javascript applications you have probably been confronted with re-using your styles across multiple applications.",
+      "link": "https://events.drupal.org//lille2023/session/how-use-tailwind-hybrid-solutions-using-drupaltwig-web-components-and-react",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Jose Nieves (Jnieves)",
+        "Mónica Cárdenas (monrodcar)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T15:00:00Z",
+      "endTime": "2023-10-19T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Many to One; the journey to a centralized corporate communication website",
+      "location": "Location Room 3.2 A \u0026 B (5)",
+      "description": "At Novartis, one of the world's leading pharmaceutical companies, the Channel Management team faced the daunting task of migrating almost 100 corporate websites, with over 15 million annual page views, from Drupal 7 (Beluga) to Drupal 9 (Arctic).",
+      "link": "https://events.drupal.org//lille2023/session/many-one-journey-centralized-corporate-communication-website",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Marcello Angileri (Condor616)",
+        "Pierre Ukelo (pierruk)",
+        "François Weber (Weberfr8)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T15:00:00Z",
+      "endTime": "2023-10-19T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Next-level Contribution: Project Maintainership on Drupal.org",
+      "location": "Location Room 3.8 The Lounge (1)",
+      "description": "Drupal is inseparable from its open-source community, and contribution is a key part of its success. While contribution can take many forms, this session will focus on empowering Drupal contributors to create and maintain projects on Drupal.org. Topics include the following:",
+      "link": "https://events.drupal.org//lille2023/session/next-level-contribution-project-maintainership-drupalorg",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Chris Burge (chris-burge)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T15:00:00Z",
+      "endTime": "2023-10-19T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Next4Drupal project template: questions, discussions and hands-on",
+      "location": "Location Room 2.2 - BoF",
+      "description": "This BOF is meant as a continuation of the workshop session \"From zero to a multilingual Next.js site powered by Next-drupal and Drupal Recipes with one command! \"",
+      "link": "https://events.drupal.org//lille2023/session/next4drupal-project-template-questions-discussions-and-hands",
+      "track": "bof",
+      "speakers": [
+        "Mario Vercellotti (Vermario)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T15:00:00Z",
+      "endTime": "2023-10-19T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "Revolutionizing Drupal with Automated Performance Testing: A Deep Dive into Gander, the New Framework",
+      "location": "Location Room 2.3 - BoF",
+      "description": "Drupal's already best-in-class performance is about to get even better thanks to a groundbreaking collaboration between Google and Tag1 Consulting.",
+      "link": "https://events.drupal.org//lille2023/session/revolutionizing-drupal-automated-performance-testing-deep-dive-gander-new",
+      "track": "bof",
+      "speakers": [
+        "Janez Urevc (slashrsm)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T15:00:00Z",
+      "endTime": "2023-10-19T15:45:00Z",
+      "duration": "PT45M",
+      "summary": "What's Next for Drupal Autoupdates",
+      "location": "Location Room 3.1 A \u0026 B (4)",
+      "description": "Exciting progress is being made in finishing a contribute module version of automatic updates for Drupal 10 that is very likely to move into Drupal core and be available for everyone soon.",
+      "link": "https://events.drupal.org//lille2023/session/whats-next-drupal-autoupdates",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Timothy Lehnen (Hestenet)",
+        "Wim Leers",
+        "Jess xjm (xjm)",
+        "Neil Drumm (Drumm)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T16:00:00Z",
+      "endTime": "2023-10-19T16:15:00Z",
+      "duration": "PT15M",
+      "summary": "What developers really want: Uncovering the essential work benefits for software developers (sponsored by Factorial)",
+      "location": "Location Open stage",
+      "description": "This session explores the key work benefits that software developers truly value. Join me to discover how organisations can create an environment that caters to the specific needs of software developers, boosting their",
+      "link": "https://events.drupal.org//lille2023/session/what-developers-really-want-uncovering-essential-work-benefits-software",
+      "track": "sponsored talk",
+      "speakers": [
+        "Niklas Franke (Nick.el.diablo)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T16:15:00Z",
+      "endTime": "2023-10-19T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "How Drupal builds your pages, D10 edition",
+      "location": "Location Room 3.1 A \u0026 B (4)",
+      "description": "Have you ever wondered what happens when a HTTP request reaches your Drupal web site? How does Drupal find the correct code to execute? Which parts of the page come from the cache and which ones are built from scratch? Which queries are executed against the database?",
+      "link": "https://events.drupal.org//lille2023/session/how-drupal-builds-your-pages-d10-edition",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Luca Lusso"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T16:15:00Z",
+      "endTime": "2023-10-19T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "How to manage large software projects with multiple teams, multiple stakeholders, and a heterogeneous technology stack",
+      "location": "Location Room 3.2 A \u0026 B (5)",
+      "description": "Over the past years we have created a re-usable Drupal application with a full Commercetools shop integration for a large pan European B2B food retailer. The application is deployed on more than 20 websites and the shops connect with different ERP systems ranging from SAP to custom solutions.",
+      "link": "https://events.drupal.org//lille2023/session/how-manage-large-software-projects-multiple-teams-multiple-stakeholders-and",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Kerstin Polte (kpolte)",
+        "Karin Herbst"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T16:15:00Z",
+      "endTime": "2023-10-19T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "How to sell your company",
+      "location": "Location Room 3.7 The Studio (2)",
+      "description": "amazee.io recently got acquired by another company (Mirantis). In this session I will present our history, experience and everything we learned throughout this process.",
+      "link": "https://events.drupal.org//lille2023/session/how-sell-your-company",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Michael Schmid (Schnitzel)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T16:15:00Z",
+      "endTime": "2023-10-19T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "IaC with Terraform",
+      "location": "Location Room 3.8 The Lounge (1)",
+      "description": "Concept of IaC is increasingly getting popular lately. The practice of setting up a stack or resources on cloud with a script/ template is not only considered necessary but a must have in any project. In this session we will go through why this is important.",
+      "link": "https://events.drupal.org//lille2023/session/iac-terraform",
+      "track": "open web \u0026 community",
+      "speakers": [
+        "Wilfred Arambhan (Wil2091)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T16:15:00Z",
+      "endTime": "2023-10-19T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "Lupus Decoupled Drupal - Q\u0026A \u0026 Integrated Page Building",
+      "location": "Location Room 2.4 - BoF",
+      "description": "Lupus Decoupled Drupal allows using the power of Drupal, with a modern frontend. It's a fully integrated decoupled Drupal solution that enables using Vue components via component-oriented decoupling.",
+      "link": "https://events.drupal.org//lille2023/session/lupus-decoupled-drupal-qa-integrated-page-building",
+      "track": "bof",
+      "speakers": [
+        "Wolfgang Ziegler"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T16:15:00Z",
+      "endTime": "2023-10-19T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "Mastering the AI Renaissance: Redefining Media Content Creation with Cutting-Edge Tools",
+      "location": "Location Room 3.5 \u0026 3.6 (3)",
+      "description": "The emergence of Generative AI in March 2023 marks a groundbreaking 'iPhone moment' in technology, with profound implications for the way we work.",
+      "link": "https://events.drupal.org//lille2023/session/mastering-ai-renaissance-redefining-media-content-creation-cutting-edge-tools",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Chris Wu (amourow)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T16:15:00Z",
+      "endTime": "2023-10-19T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "Performance Audits: The Top 8 Problems We Find \u0026 How To Fix Them",
+      "location": "Location Room 3.1 C \u0026 3.2 C (6)",
+      "description": "In this talk, Tag1 Consulting, the leading experts in Drupal performance, provide a brief overview of our performance audit process, review the most common problems we’ve found across dozens of audits, show you quick wins that can be implemented in hours, and discuss more fundamental architectura",
+      "link": "https://events.drupal.org//lille2023/session/performance-audits-top-8-problems-we-find-how-fix-them",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Janez Urevc (slashrsm)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T16:15:00Z",
+      "endTime": "2023-10-19T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "Promote Drupal: Contribute to Marketing Drupal as a Product",
+      "location": "Location Room 2.2 - BoF",
+      "description": "Learn about the Promote Drupal initiatives, the work we’ve been doing and how you can get involved. We have opportunities for marketers, copywriters, designers, and project managers.",
+      "link": "https://events.drupal.org//lille2023/session/promote-drupal-contribute-marketing-drupal-product",
+      "track": "bof",
+      "speakers": [
+        "Suzanne Dergacheva"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T16:15:00Z",
+      "endTime": "2023-10-19T17:00:00Z",
+      "duration": "PT45M",
+      "summary": "The new admin Toolbar",
+      "location": "Location Room 2.1 - BoF",
+      "description": "As explained in several sessions during DrupalCon, we are preparing a new Toolbar that will eventually replace the core Toolbar. With this BoF we want to gather community feedback and ideas, and hopefully people willing to get involved too. We'll have environments ready to test.BoF",
+      "link": "https://events.drupal.org//lille2023/session/new-admin-toolbar",
+      "track": "bof",
+      "speakers": [
+        "Cristina Chumillas (ckrina)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T17:15:00Z",
+      "endTime": "2023-10-19T18:00:00Z",
+      "duration": "PT45M",
+      "summary": "Diversity \u0026 Inclusion",
+      "location": "Location Room 2.3 - BoF",
+      "description": "An opportunity to share our stories, find opportunities to collaborate with other like minded Drupalists and discuss how to grow our community in healthy and inclusive ways.",
+      "link": "https://events.drupal.org//lille2023/session/diversity-inclusion",
+      "track": "bof",
+      "speakers": [
+        "Fei Lauren"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T17:15:00Z",
+      "endTime": "2023-10-19T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "Drupal's next leap: configuration validation",
+      "location": "Location Room 3.2 A \u0026 B (5)",
+      "description": "Drupal 8 shipped with many exciting new concepts, including \"configuration\", \"configuration and content entities\", \"validation constraints\" and \"API-First\".",
+      "link": "https://events.drupal.org//lille2023/session/drupals-next-leap-configuration-validation",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Wim Leers"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T17:15:00Z",
+      "endTime": "2023-10-19T18:00:00Z",
+      "duration": "PT45M",
+      "summary": "Gin Admin Theme",
+      "location": "Location Room 2.1 - BoF",
+      "description": "A BoF about the Gin Admin Theme. We can use this BoF to: - Showcase the latest and greatest features - Ask me everything - Share your feedback - Discuss new featuresBoF",
+      "link": "https://events.drupal.org//lille2023/session/gin-admin-theme",
+      "track": "bof",
+      "speakers": [
+        "Sascha Eggenberger (saschaeggi)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T17:15:00Z",
+      "endTime": "2023-10-19T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "How we integrated and scaled Opigno LMS into a global ecosystem",
+      "location": "Location Room 3.1 C \u0026 3.2 C (6)",
+      "description": "The Opigno distribution brings great opportunities both for employees as well as customers to serve as a modern Learning Management System (LMS) and add to the value of Nestlé's digital offerings.",
+      "link": "https://events.drupal.org//lille2023/session/how-we-integrated-and-scaled-opigno-lms-global-ecosystem",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Enno Langelotz (Enno)",
+        "Mariana Solorzano",
+        "Antonella Severo"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T17:15:00Z",
+      "endTime": "2023-10-19T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "Leveraging contributed modules: best practices with the EU Cookie Compliance module and web analytics tools like Google Analytics and Matomo",
+      "location": "Location Room 3.1 A \u0026 B (4)",
+      "description": "Striving for GDPR compliance for websites is crucial to safeguarding the privacy and personal data of users, maintaining their trust, and avoiding costly penalties and legal consequences.",
+      "link": "https://events.drupal.org//lille2023/session/leveraging-contributed-modules-best-practices-eu-cookie-compliance-module-and-web",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "István Reszler-Fekete (reszli)",
+        "Niels Aers (Nielsaers)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T17:15:00Z",
+      "endTime": "2023-10-19T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "Mastering Agency Outsourcing: Strategies for Success in Government Projects",
+      "location": "Location Room 3.8 The Lounge (1)",
+      "description": "Successful and growing agencies can find themselves short on senior staff when working on large government contracts. These are typically high-profile projects with significant budgets and come with specific requirements such as security vetting of staff.",
+      "link": "https://events.drupal.org//lille2023/session/mastering-agency-outsourcing-strategies-success-government-projects",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Anthony Fox-Davies",
+        "Evgeniy Maslovskiy (Spleshka)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T17:15:00Z",
+      "endTime": "2023-10-19T18:00:00Z",
+      "duration": "PT45M",
+      "summary": "Sustainability and Drupal - How can our community reduce our CO2 Footprint",
+      "location": "Location Room 2.2 - BoF",
+      "description": "What efforts can we take to reduce our collective CO2? From addressing our travel to DrupalCons, hosting of Drupal.org but also the million sites which are running Drupal on a daily basis.",
+      "link": "https://events.drupal.org//lille2023/session/sustainability-and-drupal-how-can-our-community-reduce-our-co2-footprint",
+      "track": "bof",
+      "speakers": [
+        "Mike Gifford (Mgifford)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T17:15:00Z",
+      "endTime": "2023-10-19T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "Website Caching for Everyone",
+      "location": "Location Room 3.5 \u0026 3.6 (3)",
+      "description": "TL:DR: Website caching is a necessity in these days of online shopping, Core Web Vitals, and high latency internet in space. Learn about the different layers of cache that can help speed up a website and how to deal with the issues that can crop up from them. —",
+      "link": "https://events.drupal.org//lille2023/session/website-caching-everyone",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Simon Morvan (garphy)",
+        "Jesse Dyck"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T17:15:00Z",
+      "endTime": "2023-10-19T17:35:00Z",
+      "duration": "PT20M",
+      "summary": "Why a culture of open source contribution is good for your business",
+      "location": "Location Room 3.7 The Studio (2)",
+      "description": "Many business owners view open source code contribution on company time as a drain on billable hours. As a company committed to the Drupal open source project, PreviousNext has had a formalised approach to code contribution baked into company culture, policies and processes.",
+      "link": "https://events.drupal.org//lille2023/session/why-culture-open-source-contribution-good-your-business",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Owen Lansbury (Owenlansbury)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T17:40:00Z",
+      "endTime": "2023-10-19T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "\"From Chaos to Calm: Managing a Marketing Team from Home When You Have ADHD\"",
+      "location": "Location Room 3.8 The Lounge (1)",
+      "description": "Description: Managing a marketing team from home can be challenging at the best of times, but when you're a mum with ADHD, it can feel like an insurmountable task.",
+      "link": "https://events.drupal.org//lille2023/session/chaos-calm-managing-marketing-team-home-when-you-have-adhd",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Hadda Hreidarsdottir (Hadda)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T17:40:00Z",
+      "endTime": "2023-10-19T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "A Drupal inspired Render API for cloud and edge computing",
+      "location": "Location Room 3.2 A \u0026 B (5)",
+      "description": "Design systems are hot and trendy right now because they are cost effective. By collecting documented UI artefacts (components, styles, themes, layouts…), they ease the collaboration between designers and developers, and they allow the reuse of the same design on several Web applications.",
+      "link": "https://events.drupal.org//lille2023/session/drupal-inspired-render-api-cloud-and-edge-computing",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "Pierre Dureau (pdureau)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T17:40:00Z",
+      "endTime": "2023-10-19T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "Government Portal: The story of building a Drupal distribution for the Estonian government",
+      "location": "Location Room 3.1 C \u0026 3.2 C (6)",
+      "description": "The Estonian Government is using Drupal CMS extensively. In this session, we will introduce the Government Portal - a Drupal distribution that the Estonian Government is using to run the websites of 11 ministries and their agencies.",
+      "link": "https://events.drupal.org//lille2023/session/government-portal-story-building-drupal-distribution-estonian-government",
+      "track": "clients \u0026 industry experiences",
+      "speakers": [
+        "Ivo Nellis (picco)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T17:40:00Z",
+      "endTime": "2023-10-19T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "Move contributor experience to a next level using Paragraphs, Layout Paragraphs and Paragraphs set contrib modules",
+      "location": "Location Room 3.5 \u0026 3.6 (3)",
+      "description": "Paragraphs contrib module is one of the most used and enjoyed module. It allows site builders to manage autonomously their content on a website.",
+      "link": "https://events.drupal.org//lille2023/session/move-contributor-experience-next-level-using-paragraphs-layout-paragraphs-and",
+      "track": "users \u0026 editors",
+      "speakers": [
+        "Pierrick Cadet (Pierrick Cadet)",
+        "Xavier Ternisien (Javiertern)"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T17:40:00Z",
+      "endTime": "2023-10-19T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "UX sells: How we can all promote Drupal with an ecosystem-led, human-centred approach",
+      "location": "Location Room 3.7 The Studio (2)",
+      "description": "How do people decide on Drupal? - that's been the question on our minds in the “Promote Drupal” group supporting the Drupal.org redesign. We sought answers in Drupal personas research.",
+      "link": "https://events.drupal.org//lille2023/session/ux-sells-how-we-can-all-promote-drupal-ecosystem-led-human-centred-approach",
+      "track": "agency \u0026 business",
+      "speakers": [
+        "Emma Horrell"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T17:40:00Z",
+      "endTime": "2023-10-19T18:00:00Z",
+      "duration": "PT20M",
+      "summary": "Why we moved the database drivers to their own modules and what we want to do next",
+      "location": "Location Room 3.1 A \u0026 B (4)",
+      "description": "In Drupal 9.4 the database drivers for MySQL, MariaDB, PostgreSQL and SQLite were moved to their own modules. This session is about why we did that and what we want to do next. We had a number of problems with the old situation:",
+      "link": "https://events.drupal.org//lille2023/session/why-we-moved-database-drivers-their-own-modules-and-what-we-want-do-next",
+      "track": "makers \u0026 builders",
+      "speakers": [
+        "David Bekker"
+      ],
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-19T18:00:00Z",
+      "endTime": "2023-10-19T18:30:00Z",
+      "duration": "PT30M",
+      "summary": "Wrap Up Ceremony Auditorium - DrupalCon 2024 city Announcement",
+      "location": "Location Auditorium",
+      "description": "",
+      "link": "https://events.drupal.org//lille2023/session/wrap-ceremony-auditorium-drupalcon-2024-city-announcement",
+      "track": "other",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-20T09:00:00Z",
+      "endTime": "2023-10-20T18:00:00Z",
+      "duration": "PT9H",
+      "summary": "Contribution Day",
+      "location": "Location Contribution Room 4.1",
+      "description": "",
+      "link": "https://events.drupal.org//lille2023/session/contribution-day",
+      "track": "contribution topic",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-20T09:00:00Z",
+      "endTime": "2023-10-20T12:30:00Z",
+      "duration": "PT3H30M",
+      "summary": "First Time Contributor Workshop 1ter",
+      "location": "Location Contribution Room 4.2",
+      "description": "",
+      "link": "https://events.drupal.org//lille2023/session/first-time-contributor-workshop-1ter",
+      "track": "contribution topic",
+      "speakers": null,
+      "timezone": ""
+    },
+    {
+      "startTime": "2023-10-20T09:00:00Z",
+      "endTime": "2023-10-20T18:00:00Z",
+      "duration": "PT9H",
+      "summary": "Mentored Contribution",
+      "location": "Location Contribution Room 4.2",
+      "description": "",
+      "link": "https://events.drupal.org//lille2023/session/mentored-contribution",
+      "track": "contribution topic",
+      "speakers": null,
+      "timezone": ""
+    }
+  ],
+  "result": "✅",
+  "url": "https://events.drupal.org/lille2023"
+}
