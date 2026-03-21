@@ -1,14 +1,15 @@
 {
   "event": {
-    "Location": "Singapore",
-    "Year": "2024",
-    "URL": "https://events.drupal.org/singapore2024/schedule",
-    "Region": "Asia",
-    "EndDate": "2024-12-11T00:00:00Z",
-    "StartDate": "2024-12-09T00:00:00Z",
-    "Website": "https://events.drupal.org/singapore2024",
-    "Venue": "PARKROYAL Collection Marina Bay",
-    "Timezone": ""
+    "designation": "DrupalCon",
+    "location": "Singapore",
+    "year": "2024",
+    "website": "https://events.drupal.org/singapore2024",
+    "region": "Asia",
+    "endDate": "2024-12-11T00:00:00Z",
+    "startDate": "2024-12-09T00:00:00Z",
+    "scheduleURL": "https://events.drupal.org/singapore2024/schedule",
+    "venue": "PARKROYAL Collection Marina Bay",
+    "timezone": "Asia/Singapore"
   },
   "items": [
     {
@@ -17,11 +18,9 @@
       "duration": "PT30M",
       "summary": "Registration",
       "location": "Location Atrium",
-      "description": "",
       "link": "https://events.drupal.org//singapore2024/session/registration",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-12-09T09:00:00Z",
@@ -34,8 +33,7 @@
       "track": "devops",
       "speakers": [
         "yas"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-09T09:00:00Z",
@@ -48,8 +46,7 @@
       "track": "drupal showcase",
       "speakers": [
         "annamravingmailcom"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-09T09:00:00Z",
@@ -62,8 +59,7 @@
       "track": "development and coding",
       "speakers": [
         "JohnAlbin"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-09T09:45:00Z",
@@ -71,11 +67,9 @@
       "duration": "PT15M",
       "summary": "Morning tea",
       "location": "Location Atrium",
-      "description": "",
       "link": "https://events.drupal.org//singapore2024/session/morning-tea",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-12-09T10:00:00Z",
@@ -86,8 +80,7 @@
       "description": "Let's begin DrupalCon Singapore with Welcome note by Tim Doyle, Mike Richardson and Surabhi Gokte",
       "link": "https://events.drupal.org//singapore2024/session/welcome",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-12-09T10:15:00Z",
@@ -95,11 +88,9 @@
       "duration": "PT1H",
       "summary": "Driesnote",
       "location": "Location Garden Ballroom",
-      "description": "",
       "link": "https://events.drupal.org//singapore2024/session/driesnote",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-12-09T11:15:00Z",
@@ -107,11 +98,9 @@
       "duration": "PT15M",
       "summary": "Group Photo",
       "location": "Location Garden Ballroom",
-      "description": "",
       "link": "https://events.drupal.org//singapore2024/session/group-photo",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-12-09T11:30:00Z",
@@ -125,8 +114,7 @@
       "speakers": [
         "Gábor Hojtsy",
         "tim.plunkett"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-09T11:30:00Z",
@@ -139,8 +127,7 @@
       "track": "content and marketing",
       "speakers": [
         "Prevya C P"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-09T11:30:00Z",
@@ -153,8 +140,7 @@
       "track": "leadership, management and business",
       "speakers": [
         "Trupti Bhosale"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-09T11:55:00Z",
@@ -167,8 +153,7 @@
       "track": "drupal showcase",
       "speakers": [
         "muhammad.tanweer"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-09T11:55:00Z",
@@ -181,8 +166,7 @@
       "track": "community health",
       "speakers": [
         "Shriaas"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-09T12:15:00Z",
@@ -190,11 +174,9 @@
       "duration": "PT1H",
       "summary": "Lunch",
       "location": "Location Atrium",
-      "description": "",
       "link": "https://events.drupal.org//singapore2024/session/lunch",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-12-09T12:45:00Z",
@@ -207,8 +189,7 @@
       "track": "devops",
       "speakers": [
         "thijsferyn"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-09T13:00:00Z",
@@ -221,8 +202,7 @@
       "track": "devops",
       "speakers": [
         "tobybellwood"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-09T13:15:00Z",
@@ -235,8 +215,7 @@
       "track": "devops drupal starshot",
       "speakers": [
         "fubarhouse"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-09T13:15:00Z",
@@ -249,8 +228,7 @@
       "track": "community health",
       "speakers": [
         "msankhala"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-09T13:15:00Z",
@@ -263,8 +241,7 @@
       "track": "drupal showcase",
       "speakers": [
         "ajv009"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-09T13:40:00Z",
@@ -277,8 +254,7 @@
       "track": "user experience, accessibility and design",
       "speakers": [
         "nikitaaswani"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-09T14:15:00Z",
@@ -291,8 +267,7 @@
       "track": "drupal showcase",
       "speakers": [
         "guptahemant"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-09T14:15:00Z",
@@ -305,8 +280,7 @@
       "track": "community health",
       "speakers": [
         "nmeegama"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-09T14:15:00Z",
@@ -319,8 +293,7 @@
       "track": "devops",
       "speakers": [
         "Murz"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-09T15:00:00Z",
@@ -328,11 +301,9 @@
       "duration": "PT15M",
       "summary": "Afternoon tea",
       "location": "Location Atrium",
-      "description": "",
       "link": "https://events.drupal.org//singapore2024/session/afternoon-tea",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-12-09T15:15:00Z",
@@ -345,8 +316,7 @@
       "track": "leadership, management and business",
       "speakers": [
         "ken_taguchi"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-09T15:15:00Z",
@@ -359,8 +329,7 @@
       "track": "user experience, accessibility and design drupal starshot",
       "speakers": [
         "Cristina Chumillas"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-09T15:15:00Z",
@@ -373,8 +342,7 @@
       "track": "development and coding",
       "speakers": [
         "AjitS"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-09T16:15:00Z",
@@ -387,8 +355,7 @@
       "track": "community health",
       "speakers": [
         "takahiro-komatsu"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-09T16:15:00Z",
@@ -401,8 +368,7 @@
       "track": "leadership, management and business",
       "speakers": [
         "owenlansbury"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-09T16:15:00Z",
@@ -415,8 +381,7 @@
       "track": "development and coding drupal starshot",
       "speakers": [
         "abhisekmazumdar"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-09T17:15:00Z",
@@ -424,11 +389,9 @@
       "duration": "PT1H",
       "summary": "Splash Awards",
       "location": "Location Garden Ballroom",
-      "description": "",
       "link": "https://events.drupal.org//singapore2024/session/splash-awards",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-12-09T18:15:00Z",
@@ -439,8 +402,7 @@
       "description": "Join us as we celebrate the launch of the highly anticipated Drupal CMS Release Candidate at DrupalCon Singapore!",
       "link": "https://events.drupal.org//singapore2024/session/drupal-cms-candidate-release-party",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-12-10T09:00:00Z",
@@ -448,11 +410,9 @@
       "duration": "PT15M",
       "summary": "Welcome",
       "location": "Location Garden Ballroom",
-      "description": "",
       "link": "https://events.drupal.org//singapore2024/session/welcome-0",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-12-10T09:15:00Z",
@@ -472,8 +432,7 @@
         "Cristina Chumillas",
         "yautja_cetanu",
         "lenny-moskalyk"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-10T10:00:00Z",
@@ -481,11 +440,9 @@
       "duration": "PT15M",
       "summary": "Morning Tea",
       "location": "Location Atrium",
-      "description": "",
       "link": "https://events.drupal.org//singapore2024/session/morning-tea-0",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-12-10T10:15:00Z",
@@ -498,8 +455,7 @@
       "track": "site building",
       "speakers": [
         "Anjali Rathod"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-10T10:15:00Z",
@@ -512,8 +468,7 @@
       "track": "site building",
       "speakers": [
         "thedrupalkid"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-10T10:15:00Z",
@@ -531,8 +486,7 @@
         "loziju",
         "Shriaas",
         "Joe Chin"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-10T11:15:00Z",
@@ -545,8 +499,7 @@
       "track": "community health",
       "speakers": [
         "greggmarshall"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-10T11:15:00Z",
@@ -563,8 +516,7 @@
         "lenny-moskalyk",
         "Cristina Chumillas",
         "guptahemant"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-10T11:15:00Z",
@@ -578,8 +530,7 @@
       "speakers": [
         "tinto",
         "akmalfikri"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-10T11:15:00Z",
@@ -593,8 +544,7 @@
       "speakers": [
         "_doyle_",
         "gaurav.goyal"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-10T11:40:00Z",
@@ -607,8 +557,7 @@
       "track": "development and coding",
       "speakers": [
         "pooja_sharma"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-10T12:00:00Z",
@@ -616,11 +565,9 @@
       "duration": "PT1H",
       "summary": "Lunch",
       "location": "Location Atrium",
-      "description": "",
       "link": "https://events.drupal.org//singapore2024/session/lunch-0",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-12-10T12:20:00Z",
@@ -634,8 +581,7 @@
       "speakers": [
         "Michael Richardson",
         "Shu Teng Loh"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-10T13:00:00Z",
@@ -649,8 +595,7 @@
       "speakers": [
         "asmita26",
         "nikitaaswani"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-10T13:00:00Z",
@@ -664,8 +609,7 @@
       "speakers": [
         "pameeela",
         "larowlan"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-10T13:00:00Z",
@@ -679,8 +623,7 @@
       "speakers": [
         "yautja_cetanu",
         "Marcus_Johansson"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-10T14:00:00Z",
@@ -693,8 +636,7 @@
       "track": "devops",
       "speakers": [
         "nick_schuch"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-10T14:00:00Z",
@@ -708,8 +650,7 @@
       "speakers": [
         "zoee-Y",
         "loziju"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-10T14:00:00Z",
@@ -723,8 +664,7 @@
       "speakers": [
         "lenny-moskalyk",
         "drumm"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-10T14:45:00Z",
@@ -732,11 +672,9 @@
       "duration": "PT15M",
       "summary": "Afternoon Tea",
       "location": "Location Atrium",
-      "description": "",
       "link": "https://events.drupal.org//singapore2024/session/afternoon-tea-0",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-12-10T15:00:00Z",
@@ -749,8 +687,7 @@
       "track": "development and coding",
       "speakers": [
         "xjm"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-10T15:00:00Z",
@@ -763,8 +700,7 @@
       "track": "content and marketing",
       "speakers": [
         "amourow"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-10T15:00:00Z",
@@ -777,8 +713,7 @@
       "track": "leadership, management and business",
       "speakers": [
         "jaykandari"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-10T16:00:00Z",
@@ -791,8 +726,7 @@
       "track": "development and coding",
       "speakers": [
         "immaculatexavier"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-10T16:00:00Z",
@@ -805,8 +739,7 @@
       "track": "site building drupal starshot",
       "speakers": [
         "lauriii"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-10T16:00:00Z",
@@ -819,8 +752,7 @@
       "track": "devops",
       "speakers": [
         "fusionx1"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-12-10T17:00:00Z",
@@ -828,11 +760,9 @@
       "duration": "PT15M",
       "summary": "Closing Ceremony",
       "location": "Location Garden Ballroom",
-      "description": "",
       "link": "https://events.drupal.org//singapore2024/session/closing-ceremony",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-12-11T09:30:00Z",
@@ -843,8 +773,7 @@
       "description": "Mentored, First Time, and General Contribution sessions. Please note the venue for contribution sprint is different: Staytion Lounge Dhoby Ghaut, 11 Orchard Rd, B1-13 Dhoby Ghaut, Singapore 238826 (Dhoby Ghaut MRT) For details check Community \u003e Contributions page.",
       "link": "https://events.drupal.org//singapore2024/session/contribution",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-12-11T09:30:00Z",
@@ -855,8 +784,7 @@
       "description": "For details check: https://events.drupal.org/singapore2024/training",
       "link": "https://events.drupal.org//singapore2024/session/training-drupal-zero-hero-one-day-pixel-onion",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-12-11T09:30:00Z",
@@ -867,8 +795,7 @@
       "description": "For details check: https://events.drupal.org/singapore2024/training",
       "link": "https://events.drupal.org//singapore2024/session/training-headless-drupal-axelerant",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-12-11T12:15:00Z",
@@ -876,11 +803,9 @@
       "duration": "PT1H",
       "summary": "Lunch",
       "location": "Location Staytion Lounge Dhoby Ghaut (Different Venue)",
-      "description": "",
       "link": "https://events.drupal.org//singapore2024/session/lunch-1",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-12-11T13:15:00Z",
@@ -891,8 +816,7 @@
       "description": "Mentored, First Time, and General Contribution sessions. Please note the venue for contribution sprint is different: Staytion Lounge Dhoby Ghaut, 11 Orchard Rd, B1-13 Dhoby Ghaut, Singapore 238826 (Dhoby Ghaut MRT) For details check Community \u003e Contributions page.",
       "link": "https://events.drupal.org//singapore2024/session/contribution-0",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-12-11T13:15:00Z",
@@ -903,8 +827,7 @@
       "description": "For details check: https://events.drupal.org/singapore2024/training",
       "link": "https://events.drupal.org//singapore2024/session/training-drupal-zero-hero-one-day-pixel-onion-0",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-12-11T13:15:00Z",
@@ -915,10 +838,9 @@
       "description": "For details check: https://events.drupal.org/singapore2024/training",
       "link": "https://events.drupal.org//singapore2024/session/training-headless-drupal-axelerant-0",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     }
   ],
   "result": "✅",
-  "url": "https://events.drupal.org/singapore2024"
+  "url": "https://events.drupal.org/singapore2024/schedule"
 }

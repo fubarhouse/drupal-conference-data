@@ -1,14 +1,15 @@
 {
   "event": {
-    "Location": "Nara",
-    "Year": "2025",
-    "URL": "https://events.drupal.org/nara2025/schedule",
-    "Region": "Asia",
-    "EndDate": "2025-11-19T00:00:00Z",
-    "StartDate": "2025-11-16T00:00:00Z",
-    "Website": "https://events.drupal.org/nara2025",
-    "Venue": "Hotel Nikko Nara",
-    "Timezone": "Asia/Tokyo"
+    "designation": "DrupalCon",
+    "location": "Nara",
+    "year": "2025",
+    "website": "https://events.drupal.org/nara2025",
+    "region": "Asia",
+    "endDate": "2025-11-19T00:00:00Z",
+    "startDate": "2025-11-16T00:00:00Z",
+    "scheduleURL": "https://events.drupal.org/nara2025/schedule",
+    "venue": "Hotel Nikko Nara",
+    "timezone": "Asia/Tokyo"
   },
   "items": [
     {
@@ -20,8 +21,7 @@
       "description": "Planning to arrive early to Nara, how about getting a drink with fellow Drupalers. Venue: CAFE ETRANGER NARAD website: https://cafe-etranger.jp/",
       "link": "https://events.drupal.org//nara2025/session/early-arrival-drinks-pay-your-own-way-zaoqidaozhezhexiangkenojiaoliuhui",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-11-16T12:30:00Z",
@@ -32,8 +32,7 @@
       "description": "Explore the beauty, fun, and nature of Nara City with your friends and family while completing challenges and collecting points, so that you might receive the title of the Ultimate Treasure Hunter.",
       "link": "https://events.drupal.org//nara2025/session/drupalcon-nara-treasure-hunt",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-11-17T08:30:00Z",
@@ -41,11 +40,9 @@
       "duration": "PT1H",
       "summary": "Registration",
       "location": "Location Hiten C/D",
-      "description": "",
       "link": "https://events.drupal.org//nara2025/session/registration",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-11-17T09:30:00Z",
@@ -60,8 +57,7 @@
         "Gen Nakagawa",
         "Michael Richardson",
         "Masami"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-17T09:55:00Z",
@@ -74,8 +70,7 @@
       "track": "",
       "speakers": [
         "Dries Buytaert"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-17T10:00:00Z",
@@ -83,11 +78,9 @@
       "duration": "PT8H10M",
       "summary": "General Contribution Day 1",
       "location": "Location Contribution",
-      "description": "",
       "link": "https://events.drupal.org//nara2025/session/general-contribution-day-1",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-11-17T10:55:00Z",
@@ -95,11 +88,9 @@
       "duration": "PT10M",
       "summary": "Group Photo",
       "location": "Location Hiten C/D",
-      "description": "",
       "link": "https://events.drupal.org//nara2025/session/group-photo",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-11-17T11:05:00Z",
@@ -107,11 +98,9 @@
       "duration": "PT20M",
       "summary": "Morning Break",
       "location": "Location Hiten C/D",
-      "description": "",
       "link": "https://events.drupal.org//nara2025/session/morning-break",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-11-17T11:25:00Z",
@@ -125,8 +114,7 @@
       "speakers": [
         "pameeela",
         "ckrina"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-17T11:25:00Z",
@@ -139,8 +127,7 @@
       "track": "leadership and business / リーダーシップ、ビジネス",
       "speakers": [
         "ken_taguchi"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-17T11:25:00Z",
@@ -151,8 +138,7 @@
       "description": "Did you know that Drupal (the software) is built by people just like you and me? If you haven't contributed yet (or need a refresher), this is your opportunity to learn how to contribute, through code, documentation, project managing, marketing and more!",
       "link": "https://events.drupal.org//nara2025/session/first-time-contributors-workshop-english",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-11-17T11:25:00Z",
@@ -165,8 +151,7 @@
       "track": "leadership and business / リーダーシップ、ビジネス",
       "speakers": [
         "nielsaers"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-17T11:50:00Z",
@@ -179,8 +164,7 @@
       "track": "community health / コミュニティヘルス",
       "speakers": [
         "shinmaikeru"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-17T12:10:00Z",
@@ -188,11 +172,9 @@
       "duration": "PT1H",
       "summary": "Lunch",
       "location": "Location Hiten C/D",
-      "description": "",
       "link": "https://events.drupal.org//nara2025/session/lunch",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-11-17T13:10:00Z",
@@ -205,8 +187,7 @@
       "track": "community health / コミュニティヘルス",
       "speakers": [
         "dreambubbler"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-17T13:10:00Z",
@@ -219,8 +200,7 @@
       "track": "ux, accessibility, and design / ux、アクセシビリティ、デザイン",
       "speakers": [
         "elliott.mower"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-17T13:10:00Z",
@@ -233,8 +213,7 @@
       "track": "development and coding / 開発とコーディング",
       "speakers": [
         "kazukomurata"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-17T14:10:00Z",
@@ -247,8 +226,7 @@
       "track": "site building / サイト構築",
       "speakers": [
         "pcambra"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-17T14:10:00Z",
@@ -261,8 +239,7 @@
       "track": "content and marketing / コンテンツとマーケティング",
       "speakers": [
         "saxenaakansha30"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-17T14:10:00Z",
@@ -276,8 +253,7 @@
       "speakers": [
         "taishi",
         "Kozo Takada"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-17T14:35:00Z",
@@ -290,8 +266,7 @@
       "track": "",
       "speakers": [
         "Michael Richardson"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-17T14:55:00Z",
@@ -299,11 +274,9 @@
       "duration": "PT20M",
       "summary": "Afternoon Break",
       "location": "Location Hiten B",
-      "description": "",
       "link": "https://events.drupal.org//nara2025/session/afternoon-break",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-11-17T15:15:00Z",
@@ -317,8 +290,7 @@
       "speakers": [
         "Miki Yoshida",
         "Misako Fukagawa"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-17T15:15:00Z",
@@ -331,8 +303,7 @@
       "track": "devops",
       "speakers": [
         "hktang"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-17T15:40:00Z",
@@ -345,8 +316,7 @@
       "track": "development and coding / 開発とコーディング",
       "speakers": [
         "otofu"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-17T16:15:00Z",
@@ -360,8 +330,7 @@
       "speakers": [
         "Masami",
         "Akihito.Kimura@ntt.com"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-17T16:15:00Z",
@@ -375,8 +344,7 @@
       "speakers": [
         "zaporylie",
         "jsacksick"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-17T16:15:00Z",
@@ -390,8 +358,7 @@
       "speakers": [
         "anjali-rathod",
         "ygoex"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-17T17:00:00Z",
@@ -399,11 +366,9 @@
       "duration": "PT1H45M",
       "summary": "Networking Drinks",
       "location": "Location Hiten C/D",
-      "description": "",
       "link": "https://events.drupal.org//nara2025/session/networking-drinks",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-11-18T09:00:00Z",
@@ -411,11 +376,9 @@
       "duration": "PT8H15M",
       "summary": "General Contribution Day 2",
       "location": "Location Contribution",
-      "description": "",
       "link": "https://events.drupal.org//nara2025/session/general-contribution-day-2",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-11-18T09:00:00Z",
@@ -423,11 +386,9 @@
       "duration": "PT15M",
       "summary": "Welcome",
       "location": "Location Hiten C/D",
-      "description": "",
       "link": "https://events.drupal.org//nara2025/session/welcome-0",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-11-18T09:15:00Z",
@@ -440,8 +401,7 @@
       "track": "drupal showcase / drupalショーケース",
       "speakers": [
         "Jason Cort"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-18T10:00:00Z",
@@ -449,11 +409,9 @@
       "duration": "PT15M",
       "summary": "Morning Break",
       "location": "Location Hiten C/D",
-      "description": "",
       "link": "https://events.drupal.org//nara2025/session/morning-break-0",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-11-18T10:15:00Z",
@@ -467,8 +425,7 @@
       "speakers": [
         "gargsuchi",
         "JCT321"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-18T10:15:00Z",
@@ -479,8 +436,7 @@
       "description": "Did you know that Drupal (the software) is built by people just like you and me? If you haven't contributed yet (or need a refresher), this is your opportunity to learn how to contribute, through code, documentation, project managing, marketing and more!",
       "link": "https://events.drupal.org//nara2025/session/first-time-contributors-workshop-ribenyu",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-11-18T10:15:00Z",
@@ -493,8 +449,7 @@
       "track": "site building / サイト構築",
       "speakers": [
         "drupak"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-18T10:15:00Z",
@@ -507,8 +462,7 @@
       "track": "drupal cms",
       "speakers": [
         "lauriii"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-18T11:15:00Z",
@@ -521,8 +475,7 @@
       "track": "development and coding / 開発とコーディング",
       "speakers": [
         "yas"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-18T11:15:00Z",
@@ -536,8 +489,7 @@
       "speakers": [
         "Matthew Messmer",
         "aniketto"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-18T11:15:00Z",
@@ -550,8 +502,7 @@
       "track": "drupal cms",
       "speakers": [
         "gábor hojtsy"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-18T12:00:00Z",
@@ -559,11 +510,9 @@
       "duration": "PT1H",
       "summary": "Lunch",
       "location": "Location Hiten C/D",
-      "description": "",
       "link": "https://events.drupal.org//nara2025/session/lunch-0",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-11-18T13:00:00Z",
@@ -577,8 +526,7 @@
       "speakers": [
         "umekikazuya",
         "sachikonitta"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-18T13:00:00Z",
@@ -591,8 +539,7 @@
       "track": "sponsored session",
       "speakers": [
         "schnitzel"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-18T13:00:00Z",
@@ -605,8 +552,7 @@
       "track": "drupal cms",
       "speakers": [
         "mandclu"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-18T13:20:00Z",
@@ -620,8 +566,7 @@
       "speakers": [
         "晋平 加藤",
         "俊平 詫間"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-18T14:00:00Z",
@@ -634,8 +579,7 @@
       "track": "development and coding / 開発とコーディング",
       "speakers": [
         "JohnAlbin"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-18T14:00:00Z",
@@ -649,8 +593,7 @@
       "speakers": [
         "Maggie Schroeder",
         "shumpei"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-18T14:00:00Z",
@@ -663,8 +606,7 @@
       "track": "devops",
       "speakers": [
         "jimmycann"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-18T14:25:00Z",
@@ -677,8 +619,7 @@
       "track": "development and coding / 開発とコーディング",
       "speakers": [
         "yi_jiang"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-18T14:45:00Z",
@@ -686,11 +627,9 @@
       "duration": "PT15M",
       "summary": "Afternoon Break",
       "location": "Location Hiten C/D",
-      "description": "",
       "link": "https://events.drupal.org//nara2025/session/afternoon-break-0",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-11-18T15:00:00Z",
@@ -703,8 +642,7 @@
       "track": "development and coding / 開発とコーディング",
       "speakers": [
         "https://www.drupal.org/u/vincenzo-gambino"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-18T15:00:00Z",
@@ -717,8 +655,7 @@
       "track": "",
       "speakers": [
         "Tim Doyle"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-18T15:00:00Z",
@@ -732,8 +669,7 @@
       "speakers": [
         "Akihiko Sakamoto",
         "Hirokazu Awaji"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-18T16:15:00Z",
@@ -746,8 +682,7 @@
       "track": "site building / サイト構築",
       "speakers": [
         "umekikazuya"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-18T16:15:00Z",
@@ -760,8 +695,7 @@
       "track": "community health / コミュニティヘルス",
       "speakers": [
         "nikitaaswani"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-18T16:15:00Z",
@@ -774,8 +708,7 @@
       "track": "development and coding / 開発とコーディング",
       "speakers": [
         "sachikonitta"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-18T16:40:00Z",
@@ -788,8 +721,7 @@
       "track": "development and coding / 開発とコーディング",
       "speakers": [
         "murz"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-11-18T17:00:00Z",
@@ -797,11 +729,9 @@
       "duration": "PT15M",
       "summary": "Closing Ceremony",
       "location": "Location Hiten C/D",
-      "description": "",
       "link": "https://events.drupal.org//nara2025/session/closing-ceremony",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-11-18T18:00:00Z",
@@ -812,8 +742,7 @@
       "description": "The event is done, it's time to party! Join us for the official DrupalCon Nara party. website: https://cafe-etranger.jp/ map: https://maps.app.goo.gl/xkDHtRgW7Uxdz34PA",
       "link": "https://events.drupal.org//nara2025/session/thank-you-after-party-sankiyuhatei",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-11-19T09:00:00Z",
@@ -821,11 +750,9 @@
       "duration": "PT8H20M",
       "summary": "General Contribution Day 3",
       "location": "Location Hiten C/D",
-      "description": "",
       "link": "https://events.drupal.org//nara2025/session/general-contribution-day-3",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-11-19T11:00:00Z",
@@ -833,11 +760,9 @@
       "duration": "PT15M",
       "summary": "Morning break",
       "location": "Location Hiten C/D",
-      "description": "",
       "link": "https://events.drupal.org//nara2025/session/morning-break-1",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-11-19T13:00:00Z",
@@ -845,13 +770,11 @@
       "duration": "PT1H",
       "summary": "Lunch",
       "location": "Location Hiten C/D",
-      "description": "",
       "link": "https://events.drupal.org//nara2025/session/lunch-1",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     }
   ],
   "result": "✅",
-  "url": "https://events.drupal.org/nara2025"
+  "url": "https://events.drupal.org/nara2025/schedule"
 }

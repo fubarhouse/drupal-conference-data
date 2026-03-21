@@ -1,14 +1,15 @@
 {
   "event": {
-    "Location": "Lille",
-    "Year": "2023",
-    "URL": "https://events.drupal.org/lille2023/schedule",
-    "Region": "Europe",
-    "EndDate": "2023-10-17T00:00:00Z",
-    "StartDate": "2023-10-20T00:00:00Z",
-    "Website": "https://events.drupal.org/lille2023",
-    "Venue": "Lille Grand Palais",
-    "Timezone": ""
+    "designation": "DrupalCon",
+    "location": "Lille",
+    "year": "2023",
+    "website": "https://events.drupal.org/lille2023",
+    "region": "Europe",
+    "endDate": "2023-10-17T00:00:00Z",
+    "startDate": "2023-10-20T00:00:00Z",
+    "scheduleURL": "https://events.drupal.org/lille2023/schedule",
+    "venue": "Lille Grand Palais",
+    "timezone": "Europe/Paris"
   },
   "items": [
     {
@@ -17,11 +18,9 @@
       "duration": "PT9H",
       "summary": "General Contribution Day 1",
       "location": "Location Contribution Room 4.1",
-      "description": "",
       "link": "https://events.drupal.org//lille2023/session/general-contribution-day-1",
       "track": "contribution topic",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2023-10-17T12:00:00Z",
@@ -29,11 +28,9 @@
       "duration": "PT1H25M",
       "summary": "Opening Ceremony + Women in Drupal Award",
       "location": "Location Auditorium",
-      "description": "",
       "link": "https://events.drupal.org//lille2023/session/opening-ceremony-women-drupal-award",
       "track": "other",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2023-10-17T13:30:00Z",
@@ -46,8 +43,7 @@
       "track": "keynote",
       "speakers": [
         "Dries Buytaert (Dries)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T14:45:00Z",
@@ -55,11 +51,9 @@
       "duration": "PT10M",
       "summary": "Group photo",
       "location": "Location Auditorium",
-      "description": "",
       "link": "https://events.drupal.org//lille2023/session/group-photo",
       "track": "other",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2023-10-17T15:00:00Z",
@@ -72,8 +66,7 @@
       "track": "bof",
       "speakers": [
         "AmyJune Hineline (Volkswagenchick)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T15:00:00Z",
@@ -87,8 +80,7 @@
       "speakers": [
         "Saranya Rajaram (saranya_rajaram)",
         "Annam Ravin (Annam_sreenivasan)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T15:00:00Z",
@@ -101,8 +93,7 @@
       "track": "bof",
       "speakers": [
         "Moshe Weitzman"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T15:00:00Z",
@@ -115,8 +106,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Lukas Fischer (Lukasfischer)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T15:00:00Z",
@@ -129,8 +119,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Mauricio Dinarte (dinarcon)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T15:00:00Z",
@@ -143,8 +132,7 @@
       "track": "users \u0026 editors",
       "speakers": [
         "Mike Gifford (Mgifford)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T15:00:00Z",
@@ -158,8 +146,7 @@
       "speakers": [
         "Emma Horrell",
         "Aaron McHale (AaronMcHale)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T15:00:00Z",
@@ -172,8 +159,7 @@
       "track": "bof",
       "speakers": [
         "Randy Fay"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T15:00:00Z",
@@ -187,8 +173,7 @@
       "speakers": [
         "Leslie Glynn (leslieg)",
         "Chris Wells"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T15:00:00Z",
@@ -201,8 +186,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Oliver Davies (Opdavies)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T15:45:00Z",
@@ -216,8 +200,7 @@
       "speakers": [
         "Florent Torregrosa",
         "Nicolas Loye (Nicoloye)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T16:15:00Z",
@@ -231,8 +214,7 @@
       "speakers": [
         "Iryna Semenova (instagram.com/isemyonovabel)",
         "Anastasiia Paliienko (instagram.com/ssteyci?igshid=MzMyNGUyNmU2YQ%3D%3D\u0026utm_source=qr)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T16:15:00Z",
@@ -245,8 +227,7 @@
       "track": "bof",
       "speakers": [
         "Randy Fay"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T16:15:00Z",
@@ -259,8 +240,7 @@
       "track": "users \u0026 editors",
       "speakers": [
         "Tarkesh Deva (Tarkesh.deva)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T16:15:00Z",
@@ -273,8 +253,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Alan Burke"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T16:15:00Z",
@@ -287,8 +266,7 @@
       "track": "bof",
       "speakers": [
         "Leslie Glynn (leslieg)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T16:15:00Z",
@@ -305,8 +283,7 @@
         "Jérôme Andrieux",
         "Antonella Severo",
         "David Fernandez"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T16:15:00Z",
@@ -319,8 +296,7 @@
       "track": "bof",
       "speakers": [
         "Jorge Lopez-lago"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T16:15:00Z",
@@ -334,8 +310,7 @@
       "speakers": [
         "Thor Andre Gretland",
         "Marco Fernandes"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T16:15:00Z",
@@ -349,8 +324,7 @@
       "speakers": [
         "Christian López Espínola (Penyaskito)",
         "Cristina Chumillas (ckrina)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T17:15:00Z",
@@ -363,8 +337,7 @@
       "track": "users \u0026 editors",
       "speakers": [
         "Daniel Angelov (danielangelov)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T17:15:00Z",
@@ -377,8 +350,7 @@
       "track": "bof",
       "speakers": [
         "Mike Gyi"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T17:15:00Z",
@@ -391,8 +363,7 @@
       "track": "clients \u0026 industry experiences",
       "speakers": [
         "Sven Van Uytfanghe"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T17:15:00Z",
@@ -406,8 +377,7 @@
       "speakers": [
         "Felip Manyer Ballester (FMB)",
         "Nicolas Loye (Nicoloye)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T17:15:00Z",
@@ -415,11 +385,9 @@
       "duration": "PT45M",
       "summary": "First-time contributor workshop 1",
       "location": "Location Room 2.4 - BoF",
-      "description": "",
       "link": "https://events.drupal.org//lille2023/session/first-time-contributor-workshop-1",
       "track": "contribution topic",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2023-10-17T17:15:00Z",
@@ -432,8 +400,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Toni Kolev (toni.kolev)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T17:15:00Z",
@@ -446,8 +413,7 @@
       "track": "bof",
       "speakers": [
         "Nick Veenhof (nick_vh)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T17:15:00Z",
@@ -463,8 +429,7 @@
         "Elise West",
         "Julie Sheward",
         "Anthony Fox-Davies"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T17:15:00Z",
@@ -477,8 +442,7 @@
       "track": "bof",
       "speakers": [
         "Lauri Eskola (lauriii)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T17:15:00Z",
@@ -491,8 +455,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Alice Minett"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T17:40:00Z",
@@ -506,8 +469,7 @@
       "speakers": [
         "Peter Pónya (pedrop)",
         "Zsófia Alföldi (Zsofiaalfoldi)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T17:40:00Z",
@@ -520,8 +482,7 @@
       "track": "open web \u0026 community",
       "speakers": [
         "Dominique De Cooman (Domidc)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T17:40:00Z",
@@ -534,8 +495,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Bostjan Kovac (Boshtian)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T17:40:00Z",
@@ -548,8 +508,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Boyan Borisov (Boyan.borisov)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-17T17:40:00Z",
@@ -562,8 +521,7 @@
       "track": "users \u0026 editors",
       "speakers": [
         "Jeremy Chinquist (Jjchinquist)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T08:45:00Z",
@@ -577,8 +535,7 @@
       "speakers": [
         "Arush Kochhar",
         "Andrea Ostheer"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T09:00:00Z",
@@ -586,11 +543,9 @@
       "duration": "PT9H",
       "summary": "General Contribution Day 2",
       "location": "Location Contribution Room 4.1",
-      "description": "",
       "link": "https://events.drupal.org//lille2023/session/general-contribution-day-2",
       "track": "contribution topic",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2023-10-18T10:00:00Z",
@@ -603,8 +558,7 @@
       "track": "sponsored talk",
       "speakers": [
         "Sylvain Moreau (Slybud)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T10:15:00Z",
@@ -617,8 +571,7 @@
       "track": "sponsored talk",
       "speakers": [
         "Mark Conroy"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T10:30:00Z",
@@ -632,8 +585,7 @@
       "speakers": [
         "Jose Nieves (Jnieves)",
         "Christoph Breidert (Breidert)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T10:30:00Z",
@@ -647,8 +599,7 @@
       "speakers": [
         "Jeffrey McGuire",
         "Mathias Bolt Lesniak (mabolek)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T10:30:00Z",
@@ -662,8 +613,7 @@
       "speakers": [
         "Annam Ravin (Annam_sreenivasan)",
         "Saranya Rajaram (saranya_rajaram)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T10:30:00Z",
@@ -676,8 +626,7 @@
       "track": "bof",
       "speakers": [
         "Carlos Ospina (Camoa)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T10:30:00Z",
@@ -685,11 +634,9 @@
       "duration": "PT45M",
       "summary": "First-time contributor workshop 1bis",
       "location": "Location Room 2.4 - BoF",
-      "description": "",
       "link": "https://events.drupal.org//lille2023/session/first-time-contributor-workshop-1bis",
       "track": "contribution topic",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2023-10-18T10:30:00Z",
@@ -703,8 +650,7 @@
       "speakers": [
         "Lukas Fischer (Lukasfischer)",
         "Natalia Justicia"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T10:30:00Z",
@@ -718,8 +664,7 @@
       "speakers": [
         "Ulrika Mengshoel Wedelin (Ulrikamw)",
         "David Holmlund (dholmlund)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T10:30:00Z",
@@ -732,8 +677,7 @@
       "track": "sponsored talk",
       "speakers": [
         "Dharizza Espinach (dharizza)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T10:30:00Z",
@@ -746,8 +690,7 @@
       "track": "bof",
       "speakers": [
         "Randy Fay"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T10:30:00Z",
@@ -762,8 +705,7 @@
         "Baddy Sonja Breidert (Baddysonja)",
         "Imre Gmelig Meijling (imre-gmelig-meijling)",
         "Drupal Association"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T10:30:00Z",
@@ -776,8 +718,7 @@
       "track": "users \u0026 editors",
       "speakers": [
         "AmyJune Hineline (Volkswagenchick)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T11:30:00Z",
@@ -790,8 +731,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Andrew Berry (deviantintegral)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T11:30:00Z",
@@ -804,8 +744,7 @@
       "track": "bof",
       "speakers": [
         "Niklas Franke (Nick.el.diablo)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T11:30:00Z",
@@ -822,8 +761,7 @@
         "Brendan Blaine",
         "Fran Garcia-Linares (fjgarlin)",
         "Alejandro Moreno Lopez (Alexmoreno)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T11:30:00Z",
@@ -836,8 +774,7 @@
       "track": "bof",
       "speakers": [
         "Panagiotis Moutsopoulos (vensires)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T11:30:00Z",
@@ -851,8 +788,7 @@
       "speakers": [
         "Simon Georges",
         "Alex Druhet"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T11:30:00Z",
@@ -865,8 +801,7 @@
       "track": "bof",
       "speakers": [
         "Kristiaan Van den Eynde"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T11:30:00Z",
@@ -879,8 +814,7 @@
       "track": "open web \u0026 community",
       "speakers": [
         "Esmeralda Braad-Tijhoff (Esmoves)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T11:30:00Z",
@@ -894,8 +828,7 @@
       "speakers": [
         "Paul Johnson (Pdjohnson)",
         "Marie Orpen"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T11:30:00Z",
@@ -908,8 +841,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Pablo López Escobés (plopesc)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T12:15:00Z",
@@ -922,8 +854,7 @@
       "track": "clients \u0026 industry experiences",
       "speakers": [
         "Client \u0026 Industry Track Chairs"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T12:15:00Z",
@@ -937,8 +868,7 @@
       "speakers": [
         "Nicolas Loye (Nicoloye)",
         "Marine Gandy"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T12:45:00Z",
@@ -951,8 +881,7 @@
       "track": "sponsored talk",
       "speakers": [
         "Martin Anderson-Clutz (Mandclu)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T13:15:00Z",
@@ -966,8 +895,7 @@
       "speakers": [
         "Baddy Sonja Breidert (Baddysonja)",
         "Christoph Breidert (Breidert)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T13:30:00Z",
@@ -975,13 +903,11 @@
       "duration": "PT1H15M",
       "summary": "Fly Higher - How to lead fearlessly",
       "location": "Location Auditorium",
-      "description": "",
       "link": "https://events.drupal.org//lille2023/session/fly-higher-how-lead-fearlessly",
       "track": "keynote",
       "speakers": [
         "Sarah Furness"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T15:00:00Z",
@@ -994,8 +920,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Fran Garcia-linares"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T15:00:00Z",
@@ -1008,8 +933,7 @@
       "track": "bof",
       "speakers": [
         "Felip Manyer Ballester (FMB)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T15:00:00Z",
@@ -1022,8 +946,7 @@
       "track": "open web \u0026 community",
       "speakers": [
         "AmyJune Hineline (Volkswagenchick)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T15:00:00Z",
@@ -1036,8 +959,7 @@
       "track": "bof",
       "speakers": [
         "Randy Fay"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T15:00:00Z",
@@ -1050,8 +972,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Akhil Bhandari"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T15:00:00Z",
@@ -1066,8 +987,7 @@
         "Anne-Sophie Picot (Asplamagnifique)",
         "Sylvain Moreau (Slybud)",
         "Francis Lemaitre (flemaitre)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T15:00:00Z",
@@ -1080,8 +1000,7 @@
       "track": "sponsored talk",
       "speakers": [
         "Boyan Borisov (Boyan.borisov)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T15:00:00Z",
@@ -1094,8 +1013,7 @@
       "track": "bof",
       "speakers": [
         "Roberto Peruzzo"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T15:00:00Z",
@@ -1103,11 +1021,9 @@
       "duration": "PT45M",
       "summary": "Mentor orientation 1",
       "location": "Location Room 2.4 - BoF",
-      "description": "",
       "link": "https://events.drupal.org//lille2023/session/mentor-orientation-1",
       "track": "contribution topic",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2023-10-18T15:00:00Z",
@@ -1120,8 +1036,7 @@
       "track": "clients \u0026 industry experiences",
       "speakers": [
         "Jen Witkowski (jwitkowski79)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T15:00:00Z",
@@ -1134,8 +1049,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Paolo Mainardi"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T15:45:00Z",
@@ -1148,8 +1062,7 @@
       "track": "sponsored talk",
       "speakers": [
         "James Rutherford (Jamesrutherford)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T16:15:00Z",
@@ -1162,8 +1075,7 @@
       "track": "users \u0026 editors",
       "speakers": [
         "Simo Hellsten"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T16:15:00Z",
@@ -1179,8 +1091,7 @@
         "Tim Doyle",
         "Baddy Sonja Breidert (Baddysonja)",
         "Dries Buytaert (Dries)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T16:15:00Z",
@@ -1193,8 +1104,7 @@
       "track": "bof",
       "speakers": [
         "Rakhi Mandhania"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T16:15:00Z",
@@ -1208,8 +1118,7 @@
       "speakers": [
         "Mario Vercellotti (Vermario)",
         "Joshua Scott"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T16:15:00Z",
@@ -1223,8 +1132,7 @@
       "speakers": [
         "Dieter Blomme",
         "Niels Aers (Nielsaers)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T16:15:00Z",
@@ -1238,8 +1146,7 @@
       "speakers": [
         "Abhishek Dhariwal (adhariwal)",
         "Prateek Jain (Prateekjain)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T16:15:00Z",
@@ -1252,8 +1159,7 @@
       "track": "clients \u0026 industry experiences",
       "speakers": [
         "Tassos Koutlas (tassos)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T16:15:00Z",
@@ -1266,8 +1172,7 @@
       "track": "bof",
       "speakers": [
         "Jorge Lopez-lago"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T16:15:00Z",
@@ -1280,8 +1185,7 @@
       "track": "open web \u0026 community",
       "speakers": [
         "Michael Richardson (Richo_au)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T17:15:00Z",
@@ -1294,8 +1198,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Jess xjm (xjm)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T17:15:00Z",
@@ -1308,8 +1211,7 @@
       "track": "open web \u0026 community",
       "speakers": [
         "Mathieu De Meue (matdemeue)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T17:15:00Z",
@@ -1322,8 +1224,7 @@
       "track": "clients \u0026 industry experiences",
       "speakers": [
         "Lyubomir Filipov (Lfilipov)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T17:15:00Z",
@@ -1331,11 +1232,9 @@
       "duration": "PT45M",
       "summary": "Issue Triage",
       "location": "Location Room 2.4 - BoF",
-      "description": "",
       "link": "https://events.drupal.org//lille2023/session/issue-triage",
       "track": "contribution topic",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2023-10-18T17:15:00Z",
@@ -1348,8 +1247,7 @@
       "track": "bof",
       "speakers": [
         "Alexey Beloglazov"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T17:15:00Z",
@@ -1362,8 +1260,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Joachim Noreiko (Joachim)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T17:15:00Z",
@@ -1376,8 +1273,7 @@
       "track": "bof",
       "speakers": [
         "Piotr Muszyński"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T17:15:00Z",
@@ -1390,8 +1286,7 @@
       "track": "bof",
       "speakers": [
         "Nils Adermann"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T17:15:00Z",
@@ -1404,8 +1299,7 @@
       "track": "users \u0026 editors",
       "speakers": [
         "Piotrek Koszulinski"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T17:15:00Z",
@@ -1418,8 +1312,7 @@
       "track": "users \u0026 editors",
       "speakers": [
         "Mark Casias (Markie)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T17:40:00Z",
@@ -1432,8 +1325,7 @@
       "track": "users \u0026 editors",
       "speakers": [
         "Raffaele Chiocca (Rafuel92)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T17:40:00Z",
@@ -1446,8 +1338,7 @@
       "track": "clients \u0026 industry experiences",
       "speakers": [
         "Evgeniy Maslovskiy (Spleshka)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T17:40:00Z",
@@ -1460,8 +1351,7 @@
       "track": "users \u0026 editors",
       "speakers": [
         "Gaurav Kapoor (Gaurav.kapoor)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T17:40:00Z",
@@ -1474,8 +1364,7 @@
       "track": "open web \u0026 community",
       "speakers": [
         "Eduardo Telaya (Edutrul)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-18T17:40:00Z",
@@ -1489,8 +1378,7 @@
       "speakers": [
         "Bruno Carreira (bcruzcar)",
         "Paulo Carvalho (pmaiacar)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T09:00:00Z",
@@ -1498,11 +1386,9 @@
       "duration": "PT9H",
       "summary": "General Contribution Day 3",
       "location": "Location Contribution Room 4.1",
-      "description": "",
       "link": "https://events.drupal.org//lille2023/session/general-contribution-day-3",
       "track": "contribution topic",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2023-10-19T09:15:00Z",
@@ -1515,8 +1401,7 @@
       "track": "bof",
       "speakers": [
         "Branimir Juranic"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T09:15:00Z",
@@ -1529,8 +1414,7 @@
       "track": "open web \u0026 community",
       "speakers": [
         "Joi Garrett"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T09:15:00Z",
@@ -1543,8 +1427,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Nils Adermann"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T09:15:00Z",
@@ -1557,8 +1440,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Benoit De Vos (Bendev)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T09:15:00Z",
@@ -1571,8 +1453,7 @@
       "track": "bof",
       "speakers": [
         "Jan De Kezel"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T09:15:00Z",
@@ -1586,8 +1467,7 @@
       "speakers": [
         "Denis Pitzalis (Denix)",
         "Sylvain Moreau (Slybud)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T09:15:00Z",
@@ -1604,8 +1484,7 @@
         "Cristina Chumillas (ckrina)",
         "AmyJune Hineline (Volkswagenchick)",
         "Nick Veenhof (nick_vh)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T09:15:00Z",
@@ -1618,8 +1497,7 @@
       "track": "bof",
       "speakers": [
         "Valuebound Consulting Services Private Limited"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T09:15:00Z",
@@ -1632,8 +1510,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Mike Herchel (mherchel)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T09:15:00Z",
@@ -1646,8 +1523,7 @@
       "track": "users \u0026 editors",
       "speakers": [
         "Michele Jenkins (Micheleannj)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T10:00:00Z",
@@ -1660,8 +1536,7 @@
       "track": "sponsored talk",
       "speakers": [
         "Dominique De Cooman (Domidc)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T10:15:00Z",
@@ -1674,8 +1549,7 @@
       "track": "sponsored talk",
       "speakers": [
         "Jorge Lopez-lago"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T10:30:00Z",
@@ -1688,8 +1562,7 @@
       "track": "bof",
       "speakers": [
         "Jorge Lopez-lago"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T10:30:00Z",
@@ -1702,8 +1575,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Ricardo Sanz"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T10:30:00Z",
@@ -1716,8 +1588,7 @@
       "track": "bof",
       "speakers": [
         "Randy Fay"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T10:30:00Z",
@@ -1730,8 +1601,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Imre Gmelig Meijling (imre-gmelig-meijling)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T10:30:00Z",
@@ -1744,8 +1614,7 @@
       "track": "bof",
       "speakers": [
         "Niklas Franke (Nick.el.diablo)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T10:30:00Z",
@@ -1758,8 +1627,7 @@
       "track": "open web \u0026 community",
       "speakers": [
         "Dane Rossenrode (Droces)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T10:30:00Z",
@@ -1772,8 +1640,7 @@
       "track": "clients \u0026 industry experiences",
       "speakers": [
         "Suchi Garg (Gargsuchi)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T10:30:00Z",
@@ -1781,11 +1648,9 @@
       "duration": "PT45M",
       "summary": "Mentor orientation 1bis",
       "location": "Location Room 2.4 - BoF",
-      "description": "",
       "link": "https://events.drupal.org//lille2023/session/mentor-orientation-1bis",
       "track": "contribution topic",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2023-10-19T10:30:00Z",
@@ -1799,8 +1664,7 @@
       "speakers": [
         "Cristina Chumillas (ckrina)",
         "Sascha Eggenberger (saschaeggi)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T10:30:00Z",
@@ -1813,8 +1677,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Andy Blum (Andy-blum)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T10:30:00Z",
@@ -1828,8 +1691,7 @@
       "speakers": [
         "Tyler Huff (thuff)",
         "Kevin Montgomery"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T11:30:00Z",
@@ -1842,8 +1704,7 @@
       "track": "bof",
       "speakers": [
         "Mark Casias (Markie)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T11:30:00Z",
@@ -1858,8 +1719,7 @@
         "Kelly Delaney",
         "Tim Doyle",
         "Jitka Pilar"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T11:30:00Z",
@@ -1872,8 +1732,7 @@
       "track": "clients \u0026 industry experiences",
       "speakers": [
         "Ashish Goyal"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T11:30:00Z",
@@ -1886,8 +1745,7 @@
       "track": "users \u0026 editors",
       "speakers": [
         "Raul jimenez morales"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T11:30:00Z",
@@ -1901,8 +1759,7 @@
       "speakers": [
         "Georgios Andreadis",
         "Georgia Afioni (gafioni)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T11:30:00Z",
@@ -1915,8 +1772,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Janne Kalliola (Jannekalliola)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T11:30:00Z",
@@ -1929,8 +1785,7 @@
       "track": "open web \u0026 community",
       "speakers": [
         "Lauri Eskola (lauriii)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T11:30:00Z",
@@ -1943,8 +1798,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Jorge Tutor"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T11:30:00Z",
@@ -1957,8 +1811,7 @@
       "track": "bof",
       "speakers": [
         "Jorge Lopez-lago"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T12:15:00Z",
@@ -1971,8 +1824,7 @@
       "track": "sponsored talk",
       "speakers": [
         "Michael Schmid (Schnitzel)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T13:00:00Z",
@@ -1985,8 +1837,7 @@
       "track": "sponsored talk",
       "speakers": [
         "Frederik Wouters (Wouters_f)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T13:30:00Z",
@@ -2006,8 +1857,7 @@
         "Felip Manyer Ballester (FMB)",
         "Wim Leers",
         "Gábor Hojtsy"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T15:00:00Z",
@@ -2020,8 +1870,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Chris Teitzel"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T15:00:00Z",
@@ -2034,8 +1883,7 @@
       "track": "bof",
       "speakers": [
         "Pavel Bulat"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T15:00:00Z",
@@ -2048,8 +1896,7 @@
       "track": "bof",
       "speakers": [
         "Jorge Lopez-lago"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T15:00:00Z",
@@ -2062,8 +1909,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Björn Brala"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T15:00:00Z",
@@ -2077,8 +1923,7 @@
       "speakers": [
         "Jose Nieves (Jnieves)",
         "Mónica Cárdenas (monrodcar)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T15:00:00Z",
@@ -2093,8 +1938,7 @@
         "Marcello Angileri (Condor616)",
         "Pierre Ukelo (pierruk)",
         "François Weber (Weberfr8)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T15:00:00Z",
@@ -2107,8 +1951,7 @@
       "track": "open web \u0026 community",
       "speakers": [
         "Chris Burge (chris-burge)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T15:00:00Z",
@@ -2121,8 +1964,7 @@
       "track": "bof",
       "speakers": [
         "Mario Vercellotti (Vermario)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T15:00:00Z",
@@ -2135,8 +1977,7 @@
       "track": "bof",
       "speakers": [
         "Janez Urevc (slashrsm)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T15:00:00Z",
@@ -2152,8 +1993,7 @@
         "Wim Leers",
         "Jess xjm (xjm)",
         "Neil Drumm (Drumm)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T16:00:00Z",
@@ -2166,8 +2006,7 @@
       "track": "sponsored talk",
       "speakers": [
         "Niklas Franke (Nick.el.diablo)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T16:15:00Z",
@@ -2180,8 +2019,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Luca Lusso"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T16:15:00Z",
@@ -2195,8 +2033,7 @@
       "speakers": [
         "Kerstin Polte (kpolte)",
         "Karin Herbst"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T16:15:00Z",
@@ -2209,8 +2046,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Michael Schmid (Schnitzel)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T16:15:00Z",
@@ -2223,8 +2059,7 @@
       "track": "open web \u0026 community",
       "speakers": [
         "Wilfred Arambhan (Wil2091)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T16:15:00Z",
@@ -2237,8 +2072,7 @@
       "track": "bof",
       "speakers": [
         "Wolfgang Ziegler"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T16:15:00Z",
@@ -2251,8 +2085,7 @@
       "track": "users \u0026 editors",
       "speakers": [
         "Chris Wu (amourow)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T16:15:00Z",
@@ -2265,8 +2098,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Janez Urevc (slashrsm)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T16:15:00Z",
@@ -2279,8 +2111,7 @@
       "track": "bof",
       "speakers": [
         "Suzanne Dergacheva"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T16:15:00Z",
@@ -2293,8 +2124,7 @@
       "track": "bof",
       "speakers": [
         "Cristina Chumillas (ckrina)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T17:15:00Z",
@@ -2307,8 +2137,7 @@
       "track": "bof",
       "speakers": [
         "Fei Lauren"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T17:15:00Z",
@@ -2321,8 +2150,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Wim Leers"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T17:15:00Z",
@@ -2335,8 +2163,7 @@
       "track": "bof",
       "speakers": [
         "Sascha Eggenberger (saschaeggi)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T17:15:00Z",
@@ -2351,8 +2178,7 @@
         "Enno Langelotz (Enno)",
         "Mariana Solorzano",
         "Antonella Severo"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T17:15:00Z",
@@ -2366,8 +2192,7 @@
       "speakers": [
         "István Reszler-Fekete (reszli)",
         "Niels Aers (Nielsaers)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T17:15:00Z",
@@ -2381,8 +2206,7 @@
       "speakers": [
         "Anthony Fox-Davies",
         "Evgeniy Maslovskiy (Spleshka)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T17:15:00Z",
@@ -2395,8 +2219,7 @@
       "track": "bof",
       "speakers": [
         "Mike Gifford (Mgifford)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T17:15:00Z",
@@ -2410,8 +2233,7 @@
       "speakers": [
         "Simon Morvan (garphy)",
         "Jesse Dyck"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T17:15:00Z",
@@ -2424,8 +2246,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Owen Lansbury (Owenlansbury)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T17:40:00Z",
@@ -2438,8 +2259,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Hadda Hreidarsdottir (Hadda)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T17:40:00Z",
@@ -2452,8 +2272,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Pierre Dureau (pdureau)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T17:40:00Z",
@@ -2466,8 +2285,7 @@
       "track": "clients \u0026 industry experiences",
       "speakers": [
         "Ivo Nellis (picco)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T17:40:00Z",
@@ -2481,8 +2299,7 @@
       "speakers": [
         "Pierrick Cadet (Pierrick Cadet)",
         "Xavier Ternisien (Javiertern)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T17:40:00Z",
@@ -2495,8 +2312,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Emma Horrell"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T17:40:00Z",
@@ -2509,8 +2325,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "David Bekker"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2023-10-19T18:00:00Z",
@@ -2518,11 +2333,9 @@
       "duration": "PT30M",
       "summary": "Wrap Up Ceremony Auditorium - DrupalCon 2024 city Announcement",
       "location": "Location Auditorium",
-      "description": "",
       "link": "https://events.drupal.org//lille2023/session/wrap-ceremony-auditorium-drupalcon-2024-city-announcement",
       "track": "other",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2023-10-20T09:00:00Z",
@@ -2530,11 +2343,9 @@
       "duration": "PT9H",
       "summary": "Contribution Day",
       "location": "Location Contribution Room 4.1",
-      "description": "",
       "link": "https://events.drupal.org//lille2023/session/contribution-day",
       "track": "contribution topic",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2023-10-20T09:00:00Z",
@@ -2542,11 +2353,9 @@
       "duration": "PT3H30M",
       "summary": "First Time Contributor Workshop 1ter",
       "location": "Location Contribution Room 4.2",
-      "description": "",
       "link": "https://events.drupal.org//lille2023/session/first-time-contributor-workshop-1ter",
       "track": "contribution topic",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2023-10-20T09:00:00Z",
@@ -2554,13 +2363,11 @@
       "duration": "PT9H",
       "summary": "Mentored Contribution",
       "location": "Location Contribution Room 4.2",
-      "description": "",
       "link": "https://events.drupal.org//lille2023/session/mentored-contribution",
       "track": "contribution topic",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     }
   ],
   "result": "✅",
-  "url": "https://events.drupal.org/lille2023"
+  "url": "https://events.drupal.org/lille2023/schedule"
 }

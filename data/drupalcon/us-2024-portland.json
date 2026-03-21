@@ -1,14 +1,15 @@
 {
   "event": {
-    "Location": "Portland",
-    "Year": "2024",
-    "URL": "https://events.drupal.org/portland2024/schedule",
-    "Region": "America",
-    "EndDate": "2024-05-06T00:00:00Z",
-    "StartDate": "2024-05-09T00:00:00Z",
-    "Website": "https://events.drupal.org/portland2024",
-    "Venue": "Oregon Convention Center",
-    "Timezone": ""
+    "designation": "DrupalCon",
+    "location": "Portland",
+    "year": "2024",
+    "website": "https://events.drupal.org/portland2024",
+    "region": "America",
+    "endDate": "2024-05-06T00:00:00Z",
+    "startDate": "2024-05-09T00:00:00Z",
+    "scheduleURL": "https://events.drupal.org/portland2024/schedule",
+    "venue": "Oregon Convention Center",
+    "timezone": "America/Portland"
   },
   "items": [
     {
@@ -20,8 +21,7 @@
       "description": "Birds of a Feather sessions (or BoFs) are informal gatherings of like-minded individuals who wish to discuss a certain topic without a pre-planned agenda.",
       "link": "https://events.drupal.org//portland2024/session/birds-feather",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-06T08:00:00Z",
@@ -32,8 +32,7 @@
       "description": "If you have experience with Drupal issues and maybe already picked a team/topic, General Contribution is for you. You can join one of the many groups, including: Drupal 9, documentation, migrate, media, front-end, Promote Drupal and more.",
       "link": "https://events.drupal.org//portland2024/session/general-contribution",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-06T08:00:00Z",
@@ -41,11 +40,9 @@
       "duration": "PT9H",
       "summary": "Prayer Room",
       "location": "Location C127",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/prayer-room",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-06T08:00:00Z",
@@ -53,11 +50,9 @@
       "duration": "PT9H",
       "summary": "Quiet Room",
       "location": "Location C128",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/quiet-room",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-06T08:00:00Z",
@@ -65,11 +60,9 @@
       "duration": "PT10H",
       "summary": "Registration Opens",
       "location": "Location Lobby C",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/registration-opens",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-06T08:00:00Z",
@@ -77,11 +70,9 @@
       "duration": "PT50M",
       "summary": "Scholarship Breakfast",
       "location": "Location 204 Oregon Ballroom",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/scholarship-breakfast",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-06T09:00:00Z",
@@ -95,8 +86,7 @@
       "speakers": [
         "Julieelman",
         "kbeck303"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T09:00:00Z",
@@ -109,8 +99,7 @@
       "track": "leadership, management \u0026 business",
       "speakers": [
         "jmcwherter"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T09:00:00Z",
@@ -124,8 +113,7 @@
       "speakers": [
         "cneslund",
         "Britany Acre"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T09:00:00Z",
@@ -139,8 +127,7 @@
       "speakers": [
         "mandee_englert",
         "Amanda Konopko"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T09:00:00Z",
@@ -153,8 +140,7 @@
       "track": "drupal core",
       "speakers": [
         "mglaman"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T09:00:00Z",
@@ -167,8 +153,7 @@
       "track": "content \u0026 marketing",
       "speakers": [
         "nedrahutton"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T09:50:00Z",
@@ -176,11 +161,9 @@
       "duration": "PT40M",
       "summary": "Expo Hall Break",
       "location": "Location Hall C",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/expo-hall-break",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-06T09:55:00Z",
@@ -193,8 +176,7 @@
       "track": "community health",
       "speakers": [
         "Haylee Millar"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T10:30:00Z",
@@ -202,11 +184,9 @@
       "duration": "PT15M",
       "summary": "Welcome Remarks and Aaron Winborn Award (Community Working Group Presenting this Award)",
       "location": "Location 201-203 Oregon Ballroom",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/welcome-remarks-and-aaron-winborn-award-community-working-group-presenting",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-06T10:45:00Z",
@@ -219,8 +199,7 @@
       "track": "",
       "speakers": [
         "Dries Buytaert"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T11:45:00Z",
@@ -228,11 +207,9 @@
       "duration": "PT15M",
       "summary": "GROUP PHOTO",
       "location": "Location Lobby C",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/group-photo",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-06T12:00:00Z",
@@ -240,11 +217,9 @@
       "duration": "PT1H",
       "summary": "Lunch \u0026 Expo Hall",
       "location": "Location Hall C",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/lunch-expo-hall",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-06T12:20:00Z",
@@ -252,11 +227,9 @@
       "duration": "PT1H",
       "summary": "Black in Drupal Lunch",
       "location": "Location 204 Oregon Ballroom",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/black-drupal-lunch",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-06T13:00:00Z",
@@ -264,11 +237,9 @@
       "duration": "PT30M",
       "summary": "Expo Hall Break",
       "location": "Location Hall C",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/expo-hall-break-0",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-06T13:05:00Z",
@@ -281,8 +252,7 @@
       "track": "development \u0026 coding",
       "speakers": [
         "Dan Wilson"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T13:30:00Z",
@@ -296,8 +266,7 @@
       "speakers": [
         "jitka_pilar",
         "Kelly Delaney"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T13:30:00Z",
@@ -310,8 +279,7 @@
       "track": "community health",
       "speakers": [
         "mabolek"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T13:30:00Z",
@@ -325,8 +293,7 @@
       "speakers": [
         "mlhess",
         "hestenet"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T13:30:00Z",
@@ -340,8 +307,7 @@
       "speakers": [
         "johnlutz",
         "Amy Groenhof"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T13:30:00Z",
@@ -354,8 +320,7 @@
       "track": "user experience, accessibility \u0026 design",
       "speakers": [
         "pixelite"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T13:30:00Z",
@@ -372,8 +337,7 @@
         "kmonahan",
         "gbeezus",
         "John Johnson"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T13:30:00Z",
@@ -387,8 +351,7 @@
       "speakers": [
         "penyaskito",
         "plopesc"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T13:30:00Z",
@@ -402,8 +365,7 @@
       "speakers": [
         "michaelemeyers",
         "dinarcon"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T13:30:00Z",
@@ -416,8 +378,7 @@
       "track": "content \u0026 marketing",
       "speakers": [
         "amazingrando"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T14:20:00Z",
@@ -425,11 +386,9 @@
       "duration": "PT40M",
       "summary": "Expo Hall Break",
       "location": "Location Hall C",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/expo-hall-break-1",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-06T15:00:00Z",
@@ -443,8 +402,7 @@
       "speakers": [
         "okljjohnson",
         "jerdavis"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T15:00:00Z",
@@ -458,8 +416,7 @@
       "speakers": [
         "agentrickard",
         "farriss"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T15:00:00Z",
@@ -472,8 +429,7 @@
       "track": "user experience, accessibility \u0026 design",
       "speakers": [
         "Mrina Sugosh"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T15:00:00Z",
@@ -486,8 +442,7 @@
       "track": "leadership, management \u0026 business",
       "speakers": [
         "matthewdichter"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T15:00:00Z",
@@ -504,8 +459,7 @@
         "hestenet",
         "B_man",
         "fjgarlin"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T15:00:00Z",
@@ -518,8 +472,7 @@
       "track": "development \u0026 coding",
       "speakers": [
         "Wim Leers"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T15:00:00Z",
@@ -532,8 +485,7 @@
       "track": "development \u0026 coding",
       "speakers": [
         "michaellander"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T15:00:00Z",
@@ -546,8 +498,7 @@
       "track": "drupal core",
       "speakers": [
         "ckrina"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T15:50:00Z",
@@ -555,11 +506,9 @@
       "duration": "PT20M",
       "summary": "Expo Hall Break",
       "location": "Location Hall C",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/expo-hall-break-2",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-06T16:10:00Z",
@@ -573,8 +522,7 @@
       "speakers": [
         "monicadear",
         "feilauren"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T16:10:00Z",
@@ -588,8 +536,7 @@
       "speakers": [
         "https://www.drupal.org/u/jmolivas",
         "roaguicr"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T16:10:00Z",
@@ -602,8 +549,7 @@
       "track": "community health",
       "speakers": [
         "nicholemaureen"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T16:10:00Z",
@@ -616,8 +562,7 @@
       "track": "content \u0026 marketing",
       "speakers": [
         "matthewdichter"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T16:10:00Z",
@@ -631,8 +576,7 @@
       "speakers": [
         "ashrafabed",
         "nagatahmed"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T16:10:00Z",
@@ -645,8 +589,7 @@
       "track": "content \u0026 marketing",
       "speakers": [
         "_doyle_"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T16:10:00Z",
@@ -660,8 +603,7 @@
       "speakers": [
         "leslieg",
         "chrisfromredfin"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-06T17:00:00Z",
@@ -669,11 +611,9 @@
       "duration": "PT2H",
       "summary": "Welcome Party \u0026 Expo Opening",
       "location": "Location Hall C",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/welcome-party-expo-opening",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-07T08:00:00Z",
@@ -684,8 +624,7 @@
       "description": "Birds of a Feather sessions (or BoFs) are informal gatherings of like-minded individuals who wish to discuss a certain topic without a pre-planned agenda.",
       "link": "https://events.drupal.org//portland2024/session/birds-feather-0",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-07T08:00:00Z",
@@ -696,8 +635,7 @@
       "description": "If you have experience with Drupal issues and maybe already picked a team/topic, General Contribution is for you. You can join one of the many groups, including: Drupal 9, documentation, migrate, media, front-end, Promote Drupal and more.",
       "link": "https://events.drupal.org//portland2024/session/general-contribution-0",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-07T08:00:00Z",
@@ -705,11 +643,9 @@
       "duration": "PT9H",
       "summary": "Prayer Room",
       "location": "Location C127",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/prayer-room-0",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-07T08:00:00Z",
@@ -717,11 +653,9 @@
       "duration": "PT9H",
       "summary": "Quiet Room",
       "location": "Location C128",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/quiet-room-0",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-07T08:00:00Z",
@@ -732,8 +666,7 @@
       "description": "Calling all Drupal jobs seekers and employers! Join us in the Expo Hall on Tuesday morning to tour some amazing Drupal organizations who have open roles.",
       "link": "https://events.drupal.org//portland2024/session/recruitment-fair",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-07T08:00:00Z",
@@ -741,11 +674,9 @@
       "duration": "PT9H",
       "summary": "Registration Opens",
       "location": "Location Lobby C",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/registration-opens-0",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-07T10:00:00Z",
@@ -758,8 +689,7 @@
       "track": "",
       "speakers": [
         "Alex Salkever"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T11:00:00Z",
@@ -767,11 +697,9 @@
       "duration": "PT30M",
       "summary": "Expo Hall Break",
       "location": "Location Hall C",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/expo-hall-break-3",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-07T11:05:00Z",
@@ -784,8 +712,7 @@
       "track": "development \u0026 coding",
       "speakers": [
         "domidc"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T11:30:00Z",
@@ -799,8 +726,7 @@
       "speakers": [
         "johnlutz",
         "akucharski"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T11:30:00Z",
@@ -815,8 +741,7 @@
         "markie",
         "weekbeforenext",
         "mtift"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T11:30:00Z",
@@ -829,8 +754,7 @@
       "track": "drupal core",
       "speakers": [
         "Gábor Hojtsy"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T11:30:00Z",
@@ -845,8 +769,7 @@
         "Owenlansbury",
         "Tim Doyle",
         "farriss"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T11:30:00Z",
@@ -860,8 +783,7 @@
       "speakers": [
         "ultrabob",
         "hktang"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T11:30:00Z",
@@ -874,8 +796,7 @@
       "track": "content \u0026 marketing",
       "speakers": [
         "Jim Banrthouse"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T11:30:00Z",
@@ -888,8 +809,7 @@
       "track": "user experience, accessibility \u0026 design",
       "speakers": [
         "cloos"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T12:20:00Z",
@@ -897,11 +817,9 @@
       "duration": "PT1H",
       "summary": "Lunch \u0026 Expo Hall",
       "location": "Location Hall C",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/lunch-expo-hall-0",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-07T12:20:00Z",
@@ -917,8 +835,7 @@
         "shaortiz728",
         "ltrainjohnson",
         "sebastianna"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T12:45:00Z",
@@ -932,8 +849,7 @@
       "speakers": [
         "elliott.mower",
         "kbasarab"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T13:05:00Z",
@@ -946,8 +862,7 @@
       "track": "leadership, management \u0026 business",
       "speakers": [
         "shash"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T13:20:00Z",
@@ -955,11 +870,9 @@
       "duration": "PT30M",
       "summary": "Expo Hall Break",
       "location": "Location Hall C",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/expo-hall-break-4",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-07T13:25:00Z",
@@ -972,8 +885,7 @@
       "track": "community health",
       "speakers": [
         "bstumbo"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T13:50:00Z",
@@ -986,8 +898,7 @@
       "track": "devops",
       "speakers": [
         "yas"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T13:50:00Z",
@@ -1000,8 +911,7 @@
       "track": "content \u0026 marketing",
       "speakers": [
         "joshk"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T13:50:00Z",
@@ -1015,8 +925,7 @@
       "speakers": [
         "ltrainjohnson",
         "robert-arias"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T13:50:00Z",
@@ -1030,8 +939,7 @@
       "speakers": [
         "sarahjean",
         "rodneyEspinoza84"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T13:50:00Z",
@@ -1044,8 +952,7 @@
       "track": "drupal core",
       "speakers": [
         "mikemadison"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T13:50:00Z",
@@ -1059,8 +966,7 @@
       "speakers": [
         "alexmoreno",
         "irinaz"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T13:50:00Z",
@@ -1074,8 +980,7 @@
       "speakers": [
         "pixelite",
         "jessedyck"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T13:50:00Z",
@@ -1088,8 +993,7 @@
       "track": "site building",
       "speakers": [
         "freelock"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T14:00:00Z",
@@ -1100,8 +1004,7 @@
       "description": "Do you want to contribute but are not sure how? Check out the First Time Contributor Pathway for a list of recommended sessions at DrupalCon Portland to help you figure out how to use your particular skills to contribute to the Drupal project!",
       "link": "https://events.drupal.org//portland2024/session/first-time-contributor-workshop-0",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-07T14:40:00Z",
@@ -1109,11 +1012,9 @@
       "duration": "PT20M",
       "summary": "Expo Hall Break",
       "location": "Location Hall C",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/expo-hall-break-5",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-07T14:45:00Z",
@@ -1126,8 +1027,7 @@
       "track": "community health",
       "speakers": [
         "aburke626"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T15:00:00Z",
@@ -1140,8 +1040,7 @@
       "track": "content \u0026 marketing",
       "speakers": [
         "markdorison"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T15:00:00Z",
@@ -1154,8 +1053,7 @@
       "track": "content \u0026 marketing",
       "speakers": [
         "okljjohnson"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T15:00:00Z",
@@ -1170,8 +1068,7 @@
         "gdemet",
         "Alex Jones",
         "tnascimento"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T15:00:00Z",
@@ -1185,8 +1082,7 @@
       "speakers": [
         "Bjorn Thomson",
         "Ashley Stagg"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T15:00:00Z",
@@ -1199,8 +1095,7 @@
       "track": "drupal core",
       "speakers": [
         "tedbow"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T15:00:00Z",
@@ -1215,8 +1110,7 @@
         "April Tiddei",
         "amazingrando",
         "franzhartl"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T15:00:00Z",
@@ -1229,8 +1123,7 @@
       "track": "devops",
       "speakers": [
         "Kristen Pol"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T15:00:00Z",
@@ -1246,8 +1139,7 @@
         "monicadear",
         "rlhawk",
         "mortona2k"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T15:50:00Z",
@@ -1255,11 +1147,9 @@
       "duration": "PT20M",
       "summary": "Expo Hall Break",
       "location": "Location Hall C",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/expo-hall-break-6",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-07T15:55:00Z",
@@ -1272,8 +1162,7 @@
       "track": "development \u0026 coding",
       "speakers": [
         "mikeegoulding"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T16:10:00Z",
@@ -1286,8 +1175,7 @@
       "track": "site building",
       "speakers": [
         "joshuami"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T16:10:00Z",
@@ -1300,8 +1188,7 @@
       "track": "leadership, management \u0026 business",
       "speakers": [
         "kvantomme"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T16:10:00Z",
@@ -1314,8 +1201,7 @@
       "track": "devops",
       "speakers": [
         "fengtan"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T16:10:00Z",
@@ -1329,8 +1215,7 @@
       "speakers": [
         "jessedyck",
         "mregnault"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T16:10:00Z",
@@ -1343,8 +1228,7 @@
       "track": "development \u0026 coding",
       "speakers": [
         "slashrsm"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-07T16:10:00Z",
@@ -1358,8 +1242,7 @@
       "speakers": [
         "mukulgarg7",
         "jaspreetsingh31"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-08T08:00:00Z",
@@ -1370,8 +1253,7 @@
       "description": "Birds of a Feather sessions (or BoFs) are informal gatherings of like-minded individuals who wish to discuss a certain topic without a pre-planned agenda.",
       "link": "https://events.drupal.org//portland2024/session/birds-feather-1",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-08T08:00:00Z",
@@ -1382,8 +1264,7 @@
       "description": "If you have experience with Drupal issues and maybe already picked a team/topic, General Contribution is for you. You can join one of the many groups, including: Drupal 9, documentation, migrate, media, front-end, Promote Drupal and more.",
       "link": "https://events.drupal.org//portland2024/session/general-contribution-1",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-08T08:00:00Z",
@@ -1391,11 +1272,9 @@
       "duration": "PT50M",
       "summary": "Membership Breakfast",
       "location": "Location 204 Oregon Ballroom",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/membership-breakfast",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-08T08:00:00Z",
@@ -1403,11 +1282,9 @@
       "duration": "PT9H",
       "summary": "Prayer Room",
       "location": "Location C127",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/prayer-room-1",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-08T08:00:00Z",
@@ -1415,11 +1292,9 @@
       "duration": "PT9H",
       "summary": "Quiet Room",
       "location": "Location C128",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/quiet-room-1",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-08T08:00:00Z",
@@ -1427,11 +1302,9 @@
       "duration": "PT9H",
       "summary": "Registration Opens",
       "location": "Location Lobby C",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/registration-opens-1",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-08T09:00:00Z",
@@ -1452,8 +1325,7 @@
         "tedbow",
         "fjgarlin",
         "slashrsm"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-08T10:00:00Z",
@@ -1461,11 +1333,9 @@
       "duration": "PT30M",
       "summary": "Expo Hall Break",
       "location": "Location Hall C",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/expo-hall-break-7",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-08T10:05:00Z",
@@ -1478,8 +1348,7 @@
       "track": "development \u0026 coding",
       "speakers": [
         "tonytosta"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-08T10:30:00Z",
@@ -1494,8 +1363,7 @@
         "Shawn Perritt",
         "nikofthehill",
         "pixelite"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-08T10:30:00Z",
@@ -1506,8 +1374,7 @@
       "description": "Do you want to contribute but are not sure how? Check out the First Time Contributor Pathway for a list of recommended sessions at DrupalCon Portland to help you figure out how to use your particular skills to contribute to the Drupal project!",
       "link": "https://events.drupal.org//portland2024/session/first-time-contributor-workshop",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-08T10:30:00Z",
@@ -1518,8 +1385,7 @@
       "description": "If you are already familiar with the tools we use such as the issue queue or a local development environment, if needed, but could still use help choosing issues and navigating the process, “Mentored Contribution” is for you.",
       "link": "https://events.drupal.org//portland2024/session/mentored-contribution",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-08T12:00:00Z",
@@ -1527,11 +1393,9 @@
       "duration": "PT1H",
       "summary": "Lunch \u0026 Expo Hall",
       "location": "Location Hall C",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/lunch-expo-hall-1",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-08T13:00:00Z",
@@ -1542,8 +1406,7 @@
       "description": "How can marketers contribute?",
       "link": "https://events.drupal.org//portland2024/session/marketing-contribution",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-08T14:30:00Z",
@@ -1551,11 +1414,9 @@
       "duration": "PT30M",
       "summary": "Coffee Break",
       "location": "Location 204 Oregon Ballroom",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/coffee-break",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-09T08:00:00Z",
@@ -1566,8 +1427,7 @@
       "description": "Birds of a Feather sessions (or BoFs) are informal gatherings of like-minded individuals who wish to discuss a certain topic without a pre-planned agenda.",
       "link": "https://events.drupal.org//portland2024/session/birds-feather-2",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-09T08:00:00Z",
@@ -1575,11 +1435,9 @@
       "duration": "PT5H",
       "summary": "Expo Hall Opens",
       "location": "Location Hall C",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/expo-hall-opens",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-09T08:00:00Z",
@@ -1590,8 +1448,7 @@
       "description": "If you have experience with Drupal issues and maybe already picked a team/topic, General Contribution is for you. You can join one of the many groups, including: Drupal 9, documentation, migrate, media, front-end, Promote Drupal and more.",
       "link": "https://events.drupal.org//portland2024/session/general-contribution-2",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-09T08:00:00Z",
@@ -1599,11 +1456,9 @@
       "duration": "PT9H",
       "summary": "Prayer Room",
       "location": "Location C127",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/prayer-room-2",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-09T08:00:00Z",
@@ -1611,11 +1466,9 @@
       "duration": "PT9H",
       "summary": "Quiet Room",
       "location": "Location C128",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/quiet-room-2",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-09T08:00:00Z",
@@ -1623,11 +1476,9 @@
       "duration": "PT9H",
       "summary": "Registration Opens",
       "location": "Location Lobby C",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/registration-opens-2",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-09T09:00:00Z",
@@ -1647,8 +1498,7 @@
         "pixelite",
         "mtift",
         "volkswagenchick"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-09T09:00:00Z",
@@ -1661,8 +1511,7 @@
       "track": "",
       "speakers": [
         "jennaharrismosley"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-09T09:00:00Z",
@@ -1680,8 +1529,7 @@
         "Jonathan Stewart",
         "Maile Conwi",
         "Morgan Guegan"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-09T09:00:00Z",
@@ -1704,8 +1552,7 @@
         "d70rr3s",
         "kbasarab",
         "elliott.mower"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-09T09:00:00Z",
@@ -1722,8 +1569,7 @@
         "hestenet",
         "Jess Snyder",
         "fjgarlin"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-09T09:00:00Z",
@@ -1736,8 +1582,7 @@
       "track": "",
       "speakers": [
         "ashrafabed"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-09T09:00:00Z",
@@ -1750,8 +1595,7 @@
       "track": "",
       "speakers": [
         "ultimike"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-09T09:00:00Z",
@@ -1765,8 +1609,7 @@
       "speakers": [
         "mregnault",
         "dharizza"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-09T09:15:00Z",
@@ -1780,8 +1623,7 @@
       "speakers": [
         "sujathavaradharajan",
         "Donald McLeod"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-09T10:20:00Z",
@@ -1794,8 +1636,7 @@
       "track": "training",
       "speakers": [
         "mandee_englert"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-09T11:00:00Z",
@@ -1808,8 +1649,7 @@
       "track": "site building",
       "speakers": [
         "Sam Pettinati"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-09T11:15:00Z",
@@ -1822,8 +1662,7 @@
       "track": "leadership, management \u0026 business",
       "speakers": [
         "andywaldrop"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-09T11:30:00Z",
@@ -1837,8 +1676,7 @@
       "speakers": [
         "joshnorthcott",
         "Bryan Stifle"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-09T11:30:00Z",
@@ -1851,8 +1689,7 @@
       "track": "drupal showcase",
       "speakers": [
         "jkriigel"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-09T12:00:00Z",
@@ -1860,11 +1697,9 @@
       "duration": "PT1H",
       "summary": "Lunch",
       "location": "Location Hall B",
-      "description": "",
       "link": "https://events.drupal.org//portland2024/session/lunch",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-05-09T13:00:00Z",
@@ -1877,8 +1712,7 @@
       "track": "leadership, management \u0026 business",
       "speakers": [
         "Adrienne Smith"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-09T14:20:00Z",
@@ -1892,8 +1726,7 @@
       "speakers": [
         "elliott.mower",
         "kbasarab"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-05-09T18:30:00Z",
@@ -1904,10 +1737,9 @@
       "description": "Trivia Night is happening, steps from the convention center at the Spirit of 77 500 NE Martin Luther King Jr Blvd, Portland, OR 97232",
       "link": "https://events.drupal.org//portland2024/session/trivia-night",
       "track": "",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     }
   ],
   "result": "✅",
-  "url": "https://events.drupal.org/portland2024"
+  "url": "https://events.drupal.org/portland2024/schedule"
 }

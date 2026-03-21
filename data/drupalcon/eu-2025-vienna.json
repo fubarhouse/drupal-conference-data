@@ -1,14 +1,15 @@
 {
   "event": {
-    "Location": "Vienna",
-    "Year": "2025",
-    "URL": "https://events.drupal.org/vienna2025/schedule",
-    "Region": "Europe",
-    "EndDate": "2025-10-17T00:00:00Z",
-    "StartDate": "2025-10-14T00:00:00Z",
-    "Website": "https://events.drupal.org/vienna2025",
-    "Venue": "Austria Center Vienna",
-    "Timezone": ""
+    "designation": "DrupalCon",
+    "location": "Vienna",
+    "year": "2025",
+    "website": "https://events.drupal.org/vienna2025",
+    "region": "Europe",
+    "endDate": "2025-10-17T00:00:00Z",
+    "startDate": "2025-10-14T00:00:00Z",
+    "scheduleURL": "https://events.drupal.org/vienna2025/schedule",
+    "venue": "Austria Center Vienna",
+    "timezone": "Europe/Vienna"
   },
   "items": [
     {
@@ -17,11 +18,9 @@
       "duration": "PT9H30M",
       "summary": "General Contribution Day 1",
       "location": "Location Contribution Room (Hall K)",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/general-contribution-day-1",
       "track": "contribution topic",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-10-14T10:30:00Z",
@@ -29,11 +28,9 @@
       "duration": "PT1H30M",
       "summary": "Opening Ceremony + Women in Drupal Award",
       "location": "Location Auditorium (Hall D)",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/opening-ceremony-women-drupal-award",
       "track": "other",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-10-14T12:00:00Z",
@@ -41,11 +38,9 @@
       "duration": "PT1H15M",
       "summary": "Welcome Lunch",
       "location": "Location Exhibition Hall - X2",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/welcome-lunch",
       "track": "coffee \u0026 lunch break time",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-10-14T13:15:00Z",
@@ -56,8 +51,7 @@
       "description": "Belgium-born Drupal founder Dries Buytaert is a pioneer in the Open Source web publishing and digital experience platform space. As is tradition, Dries will take the stage at the Austria Center Vienna for his Driesnote presentation.",
       "link": "https://events.drupal.org//vienna2025/session/driesnote-auditorium",
       "track": "keynote",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-10-14T14:30:00Z",
@@ -65,11 +59,9 @@
       "duration": "PT15M",
       "summary": "Group Photo",
       "location": "Location Austria Center Vienna",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/group-photo",
       "track": "other",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-10-14T14:45:00Z",
@@ -82,8 +74,7 @@
       "track": "open web",
       "speakers": [
         "John Lockhart (jwlockhart)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T14:45:00Z",
@@ -96,8 +87,7 @@
       "track": "coding \u0026 site building",
       "speakers": [
         "Tony Barker (tonypaulbarker)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T14:45:00Z",
@@ -110,8 +100,7 @@
       "track": "bof",
       "speakers": [
         "Randy Fay (rfay)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T14:45:00Z",
@@ -125,8 +114,7 @@
       "speakers": [
         "Lauri Timmanee (lauriii)",
         "Bálint Kléri (balintbrews)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T14:45:00Z",
@@ -139,8 +127,7 @@
       "track": "infosec \u0026 devops",
       "speakers": [
         "Marji Cermak (Marji)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T14:45:00Z",
@@ -153,8 +140,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Dominique De Cooman (Domidc)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T14:45:00Z",
@@ -162,14 +148,12 @@
       "duration": "PT45M",
       "summary": "Mentor Orientation 1",
       "location": "Location Room BoF (-2.82)",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/mentor-orientation-1",
       "track": "contribution topic",
       "speakers": [
         "Chris Darke (Chrisdarke)",
         "Rachel Lawson (Rachel_norfolk)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T14:45:00Z",
@@ -183,8 +167,7 @@
       "speakers": [
         "Olga Tsiamliak (Volha-tsiamliak)",
         "Bastien Chanot"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T14:45:00Z",
@@ -197,8 +180,7 @@
       "track": "infosec \u0026 devops",
       "speakers": [
         "Nicolas PERUSSEL (mamoot)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T14:45:00Z",
@@ -211,8 +193,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Hetal Mistry (Hetalad)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T14:45:00Z",
@@ -225,8 +206,7 @@
       "track": "community health",
       "speakers": [
         "Martin Anderson-Clutz (mandclu)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T15:30:00Z",
@@ -234,11 +214,9 @@
       "duration": "PT30M",
       "summary": "Coffee Break, Tuesday",
       "location": "Location Exhibition Hall - X2",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/coffee-break-tuesday",
       "track": "coffee \u0026 lunch break time",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-10-14T15:40:00Z",
@@ -251,8 +229,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Ryan Szrama (Rszrama)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T16:00:00Z",
@@ -260,11 +237,9 @@
       "duration": "PT45M",
       "summary": "Drupal Association Public Board Meeting",
       "location": "Location Session Room (-2.42)",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/drupal-association-public-board-meeting",
       "track": "community health",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-10-14T16:00:00Z",
@@ -278,8 +253,7 @@
       "speakers": [
         "Cristina Chumillas (ckrina)",
         "Pamela Barone (Pameeela)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T16:00:00Z",
@@ -287,13 +261,11 @@
       "duration": "PT45M",
       "summary": "First-Time Contributor Workshop - Tuesday",
       "location": "Location Room BoF (-2.82)",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/first-time-contributor-workshop-tuesday",
       "track": "contribution topic",
       "speakers": [
         "James Shields (Lostcarpark)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T16:00:00Z",
@@ -306,8 +278,7 @@
       "track": "coding \u0026 site building",
       "speakers": [
         "AmyJune Hineline (Volkswagenchick)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T16:00:00Z",
@@ -321,8 +292,7 @@
       "speakers": [
         "Guillaume Moigneu (Gmoigneu)",
         "Florent Huck (Flovntp)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T16:00:00Z",
@@ -339,8 +309,7 @@
         "David Bishop (David_bishop)",
         "Paul Johnson (pdjohnson)",
         "Matthew Saunders (Matthews)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T16:00:00Z",
@@ -353,8 +322,7 @@
       "track": "infosec \u0026 devops",
       "speakers": [
         "Janna Malikova (Jannakha)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T16:00:00Z",
@@ -367,8 +335,7 @@
       "track": "coding \u0026 site building",
       "speakers": [
         "Ondřej Mirtes"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T16:50:00Z",
@@ -381,8 +348,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Wolfgang Ziegler (fago)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T17:00:00Z",
@@ -395,8 +361,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Paul Sebborn (psebborn)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T17:00:00Z",
@@ -409,8 +374,7 @@
       "track": "coding \u0026 site building",
       "speakers": [
         "Benjamin Rasmussen (Ras-ben)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T17:00:00Z",
@@ -423,8 +387,7 @@
       "track": "community health",
       "speakers": [
         "Alvaro J Hurtado Villegas (Alvar0hurtad0)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T17:00:00Z",
@@ -437,8 +400,7 @@
       "track": "coding \u0026 site building",
       "speakers": [
         "Boyan Borisov (boyan.borisov)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T17:00:00Z",
@@ -451,8 +413,7 @@
       "track": "coding \u0026 site building",
       "speakers": [
         "Rodrigo Panchiniak Fernandes (Rodrigo-panchiniak-fernandes)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T17:00:00Z",
@@ -466,8 +427,7 @@
       "speakers": [
         "Eriol Fox",
         "Victory Brown (Victory Brown)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T17:00:00Z",
@@ -480,8 +440,7 @@
       "track": "clients \u0026 industry experiences",
       "speakers": [
         "Iztok Smolic (iztok)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T17:05:00Z",
@@ -494,8 +453,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Tony Barker (tonypaulbarker)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T17:20:00Z",
@@ -508,8 +466,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Shibin Das (d34dman)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-14T17:30:00Z",
@@ -517,11 +474,9 @@
       "duration": "PT1H",
       "summary": "The International Splash Awards 2025 Ceremony",
       "location": "Location Auditorium (Hall D)",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/international-splash-awards-2025-ceremony",
       "track": "other",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-10-14T18:30:00Z",
@@ -529,11 +484,9 @@
       "duration": "PT1H",
       "summary": "Opening Reception",
       "location": "Location Exhibition Hall - X2",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/opening-reception",
       "track": "other",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-10-15T08:00:00Z",
@@ -541,11 +494,9 @@
       "duration": "PT30M",
       "summary": "Morning Coffee, Wednesday",
       "location": "Location Exhibition Hall - X2",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/morning-coffee-wednesday",
       "track": "coffee \u0026 lunch break time",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-10-15T08:15:00Z",
@@ -553,11 +504,9 @@
       "duration": "PT9H45M",
       "summary": "General Contribution Day 2",
       "location": "Location Contribution Room (Hall K)",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/general-contribution-day-2",
       "track": "contribution topic",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-10-15T08:45:00Z",
@@ -570,8 +519,7 @@
       "track": "keynote",
       "speakers": [
         "Vera Herzmann"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T10:00:00Z",
@@ -579,11 +527,9 @@
       "duration": "PT30M",
       "summary": "Coffee Break 1, Wednesday",
       "location": "Location Exhibition Hall - X2",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/coffee-break-1-wednesday",
       "track": "coffee \u0026 lunch break time",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-10-15T10:00:00Z",
@@ -596,8 +542,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Michael Schmid (Schnitzel)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T10:30:00Z",
@@ -610,8 +555,7 @@
       "track": "bof",
       "speakers": [
         "Randy Fay (rfay)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T10:30:00Z",
@@ -624,8 +568,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Ricardo Tenreiro de Sá (Ricardotenreiro)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T10:30:00Z",
@@ -639,8 +582,7 @@
       "speakers": [
         "Jason Thompson (Galactus86)",
         "Pamela Barone (Pameeela)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T10:30:00Z",
@@ -654,8 +596,7 @@
       "speakers": [
         "Bálint Kléri (balintbrews)",
         "Wolfgang Ziegler (fago)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T10:30:00Z",
@@ -663,14 +604,12 @@
       "duration": "PT45M",
       "summary": "Mentor Orientation 2",
       "location": "Location Room BoF (-2.82)",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/mentor-orientation-2",
       "track": "contribution topic",
       "speakers": [
         "Michael Lenahan (Michaellenahan)",
         "James Shields (Lostcarpark)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T10:30:00Z",
@@ -683,8 +622,7 @@
       "track": "coding \u0026 site building",
       "speakers": [
         "Sebastian Bergmann"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T10:30:00Z",
@@ -697,8 +635,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Monisha Navlani (monishanavlani)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T10:30:00Z",
@@ -712,8 +649,7 @@
       "speakers": [
         "Bram ten Hove",
         "Kristof Van Tomme (kvantomme)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T10:30:00Z",
@@ -727,8 +663,7 @@
       "speakers": [
         "Christoph Breidert (breidert)",
         "Frederik Wouters (Wouters_f)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T10:55:00Z",
@@ -741,8 +676,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Stanislav Todorov (Stodorov)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T11:30:00Z",
@@ -755,8 +689,7 @@
       "track": "coding \u0026 site building",
       "speakers": [
         "Luca Lusso (lussoluca)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T11:30:00Z",
@@ -769,8 +702,7 @@
       "track": "community health",
       "speakers": [
         "Nikita Aswani (Nikitaaswani)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T11:30:00Z",
@@ -783,8 +715,7 @@
       "track": "infosec \u0026 devops",
       "speakers": [
         "Ovanes Budakyan (ovanes)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T11:30:00Z",
@@ -798,8 +729,7 @@
       "speakers": [
         "Josh Koenig (Josh_k)",
         "Alex Moreno López"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T11:30:00Z",
@@ -814,8 +744,7 @@
         "Cristina Chumillas (ckrina)",
         "Josef Kruckenberg (dasjo)",
         "Lauri Timmanee (lauriii)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T11:30:00Z",
@@ -828,8 +757,7 @@
       "track": "bof",
       "speakers": [
         "Rachel Lawson (Rachel_norfolk)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T11:30:00Z",
@@ -843,8 +771,7 @@
       "speakers": [
         "Jess Vetsuypers (Jessvetsuypers)",
         "Eline Van Coillie (Eline Van Coillie)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T11:30:00Z",
@@ -857,8 +784,7 @@
       "track": "drupal cms",
       "speakers": [
         "Adam Globus-Hoenich (phenaproxima)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T11:30:00Z",
@@ -871,8 +797,7 @@
       "track": "bof",
       "speakers": [
         "James Shields (Lostcarpark)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T11:55:00Z",
@@ -886,8 +811,7 @@
       "speakers": [
         "Norman Kämper-Leymann (normanlol)",
         "Svitlana Fedchenko (svitlana)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T12:15:00Z",
@@ -895,11 +819,9 @@
       "duration": "PT1H15M",
       "summary": "Lunch Break, Wednesday",
       "location": "Location Exhibition Hall - X2",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/lunch-break-wednesday-0",
       "track": "coffee \u0026 lunch break time",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-10-15T12:25:00Z",
@@ -910,8 +832,7 @@
       "description": "Join us for our Women in Drupal Networking Event!",
       "link": "https://events.drupal.org//vienna2025/session/women-drupal-networking-event-sponsored-jakala",
       "track": "sponsor talks",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-10-15T12:30:00Z",
@@ -924,8 +845,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Greg OToole (gto1)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T12:45:00Z",
@@ -938,8 +858,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Laurence Jones"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T13:30:00Z",
@@ -955,8 +874,7 @@
         "Sachiko Muto",
         "Ondřej Mirtes",
         "Derick Rethans"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T15:00:00Z",
@@ -970,8 +888,7 @@
       "speakers": [
         "Panagiotis Moutsopoulos (Vensires)",
         "Esmeralda Tijhoff (Esmoves)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T15:00:00Z",
@@ -985,8 +902,7 @@
       "speakers": [
         "Will Callaghan (Willguv)",
         "Finn Lewis (finn lewis)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T15:00:00Z",
@@ -999,8 +915,7 @@
       "track": "clients \u0026 industry experiences",
       "speakers": [
         "Anubhav Tiwari (tiwarianubhav22)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T15:00:00Z",
@@ -1013,8 +928,7 @@
       "track": "bof",
       "speakers": [
         "Dezső Biczó (Mxr576)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T15:00:00Z",
@@ -1028,8 +942,7 @@
       "speakers": [
         "Mauricio Dinarte (dinarcon)",
         "Wendy Baltodano (Baltowen)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T15:00:00Z",
@@ -1042,8 +955,7 @@
       "track": "coding \u0026 site building",
       "speakers": [
         "Christian López Espínola (penyaskito)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T15:00:00Z",
@@ -1056,8 +968,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Artem Dmitriiev (admitriiev)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T15:00:00Z",
@@ -1065,13 +976,11 @@
       "duration": "PT45M",
       "summary": "First-Time Contributor Workshop - Wednesday",
       "location": "Location Room BoF (-2.82)",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/first-time-contributor-workshop-wednesday",
       "track": "contribution topic",
       "speakers": [
         "Rachel Lawson (Rachel_norfolk)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T15:00:00Z",
@@ -1084,8 +993,7 @@
       "track": "clients \u0026 industry experiences",
       "speakers": [
         "Lukas Fischer (lukasfischer)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T15:00:00Z",
@@ -1098,8 +1006,7 @@
       "track": "infosec \u0026 devops",
       "speakers": [
         "Antje Lorch (Ifrik)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T15:00:00Z",
@@ -1112,8 +1019,7 @@
       "track": "coding \u0026 site building",
       "speakers": [
         "Fabian Bircher (Bircher)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T15:00:00Z",
@@ -1126,8 +1032,7 @@
       "track": "bof",
       "speakers": [
         "Randy Fay (rfay)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T15:45:00Z",
@@ -1135,11 +1040,9 @@
       "duration": "PT30M",
       "summary": "Coffee Break 2, Wednesday",
       "location": "Location Exhibition Hall - X2",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/coffee-break-2-wednesday",
       "track": "coffee \u0026 lunch break time",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-10-15T15:45:00Z",
@@ -1153,8 +1056,7 @@
       "speakers": [
         "Senthil Prabakaran (Spfoos)",
         "Phuoc Lieu"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T16:15:00Z",
@@ -1167,8 +1069,7 @@
       "track": "community health",
       "speakers": [
         "Esmeralda Tijhoff (Esmoves)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T16:15:00Z",
@@ -1181,8 +1082,7 @@
       "track": "drupal cms",
       "speakers": [
         "Chris Wells (Chrisfromredfin)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T16:15:00Z",
@@ -1198,8 +1098,7 @@
         "Fran Garcia-Linares (fjgarlin)",
         "Timothy Lehnen (Hestenet)",
         "Neil Drumm (drumm)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T16:15:00Z",
@@ -1212,8 +1111,7 @@
       "track": "bof",
       "speakers": [
         "Roberto Peruzzo (robertoperuzzo)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T16:15:00Z",
@@ -1227,8 +1125,7 @@
       "speakers": [
         "Matt Glaman (mglaman)",
         "Mike Herchel (mherchel)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T16:15:00Z",
@@ -1241,8 +1138,7 @@
       "track": "open web",
       "speakers": [
         "Franz Joseph Hartl (Franzhartl)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T16:15:00Z",
@@ -1255,8 +1151,7 @@
       "track": "bof",
       "speakers": [
         "Finn Lewis (finn lewis)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T16:15:00Z",
@@ -1269,8 +1164,7 @@
       "track": "infosec \u0026 devops",
       "speakers": [
         "Vijay Mani (vijaycs85)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T16:15:00Z",
@@ -1286,8 +1180,7 @@
         "Jean-Paul Vosmeer (Jpvos)",
         "Rachel Lawson (Rachel_norfolk)",
         "Lenny Moskalyk (Lenny Moskalyk)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T16:15:00Z",
@@ -1300,8 +1193,7 @@
       "track": "drupal cms",
       "speakers": [
         "James Abrahams (Yautja_cetanu)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T17:15:00Z",
@@ -1315,8 +1207,7 @@
       "speakers": [
         "Miroslav Rusev (Mup0)",
         "Daniel Angelov (danielangelov)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T17:15:00Z",
@@ -1329,8 +1220,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Cláudia Desidério (claudiadesiderio)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T17:15:00Z",
@@ -1343,8 +1233,7 @@
       "track": "bof",
       "speakers": [
         "George Kaffezas (gkffzs)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T17:15:00Z",
@@ -1357,8 +1246,7 @@
       "track": "infosec \u0026 devops",
       "speakers": [
         "Moshe Weitzman (moshe weitzman)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T17:15:00Z",
@@ -1372,8 +1260,7 @@
       "speakers": [
         "Baddý Sonja Breidert (baddysonja)",
         "Grischa Marky (Gmarky)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T17:15:00Z",
@@ -1387,8 +1274,7 @@
       "speakers": [
         "Fabian Bircher (Bircher)",
         "Sally Young (Justafish)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T17:15:00Z",
@@ -1404,8 +1290,7 @@
         "Esmeralda Tijhoff (Esmoves)",
         "Imre Gmelig Meijling (Imre-gmelig-meijling)",
         "Marine Gandy (Mupsi)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T17:15:00Z",
@@ -1418,8 +1303,7 @@
       "track": "infosec \u0026 devops",
       "speakers": [
         "Constantin Dumitrescu (oldspot)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T17:40:00Z",
@@ -1432,8 +1316,7 @@
       "track": "coding \u0026 site building",
       "speakers": [
         "Raffaele Chiocca (Rafuel92)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T17:40:00Z",
@@ -1446,8 +1329,7 @@
       "track": "coding \u0026 site building",
       "speakers": [
         "Duncan Worrell (Dunx)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T17:40:00Z",
@@ -1460,8 +1342,7 @@
       "track": "community health",
       "speakers": [
         "Anish Anilkumar (anish.a)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T17:40:00Z",
@@ -1474,8 +1355,7 @@
       "track": "infosec \u0026 devops",
       "speakers": [
         "Roman Paska (Taran2l)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-15T17:40:00Z",
@@ -1488,8 +1368,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Rae Pizer (Raeloupi)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T08:30:00Z",
@@ -1497,11 +1376,9 @@
       "duration": "PT45M",
       "summary": "Morning Coffee, Thursday",
       "location": "Location Exhibition Hall - X2",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/morning-coffee-thursday",
       "track": "coffee \u0026 lunch break time",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-10-16T08:45:00Z",
@@ -1509,11 +1386,9 @@
       "duration": "PT9H15M",
       "summary": "General Contribution Day 3",
       "location": "Location Contribution Room (Hall K)",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/general-contribution-day-3",
       "track": "contribution topic",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-10-16T09:15:00Z",
@@ -1526,8 +1401,7 @@
       "track": "coding \u0026 site building",
       "speakers": [
         "Vincenzo Gambino (Vincenzo Gambino)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T09:15:00Z",
@@ -1540,8 +1414,7 @@
       "track": "bof",
       "speakers": [
         "Randy Fay (rfay)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T09:15:00Z",
@@ -1556,8 +1429,7 @@
         "Janne Kalliola (jannekalliola)",
         "Michel Van Velde (Michel Van Velde)",
         "Imre Gmelig Meijling (Imre-gmelig-meijling)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T09:15:00Z",
@@ -1570,8 +1442,7 @@
       "track": "infosec \u0026 devops",
       "speakers": [
         "Aleksei Korepov (Murz)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T09:15:00Z",
@@ -1584,8 +1455,7 @@
       "track": "community health",
       "speakers": [
         "John Albin Wilkins (Johnalbin)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T09:15:00Z",
@@ -1598,8 +1468,7 @@
       "track": "drupal cms",
       "speakers": [
         "Kristen Pol (Kristen Pol)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T09:15:00Z",
@@ -1612,8 +1481,7 @@
       "track": "drupal cms",
       "speakers": [
         "Emma Horrell (emma horrell)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T09:15:00Z",
@@ -1626,8 +1494,7 @@
       "track": "clients \u0026 industry experiences",
       "speakers": [
         "Roland Obermair (Roromedia)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T09:15:00Z",
@@ -1640,8 +1507,7 @@
       "track": "clients \u0026 industry experiences",
       "speakers": [
         "Greg Sines (Gregn0r)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T09:40:00Z",
@@ -1654,8 +1520,7 @@
       "track": "community health",
       "speakers": [
         "Diego Costa (diegofcosta)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T10:00:00Z",
@@ -1663,11 +1528,9 @@
       "duration": "PT30M",
       "summary": "Coffee Break 1, Thursday",
       "location": "Location Exhibition Hall - X2",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/coffee-break-1-thursday",
       "track": "coffee \u0026 lunch break time",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-10-16T10:10:00Z",
@@ -1680,8 +1543,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Vijay Mani (vijaycs85)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T10:30:00Z",
@@ -1694,8 +1556,7 @@
       "track": "open web",
       "speakers": [
         "Ulka Bendale (Bendale)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T10:30:00Z",
@@ -1708,8 +1569,7 @@
       "track": "coding \u0026 site building",
       "speakers": [
         "Derick Rethans"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T10:30:00Z",
@@ -1723,8 +1583,7 @@
       "speakers": [
         "Chris Vickery (Kafkadoodledoo)",
         "AmyJune Hineline (Volkswagenchick)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T10:30:00Z",
@@ -1737,8 +1596,7 @@
       "track": "community health",
       "speakers": [
         "Tiffany Farriss (Farriss)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T10:30:00Z",
@@ -1751,8 +1609,7 @@
       "track": "bof",
       "speakers": [
         "Gábor Hojtsy (gábor hojtsy)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T10:30:00Z",
@@ -1765,8 +1622,7 @@
       "track": "clients \u0026 industry experiences",
       "speakers": [
         "Yorgos Andreadis (Esepia)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T10:30:00Z",
@@ -1781,8 +1637,7 @@
         "Monika VLADIMIROVA (Vladimo)",
         "Adam Nagy (joevagyok)",
         "Joao SANTOS (Jonhy81)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T10:30:00Z",
@@ -1790,13 +1645,11 @@
       "duration": "PT45M",
       "summary": "Local Drupal Regions \u0026 Associations Round Table",
       "location": "Location Room BoF (-2.82)",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/local-drupal-regions-associations-round-table",
       "track": "other",
       "speakers": [
         "DrupalCon Vienna 2025"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T10:30:00Z",
@@ -1810,8 +1663,7 @@
       "speakers": [
         "Rodrigo Panchiniak Fernandes (Rodrigo-panchiniak-fernandes)",
         "Renato Vasconcellos Gomes (revagomes)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T10:30:00Z",
@@ -1827,8 +1679,7 @@
         "Anish Anilkumar (anish.a)",
         "Dick Hardt (Dickhardt)",
         "Santhosh Raju"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T10:55:00Z",
@@ -1841,8 +1692,7 @@
       "track": "clients \u0026 industry experiences",
       "speakers": [
         "James Hall (jamesh-0)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T10:55:00Z",
@@ -1855,8 +1705,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Ryan Szrama (Rszrama)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T11:30:00Z",
@@ -1869,8 +1718,7 @@
       "track": "coding \u0026 site building",
       "speakers": [
         "Marcus Johansson (marcus_johansson)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T11:30:00Z",
@@ -1884,8 +1732,7 @@
       "speakers": [
         "Jeffrey McGuire (horncologne)",
         "Mathias Bolt Lesniak (mabolek)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T11:30:00Z",
@@ -1898,8 +1745,7 @@
       "track": "coding \u0026 site building",
       "speakers": [
         "Pierre Dureau (Pdureau)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T11:30:00Z",
@@ -1912,8 +1758,7 @@
       "track": "bof",
       "speakers": [
         "Esmeralda Tijhoff (Esmoves)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T11:30:00Z",
@@ -1927,8 +1772,7 @@
       "speakers": [
         "Vladimir Roudakov (VladimirAus)",
         "Janna Malikova (Jannakha)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T11:30:00Z",
@@ -1941,8 +1785,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "George DeMet (gdemet)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T11:30:00Z",
@@ -1955,8 +1798,7 @@
       "track": "bof",
       "speakers": [
         "Gábor Hojtsy (gábor hojtsy)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T11:30:00Z",
@@ -1969,8 +1811,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Alessandra Petromilli"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T11:30:00Z",
@@ -1983,8 +1824,7 @@
       "track": "coding \u0026 site building",
       "speakers": [
         "Nikola Svitlica (thecelavi)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T12:15:00Z",
@@ -1992,11 +1832,9 @@
       "duration": "PT1H15M",
       "summary": "Lunch Break, Thursday",
       "location": "Location Exhibition Hall - X2",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/lunch-break-thursday",
       "track": "coffee \u0026 lunch break time",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-10-16T13:00:00Z",
@@ -2010,8 +1848,7 @@
       "speakers": [
         "Nico Grienauer (Grienauer)",
         "David Spiola"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T13:30:00Z",
@@ -2028,8 +1865,7 @@
         "Yolanda Górriz Expósito (ygoex)",
         "Kristen Pol (Kristen Pol)",
         "Bálint Kléri (balintbrews)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T15:00:00Z",
@@ -2042,8 +1878,7 @@
       "track": "clients \u0026 industry experiences",
       "speakers": [
         "Daniel Angelov (danielangelov)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T15:00:00Z",
@@ -2056,8 +1891,7 @@
       "track": "coding \u0026 site building",
       "speakers": [
         "Markus Kalkbrenner (mkalkbrenner)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T15:00:00Z",
@@ -2071,8 +1905,7 @@
       "speakers": [
         "Christoph Breidert (breidert)",
         "Frederik Wouters (Wouters_f)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T15:00:00Z",
@@ -2085,8 +1918,7 @@
       "track": "clients \u0026 industry experiences",
       "speakers": [
         "Daniil Borysenko (Daniil_borysenko)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T15:00:00Z",
@@ -2099,8 +1931,7 @@
       "track": "bof",
       "speakers": [
         "Randy Fay (rfay)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T15:00:00Z",
@@ -2113,8 +1944,7 @@
       "track": "bof",
       "speakers": [
         "Antje Lorch (Ifrik)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T15:00:00Z",
@@ -2122,13 +1952,11 @@
       "duration": "PT45M",
       "summary": "Issue Triage",
       "location": "Location Room BoF (-2.82)",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/issue-triage",
       "track": "contribution topic",
       "speakers": [
         "Rodrigo Aguilera (Rodrigoaguilera)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T15:00:00Z",
@@ -2142,8 +1970,7 @@
       "speakers": [
         "Alex Langley (A_langley)",
         "David Bishop (David_bishop)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T15:00:00Z",
@@ -2158,8 +1985,7 @@
         "Imre Gmelig Meijling (Imre-gmelig-meijling)",
         "Janne Kalliola (jannekalliola)",
         "Michel Van Velde (Michel Van Velde)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T15:00:00Z",
@@ -2172,8 +1998,7 @@
       "track": "infosec \u0026 devops",
       "speakers": [
         "Ricardo Sanz Ante (Tunic)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T15:00:00Z",
@@ -2186,8 +2011,7 @@
       "track": "coding \u0026 site building",
       "speakers": [
         "Alexander Varwijk (Kingdutch)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T15:25:00Z",
@@ -2201,8 +2025,7 @@
       "speakers": [
         "Tanja Jesse",
         "Annam Ravin (Annam-sreenivasan)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T15:45:00Z",
@@ -2210,11 +2033,9 @@
       "duration": "PT30M",
       "summary": "Coffee Break 2, Thursday",
       "location": "Location Exhibition Hall - X2",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/coffee-break-2-thursday",
       "track": "coffee \u0026 lunch break time",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-10-16T16:15:00Z",
@@ -2227,8 +2048,7 @@
       "track": "open web",
       "speakers": [
         "John Albin Wilkins (Johnalbin)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T16:15:00Z",
@@ -2241,8 +2061,7 @@
       "track": "coding \u0026 site building",
       "speakers": [
         "Nathaniel Catchpole (Catch)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T16:15:00Z",
@@ -2255,8 +2074,7 @@
       "track": "clients \u0026 industry experiences",
       "speakers": [
         "Petra Morawa-zechner (pemoze)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T16:15:00Z",
@@ -2270,8 +2088,7 @@
       "speakers": [
         "Maksym Yemets (Cmd87)",
         "Artem Dmitriiev (admitriiev)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T16:15:00Z",
@@ -2284,8 +2101,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Pritish Kumar (pritishkumar)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T16:15:00Z",
@@ -2298,8 +2114,7 @@
       "track": "coding \u0026 site building",
       "speakers": [
         "Shibin Das (d34dman)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T16:15:00Z",
@@ -2312,8 +2127,7 @@
       "track": "coding \u0026 site building",
       "speakers": [
         "Mike Herchel (mherchel)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T16:15:00Z",
@@ -2326,8 +2140,7 @@
       "track": "bof",
       "speakers": [
         "Roberto Peruzzo (robertoperuzzo)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T16:40:00Z",
@@ -2340,8 +2153,7 @@
       "track": "drupal cms",
       "speakers": [
         "Raquel Fialho (raqfialho)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T16:40:00Z",
@@ -2355,8 +2167,7 @@
       "speakers": [
         "Sofiane Boudadi",
         "Janick Cox (Jaynike)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T17:05:00Z",
@@ -2369,8 +2180,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Christoph Mangold"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T17:15:00Z",
@@ -2383,8 +2193,7 @@
       "track": "drupal cms",
       "speakers": [
         "Gareth Alexander (The_g_bomb)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T17:15:00Z",
@@ -2397,8 +2206,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Michal Czernik (michalczernik)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T17:15:00Z",
@@ -2411,8 +2219,7 @@
       "track": "coding \u0026 site building",
       "speakers": [
         "Jasper Lammens (lammensj)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T17:15:00Z",
@@ -2425,8 +2232,7 @@
       "track": "community health",
       "speakers": [
         "Will Huggins (zoocha-will)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T17:15:00Z",
@@ -2439,8 +2245,7 @@
       "track": "infosec \u0026 devops",
       "speakers": [
         "Toni Kolev (toni.kolev)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T17:15:00Z",
@@ -2453,8 +2258,7 @@
       "track": "infosec \u0026 devops",
       "speakers": [
         "Christopher Gervais (ergonlogic)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T17:15:00Z",
@@ -2467,8 +2271,7 @@
       "track": "coding \u0026 site building",
       "speakers": [
         "Mohammad Zomorodian (Mzomorodian)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T17:40:00Z",
@@ -2481,8 +2284,7 @@
       "track": "drupal cms",
       "speakers": [
         "Renee Lund (reneelund)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T17:40:00Z",
@@ -2495,8 +2297,7 @@
       "track": "infosec \u0026 devops",
       "speakers": [
         "Paulo Carvalho (Pmaiacar)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T17:40:00Z",
@@ -2509,8 +2310,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Hristiyan Myankov (Hristiyan Myankov)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T17:40:00Z",
@@ -2523,8 +2323,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Nina Holzapfel (Nina-holzapfel)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T17:40:00Z",
@@ -2537,8 +2336,7 @@
       "track": "open web",
       "speakers": [
         "James Shields (Lostcarpark)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-16T18:00:00Z",
@@ -2546,11 +2344,9 @@
       "duration": "PT30M",
       "summary": "Wrap Up Ceremony Auditorium - DrupalCon 2026 city Announcement",
       "location": "Location Auditorium (Hall D)",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/wrap-ceremony-auditorium-drupalcon-2026-city-announcement",
       "track": "other",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-10-16T20:30:00Z",
@@ -2558,11 +2354,9 @@
       "duration": "PT3H15M",
       "summary": "Trivia Night",
       "location": "Location Gleisgarten",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/trivia-night",
       "track": "other",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-10-17T09:00:00Z",
@@ -2573,8 +2367,7 @@
       "description": "Schedule 9:00 Opening 9:15 Drupal in a Day - Part 1 12:30 Lunch break 14:00 Drupal in a Day - Part 2 15:30 Photo and coffee break 16:30 Closing notes, and presentation of certifications",
       "link": "https://events.drupal.org//vienna2025/session/drupal-day-seminar",
       "track": "other",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-10-17T09:00:00Z",
@@ -2582,15 +2375,13 @@
       "duration": "PT3H30M",
       "summary": "First-Time Contributor Workshop - Friday",
       "location": "Location Session Room (Hall G2)",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/first-time-contributor-workshop-friday",
       "track": "contribution topic",
       "speakers": [
         "Chris Darke (Chrisdarke)",
         "James Shields (Lostcarpark)",
         "Rachel Lawson (Rachel_norfolk)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2025-10-17T09:00:00Z",
@@ -2598,11 +2389,9 @@
       "duration": "PT9H",
       "summary": "General Contribution Day 4",
       "location": "Location Contribution Room (Hall K)",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/general-contribution-day-4",
       "track": "contribution topic",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-10-17T09:00:00Z",
@@ -2610,11 +2399,9 @@
       "duration": "PT9H",
       "summary": "Mentored Contribution",
       "location": "Location Session Room (Hall G2)",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/mentored-contribution",
       "track": "contribution topic",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-10-17T10:00:00Z",
@@ -2622,11 +2409,9 @@
       "duration": "PT30M",
       "summary": "Coffe Break 1, Friday",
       "location": "Location Foyer K",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/coffe-break-1-friday",
       "track": "coffee \u0026 lunch break time",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-10-17T12:30:00Z",
@@ -2634,11 +2419,9 @@
       "duration": "PT1H30M",
       "summary": "Lunch Break, Friday",
       "location": "Location Foyer K",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/lunch-break-friday",
       "track": "coffee \u0026 lunch break time",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2025-10-17T15:30:00Z",
@@ -2646,13 +2429,11 @@
       "duration": "PT30M",
       "summary": "Coffe Break 2, Friday",
       "location": "Location Foyer K",
-      "description": "",
       "link": "https://events.drupal.org//vienna2025/session/coffe-break-2-friday",
       "track": "coffee \u0026 lunch break time",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     }
   ],
   "result": "✅",
-  "url": "https://events.drupal.org/vienna2025"
+  "url": "https://events.drupal.org/vienna2025/schedule"
 }

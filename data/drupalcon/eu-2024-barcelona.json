@@ -1,14 +1,15 @@
 {
   "event": {
-    "Location": "Barcelona",
-    "Year": "2024",
-    "URL": "https://events.drupal.org/barcelona2024/session-schedule",
-    "Region": "America",
-    "EndDate": "2024-09-27T00:00:00Z",
-    "StartDate": "2024-09-24T00:00:00Z",
-    "Website": "https://events.drupal.org/barcelona2024",
-    "Venue": "International Barcelona Convention Center",
-    "Timezone": ""
+    "designation": "DrupalCon",
+    "location": "Barcelona",
+    "year": "2024",
+    "website": "https://events.drupal.org/barcelona2024",
+    "region": "America",
+    "endDate": "2024-09-27T00:00:00Z",
+    "startDate": "2024-09-24T00:00:00Z",
+    "scheduleURL": "https://events.drupal.org/barcelona2024/session-schedule",
+    "venue": "International Barcelona Convention Center",
+    "timezone": "America/Madrid"
   },
   "items": [
     {
@@ -17,11 +18,9 @@
       "duration": "PT8H30M",
       "summary": "General Contribution Day 1",
       "location": "Location Contribution Room (Area 1)",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/general-contribution-day-1",
       "track": "contribution topic",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-09-24T11:00:00Z",
@@ -32,8 +31,7 @@
       "description": "Join the Opening Ceremony for an exciting start to DrupalCon Barcelona 2024. Right after the welcome coffee, the Organizing Secretariat, Advisory Board members, and Drupal Association staff are eager to welcome you to the vibrant city of Barcelona.",
       "link": "https://events.drupal.org//barcelona2024/session/opening-ceremony-women-drupal-award",
       "track": "other",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-09-24T12:30:00Z",
@@ -41,11 +39,9 @@
       "duration": "PT1H15M",
       "summary": "Lunch Break, Tuesday",
       "location": "",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/lunch-break-tuesday",
       "track": "coffee \u0026 lunch break time",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-09-24T13:45:00Z",
@@ -58,8 +54,7 @@
       "track": "keynote",
       "speakers": [
         "Dries Buytaert (Dries)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T15:00:00Z",
@@ -67,11 +62,9 @@
       "duration": "PT10M",
       "summary": "Group Photo",
       "location": "Location Outside of the Venue",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/group-photo",
       "track": "other",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-09-24T15:15:00Z",
@@ -84,8 +77,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Jared Rhodes (Jcalles)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T15:15:00Z",
@@ -99,8 +91,7 @@
       "speakers": [
         "Prerna Singh (Prerna Singh)",
         "Piyuesh Kumar (piyuesh23)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T15:15:00Z",
@@ -114,8 +105,7 @@
       "speakers": [
         "Baddy Sonja Breidert (baddysonja)",
         "Alexander Reisenauer (alexreisenauer)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T15:15:00Z",
@@ -129,8 +119,7 @@
       "speakers": [
         "Janez Urevc (slashrsm)",
         "Nathaniel Catchpole (Catch)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T15:15:00Z",
@@ -143,8 +132,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Dominique De Cooman (Domidc)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T15:15:00Z",
@@ -152,11 +140,9 @@
       "duration": "PT45M",
       "summary": "Movement and Music - Wellness",
       "location": "Location Room BoF 4 (121)",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/movement-and-music-wellness",
       "track": "other",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-09-24T15:15:00Z",
@@ -169,8 +155,7 @@
       "track": "bof",
       "speakers": [
         "Brian Sharpe (Ridefree)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T15:15:00Z",
@@ -183,8 +168,7 @@
       "track": "users \u0026 editors",
       "speakers": [
         "Alan Burke (alanburke)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T15:15:00Z",
@@ -197,8 +181,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Finn Lewis (Finn Lewis)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T15:15:00Z",
@@ -211,8 +194,7 @@
       "track": "bof",
       "speakers": [
         "Carlos Ospina (Camoa)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T15:15:00Z",
@@ -225,8 +207,7 @@
       "track": "bof",
       "speakers": [
         "Randy Fay (rfay)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T16:00:00Z",
@@ -234,11 +215,9 @@
       "duration": "PT30M",
       "summary": "Coffee Break 1, Tuesday",
       "location": "",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/coffee-break-1-tuesday",
       "track": "coffee \u0026 lunch break time",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-09-24T16:00:00Z",
@@ -252,8 +231,7 @@
       "speakers": [
         "Reena Tripathi (reena.india)",
         "Manish Kothare (mkothare@tracelink.com)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T16:15:00Z",
@@ -266,8 +244,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Austin Amento (Austin.amento)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T16:30:00Z",
@@ -281,8 +258,7 @@
       "speakers": [
         "Artem Dmitriiev (admitriiev)",
         "Bruno Bruno (bbruno)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T16:30:00Z",
@@ -295,8 +271,7 @@
       "track": "drupal starshot",
       "speakers": [
         "Lauri Timmanee (lauriii)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T16:30:00Z",
@@ -304,13 +279,11 @@
       "duration": "PT45M",
       "summary": "First-time contributor workshop 1",
       "location": "Location Room BoF 4 (121)",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/first-time-contributor-workshop-1",
       "track": "contribution topic",
       "speakers": [
         "Chris Darke (Chrisdarke)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T16:30:00Z",
@@ -323,8 +296,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Mihael Shumelov (Shumelov)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T16:30:00Z",
@@ -337,8 +309,7 @@
       "track": "bof",
       "speakers": [
         "Jan De Kezel (Jandekezel)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T16:30:00Z",
@@ -351,8 +322,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Matt Glaman (Mglaman)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T16:30:00Z",
@@ -365,8 +335,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Piotr Pakulski (piotr-pakulski)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T16:30:00Z",
@@ -379,8 +348,7 @@
       "track": "bof",
       "speakers": [
         "Akanksha Singh (bibliophileaxe)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T16:30:00Z",
@@ -395,8 +363,7 @@
         "Reena Tripathi (reena.india)",
         "Anubhav Gupta (anubhavgupta)",
         "Eric​​​ Luijer"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T16:30:00Z",
@@ -409,8 +376,7 @@
       "track": "bof",
       "speakers": [
         "Nils Adermann (Naderman)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T16:30:00Z",
@@ -423,8 +389,7 @@
       "track": "open web \u0026 community",
       "speakers": [
         "Sascha Eggenberger (Saschaeggi)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T17:30:00Z",
@@ -437,8 +402,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Christoph Breidert (breidert)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T17:30:00Z",
@@ -451,8 +415,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Raquel Fialho (raqfialho)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T17:30:00Z",
@@ -465,8 +428,7 @@
       "track": "bof",
       "speakers": [
         "Marco Fernandes (Marcofernandes)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T17:30:00Z",
@@ -479,8 +441,7 @@
       "track": "clients \u0026 industry experiences",
       "speakers": [
         "Fernando Quintero (Fquintero)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T17:30:00Z",
@@ -494,8 +455,7 @@
       "speakers": [
         "Osman SEFEROV (osman_seferov)",
         "Vladyslav Moskalenko (vmoskalenko)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T17:30:00Z",
@@ -503,11 +463,9 @@
       "duration": "PT45M",
       "summary": "Issue Triage",
       "location": "Location Room BoF 4 (121)",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/issue-triage",
       "track": "contribution topic",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-09-24T17:30:00Z",
@@ -520,8 +478,7 @@
       "track": "bof",
       "speakers": [
         "Jorge Lopez-Lago (Kurkuma)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T17:30:00Z",
@@ -535,8 +492,7 @@
       "speakers": [
         "Christopher Wells (chrisfromredfin)",
         "Leslie Glynn (leslieg)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T17:30:00Z",
@@ -549,8 +505,7 @@
       "track": "clients \u0026 industry experiences",
       "speakers": [
         "Eashika Naznin Easha (enaznin)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T17:30:00Z",
@@ -563,8 +518,7 @@
       "track": "bof",
       "speakers": [
         "Niklas Franke (Heroicnick)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T17:30:00Z",
@@ -578,8 +532,7 @@
       "speakers": [
         "Stephane Streng (Stephstreng)",
         "Laurent Poinsignon (Spif)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T17:55:00Z",
@@ -593,8 +546,7 @@
       "speakers": [
         "Antonella Severo (antonellasevero)",
         "Sarah Mens-Escalas (Na)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T17:55:00Z",
@@ -607,8 +559,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Valentin Garushev"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T17:55:00Z",
@@ -621,8 +572,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Santhosh Kumar Gurram (santhoshkumar-gurram)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T17:55:00Z",
@@ -635,8 +585,7 @@
       "track": "open web \u0026 community",
       "speakers": [
         "Pamela Barone (pameeela)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-24T18:15:00Z",
@@ -644,11 +593,9 @@
       "duration": "PT1H",
       "summary": "Opening reception",
       "location": "",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/opening-reception",
       "track": "other",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-09-25T08:45:00Z",
@@ -665,8 +612,7 @@
         "Shawn Perritt (SPerritt)",
         "Lenny Moskalyk (Lenny Moskalyk)",
         "Seferiba Salif SOULAMA (soulsesa)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T08:45:00Z",
@@ -679,8 +625,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Toby Bellwood (tobybellwood)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T08:45:00Z",
@@ -693,8 +638,7 @@
       "track": "clients \u0026 industry experiences",
       "speakers": [
         "James Abrahams (Yautja_cetanu)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T08:45:00Z",
@@ -707,8 +651,7 @@
       "track": "bof",
       "speakers": [
         "Randy Fay (rfay)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T08:45:00Z",
@@ -721,8 +664,7 @@
       "track": "bof",
       "speakers": [
         "Hilmar Kári Hallbjörnsson (Drupalviking)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T08:45:00Z",
@@ -735,8 +677,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Filip Hnízdo (Filipnest)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T08:45:00Z",
@@ -749,8 +690,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Tassos Koutlas (Tassos)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T08:45:00Z",
@@ -758,14 +698,12 @@
       "duration": "PT45M",
       "summary": "Membership Breakfast for Ripple Makers",
       "location": "Location Room BoF 3 (120)",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/membership-breakfast-ripple-makers",
       "track": "open web \u0026 community",
       "speakers": [
         "Jitka Pilar (Jitka_pilar)",
         "Julia Kranzthor (JR_KThor)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T08:45:00Z",
@@ -779,8 +717,7 @@
       "speakers": [
         "Jen Witkowski (jwitkowski79)",
         "Stephanie Ganzer (StephanieGanzer)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T08:45:00Z",
@@ -793,8 +730,7 @@
       "track": "users \u0026 editors",
       "speakers": [
         "Anthony Lindsay (Anthonylindsay)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T08:45:00Z",
@@ -807,8 +743,7 @@
       "track": "bof",
       "speakers": [
         "Michael Fanini (G4mbini)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T09:00:00Z",
@@ -816,11 +751,9 @@
       "duration": "PT9H",
       "summary": "General Contribution Day 2",
       "location": "Location Contribution Room (Area 1)",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/general-contribution-day-2",
       "track": "contribution topic",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-09-25T09:30:00Z",
@@ -828,11 +761,9 @@
       "duration": "PT30M",
       "summary": "Coffee Break 1, Wednesday",
       "location": "",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/coffee-break-1-wednesday",
       "track": "coffee \u0026 lunch break time",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-09-25T09:30:00Z",
@@ -845,8 +776,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Adrián Marín (amarincolas)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T09:45:00Z",
@@ -859,8 +789,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Enrique Worwa"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T10:00:00Z",
@@ -873,8 +802,7 @@
       "track": "keynote",
       "speakers": [
         "Mónica Rikić"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T11:30:00Z",
@@ -888,8 +816,7 @@
       "speakers": [
         "Kartik Shukla (Kartikshukla)",
         "Annam Ravin (annam-sreenivasan)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T11:30:00Z",
@@ -903,8 +830,7 @@
       "speakers": [
         "Gábor Hojtsy (Gábor Hojtsy)",
         "Tim Plunkett (tim.plunkett)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T11:30:00Z",
@@ -918,8 +844,7 @@
       "speakers": [
         "Julia Kranzthor (JR_KThor)",
         "Jitka Pilar (Jitka_pilar)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T11:30:00Z",
@@ -932,8 +857,7 @@
       "track": "bof",
       "speakers": [
         "Akanksha Singh (bibliophileaxe)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T11:30:00Z",
@@ -941,13 +865,11 @@
       "duration": "PT45M",
       "summary": "First-time contributor workshop 1",
       "location": "Location Room BoF 4 (121)",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/first-time-contributor-workshop-1-1",
       "track": "contribution topic",
       "speakers": [
         "James Shields (Lostcarpark)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T11:30:00Z",
@@ -960,8 +882,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Dominique De Cooman (Domidc)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T11:30:00Z",
@@ -974,8 +895,7 @@
       "track": "bof",
       "speakers": [
         "Björn Brala (bbrala)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T11:30:00Z",
@@ -989,8 +909,7 @@
       "speakers": [
         "Jonathan Noack (Jonock)",
         "Thomas Nagy (Thomnagy)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T11:30:00Z",
@@ -1003,8 +922,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "George DeMet (gdemet)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T11:30:00Z",
@@ -1017,8 +935,7 @@
       "track": "open web \u0026 community",
       "speakers": [
         "John Lockhart (jwlockhart)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T11:30:00Z",
@@ -1031,8 +948,7 @@
       "track": "users \u0026 editors",
       "speakers": [
         "Rodrigo Aguilera (Rodrigoaguilera)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T12:30:00Z",
@@ -1045,8 +961,7 @@
       "track": "users \u0026 editors",
       "speakers": [
         "Piyuesh Kumar (piyuesh23)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T12:30:00Z",
@@ -1062,8 +977,7 @@
         "James Abrahams (Yautja_cetanu)",
         "Frederik Wouters (Wouters_f)",
         "Martin Anderson-Clutz (Mandclu)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T12:30:00Z",
@@ -1076,8 +990,7 @@
       "track": "bof",
       "speakers": [
         "Moshe Weitzman (moshe weitzman)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T12:30:00Z",
@@ -1090,8 +1003,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Jorge Tutor (Gedur)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T12:30:00Z",
@@ -1104,8 +1016,7 @@
       "track": "bof",
       "speakers": [
         "Jorge Lopez-Lago (Kurkuma)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T12:30:00Z",
@@ -1118,8 +1029,7 @@
       "track": "bof",
       "speakers": [
         "Emma Horrell (emma-horrell)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T12:30:00Z",
@@ -1134,8 +1044,7 @@
         "Jeremy Chinquist (Jjchinquist)",
         "Aikaterine Tsiboukas (Bletch)",
         "Antonella Severo (antonellasevero)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T12:30:00Z",
@@ -1154,8 +1063,7 @@
         "Cristina Chumillas (ckrina)",
         "Hernani Borges De Freitas (Hernani)",
         "Anne-Sophie PICOT (Asplamagnifique)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T12:30:00Z",
@@ -1168,8 +1076,7 @@
       "track": "clients \u0026 industry experiences",
       "speakers": [
         "Tihomir Radev (T.Radev)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T12:30:00Z",
@@ -1183,8 +1090,7 @@
       "speakers": [
         "Alex Moreno",
         "Josh Koenig (Joshk)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T12:55:00Z",
@@ -1198,8 +1104,7 @@
       "speakers": [
         "Sam Zimmerman (Sam Zimmerman)",
         "Annam Ravin (annam-sreenivasan)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T13:15:00Z",
@@ -1207,11 +1112,9 @@
       "duration": "PT1H15M",
       "summary": "Lunch Break, Wednesday",
       "location": "",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/lunch-break-wednesday",
       "track": "coffee \u0026 lunch break time",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-09-25T13:15:00Z",
@@ -1224,8 +1127,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Mohammad Danish Usmani (Danishusmani)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T13:30:00Z",
@@ -1238,8 +1140,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Raquel Fialho (raqfialho)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T13:30:00Z",
@@ -1253,8 +1154,7 @@
       "speakers": [
         "Joshua Northcott (Joshnorthcott)",
         "Austin Amento (Austin.amento)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T13:45:00Z",
@@ -1267,8 +1167,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Ryan Szrama (Rszrama)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T14:00:00Z",
@@ -1281,8 +1180,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Roy Vikovych"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T14:30:00Z",
@@ -1295,8 +1193,7 @@
       "track": "keynote",
       "speakers": [
         "Theodor Gislason"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T16:00:00Z",
@@ -1309,8 +1206,7 @@
       "track": "users \u0026 editors",
       "speakers": [
         "Georgios Andreadis (esepia)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T16:00:00Z",
@@ -1323,8 +1219,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Ovanes Budakyan (ovanes)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T16:00:00Z",
@@ -1342,8 +1237,7 @@
         "Tiffany Farriss (Farriss)",
         "Nikhil Deshpande (Nikofthehill)",
         "and the rest of the DA board"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T16:00:00Z",
@@ -1357,8 +1251,7 @@
       "speakers": [
         "Suchi Garg (gargsuchi)",
         "Akhil Bhandari (Akhil@salsa)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T16:00:00Z",
@@ -1371,8 +1264,7 @@
       "track": "bof",
       "speakers": [
         "Simo Hellsten (Simohell)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T16:00:00Z",
@@ -1387,8 +1279,7 @@
         "Rosie Gladden (rgladden)",
         "Paul Johnson (pdjohnson)",
         "Emma Horrell (emma-horrell)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T16:00:00Z",
@@ -1401,8 +1292,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Shawna Spoor (shawna.s)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T16:00:00Z",
@@ -1415,8 +1305,7 @@
       "track": "bof",
       "speakers": [
         "Luca Lusso (lussoluca)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T16:00:00Z",
@@ -1429,8 +1318,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Simon Bäse (Simonbaese)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T16:00:00Z",
@@ -1438,13 +1326,11 @@
       "duration": "PT45M",
       "summary": "Mentor orientation 1",
       "location": "Location Room BoF 4 (121)",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/mentor-orientation-1",
       "track": "contribution topic",
       "speakers": [
         "Rachel Lawson (Rachel_norfolk)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T16:00:00Z",
@@ -1457,8 +1343,7 @@
       "track": "bof",
       "speakers": [
         "Christopher Gervais (Ergonlogic)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T16:00:00Z",
@@ -1472,8 +1357,7 @@
       "speakers": [
         "Christian Wiedemann (Christian.wiedemann)",
         "Pierre Dureau (pdureau)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T16:45:00Z",
@@ -1481,11 +1365,9 @@
       "duration": "PT30M",
       "summary": "Coffee Break 2, Wednesday",
       "location": "",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/coffee-break-2-wednesday",
       "track": "coffee \u0026 lunch break time",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-09-25T16:45:00Z",
@@ -1498,8 +1380,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Piyuesh Kumar (piyuesh23)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T17:15:00Z",
@@ -1512,8 +1393,7 @@
       "track": "bof",
       "speakers": [
         "Randy Fay (rfay)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T17:15:00Z",
@@ -1526,8 +1406,7 @@
       "track": "users \u0026 editors",
       "speakers": [
         "Ashita Jain"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T17:15:00Z",
@@ -1540,8 +1419,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Marco Villegas (marvil07)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T17:15:00Z",
@@ -1554,8 +1432,7 @@
       "track": "bof",
       "speakers": [
         "Joachim Noreiko (Joachim)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T17:15:00Z",
@@ -1563,11 +1440,9 @@
       "duration": "PT45M",
       "summary": "Mind \u0026 Body Stress Reduction Activities",
       "location": "Location Room BoF 4 (121)",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/mind-body-stress-reduction-activities",
       "track": "other",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-09-25T17:15:00Z",
@@ -1580,8 +1455,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Alan Burke (alanburke)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T17:15:00Z",
@@ -1594,8 +1468,7 @@
       "track": "bof",
       "speakers": [
         "Jorge Lopez-Lago (Kurkuma)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T17:15:00Z",
@@ -1609,8 +1482,7 @@
       "speakers": [
         "Vladyslav Moskalenko (vmoskalenko)",
         "Osman SEFEROV (osman_seferov)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T17:15:00Z",
@@ -1623,8 +1495,7 @@
       "track": "users \u0026 editors",
       "speakers": [
         "Mirena Dobcheva (mdobcheva)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T17:15:00Z",
@@ -1637,8 +1508,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Hannah O'leary (Hannaholeary)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T17:15:00Z",
@@ -1651,8 +1521,7 @@
       "track": "drupal starshot",
       "speakers": [
         "Matt Glaman (Mglaman)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T17:40:00Z",
@@ -1665,8 +1534,7 @@
       "track": "open web \u0026 community",
       "speakers": [
         "Adam Nagy (joevagyok)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T17:40:00Z",
@@ -1679,8 +1547,7 @@
       "track": "users \u0026 editors",
       "speakers": [
         "Ashraf Abed (ashrafabed)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T17:40:00Z",
@@ -1693,8 +1560,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Monisha Navlani (Monishanavlani)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T17:40:00Z",
@@ -1707,8 +1573,7 @@
       "track": "drupal starshot",
       "speakers": [
         "Sascha Eggenberger (Saschaeggi)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-25T17:40:00Z",
@@ -1721,8 +1586,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Mohit Aghera (Mohit_aghera)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T09:00:00Z",
@@ -1730,11 +1594,9 @@
       "duration": "PT9H",
       "summary": "General Contribution Day 3",
       "location": "Location Contribution Room (Area 1)",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/general-contribution-day-3",
       "track": "contribution topic",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-09-26T09:30:00Z",
@@ -1747,8 +1609,7 @@
       "track": "open web \u0026 community",
       "speakers": [
         "Julien Hofer (MethodJules)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T09:30:00Z",
@@ -1763,8 +1624,7 @@
         "Jitka Pilar (Jitka_pilar)",
         "Tim Doyle (Tim D.)",
         "Kelly Delaney (Kelly_delaney)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T09:30:00Z",
@@ -1778,8 +1638,7 @@
       "speakers": [
         "Martin Anderson-Clutz (Mandclu)",
         "Mark Casias (Markie)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T09:30:00Z",
@@ -1792,8 +1651,7 @@
       "track": "bof",
       "speakers": [
         "Jorge Lopez-Lago (Kurkuma)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T09:30:00Z",
@@ -1806,8 +1664,7 @@
       "track": "users \u0026 editors",
       "speakers": [
         "Will Huggins (Zoocha Will)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T09:30:00Z",
@@ -1815,11 +1672,9 @@
       "duration": "PT45M",
       "summary": "How to come from stress to happiness - Wellness",
       "location": "Location Room BoF 4 (121)",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/how-come-stress-happiness-wellness",
       "track": "other",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-09-26T09:30:00Z",
@@ -1832,8 +1687,7 @@
       "track": "clients \u0026 industry experiences",
       "speakers": [
         "David Suissa (Dydave)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T09:30:00Z",
@@ -1846,8 +1700,7 @@
       "track": "bof",
       "speakers": [
         "Simo Hellsten (Simohell)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T09:30:00Z",
@@ -1860,8 +1713,7 @@
       "track": "bof",
       "speakers": [
         "Randy Fay (rfay)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T09:30:00Z",
@@ -1874,8 +1726,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Luca Lusso (lussoluca)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T09:30:00Z",
@@ -1888,8 +1739,7 @@
       "track": "users \u0026 editors",
       "speakers": [
         "Jürgen Haas (jurgenhaas)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T09:55:00Z",
@@ -1902,8 +1752,7 @@
       "track": "users \u0026 editors",
       "speakers": [
         "Paul Sebborn (Psebborn)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T10:15:00Z",
@@ -1911,11 +1760,9 @@
       "duration": "PT30M",
       "summary": "Coffee Break 1, Thursday",
       "location": "",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/coffee-break-1-thursday",
       "track": "coffee \u0026 lunch break time",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-09-26T10:15:00Z",
@@ -1928,8 +1775,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Ev Maslovskiy (Spleshka)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T10:30:00Z",
@@ -1942,8 +1788,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Miguel Diez Blanco (Miguel.diez)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T10:45:00Z",
@@ -1957,8 +1802,7 @@
       "speakers": [
         "Imre Gmelig Meijling (Imre-gmelig-meijling)",
         "Janne Kalliola (Jannekalliola)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T10:45:00Z",
@@ -1971,8 +1815,7 @@
       "track": "clients \u0026 industry experiences",
       "speakers": [
         "Marcin Grabias (Graber)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T10:45:00Z",
@@ -1986,8 +1829,7 @@
       "speakers": [
         "Anjali Rathod (anjali-rathod)",
         "Abhai Sasidharan (abhaisasidharan)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T10:45:00Z",
@@ -2000,8 +1842,7 @@
       "track": "bof",
       "speakers": [
         "Nicolas Loye (Nicoloye)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T10:45:00Z",
@@ -2014,8 +1855,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Mauricio Dinarte (dinarcon)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T10:45:00Z",
@@ -2028,8 +1868,7 @@
       "track": "users \u0026 editors",
       "speakers": [
         "Jacob Rockowitz (Jrockowitz)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T10:45:00Z",
@@ -2043,8 +1882,7 @@
       "speakers": [
         "Jeffey McGuire (Horncologne)",
         "Tiffany Farriss (Farriss)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T10:45:00Z",
@@ -2052,13 +1890,11 @@
       "duration": "PT45M",
       "summary": "Mentor orientation 1",
       "location": "Location Room BoF 4 (121)",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/mentor-orientation-1-0",
       "track": "contribution topic",
       "speakers": [
         "Chris Darke (Chrisdarke)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T10:45:00Z",
@@ -2071,8 +1907,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Moritz Schuh"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T10:45:00Z",
@@ -2085,8 +1920,7 @@
       "track": "bof",
       "speakers": [
         "Christopher Wells (chrisfromredfin)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T10:45:00Z",
@@ -2099,8 +1933,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Alexander Varwijk (Kingdutch)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T11:45:00Z",
@@ -2120,8 +1953,7 @@
         "Christian López Espínola (penyaskito)",
         "Tony Barker (Tonypaulbarker)",
         "James Abrahams (Yautja_cetanu)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T13:00:00Z",
@@ -2135,8 +1967,7 @@
       "speakers": [
         "Miguel Diez Blanco (Miguel.diez)",
         "Claudiu Cristea (claudiu.cristea)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T13:00:00Z",
@@ -2144,11 +1975,9 @@
       "duration": "PT1H15M",
       "summary": "Lunch Break, Thursday",
       "location": "",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/lunch-break-thursday",
       "track": "coffee \u0026 lunch break time",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-09-26T13:15:00Z",
@@ -2161,8 +1990,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Ramon Fincken (Halvar_io)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T13:30:00Z",
@@ -2176,8 +2004,7 @@
       "speakers": [
         "David Bishop (david-bishop)",
         "Fathima Asmat (Fathimaasmat)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T13:45:00Z",
@@ -2190,8 +2017,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Ales Kohek (akohek)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T14:00:00Z",
@@ -2204,8 +2030,7 @@
       "track": "sponsor talks",
       "speakers": [
         "Shikha Kumar (Shikha_lnweb)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T14:15:00Z",
@@ -2218,8 +2043,7 @@
       "track": "open web \u0026 community",
       "speakers": [
         "Karen Leech (Kae76)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T14:15:00Z",
@@ -2232,8 +2056,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Joris Vercammen (Borisson_)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T14:15:00Z",
@@ -2246,8 +2069,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Benjamin Mullins (bnjmnm)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T14:15:00Z",
@@ -2260,8 +2082,7 @@
       "track": "clients \u0026 industry experiences",
       "speakers": [
         "Raúl Bordallo (rbordallo)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T14:15:00Z",
@@ -2277,8 +2098,7 @@
         "Brendan Blaine (B_man)",
         "Fran Garcia-linares (Fjgarlin)",
         "Lenny Moskalyk (Lenny Moskalyk)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T14:15:00Z",
@@ -2292,8 +2112,7 @@
       "speakers": [
         "Tracy Evans (Kanadiankicks)",
         "Jeffey McGuire (Horncologne)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T14:15:00Z",
@@ -2306,8 +2125,7 @@
       "track": "bof",
       "speakers": [
         "Ashish Ashish (Ashish Verma (ashish.verma85))"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T14:15:00Z",
@@ -2323,8 +2141,7 @@
         "Baddy Sonja Breidert (baddysonja)",
         "Imre Gmelig Meijling (Imre-gmelig-meijling)",
         "Esmeralda Tijhoff (Esmoves)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T14:15:00Z",
@@ -2337,8 +2154,7 @@
       "track": "bof",
       "speakers": [
         "Martin Anderson-Clutz (Mandclu)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T14:15:00Z",
@@ -2353,8 +2169,7 @@
         "Fabian Franz (Fabianx)",
         "Andrei Mateescu (amateescu)",
         "Hank VanZile (Hankvanzile)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T14:15:00Z",
@@ -2367,8 +2182,7 @@
       "track": "bof",
       "speakers": [
         "James Shields (Lostcarpark)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T14:40:00Z",
@@ -2381,8 +2195,7 @@
       "track": "clients \u0026 industry experiences",
       "speakers": [
         "Hernani Borges De Freitas (Hernani)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T15:15:00Z",
@@ -2396,8 +2209,7 @@
       "speakers": [
         "Marcello Testi (Pinolo)",
         "Alexander Farkas"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T15:15:00Z",
@@ -2410,8 +2222,7 @@
       "track": "bof",
       "speakers": [
         "John Cook (John Cook)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T15:15:00Z",
@@ -2424,8 +2235,7 @@
       "track": "bof",
       "speakers": [
         "James Abrahams (Yautja_cetanu)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T15:15:00Z",
@@ -2439,8 +2249,7 @@
       "speakers": [
         "Norman Kämper-Leymann (Leymannx)",
         "Yannick Leyendecker (yannickoo)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T15:15:00Z",
@@ -2453,8 +2262,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Elise West"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T15:15:00Z",
@@ -2467,8 +2275,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Kristiaan Van den Eynde (Kristiaanvandeneynde)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T15:15:00Z",
@@ -2481,8 +2288,7 @@
       "track": "bof",
       "speakers": [
         "Esmeralda Tijhoff (Esmoves)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T15:15:00Z",
@@ -2495,8 +2301,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Drew Webber (mcdruid)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T15:15:00Z",
@@ -2509,8 +2314,7 @@
       "track": "bof",
       "speakers": [
         "Hendrik Kuck (Uniquename)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T15:15:00Z",
@@ -2523,8 +2327,7 @@
       "track": "open web \u0026 community",
       "speakers": [
         "Kavana Tadagalale (Kavana_tad)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T15:15:00Z",
@@ -2537,8 +2340,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Brian Perry (Brianperry)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T16:00:00Z",
@@ -2546,11 +2348,9 @@
       "duration": "PT30M",
       "summary": "Coffee Break 2, Thursday",
       "location": "",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/coffee-break-2-thursday",
       "track": "coffee \u0026 lunch break time",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-09-26T16:30:00Z",
@@ -2563,8 +2363,7 @@
       "track": "bof",
       "speakers": [
         "Josef Kruckenberg (Dasjo)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T16:30:00Z",
@@ -2577,8 +2376,7 @@
       "track": "bof",
       "speakers": [
         "Joachim Noreiko (Joachim)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T16:30:00Z",
@@ -2591,8 +2389,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Ivaylo Kadiyski (Kadiiski)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T16:30:00Z",
@@ -2605,8 +2402,7 @@
       "track": "open web \u0026 community",
       "speakers": [
         "Yevgeniya Kobrina (Yevko)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T16:30:00Z",
@@ -2619,8 +2415,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Stanislav Todorov (Stodorov)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T16:30:00Z",
@@ -2634,8 +2429,7 @@
       "speakers": [
         "Sascha Eggenberger (Saschaeggi)",
         "Cristina Chumillas (ckrina)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T16:30:00Z",
@@ -2648,8 +2442,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Ignacio Díaz-Roncero Fraile (Idiaz.roncero)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T16:30:00Z",
@@ -2662,8 +2455,7 @@
       "track": "bof",
       "speakers": [
         "Lukas Fischer (Lukasfischer)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T16:30:00Z",
@@ -2676,8 +2468,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Mark Casias (Markie)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T16:30:00Z",
@@ -2692,8 +2483,7 @@
         "Christopher Gervais (Ergonlogic)",
         "Nils Adermann (Naderman)",
         "Neil Drumm (Drumm)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T16:55:00Z",
@@ -2706,8 +2496,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Daniel Angelov (Danielangelov)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T16:55:00Z",
@@ -2720,8 +2509,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Julían Valero (JulianVJ)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T16:55:00Z",
@@ -2734,8 +2522,7 @@
       "track": "makers \u0026 builders",
       "speakers": [
         "Duncan Worrell (Dunx)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T16:55:00Z",
@@ -2748,8 +2535,7 @@
       "track": "agency \u0026 business",
       "speakers": [
         "Hetal Mistry (Hetalmistry)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-26T17:30:00Z",
@@ -2757,11 +2543,9 @@
       "duration": "PT30M",
       "summary": "Wrap Up Ceremony Auditorium - DrupalCon 2025 city Announcement",
       "location": "Location Auditorium",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/wrap-ceremony-auditorium-drupalcon-2025-city-announcement",
       "track": "other",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-09-26T20:30:00Z",
@@ -2769,11 +2553,9 @@
       "duration": "PT3H15M",
       "summary": "Trivia Night",
       "location": "",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/trivia-night",
       "track": "other",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-09-27T09:00:00Z",
@@ -2781,11 +2563,9 @@
       "duration": "PT9H",
       "summary": "Contribution Day",
       "location": "Location Room 112",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/contribution-day",
       "track": "contribution topic",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-09-27T09:00:00Z",
@@ -2793,13 +2573,11 @@
       "duration": "PT3H30M",
       "summary": "First Time Contributor Workshop 1",
       "location": "Location Room 111",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/first-time-contributor-workshop-1-0",
       "track": "contribution topic",
       "speakers": [
         "Rodrigo Aguilera (Rodrigoaguilera)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-27T09:00:00Z",
@@ -2807,13 +2585,11 @@
       "duration": "PT9H",
       "summary": "Mentored Contribution",
       "location": "Location Room 111",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/mentored-contribution",
       "track": "contribution topic",
       "speakers": [
         "Chris Darke (Chrisdarke)"
-      ],
-      "timezone": ""
+      ]
     },
     {
       "startTime": "2024-09-27T10:00:00Z",
@@ -2821,11 +2597,9 @@
       "duration": "PT30M",
       "summary": "Coffe Break 1, Friday",
       "location": "",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/coffe-break-1-friday",
       "track": "coffee \u0026 lunch break time",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-09-27T12:30:00Z",
@@ -2833,11 +2607,9 @@
       "duration": "PT1H30M",
       "summary": "Lunch Break, Friday",
       "location": "",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/lunch-break-friday",
       "track": "coffee \u0026 lunch break time",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     },
     {
       "startTime": "2024-09-27T15:30:00Z",
@@ -2845,13 +2617,11 @@
       "duration": "PT30M",
       "summary": "Coffee Break 2, Friday",
       "location": "",
-      "description": "",
       "link": "https://events.drupal.org//barcelona2024/session/coffee-break-2-friday",
       "track": "coffee \u0026 lunch break time",
-      "speakers": null,
-      "timezone": ""
+      "speakers": null
     }
   ],
   "result": "✅",
-  "url": "https://events.drupal.org/barcelona2024"
+  "url": "https://events.drupal.org/barcelona2024/session-schedule"
 }
