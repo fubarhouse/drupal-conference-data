@@ -14,8 +14,11 @@
   "items": [
     {
       "startTime": "2024-03-19T22:20:00Z",
+      "endTime": "2024-03-19T23:05:00Z",
+      "duration": "P45M",
       "title": "The Drupal Project Update",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3147",
       "track": "Keynote",
       "speakers": [
         "Dries Buytaert"
@@ -23,8 +26,11 @@
     },
     {
       "startTime": "2024-03-19T23:15:00Z",
+      "endTime": "2024-03-19T23:45:00Z",
+      "duration": "P30M",
       "title": "ArtSEEker - using headless Drupal to power AI Art recognition",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/2981",
       "track": "Drupal Development",
       "speakers": [
         "Morgan Strong"
@@ -32,8 +38,11 @@
     },
     {
       "startTime": "2024-03-19T23:15:00Z",
+      "endTime": "2024-03-19T23:45:00Z",
+      "duration": "P30M",
       "title": "To be or not to be a Technical Lead",
       "location": "Doric",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3064",
       "track": "People \u0026 Culture",
       "speakers": [
         "Jibran Ijaz"
@@ -41,8 +50,11 @@
     },
     {
       "startTime": "2024-03-20T00:15:00Z",
+      "endTime": "2024-03-20T01:00:00Z",
+      "duration": "P45M",
       "title": "A Q\u0026A with Drupal Association leadership",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3047",
       "track": "People \u0026 Culture",
       "speakers": [
         "Mike Richardson"
@@ -50,8 +62,11 @@
     },
     {
       "startTime": "2024-03-20T00:15:00Z",
+      "endTime": "2024-03-20T01:00:00Z",
+      "duration": "P45M",
       "title": "A Drupal core maintainer shares peer code review best practices",
       "location": "Corinthian",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3005",
       "track": "Drupal Development",
       "speakers": [
         "xjm"
@@ -59,8 +74,11 @@
     },
     {
       "startTime": "2024-03-20T01:15:00Z",
+      "endTime": "2024-03-20T01:45:00Z",
+      "duration": "P30M",
       "title": "ke upgrading easier for your module users",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3020",
       "track": "Drupal Development",
       "speakers": [
         "Kim Pepper"
@@ -68,8 +86,11 @@
     },
     {
       "startTime": "2024-03-20T01:15:00Z",
+      "endTime": "2024-03-20T01:45:00Z",
+      "duration": "P30M",
       "title": "Drupal and the Open Web in the Australian Government - 2024 edition",
       "location": "Corinthian",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3041",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Sean Hamlin"
@@ -77,8 +98,11 @@
     },
     {
       "startTime": "2024-03-20T02:45:00Z",
+      "endTime": "2024-03-20T03:15:00Z",
+      "duration": "P30M",
       "title": "ging NZ history into the future",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3043",
       "track": "Drupal Development",
       "speakers": [
         "Jonathan Hunt"
@@ -86,8 +110,11 @@
     },
     {
       "startTime": "2024-03-20T02:45:00Z",
+      "endTime": "2024-03-20T03:15:00Z",
+      "duration": "P30M",
       "title": "Site360: Under the hood of a website health metrics tool",
       "location": "Corinthian",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3061",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Roman Barbun"
@@ -95,8 +122,11 @@
     },
     {
       "startTime": "2024-03-20T02:45:00Z",
+      "endTime": "2024-03-20T03:15:00Z",
+      "duration": "P30M",
       "title": "New Perspectives For Design Thinking—10 ways to fail as the person designing for other people",
       "location": "Doric",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3054",
       "track": "User Experience \u0026 Content",
       "speakers": [
         "Heike Theis"
@@ -104,8 +134,11 @@
     },
     {
       "startTime": "2024-03-20T03:30:00Z",
+      "endTime": "2024-03-20T04:00:00Z",
+      "duration": "P30M",
       "title": "Secure, Performant, Scalable and Green: The big wins of a static Drupal website",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3074",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Steven Worley"
@@ -113,8 +146,11 @@
     },
     {
       "startTime": "2024-03-20T04:20:00Z",
+      "endTime": "2024-03-20T04:50:00Z",
+      "duration": "P30M",
       "title": "Delving into Website Performance: A Journey from Browser to Web Server",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3026",
       "track": "Drupal Development",
       "speakers": [
         "Joshua Li"
@@ -122,8 +158,11 @@
     },
     {
       "startTime": "2024-03-20T04:20:00Z",
+      "endTime": "2024-03-20T04:50:00Z",
+      "duration": "P30M",
       "title": "SS Magic: Making Web Design Fun Again!",
       "location": "Corinthian",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/2999",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Brynn Briedis"
@@ -131,8 +170,11 @@
     },
     {
       "startTime": "2024-03-20T04:20:00Z",
+      "endTime": "2024-03-20T04:50:00Z",
+      "duration": "P30M",
       "title": "(Support) people are people too. Learn how to increase the odds of getting your required outcome",
       "location": "Doric",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3039",
       "track": "People \u0026 Culture",
       "speakers": [
         "Jim Koutsouris"
@@ -140,8 +182,11 @@
     },
     {
       "startTime": "2024-03-19T22:20:00Z",
+      "endTime": "2024-03-19T23:05:00Z",
+      "duration": "P45M",
       "title": "The Drupal Project Update",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3147",
       "track": "Keynote",
       "speakers": [
         "Dries Buytaert"
@@ -149,8 +194,11 @@
     },
     {
       "startTime": "2024-03-19T23:15:00Z",
+      "endTime": "2024-03-19T23:45:00Z",
+      "duration": "P30M",
       "title": "ArtSEEker - using headless Drupal to power AI Art recognition",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/2981",
       "track": "Drupal Development",
       "speakers": [
         "Morgan Strong"
@@ -158,8 +206,11 @@
     },
     {
       "startTime": "2024-03-19T23:15:00Z",
+      "endTime": "2024-03-19T23:45:00Z",
+      "duration": "P30M",
       "title": "To be or not to be a Technical Lead",
       "location": "Doric",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3064",
       "track": "People \u0026 Culture",
       "speakers": [
         "Jibran Ijaz"
@@ -167,8 +218,11 @@
     },
     {
       "startTime": "2024-03-20T00:15:00Z",
+      "endTime": "2024-03-20T01:00:00Z",
+      "duration": "P45M",
       "title": "A Q\u0026A with Drupal Association leadership",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3047",
       "track": "People \u0026 Culture",
       "speakers": [
         "Mike Richardson"
@@ -176,8 +230,11 @@
     },
     {
       "startTime": "2024-03-20T00:15:00Z",
+      "endTime": "2024-03-20T01:00:00Z",
+      "duration": "P45M",
       "title": "A Drupal core maintainer shares peer code review best practices",
       "location": "Corinthian",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3005",
       "track": "Drupal Development",
       "speakers": [
         "xjm"
@@ -185,8 +242,11 @@
     },
     {
       "startTime": "2024-03-20T01:15:00Z",
+      "endTime": "2024-03-20T01:45:00Z",
+      "duration": "P30M",
       "title": "ke upgrading easier for your module users",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3020",
       "track": "Drupal Development",
       "speakers": [
         "Kim Pepper"
@@ -194,8 +254,11 @@
     },
     {
       "startTime": "2024-03-20T01:15:00Z",
+      "endTime": "2024-03-20T01:45:00Z",
+      "duration": "P30M",
       "title": "Drupal and the Open Web in the Australian Government - 2024 edition",
       "location": "Corinthian",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3041",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Sean Hamlin"
@@ -203,8 +266,11 @@
     },
     {
       "startTime": "2024-03-20T02:45:00Z",
+      "endTime": "2024-03-20T03:15:00Z",
+      "duration": "P30M",
       "title": "ging NZ history into the future",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3043",
       "track": "Drupal Development",
       "speakers": [
         "Jonathan Hunt"
@@ -212,8 +278,11 @@
     },
     {
       "startTime": "2024-03-20T02:45:00Z",
+      "endTime": "2024-03-20T03:15:00Z",
+      "duration": "P30M",
       "title": "Site360: Under the hood of a website health metrics tool",
       "location": "Corinthian",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3061",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Roman Barbun"
@@ -221,8 +290,11 @@
     },
     {
       "startTime": "2024-03-20T02:45:00Z",
+      "endTime": "2024-03-20T03:15:00Z",
+      "duration": "P30M",
       "title": "New Perspectives For Design Thinking—10 ways to fail as the person designing for other people",
       "location": "Doric",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3054",
       "track": "User Experience \u0026 Content",
       "speakers": [
         "Heike Theis"
@@ -230,8 +302,11 @@
     },
     {
       "startTime": "2024-03-20T03:30:00Z",
+      "endTime": "2024-03-20T04:00:00Z",
+      "duration": "P30M",
       "title": "Secure, Performant, Scalable and Green: The big wins of a static Drupal website",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3074",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Steven Worley"
@@ -239,8 +314,11 @@
     },
     {
       "startTime": "2024-03-20T04:20:00Z",
+      "endTime": "2024-03-20T04:50:00Z",
+      "duration": "P30M",
       "title": "Delving into Website Performance: A Journey from Browser to Web Server",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3026",
       "track": "Drupal Development",
       "speakers": [
         "Joshua Li"
@@ -248,8 +326,11 @@
     },
     {
       "startTime": "2024-03-20T04:20:00Z",
+      "endTime": "2024-03-20T04:50:00Z",
+      "duration": "P30M",
       "title": "SS Magic: Making Web Design Fun Again!",
       "location": "Corinthian",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/2999",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Brynn Briedis"
@@ -257,8 +338,11 @@
     },
     {
       "startTime": "2024-03-20T04:20:00Z",
+      "endTime": "2024-03-20T04:50:00Z",
+      "duration": "P30M",
       "title": "(Support) people are people too. Learn how to increase the odds of getting your required outcome",
       "location": "Doric",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3039",
       "track": "People \u0026 Culture",
       "speakers": [
         "Jim Koutsouris"
@@ -266,8 +350,11 @@
     },
     {
       "startTime": "2024-03-20T22:00:00Z",
+      "endTime": "2024-03-20T22:45:00Z",
+      "duration": "P45M",
       "title": "eyond Buzzwords: Demystifying Diversity and Inclusion",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3229",
       "track": "Keynote",
       "speakers": [
         "Girls in Tech Australia"
@@ -275,8 +362,11 @@
     },
     {
       "startTime": "2024-03-20T23:00:00Z",
+      "endTime": "2024-03-20T23:30:00Z",
+      "duration": "P30M",
       "title": "Drupal at scale in the Australian National University",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3018",
       "track": "Drupal Development",
       "speakers": [
         "Dmitry Mikhailov"
@@ -284,8 +374,11 @@
     },
     {
       "startTime": "2024-03-20T23:00:00Z",
+      "endTime": "2024-03-20T23:30:00Z",
+      "duration": "P30M",
       "title": "Components of a component",
       "location": "Doric",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3031",
       "track": "User Experience \u0026 Content",
       "speakers": [
         "Nathan ter Bogt"
@@ -293,8 +386,11 @@
     },
     {
       "startTime": "2024-03-20T23:50:00Z",
+      "endTime": "2024-03-21T00:35:00Z",
+      "duration": "P45M",
       "title": "Patterns for Local Development Environment Nirvana",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3040",
       "track": "Drupal Development",
       "speakers": [
         "Nick Schuch"
@@ -302,8 +398,11 @@
     },
     {
       "startTime": "2024-03-20T23:50:00Z",
+      "endTime": "2024-03-21T00:35:00Z",
+      "duration": "P45M",
       "title": "flict is Information: Listen more, learn more, do better",
       "location": "Corinthian",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3065",
       "track": "People \u0026 Culture",
       "speakers": [
         "Dave Sparks"
@@ -311,8 +410,11 @@
     },
     {
       "startTime": "2024-03-20T23:50:00Z",
+      "endTime": "2024-03-21T00:35:00Z",
+      "duration": "P45M",
       "title": "First Time Contributors Workshop",
       "location": "Doric",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3052",
       "track": "Drupal Development",
       "speakers": [
         "Suchi Garg"
@@ -320,8 +422,11 @@
     },
     {
       "startTime": "2024-03-21T00:45:00Z",
+      "endTime": "2024-03-21T01:15:00Z",
+      "duration": "P30M",
       "title": "Drupal Defence in Depth",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3050",
       "track": "Drupal Development",
       "speakers": [
         "Ming Quah"
@@ -329,8 +434,11 @@
     },
     {
       "startTime": "2024-03-21T00:45:00Z",
+      "endTime": "2024-03-21T01:15:00Z",
+      "duration": "P30M",
       "title": "Patches are almost dead. Long live Merge Requests!",
       "location": "Corinthian",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3011",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Vladimir Roudakov"
@@ -338,8 +446,11 @@
     },
     {
       "startTime": "2024-03-21T00:45:00Z",
+      "endTime": "2024-03-21T01:15:00Z",
+      "duration": "P30M",
       "title": "Is generative AI the one UI to rule them all?",
       "location": "Doric",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3036",
       "track": "Drupal Development",
       "speakers": [
         "Josh Waihi"
@@ -347,8 +458,11 @@
     },
     {
       "startTime": "2024-03-21T02:15:00Z",
+      "endTime": "2024-03-21T02:45:00Z",
+      "duration": "P30M",
       "title": "DrupalSouth Steering Committee - Panel \u0026 Open Discussion",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3249",
       "track": "People \u0026 Culture",
       "speakers": [
         "Dave Sparks"
@@ -356,8 +470,11 @@
     },
     {
       "startTime": "2024-03-21T02:15:00Z",
+      "endTime": "2024-03-21T02:45:00Z",
+      "duration": "P30M",
       "title": "Turning Tragedy into Triumph: Lessons in Resilience",
       "location": "Doric",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3021",
       "track": "People \u0026 Culture",
       "speakers": [
         "Dallas Ramsden"
@@ -365,8 +482,11 @@
     },
     {
       "startTime": "2024-03-21T03:00:00Z",
+      "endTime": "2024-03-21T03:30:00Z",
+      "duration": "P30M",
       "title": "uild Forms in Drupal using Webform",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3022",
       "track": "Drupal Development",
       "speakers": [
         "Ivan Zugec"
@@ -374,8 +494,11 @@
     },
     {
       "startTime": "2024-03-21T04:00:00Z",
+      "endTime": "2024-03-21T04:30:00Z",
+      "duration": "P30M",
       "title": "Accessibility in WYSIWYG editors",
       "location": "Corinthian",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3013",
       "track": "User Experience \u0026 Content",
       "speakers": [
         "Janna Malikova"
@@ -383,8 +506,11 @@
     },
     {
       "startTime": "2024-03-21T04:00:00Z",
+      "endTime": "2024-03-21T04:30:00Z",
+      "duration": "P30M",
       "title": "upal Career: A Humorous Journey in the Drupal World",
       "location": "Doric",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3006",
       "track": "People \u0026 Culture",
       "speakers": [
         "Amjadkhan Pathan"
@@ -392,8 +518,11 @@
     },
     {
       "startTime": "2024-03-20T22:00:00Z",
+      "endTime": "2024-03-20T22:45:00Z",
+      "duration": "P45M",
       "title": "eyond Buzzwords: Demystifying Diversity and Inclusion",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3229",
       "track": "Keynote",
       "speakers": [
         "Girls in Tech Australia"
@@ -401,8 +530,11 @@
     },
     {
       "startTime": "2024-03-20T23:00:00Z",
+      "endTime": "2024-03-20T23:30:00Z",
+      "duration": "P30M",
       "title": "Drupal at scale in the Australian National University",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3018",
       "track": "Drupal Development",
       "speakers": [
         "Dmitry Mikhailov"
@@ -410,8 +542,11 @@
     },
     {
       "startTime": "2024-03-20T23:00:00Z",
+      "endTime": "2024-03-20T23:30:00Z",
+      "duration": "P30M",
       "title": "Components of a component",
       "location": "Doric",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3031",
       "track": "User Experience \u0026 Content",
       "speakers": [
         "Nathan ter Bogt"
@@ -419,8 +554,11 @@
     },
     {
       "startTime": "2024-03-20T23:50:00Z",
+      "endTime": "2024-03-21T00:35:00Z",
+      "duration": "P45M",
       "title": "Patterns for Local Development Environment Nirvana",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3040",
       "track": "Drupal Development",
       "speakers": [
         "Nick Schuch"
@@ -428,8 +566,11 @@
     },
     {
       "startTime": "2024-03-20T23:50:00Z",
+      "endTime": "2024-03-21T00:35:00Z",
+      "duration": "P45M",
       "title": "flict is Information: Listen more, learn more, do better",
       "location": "Corinthian",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3065",
       "track": "People \u0026 Culture",
       "speakers": [
         "Dave Sparks"
@@ -437,8 +578,11 @@
     },
     {
       "startTime": "2024-03-20T23:50:00Z",
+      "endTime": "2024-03-21T00:35:00Z",
+      "duration": "P45M",
       "title": "First Time Contributors Workshop",
       "location": "Doric",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3052",
       "track": "Drupal Development",
       "speakers": [
         "Suchi Garg"
@@ -446,8 +590,11 @@
     },
     {
       "startTime": "2024-03-21T00:45:00Z",
+      "endTime": "2024-03-21T01:15:00Z",
+      "duration": "P30M",
       "title": "Drupal Defence in Depth",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3050",
       "track": "Drupal Development",
       "speakers": [
         "Ming Quah"
@@ -455,8 +602,11 @@
     },
     {
       "startTime": "2024-03-21T00:45:00Z",
+      "endTime": "2024-03-21T01:15:00Z",
+      "duration": "P30M",
       "title": "Patches are almost dead. Long live Merge Requests!",
       "location": "Corinthian",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3011",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Vladimir Roudakov"
@@ -464,8 +614,11 @@
     },
     {
       "startTime": "2024-03-21T00:45:00Z",
+      "endTime": "2024-03-21T01:15:00Z",
+      "duration": "P30M",
       "title": "Is generative AI the one UI to rule them all?",
       "location": "Doric",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3036",
       "track": "Drupal Development",
       "speakers": [
         "Josh Waihi"
@@ -473,8 +626,11 @@
     },
     {
       "startTime": "2024-03-21T02:15:00Z",
+      "endTime": "2024-03-21T02:45:00Z",
+      "duration": "P30M",
       "title": "DrupalSouth Steering Committee - Panel \u0026 Open Discussion",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3249",
       "track": "People \u0026 Culture",
       "speakers": [
         "Dave Sparks"
@@ -482,8 +638,11 @@
     },
     {
       "startTime": "2024-03-21T02:15:00Z",
+      "endTime": "2024-03-21T02:45:00Z",
+      "duration": "P30M",
       "title": "Turning Tragedy into Triumph: Lessons in Resilience",
       "location": "Doric",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3021",
       "track": "People \u0026 Culture",
       "speakers": [
         "Dallas Ramsden"
@@ -491,8 +650,11 @@
     },
     {
       "startTime": "2024-03-21T03:00:00Z",
+      "endTime": "2024-03-21T03:30:00Z",
+      "duration": "P30M",
       "title": "uild Forms in Drupal using Webform",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3022",
       "track": "Drupal Development",
       "speakers": [
         "Ivan Zugec"
@@ -500,8 +662,11 @@
     },
     {
       "startTime": "2024-03-21T04:00:00Z",
+      "endTime": "2024-03-21T04:30:00Z",
+      "duration": "P30M",
       "title": "Accessibility in WYSIWYG editors",
       "location": "Corinthian",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3013",
       "track": "User Experience \u0026 Content",
       "speakers": [
         "Janna Malikova"
@@ -509,8 +674,11 @@
     },
     {
       "startTime": "2024-03-21T04:00:00Z",
+      "endTime": "2024-03-21T04:30:00Z",
+      "duration": "P30M",
       "title": "upal Career: A Humorous Journey in the Drupal World",
       "location": "Doric",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3006",
       "track": "People \u0026 Culture",
       "speakers": [
         "Amjadkhan Pathan"

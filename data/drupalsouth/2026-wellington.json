@@ -22,8 +22,11 @@
     },
     {
       "startTime": "2026-05-12T21:20:00Z",
+      "endTime": "2026-05-12T22:05:00Z",
+      "duration": "P45M",
       "title": "The Drupal Project Update",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3147",
       "track": "Keynote",
       "speakers": [
         "Dries Buytaert"
@@ -31,8 +34,11 @@
     },
     {
       "startTime": "2026-05-12T22:10:00Z",
+      "endTime": "2026-05-12T22:40:00Z",
+      "duration": "P30M",
       "title": "Bots, Scrapers, and Proxies: Defending Drupal Sites in an Automated Internet",
       "location": "Room 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/4341",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Sean Hamlin"
@@ -40,8 +46,11 @@
     },
     {
       "startTime": "2026-05-12T22:15:00Z",
+      "endTime": "2026-05-12T22:40:00Z",
+      "duration": "P25M",
       "title": "To be or not to be a Technical Lead",
       "location": "Doric",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3064",
       "track": "People \u0026 Culture",
       "speakers": [
         "Jibran Ijaz"
@@ -49,8 +58,11 @@
     },
     {
       "startTime": "2026-05-12T23:15:00Z",
+      "endTime": "2026-05-13T00:00:00Z",
+      "duration": "P45M",
       "title": "A Q\u0026A with Drupal Association leadership",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3047",
       "track": "People \u0026 Culture",
       "speakers": [
         "Mike Richardson"
@@ -58,8 +70,11 @@
     },
     {
       "startTime": "2026-05-12T23:15:00Z",
+      "endTime": "2026-05-13T00:00:00Z",
+      "duration": "P45M",
       "title": "A Drupal core maintainer shares peer code review best practices",
       "location": "Corinthian",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3005",
       "track": "Drupal Development",
       "speakers": [
         "xjm"
@@ -67,8 +82,11 @@
     },
     {
       "startTime": "2026-05-13T00:15:00Z",
+      "endTime": "2026-05-13T00:45:00Z",
+      "duration": "P30M",
       "title": "ke upgrading easier for your module users",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3020",
       "track": "Drupal Development",
       "speakers": [
         "Kim Pepper"
@@ -76,8 +94,11 @@
     },
     {
       "startTime": "2026-05-13T00:15:00Z",
+      "endTime": "2026-05-13T00:45:00Z",
+      "duration": "P30M",
       "title": "Drupal and the Open Web in the Australian Government - 2024 edition",
       "location": "Corinthian",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3041",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Sean Hamlin"
@@ -85,8 +106,11 @@
     },
     {
       "startTime": "2026-05-13T01:45:00Z",
+      "endTime": "2026-05-13T02:15:00Z",
+      "duration": "P30M",
       "title": "ging NZ history into the future",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3043",
       "track": "Drupal Development",
       "speakers": [
         "Jonathan Hunt"
@@ -94,8 +118,11 @@
     },
     {
       "startTime": "2026-05-13T01:45:00Z",
+      "endTime": "2026-05-13T02:15:00Z",
+      "duration": "P30M",
       "title": "Site360: Under the hood of a website health metrics tool",
       "location": "Corinthian",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3061",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Roman Barbun"
@@ -103,8 +130,11 @@
     },
     {
       "startTime": "2026-05-13T01:45:00Z",
+      "endTime": "2026-05-13T02:15:00Z",
+      "duration": "P30M",
       "title": "New Perspectives For Design Thinking—10 ways to fail as the person designing for other people",
       "location": "Doric",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3054",
       "track": "User Experience \u0026 Content",
       "speakers": [
         "Heike Theis"
@@ -112,8 +142,11 @@
     },
     {
       "startTime": "2026-05-13T02:30:00Z",
+      "endTime": "2026-05-13T03:00:00Z",
+      "duration": "P30M",
       "title": "Secure, Performant, Scalable and Green: The big wins of a static Drupal website",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3074",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Steven Worley"
@@ -121,8 +154,11 @@
     },
     {
       "startTime": "2026-05-13T03:20:00Z",
+      "endTime": "2026-05-13T03:50:00Z",
+      "duration": "P30M",
       "title": "Delving into Website Performance: A Journey from Browser to Web Server",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3026",
       "track": "Drupal Development",
       "speakers": [
         "Joshua Li"
@@ -130,8 +166,11 @@
     },
     {
       "startTime": "2026-05-13T03:20:00Z",
+      "endTime": "2026-05-13T03:50:00Z",
+      "duration": "P30M",
       "title": "SS Magic: Making Web Design Fun Again!",
       "location": "Corinthian",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/2999",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Brynn Briedis"
@@ -139,8 +178,11 @@
     },
     {
       "startTime": "2026-05-13T03:20:00Z",
+      "endTime": "2026-05-13T03:50:00Z",
+      "duration": "P30M",
       "title": "(Support) people are people too. Learn how to increase the odds of getting your required outcome",
       "location": "Doric",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3039",
       "track": "People \u0026 Culture",
       "speakers": [
         "Jim Koutsouris"
@@ -148,8 +190,11 @@
     },
     {
       "startTime": "2026-05-12T21:20:00Z",
+      "endTime": "2026-05-12T22:05:00Z",
+      "duration": "P45M",
       "title": "The Drupal Project Update",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3147",
       "track": "Keynote",
       "speakers": [
         "Dries Buytaert"
@@ -157,8 +202,11 @@
     },
     {
       "startTime": "2026-05-12T22:10:00Z",
+      "endTime": "2026-05-12T22:40:00Z",
+      "duration": "P30M",
       "title": "Bots, Scrapers, and Proxies: Defending Drupal Sites in an Automated Internet",
       "location": "Room 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/4341",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Sean Hamlin"
@@ -166,8 +214,11 @@
     },
     {
       "startTime": "2026-05-12T22:15:00Z",
+      "endTime": "2026-05-12T22:40:00Z",
+      "duration": "P25M",
       "title": "To be or not to be a Technical Lead",
       "location": "Doric",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3064",
       "track": "People \u0026 Culture",
       "speakers": [
         "Jibran Ijaz"
@@ -175,8 +226,11 @@
     },
     {
       "startTime": "2026-05-12T23:15:00Z",
+      "endTime": "2026-05-13T00:00:00Z",
+      "duration": "P45M",
       "title": "A Q\u0026A with Drupal Association leadership",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3047",
       "track": "People \u0026 Culture",
       "speakers": [
         "Mike Richardson"
@@ -184,8 +238,11 @@
     },
     {
       "startTime": "2026-05-12T23:15:00Z",
+      "endTime": "2026-05-13T00:00:00Z",
+      "duration": "P45M",
       "title": "A Drupal core maintainer shares peer code review best practices",
       "location": "Corinthian",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3005",
       "track": "Drupal Development",
       "speakers": [
         "xjm"
@@ -193,8 +250,11 @@
     },
     {
       "startTime": "2026-05-13T00:15:00Z",
+      "endTime": "2026-05-13T00:45:00Z",
+      "duration": "P30M",
       "title": "ke upgrading easier for your module users",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3020",
       "track": "Drupal Development",
       "speakers": [
         "Kim Pepper"
@@ -202,8 +262,11 @@
     },
     {
       "startTime": "2026-05-13T00:15:00Z",
+      "endTime": "2026-05-13T00:45:00Z",
+      "duration": "P30M",
       "title": "Drupal and the Open Web in the Australian Government - 2024 edition",
       "location": "Corinthian",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3041",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Sean Hamlin"
@@ -211,8 +274,11 @@
     },
     {
       "startTime": "2026-05-13T01:45:00Z",
+      "endTime": "2026-05-13T02:15:00Z",
+      "duration": "P30M",
       "title": "ging NZ history into the future",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3043",
       "track": "Drupal Development",
       "speakers": [
         "Jonathan Hunt"
@@ -220,8 +286,11 @@
     },
     {
       "startTime": "2026-05-13T01:45:00Z",
+      "endTime": "2026-05-13T02:15:00Z",
+      "duration": "P30M",
       "title": "Site360: Under the hood of a website health metrics tool",
       "location": "Corinthian",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3061",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Roman Barbun"
@@ -229,8 +298,11 @@
     },
     {
       "startTime": "2026-05-13T01:45:00Z",
+      "endTime": "2026-05-13T02:15:00Z",
+      "duration": "P30M",
       "title": "New Perspectives For Design Thinking—10 ways to fail as the person designing for other people",
       "location": "Doric",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3054",
       "track": "User Experience \u0026 Content",
       "speakers": [
         "Heike Theis"
@@ -238,8 +310,11 @@
     },
     {
       "startTime": "2026-05-13T02:30:00Z",
+      "endTime": "2026-05-13T03:00:00Z",
+      "duration": "P30M",
       "title": "Secure, Performant, Scalable and Green: The big wins of a static Drupal website",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3074",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Steven Worley"
@@ -247,8 +322,11 @@
     },
     {
       "startTime": "2026-05-13T03:20:00Z",
+      "endTime": "2026-05-13T03:50:00Z",
+      "duration": "P30M",
       "title": "Delving into Website Performance: A Journey from Browser to Web Server",
       "location": "Main Ballroom",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3026",
       "track": "Drupal Development",
       "speakers": [
         "Joshua Li"
@@ -256,8 +334,11 @@
     },
     {
       "startTime": "2026-05-13T03:20:00Z",
+      "endTime": "2026-05-13T03:50:00Z",
+      "duration": "P30M",
       "title": "SS Magic: Making Web Design Fun Again!",
       "location": "Corinthian",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/2999",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Brynn Briedis"
@@ -265,8 +346,11 @@
     },
     {
       "startTime": "2026-05-13T03:20:00Z",
+      "endTime": "2026-05-13T03:50:00Z",
+      "duration": "P30M",
       "title": "(Support) people are people too. Learn how to increase the odds of getting your required outcome",
       "location": "Doric",
+      "link": "https://drupalsouth.org//events/drupalsouth-sydney-2024/schedule/3039",
       "track": "People \u0026 Culture",
       "speakers": [
         "Jim Koutsouris"
