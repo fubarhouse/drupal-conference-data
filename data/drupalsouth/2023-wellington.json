@@ -1,20 +1,20 @@
 {
   "event": {
-    "Designation": "DrupalSouth",
-    "Location": "Wellington",
-    "Year": "2023",
-    "URL": "https://drupalsouth.org/events/drupalsouth-wellington-2023",
-    "Region": "New Zealand – Wellington",
-    "EndDate": "2023-05-19T00:00:00Z",
-    "StartDate": "2023-05-17T00:00:00Z",
-    "ScheduleURL": "https://drupalsouth.org/events/drupalsouth-wellington-2023/schedule",
-    "Venue": "The Embassy Theatre",
-    "Timezone": "Pacific/Auckland"
+    "designation": "DrupalSouth",
+    "location": "Wellington",
+    "year": "2023",
+    "website": "https://drupalsouth.org/events/drupalsouth-wellington-2023",
+    "region": "New Zealand – Wellington",
+    "endDate": "2023-05-19T00:00:00Z",
+    "startDate": "2023-05-17T00:00:00Z",
+    "scheduleURL": "https://drupalsouth.org/events/drupalsouth-wellington-2023/schedule",
+    "venue": "The Embassy Theatre",
+    "timezone": "Pacific/Auckland"
   },
   "items": [
     {
-      "startTime": "2026-05-16T21:15:00Z",
-      "summary": "Securing the software that will change the world",
+      "startTime": "2023-05-16T21:15:00Z",
+      "title": "Securing the software that will change the world",
       "location": "Main Theatre",
       "track": "Keynote",
       "speakers": [
@@ -22,8 +22,8 @@
       ]
     },
     {
-      "startTime": "2026-05-16T22:15:00Z",
-      "summary": "From 'them' to 'us': Demystifying Drupal contribution",
+      "startTime": "2023-05-16T22:15:00Z",
+      "title": "From 'them' to 'us': Demystifying Drupal contribution",
       "location": "Main Theatre",
       "track": "Drupal Development",
       "speakers": [
@@ -32,8 +32,8 @@
       ]
     },
     {
-      "startTime": "2026-05-16T22:15:00Z",
-      "summary": "Build Your Own Mailchimp in Amazon SES",
+      "startTime": "2023-05-16T22:15:00Z",
+      "title": "Build Your Own Mailchimp in Amazon SES",
       "location": "Room 2",
       "track": "Web Tools \u0026 Technologies",
       "speakers": [
@@ -41,8 +41,8 @@
       ]
     },
     {
-      "startTime": "2026-05-16T22:15:00Z",
-      "summary": "Open Source, Seriously",
+      "startTime": "2023-05-16T22:15:00Z",
+      "title": "Open Source, Seriously",
       "location": "Room 3",
       "track": "Showcases \u0026 Project Management",
       "speakers": [
@@ -50,8 +50,8 @@
       ]
     },
     {
-      "startTime": "2026-05-16T23:15:00Z",
-      "summary": "Understanding the Fields System in Drupal",
+      "startTime": "2023-05-16T23:15:00Z",
+      "title": "Understanding the Fields System in Drupal",
       "location": "Main Theatre",
       "track": "Drupal Development",
       "speakers": [
@@ -59,8 +59,8 @@
       ]
     },
     {
-      "startTime": "2026-05-16T23:15:00Z",
-      "summary": "Six weeks on the dark side",
+      "startTime": "2023-05-16T23:15:00Z",
+      "title": "Six weeks on the dark side",
       "location": "Room 2",
       "track": "Showcases \u0026 Project Management",
       "speakers": [
@@ -68,8 +68,8 @@
       ]
     },
     {
-      "startTime": "2026-05-16T23:15:00Z",
-      "summary": "CKEditor 5: One Small Step for Content Editor, One Giant Leap for Drupal",
+      "startTime": "2023-05-16T23:15:00Z",
+      "title": "CKEditor 5: One Small Step for Content Editor, One Giant Leap for Drupal",
       "location": "Room 3",
       "track": "User Experience \u0026 Content",
       "speakers": [
@@ -77,8 +77,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T00:00:00Z",
-      "summary": "Creating the optimal editorial experience with Layout Builder",
+      "startTime": "2023-05-17T00:00:00Z",
+      "title": "Creating the optimal editorial experience with Layout Builder",
       "location": "Main Theatre",
       "track": "Drupal Development",
       "speakers": [
@@ -86,8 +86,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T00:00:00Z",
-      "summary": "Scanning the New Zealand Government ecosystem. How popular is Drupal in the land of the long white cloud?",
+      "startTime": "2023-05-17T00:00:00Z",
+      "title": "Scanning the New Zealand Government ecosystem. How popular is Drupal in the land of the long white cloud?",
       "location": "Room 3",
       "track": "Showcases \u0026 Project Management",
       "speakers": [
@@ -95,8 +95,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T01:30:00Z",
-      "summary": "Drupal Hosting Security Panel",
+      "startTime": "2023-05-17T01:30:00Z",
+      "title": "Drupal Hosting Security Panel",
       "location": "Main Theatre",
       "track": "Web Tools \u0026 Technologies",
       "speakers": [
@@ -104,8 +104,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T01:30:00Z",
-      "summary": "Introduction to decoupled Drupal with a Gatsby frontend",
+      "startTime": "2023-05-17T01:30:00Z",
+      "title": "Introduction to decoupled Drupal with a Gatsby frontend",
       "location": "Room 2",
       "track": "Drupal Development",
       "speakers": [
@@ -113,8 +113,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T01:30:00Z",
-      "summary": "How much does a polar bear weigh?",
+      "startTime": "2023-05-17T01:30:00Z",
+      "title": "How much does a polar bear weigh?",
       "location": "Room 3",
       "track": "Showcases \u0026 Project Management",
       "speakers": [
@@ -122,8 +122,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T02:15:00Z",
-      "summary": "Securing your Drupal projects with Essential 8: Scanning Tools \u0026 Compliance Strategies",
+      "startTime": "2023-05-17T02:15:00Z",
+      "title": "Securing your Drupal projects with Essential 8: Scanning Tools \u0026 Compliance Strategies",
       "location": "Main Theatre",
       "track": "Drupal Development",
       "speakers": [
@@ -131,8 +131,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T02:15:00Z",
-      "summary": "Vue JS for React JS developers and vice versa",
+      "startTime": "2023-05-17T02:15:00Z",
+      "title": "Vue JS for React JS developers and vice versa",
       "location": "Room 2",
       "track": "Web Tools \u0026 Technologies",
       "speakers": [
@@ -140,8 +140,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T02:15:00Z",
-      "summary": "How (anyone!) can get constructive user feedback.",
+      "startTime": "2023-05-17T02:15:00Z",
+      "title": "How (anyone!) can get constructive user feedback.",
       "location": "Room 3",
       "track": "User Experience \u0026 Content",
       "speakers": [
@@ -149,8 +149,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T03:00:00Z",
-      "summary": "Secure by Design: Integrating Security into Development",
+      "startTime": "2023-05-17T03:00:00Z",
+      "title": "Secure by Design: Integrating Security into Development",
       "location": "Main Theatre",
       "track": "Web Tools \u0026 Technologies",
       "speakers": [
@@ -158,8 +158,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T03:00:00Z",
-      "summary": "Building an API with GraphQL 4",
+      "startTime": "2023-05-17T03:00:00Z",
+      "title": "Building an API with GraphQL 4",
       "location": "Room 2",
       "track": "Drupal Development",
       "speakers": [
@@ -167,8 +167,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T03:00:00Z",
-      "summary": "LINZ \u0026 Charts Showcase: From Discovery and Designs, to Development and Delivery",
+      "startTime": "2023-05-17T03:00:00Z",
+      "title": "LINZ \u0026 Charts Showcase: From Discovery and Designs, to Development and Delivery",
       "location": "Room 3",
       "track": "Showcases \u0026 Project Management",
       "speakers": [
@@ -176,8 +176,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T04:00:00Z",
-      "summary": "Why Drupal? Why Now? - Panel Discussion",
+      "startTime": "2023-05-17T04:00:00Z",
+      "title": "Why Drupal? Why Now? - Panel Discussion",
       "location": "Main Theatre",
       "track": "User Experience \u0026 Content",
       "speakers": [
@@ -185,8 +185,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T04:00:00Z",
-      "summary": "The Best of Both Worlds: Combining Drupal Headless and Next.js",
+      "startTime": "2023-05-17T04:00:00Z",
+      "title": "The Best of Both Worlds: Combining Drupal Headless and Next.js",
       "location": "Room 2",
       "track": "Web Tools \u0026 Technologies",
       "speakers": [
@@ -194,8 +194,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T04:00:00Z",
-      "summary": "Creating a Culture of Documentation",
+      "startTime": "2023-05-17T04:00:00Z",
+      "title": "Creating a Culture of Documentation",
       "location": "Room 3",
       "track": "Showcases \u0026 Project Management",
       "speakers": [
@@ -203,8 +203,8 @@
       ]
     },
     {
-      "startTime": "2026-05-16T21:15:00Z",
-      "summary": "Securing the software that will change the world",
+      "startTime": "2023-05-16T21:15:00Z",
+      "title": "Securing the software that will change the world",
       "location": "Main Theatre",
       "track": "Keynote",
       "speakers": [
@@ -212,8 +212,8 @@
       ]
     },
     {
-      "startTime": "2026-05-16T22:15:00Z",
-      "summary": "From 'them' to 'us': Demystifying Drupal contribution",
+      "startTime": "2023-05-16T22:15:00Z",
+      "title": "From 'them' to 'us': Demystifying Drupal contribution",
       "location": "Main Theatre",
       "track": "Drupal Development",
       "speakers": [
@@ -222,8 +222,8 @@
       ]
     },
     {
-      "startTime": "2026-05-16T22:15:00Z",
-      "summary": "Build Your Own Mailchimp in Amazon SES",
+      "startTime": "2023-05-16T22:15:00Z",
+      "title": "Build Your Own Mailchimp in Amazon SES",
       "location": "Room 2",
       "track": "Web Tools \u0026 Technologies",
       "speakers": [
@@ -231,8 +231,8 @@
       ]
     },
     {
-      "startTime": "2026-05-16T22:15:00Z",
-      "summary": "Open Source, Seriously",
+      "startTime": "2023-05-16T22:15:00Z",
+      "title": "Open Source, Seriously",
       "location": "Room 3",
       "track": "Showcases \u0026 Project Management",
       "speakers": [
@@ -240,8 +240,8 @@
       ]
     },
     {
-      "startTime": "2026-05-16T23:15:00Z",
-      "summary": "Understanding the Fields System in Drupal",
+      "startTime": "2023-05-16T23:15:00Z",
+      "title": "Understanding the Fields System in Drupal",
       "location": "Main Theatre",
       "track": "Drupal Development",
       "speakers": [
@@ -249,8 +249,8 @@
       ]
     },
     {
-      "startTime": "2026-05-16T23:15:00Z",
-      "summary": "Six weeks on the dark side",
+      "startTime": "2023-05-16T23:15:00Z",
+      "title": "Six weeks on the dark side",
       "location": "Room 2",
       "track": "Showcases \u0026 Project Management",
       "speakers": [
@@ -258,8 +258,8 @@
       ]
     },
     {
-      "startTime": "2026-05-16T23:15:00Z",
-      "summary": "CKEditor 5: One Small Step for Content Editor, One Giant Leap for Drupal",
+      "startTime": "2023-05-16T23:15:00Z",
+      "title": "CKEditor 5: One Small Step for Content Editor, One Giant Leap for Drupal",
       "location": "Room 3",
       "track": "User Experience \u0026 Content",
       "speakers": [
@@ -267,8 +267,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T00:00:00Z",
-      "summary": "Creating the optimal editorial experience with Layout Builder",
+      "startTime": "2023-05-17T00:00:00Z",
+      "title": "Creating the optimal editorial experience with Layout Builder",
       "location": "Main Theatre",
       "track": "Drupal Development",
       "speakers": [
@@ -276,8 +276,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T00:00:00Z",
-      "summary": "Scanning the New Zealand Government ecosystem. How popular is Drupal in the land of the long white cloud?",
+      "startTime": "2023-05-17T00:00:00Z",
+      "title": "Scanning the New Zealand Government ecosystem. How popular is Drupal in the land of the long white cloud?",
       "location": "Room 3",
       "track": "Showcases \u0026 Project Management",
       "speakers": [
@@ -285,8 +285,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T01:30:00Z",
-      "summary": "Drupal Hosting Security Panel",
+      "startTime": "2023-05-17T01:30:00Z",
+      "title": "Drupal Hosting Security Panel",
       "location": "Main Theatre",
       "track": "Web Tools \u0026 Technologies",
       "speakers": [
@@ -294,8 +294,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T01:30:00Z",
-      "summary": "Introduction to decoupled Drupal with a Gatsby frontend",
+      "startTime": "2023-05-17T01:30:00Z",
+      "title": "Introduction to decoupled Drupal with a Gatsby frontend",
       "location": "Room 2",
       "track": "Drupal Development",
       "speakers": [
@@ -303,8 +303,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T01:30:00Z",
-      "summary": "How much does a polar bear weigh?",
+      "startTime": "2023-05-17T01:30:00Z",
+      "title": "How much does a polar bear weigh?",
       "location": "Room 3",
       "track": "Showcases \u0026 Project Management",
       "speakers": [
@@ -312,8 +312,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T02:15:00Z",
-      "summary": "Securing your Drupal projects with Essential 8: Scanning Tools \u0026 Compliance Strategies",
+      "startTime": "2023-05-17T02:15:00Z",
+      "title": "Securing your Drupal projects with Essential 8: Scanning Tools \u0026 Compliance Strategies",
       "location": "Main Theatre",
       "track": "Drupal Development",
       "speakers": [
@@ -321,8 +321,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T02:15:00Z",
-      "summary": "Vue JS for React JS developers and vice versa",
+      "startTime": "2023-05-17T02:15:00Z",
+      "title": "Vue JS for React JS developers and vice versa",
       "location": "Room 2",
       "track": "Web Tools \u0026 Technologies",
       "speakers": [
@@ -330,8 +330,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T02:15:00Z",
-      "summary": "How (anyone!) can get constructive user feedback.",
+      "startTime": "2023-05-17T02:15:00Z",
+      "title": "How (anyone!) can get constructive user feedback.",
       "location": "Room 3",
       "track": "User Experience \u0026 Content",
       "speakers": [
@@ -339,8 +339,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T03:00:00Z",
-      "summary": "Secure by Design: Integrating Security into Development",
+      "startTime": "2023-05-17T03:00:00Z",
+      "title": "Secure by Design: Integrating Security into Development",
       "location": "Main Theatre",
       "track": "Web Tools \u0026 Technologies",
       "speakers": [
@@ -348,8 +348,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T03:00:00Z",
-      "summary": "Building an API with GraphQL 4",
+      "startTime": "2023-05-17T03:00:00Z",
+      "title": "Building an API with GraphQL 4",
       "location": "Room 2",
       "track": "Drupal Development",
       "speakers": [
@@ -357,8 +357,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T03:00:00Z",
-      "summary": "LINZ \u0026 Charts Showcase: From Discovery and Designs, to Development and Delivery",
+      "startTime": "2023-05-17T03:00:00Z",
+      "title": "LINZ \u0026 Charts Showcase: From Discovery and Designs, to Development and Delivery",
       "location": "Room 3",
       "track": "Showcases \u0026 Project Management",
       "speakers": [
@@ -366,8 +366,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T04:00:00Z",
-      "summary": "Why Drupal? Why Now? - Panel Discussion",
+      "startTime": "2023-05-17T04:00:00Z",
+      "title": "Why Drupal? Why Now? - Panel Discussion",
       "location": "Main Theatre",
       "track": "User Experience \u0026 Content",
       "speakers": [
@@ -375,8 +375,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T04:00:00Z",
-      "summary": "The Best of Both Worlds: Combining Drupal Headless and Next.js",
+      "startTime": "2023-05-17T04:00:00Z",
+      "title": "The Best of Both Worlds: Combining Drupal Headless and Next.js",
       "location": "Room 2",
       "track": "Web Tools \u0026 Technologies",
       "speakers": [
@@ -384,8 +384,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T04:00:00Z",
-      "summary": "Creating a Culture of Documentation",
+      "startTime": "2023-05-17T04:00:00Z",
+      "title": "Creating a Culture of Documentation",
       "location": "Room 3",
       "track": "Showcases \u0026 Project Management",
       "speakers": [
@@ -393,8 +393,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T21:15:00Z",
-      "summary": "Open Source is Dead, Long Live Open Source",
+      "startTime": "2023-05-17T21:15:00Z",
+      "title": "Open Source is Dead, Long Live Open Source",
       "location": "Main Theatre",
       "track": "Keynote",
       "speakers": [
@@ -402,8 +402,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T22:00:00Z",
-      "summary": "oad to zero friction testing - getting the most out of Drupal Testing Traits",
+      "startTime": "2023-05-17T22:00:00Z",
+      "title": "oad to zero friction testing - getting the most out of Drupal Testing Traits",
       "location": "Main Theatre",
       "track": "Drupal Development",
       "speakers": [
@@ -411,8 +411,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T22:00:00Z",
-      "summary": "Announcing the 2023 Drupal Local Development Survey Results",
+      "startTime": "2023-05-17T22:00:00Z",
+      "title": "Announcing the 2023 Drupal Local Development Survey Results",
       "location": "Room 2",
       "track": "Web Tools \u0026 Technologies",
       "speakers": [
@@ -420,8 +420,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T22:00:00Z",
-      "summary": "The Fast and the Functional: Pragma's Strategy for a Successful Website Rebuild",
+      "startTime": "2023-05-17T22:00:00Z",
+      "title": "The Fast and the Functional: Pragma's Strategy for a Successful Website Rebuild",
       "location": "Room 3",
       "track": "Showcases \u0026 Project Management",
       "speakers": [
@@ -429,8 +429,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T23:00:00Z",
-      "summary": "I thought you'd said you'd written the tests!?",
+      "startTime": "2023-05-17T23:00:00Z",
+      "title": "I thought you'd said you'd written the tests!?",
       "location": "Main Theatre",
       "track": "Drupal Development",
       "speakers": [
@@ -438,8 +438,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T23:00:00Z",
-      "summary": "Design in Figma, launch on Drupal in days, not weeks",
+      "startTime": "2023-05-17T23:00:00Z",
+      "title": "Design in Figma, launch on Drupal in days, not weeks",
       "location": "Room 2",
       "track": "Web Tools \u0026 Technologies",
       "speakers": [
@@ -447,8 +447,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T23:00:00Z",
-      "summary": "GovCMS Deep Dive into content sharing at scale",
+      "startTime": "2023-05-17T23:00:00Z",
+      "title": "GovCMS Deep Dive into content sharing at scale",
       "location": "Room 3",
       "track": "User Experience \u0026 Content",
       "speakers": [
@@ -456,8 +456,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T23:45:00Z",
-      "summary": "Uplifting content with AI: ChatGPT and NLP Cloud",
+      "startTime": "2023-05-17T23:45:00Z",
+      "title": "Uplifting content with AI: ChatGPT and NLP Cloud",
       "location": "Main Theatre",
       "track": "Web Tools \u0026 Technologies",
       "speakers": [
@@ -465,8 +465,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T23:45:00Z",
-      "summary": "SEO + Web core vitals + Drupal: a 360o view on the metrics that matter",
+      "startTime": "2023-05-17T23:45:00Z",
+      "title": "SEO + Web core vitals + Drupal: a 360o view on the metrics that matter",
       "location": "Room 2",
       "track": "User Experience \u0026 Content",
       "speakers": [
@@ -474,8 +474,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T23:45:00Z",
-      "summary": "Automate your tests so you can spend more time drinking coffee",
+      "startTime": "2023-05-17T23:45:00Z",
+      "title": "Automate your tests so you can spend more time drinking coffee",
       "location": "Room 3",
       "track": "Web Tools \u0026 Technologies",
       "speakers": [
@@ -483,8 +483,8 @@
       ]
     },
     {
-      "startTime": "2026-05-18T01:00:00Z",
-      "summary": "Next level Search API",
+      "startTime": "2023-05-18T01:00:00Z",
+      "title": "Next level Search API",
       "location": "Main Theatre",
       "track": "Drupal Development",
       "speakers": [
@@ -492,8 +492,8 @@
       ]
     },
     {
-      "startTime": "2026-05-18T01:00:00Z",
-      "summary": "A Case Study On Building A Cloud Native Platform",
+      "startTime": "2023-05-18T01:00:00Z",
+      "title": "A Case Study On Building A Cloud Native Platform",
       "location": "Room 2",
       "track": "Web Tools \u0026 Technologies",
       "speakers": [
@@ -501,8 +501,8 @@
       ]
     },
     {
-      "startTime": "2026-05-18T01:00:00Z",
-      "summary": "Tips and tricks for working with GovCMS SaaS",
+      "startTime": "2023-05-18T01:00:00Z",
+      "title": "Tips and tricks for working with GovCMS SaaS",
       "location": "Room 3",
       "track": "Drupal Development",
       "speakers": [
@@ -510,8 +510,8 @@
       ]
     },
     {
-      "startTime": "2026-05-18T01:45:00Z",
-      "summary": "Unlocking the Power of GraphQL in Drupal for Frontend Developers",
+      "startTime": "2023-05-18T01:45:00Z",
+      "title": "Unlocking the Power of GraphQL in Drupal for Frontend Developers",
       "location": "Main Theatre",
       "track": "Drupal Development",
       "speakers": [
@@ -519,8 +519,8 @@
       ]
     },
     {
-      "startTime": "2026-05-18T01:45:00Z",
-      "summary": "Enhance User Experience with Partially Decoupled Drupal Webforms",
+      "startTime": "2023-05-18T01:45:00Z",
+      "title": "Enhance User Experience with Partially Decoupled Drupal Webforms",
       "location": "Room 2",
       "track": "Web Tools \u0026 Technologies",
       "speakers": [
@@ -528,8 +528,8 @@
       ]
     },
     {
-      "startTime": "2026-05-18T01:45:00Z",
-      "summary": "Drupal for Changemakers - past, present, future",
+      "startTime": "2023-05-18T01:45:00Z",
+      "title": "Drupal for Changemakers - past, present, future",
       "location": "Room 3",
       "track": "Showcases \u0026 Project Management",
       "speakers": [
@@ -537,8 +537,8 @@
       ]
     },
     {
-      "startTime": "2026-05-18T02:45:00Z",
-      "summary": "Engineering data pipelines, but not code",
+      "startTime": "2023-05-18T02:45:00Z",
+      "title": "Engineering data pipelines, but not code",
       "location": "Main Theatre",
       "track": "Drupal Development",
       "speakers": [
@@ -546,8 +546,8 @@
       ]
     },
     {
-      "startTime": "2026-05-18T02:45:00Z",
-      "summary": "Understanding Users Better at Scale with Google Looker Studio",
+      "startTime": "2023-05-18T02:45:00Z",
+      "title": "Understanding Users Better at Scale with Google Looker Studio",
       "location": "Room 2",
       "track": "Web Tools \u0026 Technologies",
       "speakers": [
@@ -555,8 +555,8 @@
       ]
     },
     {
-      "startTime": "2026-05-18T02:45:00Z",
-      "summary": "Using Drupal for Rules as Code projects in NZ and Australia",
+      "startTime": "2023-05-18T02:45:00Z",
+      "title": "Using Drupal for Rules as Code projects in NZ and Australia",
       "location": "Room 3",
       "track": "Showcases \u0026 Project Management",
       "speakers": [
@@ -564,8 +564,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T21:15:00Z",
-      "summary": "Open Source is Dead, Long Live Open Source",
+      "startTime": "2023-05-17T21:15:00Z",
+      "title": "Open Source is Dead, Long Live Open Source",
       "location": "Main Theatre",
       "track": "Keynote",
       "speakers": [
@@ -573,8 +573,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T22:00:00Z",
-      "summary": "oad to zero friction testing - getting the most out of Drupal Testing Traits",
+      "startTime": "2023-05-17T22:00:00Z",
+      "title": "oad to zero friction testing - getting the most out of Drupal Testing Traits",
       "location": "Main Theatre",
       "track": "Drupal Development",
       "speakers": [
@@ -582,8 +582,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T22:00:00Z",
-      "summary": "Announcing the 2023 Drupal Local Development Survey Results",
+      "startTime": "2023-05-17T22:00:00Z",
+      "title": "Announcing the 2023 Drupal Local Development Survey Results",
       "location": "Room 2",
       "track": "Web Tools \u0026 Technologies",
       "speakers": [
@@ -591,8 +591,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T22:00:00Z",
-      "summary": "The Fast and the Functional: Pragma's Strategy for a Successful Website Rebuild",
+      "startTime": "2023-05-17T22:00:00Z",
+      "title": "The Fast and the Functional: Pragma's Strategy for a Successful Website Rebuild",
       "location": "Room 3",
       "track": "Showcases \u0026 Project Management",
       "speakers": [
@@ -600,8 +600,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T23:00:00Z",
-      "summary": "I thought you'd said you'd written the tests!?",
+      "startTime": "2023-05-17T23:00:00Z",
+      "title": "I thought you'd said you'd written the tests!?",
       "location": "Main Theatre",
       "track": "Drupal Development",
       "speakers": [
@@ -609,8 +609,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T23:00:00Z",
-      "summary": "Design in Figma, launch on Drupal in days, not weeks",
+      "startTime": "2023-05-17T23:00:00Z",
+      "title": "Design in Figma, launch on Drupal in days, not weeks",
       "location": "Room 2",
       "track": "Web Tools \u0026 Technologies",
       "speakers": [
@@ -618,8 +618,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T23:00:00Z",
-      "summary": "GovCMS Deep Dive into content sharing at scale",
+      "startTime": "2023-05-17T23:00:00Z",
+      "title": "GovCMS Deep Dive into content sharing at scale",
       "location": "Room 3",
       "track": "User Experience \u0026 Content",
       "speakers": [
@@ -627,8 +627,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T23:45:00Z",
-      "summary": "Uplifting content with AI: ChatGPT and NLP Cloud",
+      "startTime": "2023-05-17T23:45:00Z",
+      "title": "Uplifting content with AI: ChatGPT and NLP Cloud",
       "location": "Main Theatre",
       "track": "Web Tools \u0026 Technologies",
       "speakers": [
@@ -636,8 +636,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T23:45:00Z",
-      "summary": "SEO + Web core vitals + Drupal: a 360o view on the metrics that matter",
+      "startTime": "2023-05-17T23:45:00Z",
+      "title": "SEO + Web core vitals + Drupal: a 360o view on the metrics that matter",
       "location": "Room 2",
       "track": "User Experience \u0026 Content",
       "speakers": [
@@ -645,8 +645,8 @@
       ]
     },
     {
-      "startTime": "2026-05-17T23:45:00Z",
-      "summary": "Automate your tests so you can spend more time drinking coffee",
+      "startTime": "2023-05-17T23:45:00Z",
+      "title": "Automate your tests so you can spend more time drinking coffee",
       "location": "Room 3",
       "track": "Web Tools \u0026 Technologies",
       "speakers": [
@@ -654,8 +654,8 @@
       ]
     },
     {
-      "startTime": "2026-05-18T01:00:00Z",
-      "summary": "Next level Search API",
+      "startTime": "2023-05-18T01:00:00Z",
+      "title": "Next level Search API",
       "location": "Main Theatre",
       "track": "Drupal Development",
       "speakers": [
@@ -663,8 +663,8 @@
       ]
     },
     {
-      "startTime": "2026-05-18T01:00:00Z",
-      "summary": "A Case Study On Building A Cloud Native Platform",
+      "startTime": "2023-05-18T01:00:00Z",
+      "title": "A Case Study On Building A Cloud Native Platform",
       "location": "Room 2",
       "track": "Web Tools \u0026 Technologies",
       "speakers": [
@@ -672,8 +672,8 @@
       ]
     },
     {
-      "startTime": "2026-05-18T01:00:00Z",
-      "summary": "Tips and tricks for working with GovCMS SaaS",
+      "startTime": "2023-05-18T01:00:00Z",
+      "title": "Tips and tricks for working with GovCMS SaaS",
       "location": "Room 3",
       "track": "Drupal Development",
       "speakers": [
@@ -681,8 +681,8 @@
       ]
     },
     {
-      "startTime": "2026-05-18T01:45:00Z",
-      "summary": "Unlocking the Power of GraphQL in Drupal for Frontend Developers",
+      "startTime": "2023-05-18T01:45:00Z",
+      "title": "Unlocking the Power of GraphQL in Drupal for Frontend Developers",
       "location": "Main Theatre",
       "track": "Drupal Development",
       "speakers": [
@@ -690,8 +690,8 @@
       ]
     },
     {
-      "startTime": "2026-05-18T01:45:00Z",
-      "summary": "Enhance User Experience with Partially Decoupled Drupal Webforms",
+      "startTime": "2023-05-18T01:45:00Z",
+      "title": "Enhance User Experience with Partially Decoupled Drupal Webforms",
       "location": "Room 2",
       "track": "Web Tools \u0026 Technologies",
       "speakers": [
@@ -699,8 +699,8 @@
       ]
     },
     {
-      "startTime": "2026-05-18T01:45:00Z",
-      "summary": "Drupal for Changemakers - past, present, future",
+      "startTime": "2023-05-18T01:45:00Z",
+      "title": "Drupal for Changemakers - past, present, future",
       "location": "Room 3",
       "track": "Showcases \u0026 Project Management",
       "speakers": [
@@ -708,8 +708,8 @@
       ]
     },
     {
-      "startTime": "2026-05-18T02:45:00Z",
-      "summary": "Engineering data pipelines, but not code",
+      "startTime": "2023-05-18T02:45:00Z",
+      "title": "Engineering data pipelines, but not code",
       "location": "Main Theatre",
       "track": "Drupal Development",
       "speakers": [
@@ -717,8 +717,8 @@
       ]
     },
     {
-      "startTime": "2026-05-18T02:45:00Z",
-      "summary": "Understanding Users Better at Scale with Google Looker Studio",
+      "startTime": "2023-05-18T02:45:00Z",
+      "title": "Understanding Users Better at Scale with Google Looker Studio",
       "location": "Room 2",
       "track": "Web Tools \u0026 Technologies",
       "speakers": [
@@ -726,8 +726,8 @@
       ]
     },
     {
-      "startTime": "2026-05-18T02:45:00Z",
-      "summary": "Using Drupal for Rules as Code projects in NZ and Australia",
+      "startTime": "2023-05-18T02:45:00Z",
+      "title": "Using Drupal for Rules as Code projects in NZ and Australia",
       "location": "Room 3",
       "track": "Showcases \u0026 Project Management",
       "speakers": [

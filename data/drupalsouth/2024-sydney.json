@@ -1,20 +1,20 @@
 {
   "event": {
-    "Designation": "DrupalSouth",
-    "Location": "Sydney",
-    "Year": "2024",
-    "URL": "https://drupalsouth.org/events/drupalsouth-sydney-2024",
-    "Region": "Australia – New South Wales",
-    "EndDate": "2024-03-22T00:00:00Z",
-    "StartDate": "2024-03-20T00:00:00Z",
-    "ScheduleURL": "https://drupalsouth.org/events/drupalsouth-sydney-2024/schedule",
-    "Venue": "Sydney Masonic Centre",
-    "Timezone": "Australia/Sydney"
+    "designation": "DrupalSouth",
+    "location": "Sydney",
+    "year": "2024",
+    "website": "https://drupalsouth.org/events/drupalsouth-sydney-2024",
+    "region": "Australia – New South Wales",
+    "endDate": "2024-03-22T00:00:00Z",
+    "startDate": "2024-03-20T00:00:00Z",
+    "scheduleURL": "https://drupalsouth.org/events/drupalsouth-sydney-2024/schedule",
+    "venue": "Sydney Masonic Centre",
+    "timezone": "Australia/Sydney"
   },
   "items": [
     {
-      "startTime": "2026-03-19T22:20:00Z",
-      "summary": "The Drupal Project Update",
+      "startTime": "2024-03-19T22:20:00Z",
+      "title": "The Drupal Project Update",
       "location": "Main Ballroom",
       "track": "Keynote",
       "speakers": [
@@ -22,8 +22,8 @@
       ]
     },
     {
-      "startTime": "2026-03-19T23:15:00Z",
-      "summary": "ArtSEEker - using headless Drupal to power AI Art recognition",
+      "startTime": "2024-03-19T23:15:00Z",
+      "title": "ArtSEEker - using headless Drupal to power AI Art recognition",
       "location": "Main Ballroom",
       "track": "Drupal Development",
       "speakers": [
@@ -31,8 +31,8 @@
       ]
     },
     {
-      "startTime": "2026-03-19T23:15:00Z",
-      "summary": "To be or not to be a Technical Lead",
+      "startTime": "2024-03-19T23:15:00Z",
+      "title": "To be or not to be a Technical Lead",
       "location": "Doric",
       "track": "People \u0026 Culture",
       "speakers": [
@@ -40,8 +40,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T00:15:00Z",
-      "summary": "A Q\u0026A with Drupal Association leadership",
+      "startTime": "2024-03-20T00:15:00Z",
+      "title": "A Q\u0026A with Drupal Association leadership",
       "location": "Main Ballroom",
       "track": "People \u0026 Culture",
       "speakers": [
@@ -49,8 +49,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T00:15:00Z",
-      "summary": "A Drupal core maintainer shares peer code review best practices",
+      "startTime": "2024-03-20T00:15:00Z",
+      "title": "A Drupal core maintainer shares peer code review best practices",
       "location": "Corinthian",
       "track": "Drupal Development",
       "speakers": [
@@ -58,8 +58,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T01:15:00Z",
-      "summary": "ke upgrading easier for your module users",
+      "startTime": "2024-03-20T01:15:00Z",
+      "title": "ke upgrading easier for your module users",
       "location": "Main Ballroom",
       "track": "Drupal Development",
       "speakers": [
@@ -67,8 +67,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T01:15:00Z",
-      "summary": "Drupal and the Open Web in the Australian Government - 2024 edition",
+      "startTime": "2024-03-20T01:15:00Z",
+      "title": "Drupal and the Open Web in the Australian Government - 2024 edition",
       "location": "Corinthian",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
@@ -76,8 +76,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T02:45:00Z",
-      "summary": "ging NZ history into the future",
+      "startTime": "2024-03-20T02:45:00Z",
+      "title": "ging NZ history into the future",
       "location": "Main Ballroom",
       "track": "Drupal Development",
       "speakers": [
@@ -85,8 +85,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T02:45:00Z",
-      "summary": "Site360: Under the hood of a website health metrics tool",
+      "startTime": "2024-03-20T02:45:00Z",
+      "title": "Site360: Under the hood of a website health metrics tool",
       "location": "Corinthian",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
@@ -94,8 +94,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T02:45:00Z",
-      "summary": "New Perspectives For Design Thinking—10 ways to fail as the person designing for other people",
+      "startTime": "2024-03-20T02:45:00Z",
+      "title": "New Perspectives For Design Thinking—10 ways to fail as the person designing for other people",
       "location": "Doric",
       "track": "User Experience \u0026 Content",
       "speakers": [
@@ -103,8 +103,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T03:30:00Z",
-      "summary": "Secure, Performant, Scalable and Green: The big wins of a static Drupal website",
+      "startTime": "2024-03-20T03:30:00Z",
+      "title": "Secure, Performant, Scalable and Green: The big wins of a static Drupal website",
       "location": "Main Ballroom",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
@@ -112,8 +112,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T04:20:00Z",
-      "summary": "Delving into Website Performance: A Journey from Browser to Web Server",
+      "startTime": "2024-03-20T04:20:00Z",
+      "title": "Delving into Website Performance: A Journey from Browser to Web Server",
       "location": "Main Ballroom",
       "track": "Drupal Development",
       "speakers": [
@@ -121,8 +121,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T04:20:00Z",
-      "summary": "SS Magic: Making Web Design Fun Again!",
+      "startTime": "2024-03-20T04:20:00Z",
+      "title": "SS Magic: Making Web Design Fun Again!",
       "location": "Corinthian",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
@@ -130,8 +130,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T04:20:00Z",
-      "summary": "(Support) people are people too. Learn how to increase the odds of getting your required outcome",
+      "startTime": "2024-03-20T04:20:00Z",
+      "title": "(Support) people are people too. Learn how to increase the odds of getting your required outcome",
       "location": "Doric",
       "track": "People \u0026 Culture",
       "speakers": [
@@ -139,8 +139,8 @@
       ]
     },
     {
-      "startTime": "2026-03-19T22:20:00Z",
-      "summary": "The Drupal Project Update",
+      "startTime": "2024-03-19T22:20:00Z",
+      "title": "The Drupal Project Update",
       "location": "Main Ballroom",
       "track": "Keynote",
       "speakers": [
@@ -148,8 +148,8 @@
       ]
     },
     {
-      "startTime": "2026-03-19T23:15:00Z",
-      "summary": "ArtSEEker - using headless Drupal to power AI Art recognition",
+      "startTime": "2024-03-19T23:15:00Z",
+      "title": "ArtSEEker - using headless Drupal to power AI Art recognition",
       "location": "Main Ballroom",
       "track": "Drupal Development",
       "speakers": [
@@ -157,8 +157,8 @@
       ]
     },
     {
-      "startTime": "2026-03-19T23:15:00Z",
-      "summary": "To be or not to be a Technical Lead",
+      "startTime": "2024-03-19T23:15:00Z",
+      "title": "To be or not to be a Technical Lead",
       "location": "Doric",
       "track": "People \u0026 Culture",
       "speakers": [
@@ -166,8 +166,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T00:15:00Z",
-      "summary": "A Q\u0026A with Drupal Association leadership",
+      "startTime": "2024-03-20T00:15:00Z",
+      "title": "A Q\u0026A with Drupal Association leadership",
       "location": "Main Ballroom",
       "track": "People \u0026 Culture",
       "speakers": [
@@ -175,8 +175,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T00:15:00Z",
-      "summary": "A Drupal core maintainer shares peer code review best practices",
+      "startTime": "2024-03-20T00:15:00Z",
+      "title": "A Drupal core maintainer shares peer code review best practices",
       "location": "Corinthian",
       "track": "Drupal Development",
       "speakers": [
@@ -184,8 +184,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T01:15:00Z",
-      "summary": "ke upgrading easier for your module users",
+      "startTime": "2024-03-20T01:15:00Z",
+      "title": "ke upgrading easier for your module users",
       "location": "Main Ballroom",
       "track": "Drupal Development",
       "speakers": [
@@ -193,8 +193,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T01:15:00Z",
-      "summary": "Drupal and the Open Web in the Australian Government - 2024 edition",
+      "startTime": "2024-03-20T01:15:00Z",
+      "title": "Drupal and the Open Web in the Australian Government - 2024 edition",
       "location": "Corinthian",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
@@ -202,8 +202,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T02:45:00Z",
-      "summary": "ging NZ history into the future",
+      "startTime": "2024-03-20T02:45:00Z",
+      "title": "ging NZ history into the future",
       "location": "Main Ballroom",
       "track": "Drupal Development",
       "speakers": [
@@ -211,8 +211,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T02:45:00Z",
-      "summary": "Site360: Under the hood of a website health metrics tool",
+      "startTime": "2024-03-20T02:45:00Z",
+      "title": "Site360: Under the hood of a website health metrics tool",
       "location": "Corinthian",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
@@ -220,8 +220,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T02:45:00Z",
-      "summary": "New Perspectives For Design Thinking—10 ways to fail as the person designing for other people",
+      "startTime": "2024-03-20T02:45:00Z",
+      "title": "New Perspectives For Design Thinking—10 ways to fail as the person designing for other people",
       "location": "Doric",
       "track": "User Experience \u0026 Content",
       "speakers": [
@@ -229,8 +229,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T03:30:00Z",
-      "summary": "Secure, Performant, Scalable and Green: The big wins of a static Drupal website",
+      "startTime": "2024-03-20T03:30:00Z",
+      "title": "Secure, Performant, Scalable and Green: The big wins of a static Drupal website",
       "location": "Main Ballroom",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
@@ -238,8 +238,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T04:20:00Z",
-      "summary": "Delving into Website Performance: A Journey from Browser to Web Server",
+      "startTime": "2024-03-20T04:20:00Z",
+      "title": "Delving into Website Performance: A Journey from Browser to Web Server",
       "location": "Main Ballroom",
       "track": "Drupal Development",
       "speakers": [
@@ -247,8 +247,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T04:20:00Z",
-      "summary": "SS Magic: Making Web Design Fun Again!",
+      "startTime": "2024-03-20T04:20:00Z",
+      "title": "SS Magic: Making Web Design Fun Again!",
       "location": "Corinthian",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
@@ -256,8 +256,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T04:20:00Z",
-      "summary": "(Support) people are people too. Learn how to increase the odds of getting your required outcome",
+      "startTime": "2024-03-20T04:20:00Z",
+      "title": "(Support) people are people too. Learn how to increase the odds of getting your required outcome",
       "location": "Doric",
       "track": "People \u0026 Culture",
       "speakers": [
@@ -265,8 +265,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T22:00:00Z",
-      "summary": "eyond Buzzwords: Demystifying Diversity and Inclusion",
+      "startTime": "2024-03-20T22:00:00Z",
+      "title": "eyond Buzzwords: Demystifying Diversity and Inclusion",
       "location": "Main Ballroom",
       "track": "Keynote",
       "speakers": [
@@ -274,8 +274,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T23:00:00Z",
-      "summary": "Drupal at scale in the Australian National University",
+      "startTime": "2024-03-20T23:00:00Z",
+      "title": "Drupal at scale in the Australian National University",
       "location": "Main Ballroom",
       "track": "Drupal Development",
       "speakers": [
@@ -283,8 +283,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T23:00:00Z",
-      "summary": "Components of a component",
+      "startTime": "2024-03-20T23:00:00Z",
+      "title": "Components of a component",
       "location": "Doric",
       "track": "User Experience \u0026 Content",
       "speakers": [
@@ -292,8 +292,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T23:50:00Z",
-      "summary": "Patterns for Local Development Environment Nirvana",
+      "startTime": "2024-03-20T23:50:00Z",
+      "title": "Patterns for Local Development Environment Nirvana",
       "location": "Main Ballroom",
       "track": "Drupal Development",
       "speakers": [
@@ -301,8 +301,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T23:50:00Z",
-      "summary": "flict is Information: Listen more, learn more, do better",
+      "startTime": "2024-03-20T23:50:00Z",
+      "title": "flict is Information: Listen more, learn more, do better",
       "location": "Corinthian",
       "track": "People \u0026 Culture",
       "speakers": [
@@ -310,8 +310,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T23:50:00Z",
-      "summary": "First Time Contributors Workshop",
+      "startTime": "2024-03-20T23:50:00Z",
+      "title": "First Time Contributors Workshop",
       "location": "Doric",
       "track": "Drupal Development",
       "speakers": [
@@ -319,8 +319,8 @@
       ]
     },
     {
-      "startTime": "2026-03-21T00:45:00Z",
-      "summary": "Drupal Defence in Depth",
+      "startTime": "2024-03-21T00:45:00Z",
+      "title": "Drupal Defence in Depth",
       "location": "Main Ballroom",
       "track": "Drupal Development",
       "speakers": [
@@ -328,8 +328,8 @@
       ]
     },
     {
-      "startTime": "2026-03-21T00:45:00Z",
-      "summary": "Patches are almost dead. Long live Merge Requests!",
+      "startTime": "2024-03-21T00:45:00Z",
+      "title": "Patches are almost dead. Long live Merge Requests!",
       "location": "Corinthian",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
@@ -337,8 +337,8 @@
       ]
     },
     {
-      "startTime": "2026-03-21T00:45:00Z",
-      "summary": "Is generative AI the one UI to rule them all?",
+      "startTime": "2024-03-21T00:45:00Z",
+      "title": "Is generative AI the one UI to rule them all?",
       "location": "Doric",
       "track": "Drupal Development",
       "speakers": [
@@ -346,8 +346,8 @@
       ]
     },
     {
-      "startTime": "2026-03-21T02:15:00Z",
-      "summary": "DrupalSouth Steering Committee - Panel \u0026 Open Discussion",
+      "startTime": "2024-03-21T02:15:00Z",
+      "title": "DrupalSouth Steering Committee - Panel \u0026 Open Discussion",
       "location": "Main Ballroom",
       "track": "People \u0026 Culture",
       "speakers": [
@@ -355,8 +355,8 @@
       ]
     },
     {
-      "startTime": "2026-03-21T02:15:00Z",
-      "summary": "Turning Tragedy into Triumph: Lessons in Resilience",
+      "startTime": "2024-03-21T02:15:00Z",
+      "title": "Turning Tragedy into Triumph: Lessons in Resilience",
       "location": "Doric",
       "track": "People \u0026 Culture",
       "speakers": [
@@ -364,8 +364,8 @@
       ]
     },
     {
-      "startTime": "2026-03-21T03:00:00Z",
-      "summary": "uild Forms in Drupal using Webform",
+      "startTime": "2024-03-21T03:00:00Z",
+      "title": "uild Forms in Drupal using Webform",
       "location": "Main Ballroom",
       "track": "Drupal Development",
       "speakers": [
@@ -373,8 +373,8 @@
       ]
     },
     {
-      "startTime": "2026-03-21T04:00:00Z",
-      "summary": "Accessibility in WYSIWYG editors",
+      "startTime": "2024-03-21T04:00:00Z",
+      "title": "Accessibility in WYSIWYG editors",
       "location": "Corinthian",
       "track": "User Experience \u0026 Content",
       "speakers": [
@@ -382,8 +382,8 @@
       ]
     },
     {
-      "startTime": "2026-03-21T04:00:00Z",
-      "summary": "upal Career: A Humorous Journey in the Drupal World",
+      "startTime": "2024-03-21T04:00:00Z",
+      "title": "upal Career: A Humorous Journey in the Drupal World",
       "location": "Doric",
       "track": "People \u0026 Culture",
       "speakers": [
@@ -391,8 +391,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T22:00:00Z",
-      "summary": "eyond Buzzwords: Demystifying Diversity and Inclusion",
+      "startTime": "2024-03-20T22:00:00Z",
+      "title": "eyond Buzzwords: Demystifying Diversity and Inclusion",
       "location": "Main Ballroom",
       "track": "Keynote",
       "speakers": [
@@ -400,8 +400,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T23:00:00Z",
-      "summary": "Drupal at scale in the Australian National University",
+      "startTime": "2024-03-20T23:00:00Z",
+      "title": "Drupal at scale in the Australian National University",
       "location": "Main Ballroom",
       "track": "Drupal Development",
       "speakers": [
@@ -409,8 +409,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T23:00:00Z",
-      "summary": "Components of a component",
+      "startTime": "2024-03-20T23:00:00Z",
+      "title": "Components of a component",
       "location": "Doric",
       "track": "User Experience \u0026 Content",
       "speakers": [
@@ -418,8 +418,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T23:50:00Z",
-      "summary": "Patterns for Local Development Environment Nirvana",
+      "startTime": "2024-03-20T23:50:00Z",
+      "title": "Patterns for Local Development Environment Nirvana",
       "location": "Main Ballroom",
       "track": "Drupal Development",
       "speakers": [
@@ -427,8 +427,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T23:50:00Z",
-      "summary": "flict is Information: Listen more, learn more, do better",
+      "startTime": "2024-03-20T23:50:00Z",
+      "title": "flict is Information: Listen more, learn more, do better",
       "location": "Corinthian",
       "track": "People \u0026 Culture",
       "speakers": [
@@ -436,8 +436,8 @@
       ]
     },
     {
-      "startTime": "2026-03-20T23:50:00Z",
-      "summary": "First Time Contributors Workshop",
+      "startTime": "2024-03-20T23:50:00Z",
+      "title": "First Time Contributors Workshop",
       "location": "Doric",
       "track": "Drupal Development",
       "speakers": [
@@ -445,8 +445,8 @@
       ]
     },
     {
-      "startTime": "2026-03-21T00:45:00Z",
-      "summary": "Drupal Defence in Depth",
+      "startTime": "2024-03-21T00:45:00Z",
+      "title": "Drupal Defence in Depth",
       "location": "Main Ballroom",
       "track": "Drupal Development",
       "speakers": [
@@ -454,8 +454,8 @@
       ]
     },
     {
-      "startTime": "2026-03-21T00:45:00Z",
-      "summary": "Patches are almost dead. Long live Merge Requests!",
+      "startTime": "2024-03-21T00:45:00Z",
+      "title": "Patches are almost dead. Long live Merge Requests!",
       "location": "Corinthian",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
@@ -463,8 +463,8 @@
       ]
     },
     {
-      "startTime": "2026-03-21T00:45:00Z",
-      "summary": "Is generative AI the one UI to rule them all?",
+      "startTime": "2024-03-21T00:45:00Z",
+      "title": "Is generative AI the one UI to rule them all?",
       "location": "Doric",
       "track": "Drupal Development",
       "speakers": [
@@ -472,8 +472,8 @@
       ]
     },
     {
-      "startTime": "2026-03-21T02:15:00Z",
-      "summary": "DrupalSouth Steering Committee - Panel \u0026 Open Discussion",
+      "startTime": "2024-03-21T02:15:00Z",
+      "title": "DrupalSouth Steering Committee - Panel \u0026 Open Discussion",
       "location": "Main Ballroom",
       "track": "People \u0026 Culture",
       "speakers": [
@@ -481,8 +481,8 @@
       ]
     },
     {
-      "startTime": "2026-03-21T02:15:00Z",
-      "summary": "Turning Tragedy into Triumph: Lessons in Resilience",
+      "startTime": "2024-03-21T02:15:00Z",
+      "title": "Turning Tragedy into Triumph: Lessons in Resilience",
       "location": "Doric",
       "track": "People \u0026 Culture",
       "speakers": [
@@ -490,8 +490,8 @@
       ]
     },
     {
-      "startTime": "2026-03-21T03:00:00Z",
-      "summary": "uild Forms in Drupal using Webform",
+      "startTime": "2024-03-21T03:00:00Z",
+      "title": "uild Forms in Drupal using Webform",
       "location": "Main Ballroom",
       "track": "Drupal Development",
       "speakers": [
@@ -499,8 +499,8 @@
       ]
     },
     {
-      "startTime": "2026-03-21T04:00:00Z",
-      "summary": "Accessibility in WYSIWYG editors",
+      "startTime": "2024-03-21T04:00:00Z",
+      "title": "Accessibility in WYSIWYG editors",
       "location": "Corinthian",
       "track": "User Experience \u0026 Content",
       "speakers": [
@@ -508,8 +508,8 @@
       ]
     },
     {
-      "startTime": "2026-03-21T04:00:00Z",
-      "summary": "upal Career: A Humorous Journey in the Drupal World",
+      "startTime": "2024-03-21T04:00:00Z",
+      "title": "upal Career: A Humorous Journey in the Drupal World",
       "location": "Doric",
       "track": "People \u0026 Culture",
       "speakers": [

@@ -13,8 +13,16 @@
   },
   "items": [
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "The Drupal Project Update",
+      "startTime": "",
+      "title": "Apple Maps",
+      "location": "",
+      "link": "https://maps.apple.com/place?address=93+Cuba+St%2C+Te+Aro%2C+Wellington+6011%2C+New+Zealand\u0026coordinate=-41.2921403%2C174.7765393\u0026name=93+Cuba+St",
+      "track": "\n💻 Code Contribution SprintVenue: 93E Cuba St, Te Aro.\nGoogle Maps \n",
+      "speakers": null
+    },
+    {
+      "startTime": "2026-05-12T21:20:00Z",
+      "title": "The Drupal Project Update",
       "location": "Main Ballroom",
       "track": "Keynote",
       "speakers": [
@@ -22,8 +30,8 @@
       ]
     },
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "Bots, Scrapers, and Proxies: Defending Drupal Sites in an Automated Internet",
+      "startTime": "2026-05-12T22:10:00Z",
+      "title": "Bots, Scrapers, and Proxies: Defending Drupal Sites in an Automated Internet",
       "location": "Room 1",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
@@ -31,8 +39,8 @@
       ]
     },
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "To be or not to be a Technical Lead",
+      "startTime": "2026-05-12T22:15:00Z",
+      "title": "To be or not to be a Technical Lead",
       "location": "Doric",
       "track": "People \u0026 Culture",
       "speakers": [
@@ -40,8 +48,8 @@
       ]
     },
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "A Q\u0026A with Drupal Association leadership",
+      "startTime": "2026-05-12T23:15:00Z",
+      "title": "A Q\u0026A with Drupal Association leadership",
       "location": "Main Ballroom",
       "track": "People \u0026 Culture",
       "speakers": [
@@ -49,8 +57,8 @@
       ]
     },
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "A Drupal core maintainer shares peer code review best practices",
+      "startTime": "2026-05-12T23:15:00Z",
+      "title": "A Drupal core maintainer shares peer code review best practices",
       "location": "Corinthian",
       "track": "Drupal Development",
       "speakers": [
@@ -58,8 +66,8 @@
       ]
     },
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "ke upgrading easier for your module users",
+      "startTime": "2026-05-13T00:15:00Z",
+      "title": "ke upgrading easier for your module users",
       "location": "Main Ballroom",
       "track": "Drupal Development",
       "speakers": [
@@ -67,8 +75,8 @@
       ]
     },
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "Drupal and the Open Web in the Australian Government - 2024 edition",
+      "startTime": "2026-05-13T00:15:00Z",
+      "title": "Drupal and the Open Web in the Australian Government - 2024 edition",
       "location": "Corinthian",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
@@ -76,8 +84,8 @@
       ]
     },
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "ging NZ history into the future",
+      "startTime": "2026-05-13T01:45:00Z",
+      "title": "ging NZ history into the future",
       "location": "Main Ballroom",
       "track": "Drupal Development",
       "speakers": [
@@ -85,8 +93,8 @@
       ]
     },
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "Site360: Under the hood of a website health metrics tool",
+      "startTime": "2026-05-13T01:45:00Z",
+      "title": "Site360: Under the hood of a website health metrics tool",
       "location": "Corinthian",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
@@ -94,8 +102,8 @@
       ]
     },
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "New Perspectives For Design Thinking—10 ways to fail as the person designing for other people",
+      "startTime": "2026-05-13T01:45:00Z",
+      "title": "New Perspectives For Design Thinking—10 ways to fail as the person designing for other people",
       "location": "Doric",
       "track": "User Experience \u0026 Content",
       "speakers": [
@@ -103,8 +111,8 @@
       ]
     },
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "Secure, Performant, Scalable and Green: The big wins of a static Drupal website",
+      "startTime": "2026-05-13T02:30:00Z",
+      "title": "Secure, Performant, Scalable and Green: The big wins of a static Drupal website",
       "location": "Main Ballroom",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
@@ -112,8 +120,8 @@
       ]
     },
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "Delving into Website Performance: A Journey from Browser to Web Server",
+      "startTime": "2026-05-13T03:20:00Z",
+      "title": "Delving into Website Performance: A Journey from Browser to Web Server",
       "location": "Main Ballroom",
       "track": "Drupal Development",
       "speakers": [
@@ -121,8 +129,8 @@
       ]
     },
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "SS Magic: Making Web Design Fun Again!",
+      "startTime": "2026-05-13T03:20:00Z",
+      "title": "SS Magic: Making Web Design Fun Again!",
       "location": "Corinthian",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
@@ -130,8 +138,8 @@
       ]
     },
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "(Support) people are people too. Learn how to increase the odds of getting your required outcome",
+      "startTime": "2026-05-13T03:20:00Z",
+      "title": "(Support) people are people too. Learn how to increase the odds of getting your required outcome",
       "location": "Doric",
       "track": "People \u0026 Culture",
       "speakers": [
@@ -139,8 +147,8 @@
       ]
     },
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "The Drupal Project Update",
+      "startTime": "2026-05-12T21:20:00Z",
+      "title": "The Drupal Project Update",
       "location": "Main Ballroom",
       "track": "Keynote",
       "speakers": [
@@ -148,8 +156,8 @@
       ]
     },
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "Bots, Scrapers, and Proxies: Defending Drupal Sites in an Automated Internet",
+      "startTime": "2026-05-12T22:10:00Z",
+      "title": "Bots, Scrapers, and Proxies: Defending Drupal Sites in an Automated Internet",
       "location": "Room 1",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
@@ -157,8 +165,8 @@
       ]
     },
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "To be or not to be a Technical Lead",
+      "startTime": "2026-05-12T22:15:00Z",
+      "title": "To be or not to be a Technical Lead",
       "location": "Doric",
       "track": "People \u0026 Culture",
       "speakers": [
@@ -166,8 +174,8 @@
       ]
     },
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "A Q\u0026A with Drupal Association leadership",
+      "startTime": "2026-05-12T23:15:00Z",
+      "title": "A Q\u0026A with Drupal Association leadership",
       "location": "Main Ballroom",
       "track": "People \u0026 Culture",
       "speakers": [
@@ -175,8 +183,8 @@
       ]
     },
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "A Drupal core maintainer shares peer code review best practices",
+      "startTime": "2026-05-12T23:15:00Z",
+      "title": "A Drupal core maintainer shares peer code review best practices",
       "location": "Corinthian",
       "track": "Drupal Development",
       "speakers": [
@@ -184,8 +192,8 @@
       ]
     },
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "ke upgrading easier for your module users",
+      "startTime": "2026-05-13T00:15:00Z",
+      "title": "ke upgrading easier for your module users",
       "location": "Main Ballroom",
       "track": "Drupal Development",
       "speakers": [
@@ -193,8 +201,8 @@
       ]
     },
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "Drupal and the Open Web in the Australian Government - 2024 edition",
+      "startTime": "2026-05-13T00:15:00Z",
+      "title": "Drupal and the Open Web in the Australian Government - 2024 edition",
       "location": "Corinthian",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
@@ -202,8 +210,8 @@
       ]
     },
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "ging NZ history into the future",
+      "startTime": "2026-05-13T01:45:00Z",
+      "title": "ging NZ history into the future",
       "location": "Main Ballroom",
       "track": "Drupal Development",
       "speakers": [
@@ -211,8 +219,8 @@
       ]
     },
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "Site360: Under the hood of a website health metrics tool",
+      "startTime": "2026-05-13T01:45:00Z",
+      "title": "Site360: Under the hood of a website health metrics tool",
       "location": "Corinthian",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
@@ -220,8 +228,8 @@
       ]
     },
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "New Perspectives For Design Thinking—10 ways to fail as the person designing for other people",
+      "startTime": "2026-05-13T01:45:00Z",
+      "title": "New Perspectives For Design Thinking—10 ways to fail as the person designing for other people",
       "location": "Doric",
       "track": "User Experience \u0026 Content",
       "speakers": [
@@ -229,8 +237,8 @@
       ]
     },
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "Secure, Performant, Scalable and Green: The big wins of a static Drupal website",
+      "startTime": "2026-05-13T02:30:00Z",
+      "title": "Secure, Performant, Scalable and Green: The big wins of a static Drupal website",
       "location": "Main Ballroom",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
@@ -238,8 +246,8 @@
       ]
     },
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "Delving into Website Performance: A Journey from Browser to Web Server",
+      "startTime": "2026-05-13T03:20:00Z",
+      "title": "Delving into Website Performance: A Journey from Browser to Web Server",
       "location": "Main Ballroom",
       "track": "Drupal Development",
       "speakers": [
@@ -247,8 +255,8 @@
       ]
     },
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "SS Magic: Making Web Design Fun Again!",
+      "startTime": "2026-05-13T03:20:00Z",
+      "title": "SS Magic: Making Web Design Fun Again!",
       "location": "Corinthian",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
@@ -256,8 +264,8 @@
       ]
     },
     {
-      "startTime": "0001-01-01T00:00:00Z",
-      "summary": "(Support) people are people too. Learn how to increase the odds of getting your required outcome",
+      "startTime": "2026-05-13T03:20:00Z",
+      "title": "(Support) people are people too. Learn how to increase the odds of getting your required outcome",
       "location": "Doric",
       "track": "People \u0026 Culture",
       "speakers": [
