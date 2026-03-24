@@ -35,8 +35,11 @@
     },
     {
       "startTime": "2025-03-11T22:20:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Humanizing technology",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3643",
       "track": "Keynote",
       "speakers": [
         "Nicola Ny"
@@ -44,8 +47,11 @@
     },
     {
       "startTime": "2025-03-11T23:15:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Varnish for Drupal developers [40 mins]",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3730",
       "track": "Drupal Development",
       "speakers": [
         "Thijs Feryn"
@@ -53,8 +59,11 @@
     },
     {
       "startTime": "2025-03-11T23:15:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Takeaways from teaching Drupal in college",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3563",
       "track": "People \u0026 Culture",
       "speakers": [
         "Vladimir Roudakov"
@@ -62,8 +71,11 @@
     },
     {
       "startTime": "2025-03-11T23:15:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Dude, where's my users?",
       "location": "Swinburne",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3508",
       "track": "User Experience \u0026 Content",
       "speakers": [
         "Emily Mills"
@@ -71,8 +83,11 @@
     },
     {
       "startTime": "2025-03-12T00:15:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Ready, Set, Drupal: Simplifying Development with Feature Recipes",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3475",
       "track": "Drupal Development",
       "speakers": [
         "Richard Gaunt"
@@ -80,8 +95,11 @@
     },
     {
       "startTime": "2025-03-12T00:15:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Automating Attendance: How Georgia Tech Built an RFID Check-In System in Drupal",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3477",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Jimmy Kriigel"
@@ -89,8 +107,11 @@
     },
     {
       "startTime": "2025-03-12T00:15:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "How inclusive can your documents get?",
       "location": "Swinburne",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3515",
       "track": "User Experience \u0026 Content",
       "speakers": [
         "Adrian Redman"
@@ -98,8 +119,11 @@
     },
     {
       "startTime": "2025-03-12T01:15:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Building the experience builder experience",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3481",
       "track": "Drupal Development",
       "speakers": [
         "Lee Rowlands"
@@ -107,8 +131,11 @@
     },
     {
       "startTime": "2025-03-12T01:15:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Managing emergencies with cutting edge technology",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3505",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Nigel Cunningham"
@@ -116,8 +143,11 @@
     },
     {
       "startTime": "2025-03-12T01:15:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "AX: Turning your B2B tech strategy into content that converts",
       "location": "Swinburne",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3493",
       "track": "User Experience \u0026 Content",
       "speakers": [
         "Felicity Brand"
@@ -125,8 +155,11 @@
     },
     {
       "startTime": "2025-03-12T02:45:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Avoiding CSS crime scenes - practical tips for maintainable styles.",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3512",
       "track": "Drupal Development",
       "speakers": [
         "Tina Reymann"
@@ -134,8 +167,11 @@
     },
     {
       "startTime": "2025-03-12T02:45:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Automated AI Testing with Postman",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3556",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Michelle Parker"
@@ -143,8 +179,11 @@
     },
     {
       "startTime": "2025-03-12T02:45:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Writing for Australian Government websites",
       "location": "Swinburne",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3525",
       "track": "User Experience \u0026 Content",
       "speakers": [
         "Amber Henry"
@@ -152,8 +191,11 @@
     },
     {
       "startTime": "2025-03-12T03:30:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Building Workflows into Drupal Webforms: A Practical Guide",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3527",
       "track": "Drupal Development",
       "speakers": [
         "Philip Joseph"
@@ -161,8 +203,11 @@
     },
     {
       "startTime": "2025-03-12T03:30:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Drupal and the Open Web in the Australian Government - 2025 edition",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3559",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Sean Hamlin"
@@ -170,8 +215,11 @@
     },
     {
       "startTime": "2025-03-12T04:20:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Drupal \u0026 Firebase: Real-time Config \u0026 Content for Android \u0026 iOS Apps",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3469",
       "track": "Drupal Development",
       "speakers": [
         "Daynis Olman"
@@ -179,8 +227,11 @@
     },
     {
       "startTime": "2025-03-12T04:20:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Lead, Manage, Succeed: From Technical Lead to Drupal Project Manager",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3518",
       "track": "People \u0026 Culture",
       "speakers": [
         "David Flores-Condez"
@@ -188,8 +239,11 @@
     },
     {
       "startTime": "2025-03-11T22:20:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Humanizing technology",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3643",
       "track": "Keynote",
       "speakers": [
         "Nicola Ny"
@@ -197,8 +251,11 @@
     },
     {
       "startTime": "2025-03-11T23:15:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Varnish for Drupal developers [40 mins]",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3730",
       "track": "Drupal Development",
       "speakers": [
         "Thijs Feryn"
@@ -206,8 +263,11 @@
     },
     {
       "startTime": "2025-03-11T23:15:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Takeaways from teaching Drupal in college",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3563",
       "track": "People \u0026 Culture",
       "speakers": [
         "Vladimir Roudakov"
@@ -215,8 +275,11 @@
     },
     {
       "startTime": "2025-03-11T23:15:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Dude, where's my users?",
       "location": "Swinburne",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3508",
       "track": "User Experience \u0026 Content",
       "speakers": [
         "Emily Mills"
@@ -224,8 +287,11 @@
     },
     {
       "startTime": "2025-03-12T00:15:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Ready, Set, Drupal: Simplifying Development with Feature Recipes",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3475",
       "track": "Drupal Development",
       "speakers": [
         "Richard Gaunt"
@@ -233,8 +299,11 @@
     },
     {
       "startTime": "2025-03-12T00:15:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Automating Attendance: How Georgia Tech Built an RFID Check-In System in Drupal",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3477",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Jimmy Kriigel"
@@ -242,8 +311,11 @@
     },
     {
       "startTime": "2025-03-12T00:15:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "How inclusive can your documents get?",
       "location": "Swinburne",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3515",
       "track": "User Experience \u0026 Content",
       "speakers": [
         "Adrian Redman"
@@ -251,8 +323,11 @@
     },
     {
       "startTime": "2025-03-12T01:15:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Building the experience builder experience",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3481",
       "track": "Drupal Development",
       "speakers": [
         "Lee Rowlands"
@@ -260,8 +335,11 @@
     },
     {
       "startTime": "2025-03-12T01:15:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Managing emergencies with cutting edge technology",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3505",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Nigel Cunningham"
@@ -269,8 +347,11 @@
     },
     {
       "startTime": "2025-03-12T01:15:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "AX: Turning your B2B tech strategy into content that converts",
       "location": "Swinburne",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3493",
       "track": "User Experience \u0026 Content",
       "speakers": [
         "Felicity Brand"
@@ -278,8 +359,11 @@
     },
     {
       "startTime": "2025-03-12T02:45:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Avoiding CSS crime scenes - practical tips for maintainable styles.",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3512",
       "track": "Drupal Development",
       "speakers": [
         "Tina Reymann"
@@ -287,8 +371,11 @@
     },
     {
       "startTime": "2025-03-12T02:45:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Automated AI Testing with Postman",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3556",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Michelle Parker"
@@ -296,8 +383,11 @@
     },
     {
       "startTime": "2025-03-12T02:45:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Writing for Australian Government websites",
       "location": "Swinburne",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3525",
       "track": "User Experience \u0026 Content",
       "speakers": [
         "Amber Henry"
@@ -305,8 +395,11 @@
     },
     {
       "startTime": "2025-03-12T03:30:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Building Workflows into Drupal Webforms: A Practical Guide",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3527",
       "track": "Drupal Development",
       "speakers": [
         "Philip Joseph"
@@ -314,8 +407,11 @@
     },
     {
       "startTime": "2025-03-12T03:30:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Drupal and the Open Web in the Australian Government - 2025 edition",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3559",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Sean Hamlin"
@@ -323,8 +419,11 @@
     },
     {
       "startTime": "2025-03-12T04:20:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Drupal \u0026 Firebase: Real-time Config \u0026 Content for Android \u0026 iOS Apps",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3469",
       "track": "Drupal Development",
       "speakers": [
         "Daynis Olman"
@@ -332,8 +431,11 @@
     },
     {
       "startTime": "2025-03-12T04:20:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Lead, Manage, Succeed: From Technical Lead to Drupal Project Manager",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3518",
       "track": "People \u0026 Culture",
       "speakers": [
         "David Flores-Condez"
@@ -341,8 +443,11 @@
     },
     {
       "startTime": "2025-03-12T23:00:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Transforming Drupal data workflows: An in-depth look at Data Pipelines and Search API",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3530",
       "track": "Drupal Development",
       "speakers": [
         "Brynn Briedis"
@@ -350,8 +455,11 @@
     },
     {
       "startTime": "2025-03-12T23:00:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Building a Versatile Design System for Pacific Data Hub: Bridging Drupal Themes and Headless Frontends",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3565",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Rox Flam"
@@ -359,8 +467,11 @@
     },
     {
       "startTime": "2025-03-12T23:00:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Mindful connections: enhancing mental health awareness in a remote work culture",
       "location": "Swinburne",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3553",
       "track": "People \u0026 Culture",
       "speakers": [
         "Angela Rak"
@@ -368,8 +479,11 @@
     },
     {
       "startTime": "2025-03-12T23:50:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Launch your design system into hyperdrive with Starshot's Experience Builder",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3542",
       "track": "User Experience \u0026 Content",
       "speakers": [
         "Akhil Bhandari"
@@ -377,8 +491,11 @@
     },
     {
       "startTime": "2025-03-12T23:50:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Hashes and Nonces and Violations, Oh My! Everything you need to know about Content Security Policy (CSP)",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3513",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Michael Strelan"
@@ -386,8 +503,11 @@
     },
     {
       "startTime": "2025-03-12T23:50:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Let's bring new people to Drupal!",
       "location": "Swinburne",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3571",
       "track": "People \u0026 Culture",
       "speakers": [
         "Daniel Carvalhinh"
@@ -395,8 +515,11 @@
     },
     {
       "startTime": "2025-03-13T00:30:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "My journey to becoming a Core maintainer [Lightning talk]",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3483",
       "track": "Drupal Development",
       "speakers": [
         "Daniel Veza"
@@ -404,8 +527,11 @@
     },
     {
       "startTime": "2025-03-13T00:30:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Using generative tools to assist with software development [Lightning talk]",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3482",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Vladimir Roudakov"
@@ -413,8 +539,11 @@
     },
     {
       "startTime": "2025-03-13T00:30:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Forming an AI strategy for a digital agency",
       "location": "Swinburne",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3544",
       "track": "People \u0026 Culture",
       "speakers": [
         "Kurt Foster"
@@ -422,8 +551,11 @@
     },
     {
       "startTime": "2025-03-13T00:45:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Object Oriented theming with Pinto [Lightning talk]",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3572",
       "track": "Drupal Development",
       "speakers": [
         "Adam Bramley"
@@ -431,8 +563,11 @@
     },
     {
       "startTime": "2025-03-13T00:45:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "The Pygmy Stack: The Little Docker Helper Tool That Could [Lightning talk]",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3531",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Karl Hepworth"
@@ -440,8 +575,11 @@
     },
     {
       "startTime": "2025-03-13T02:00:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "How Drupal Plays Its Role in Modern Enterprise Digital Architecture",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3567",
       "track": "Drupal Development",
       "speakers": [
         "Weynham Zheng"
@@ -449,8 +587,11 @@
     },
     {
       "startTime": "2025-03-13T02:00:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Setup projects and onboard developers in minutes with Vortex",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3536",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Alex Skrypnyk"
@@ -458,8 +599,11 @@
     },
     {
       "startTime": "2025-03-13T02:40:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Making a splash with an accessible, consistent design system",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3510",
       "track": "User Experience \u0026 Content",
       "speakers": [
         "Melissa Coombs",
@@ -468,8 +612,11 @@
     },
     {
       "startTime": "2025-03-13T02:40:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Drupal F1 Trivia with Salsa Digital – Test Your Knowledge \u0026 Win Prizes!",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3782",
       "track": "Sponsor session",
       "speakers": [
         "Akhil Bhandari"
@@ -477,8 +624,11 @@
     },
     {
       "startTime": "2025-03-13T02:40:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "per-charging Drupal and GovCMS with ethical personalisation and content powered by Salesforce",
       "location": "Swinburne",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3498",
       "track": "User Experience \u0026 Content",
       "speakers": [
         "Chris Dodds"
@@ -486,8 +636,11 @@
     },
     {
       "startTime": "2025-03-13T03:30:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Building digital experiences that align to Digital Service Standards",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3550",
       "track": "User Experience \u0026 Content",
       "speakers": [
         "Paul Morriss"
@@ -495,8 +648,11 @@
     },
     {
       "startTime": "2025-03-13T03:30:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "How we modernised our frontend tooling using Vite and Storybook",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3526",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Jack Tarant"
@@ -504,8 +660,11 @@
     },
     {
       "startTime": "2025-03-13T03:30:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Two Suppliers, One Team: A case study on a collaborative Drupal project in the Digital Transformation of Catholic Schools NSW",
       "location": "Swinburne",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3491",
       "track": "People \u0026 Culture",
       "speakers": [
         "Griffyn Heels",
@@ -514,8 +673,11 @@
     },
     {
       "startTime": "2025-03-13T04:10:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Unlocking GovCMS Personalization: Custom Metatags and Convivial Profiler in Action",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3564",
       "track": "User Experience \u0026 Content",
       "speakers": [
         "Naveen Valecha"
@@ -523,8 +685,11 @@
     },
     {
       "startTime": "2025-03-13T04:10:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Deep Telemetry with eBPF and Rust",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3484",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Nick Schuch"
@@ -532,8 +697,11 @@
     },
     {
       "startTime": "2025-03-13T04:10:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Turning rules and legislation into interactive digital experiences",
       "location": "Swinburne",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3540",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Phillipa Martin"
@@ -541,8 +709,11 @@
     },
     {
       "startTime": "2025-03-12T23:00:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Transforming Drupal data workflows: An in-depth look at Data Pipelines and Search API",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3530",
       "track": "Drupal Development",
       "speakers": [
         "Brynn Briedis"
@@ -550,8 +721,11 @@
     },
     {
       "startTime": "2025-03-12T23:00:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Building a Versatile Design System for Pacific Data Hub: Bridging Drupal Themes and Headless Frontends",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3565",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Rox Flam"
@@ -559,8 +733,11 @@
     },
     {
       "startTime": "2025-03-12T23:00:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Mindful connections: enhancing mental health awareness in a remote work culture",
       "location": "Swinburne",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3553",
       "track": "People \u0026 Culture",
       "speakers": [
         "Angela Rak"
@@ -568,8 +745,11 @@
     },
     {
       "startTime": "2025-03-12T23:50:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Launch your design system into hyperdrive with Starshot's Experience Builder",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3542",
       "track": "User Experience \u0026 Content",
       "speakers": [
         "Akhil Bhandari"
@@ -577,8 +757,11 @@
     },
     {
       "startTime": "2025-03-12T23:50:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Hashes and Nonces and Violations, Oh My! Everything you need to know about Content Security Policy (CSP)",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3513",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Michael Strelan"
@@ -586,8 +769,11 @@
     },
     {
       "startTime": "2025-03-12T23:50:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Let's bring new people to Drupal!",
       "location": "Swinburne",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3571",
       "track": "People \u0026 Culture",
       "speakers": [
         "Daniel Carvalhinh"
@@ -595,8 +781,11 @@
     },
     {
       "startTime": "2025-03-13T00:30:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "My journey to becoming a Core maintainer [Lightning talk]",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3483",
       "track": "Drupal Development",
       "speakers": [
         "Daniel Veza"
@@ -604,8 +793,11 @@
     },
     {
       "startTime": "2025-03-13T00:30:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Using generative tools to assist with software development [Lightning talk]",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3482",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Vladimir Roudakov"
@@ -613,8 +805,11 @@
     },
     {
       "startTime": "2025-03-13T00:30:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Forming an AI strategy for a digital agency",
       "location": "Swinburne",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3544",
       "track": "People \u0026 Culture",
       "speakers": [
         "Kurt Foster"
@@ -622,8 +817,11 @@
     },
     {
       "startTime": "2025-03-13T00:45:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Object Oriented theming with Pinto [Lightning talk]",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3572",
       "track": "Drupal Development",
       "speakers": [
         "Adam Bramley"
@@ -631,8 +829,11 @@
     },
     {
       "startTime": "2025-03-13T00:45:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "The Pygmy Stack: The Little Docker Helper Tool That Could [Lightning talk]",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3531",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Karl Hepworth"
@@ -640,8 +841,11 @@
     },
     {
       "startTime": "2025-03-13T02:00:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "How Drupal Plays Its Role in Modern Enterprise Digital Architecture",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3567",
       "track": "Drupal Development",
       "speakers": [
         "Weynham Zheng"
@@ -649,8 +853,11 @@
     },
     {
       "startTime": "2025-03-13T02:00:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Setup projects and onboard developers in minutes with Vortex",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3536",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Alex Skrypnyk"
@@ -658,8 +865,11 @@
     },
     {
       "startTime": "2025-03-13T02:40:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Making a splash with an accessible, consistent design system",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3510",
       "track": "User Experience \u0026 Content",
       "speakers": [
         "Melissa Coombs",
@@ -668,8 +878,11 @@
     },
     {
       "startTime": "2025-03-13T02:40:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Drupal F1 Trivia with Salsa Digital – Test Your Knowledge \u0026 Win Prizes!",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3782",
       "track": "Sponsor session",
       "speakers": [
         "Akhil Bhandari"
@@ -677,8 +890,11 @@
     },
     {
       "startTime": "2025-03-13T02:40:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "per-charging Drupal and GovCMS with ethical personalisation and content powered by Salesforce",
       "location": "Swinburne",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3498",
       "track": "User Experience \u0026 Content",
       "speakers": [
         "Chris Dodds"
@@ -686,8 +902,11 @@
     },
     {
       "startTime": "2025-03-13T03:30:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Building digital experiences that align to Digital Service Standards",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3550",
       "track": "User Experience \u0026 Content",
       "speakers": [
         "Paul Morriss"
@@ -695,8 +914,11 @@
     },
     {
       "startTime": "2025-03-13T03:30:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "How we modernised our frontend tooling using Vite and Storybook",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3526",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Jack Tarant"
@@ -704,8 +926,11 @@
     },
     {
       "startTime": "2025-03-13T03:30:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Two Suppliers, One Team: A case study on a collaborative Drupal project in the Digital Transformation of Catholic Schools NSW",
       "location": "Swinburne",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3491",
       "track": "People \u0026 Culture",
       "speakers": [
         "Griffyn Heels",
@@ -714,8 +939,11 @@
     },
     {
       "startTime": "2025-03-13T04:10:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Unlocking GovCMS Personalization: Custom Metatags and Convivial Profiler in Action",
       "location": "Cinema 1",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3564",
       "track": "User Experience \u0026 Content",
       "speakers": [
         "Naveen Valecha"
@@ -723,8 +951,11 @@
     },
     {
       "startTime": "2025-03-13T04:10:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Deep Telemetry with eBPF and Rust",
       "location": "Cinema 2",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3484",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Nick Schuch"
@@ -732,8 +963,11 @@
     },
     {
       "startTime": "2025-03-13T04:10:00Z",
+      "endTime": "0001-01-01T00:00:00Z",
+      "duration": "P",
       "title": "Turning rules and legislation into interactive digital experiences",
       "location": "Swinburne",
+      "link": "https://drupalsouth.org//events/drupalsouth-melbourne-2025/schedule/3540",
       "track": "Web Tools \u0026 Complementary Technologies",
       "speakers": [
         "Phillipa Martin"
